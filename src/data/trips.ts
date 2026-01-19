@@ -5,33 +5,27 @@
 interface Trip {
   slug: string;
   title: string;
-  subtitle: string;
 }
 
 export const trips: Trip[] = [
   {
     slug: "estonia",
     title: "Estonia",
-    subtitle: "Baltic Adventure 2026",
   },
   {
     slug: "porto",
     title: "Porto by Train",
-    subtitle: "Leeds to Porto 2026",
   },
   {
     slug: "slovenia",
     title: "Slovenia",
-    subtitle: "Ljubljana 2026",
   },
   {
     slug: "australia",
     title: "Colin in Australia",
-    subtitle: "Australian Adventure",
   },
   {
     slug: "asia",
     title: "Southeast Asia",
-    subtitle: "Asia Sabbatical 2027",
   },
 ];

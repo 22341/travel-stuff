@@ -65,7 +65,6 @@ travel-react/
 {
   slug: 'your-slug',      // Used for URL and markdown filename
   title: 'Trip Title',    // Displayed on card
-  subtitle: 'Description' // Optional subtitle
 }
 ```
 
