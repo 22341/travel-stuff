@@ -13,7 +13,7 @@
 
 Your Slovenian adventure begins with an early afternoon train journey from Leeds to Manchester Piccadilly, departing around 2pm and taking approximately 1 hour 30 minutes (£10). Arriving in Manchester by mid-afternoon, you'll have plenty of time to check into your hotel and spend the evening exploring the vibrant city centre and the trendy Northern Quarter, known for its independent restaurants, bars, and lively atmosphere. Enjoy dinner and drinks before getting an early night ahead of tomorrow's flight.
 
-**Overnight:** Motel One Manchester-Piccadilly - £61
+**Overnight:** [Motel One Manchester-Piccadilly](https://www.booking.com/hotel/gb/motel-one-manchester-piccadilly.en-gb.html) - £61
 
 ---
 
@@ -23,7 +23,7 @@ Your Slovenian adventure begins with an early afternoon train journey from Leeds
 
 An early start this morning with a 6:10am flight from Manchester Airport to Ljubljana (£58). After a comfortable 2 hour 30 minute flight, you'll arrive in Slovenia's charming capital around 9:40am local time. Transfer to your apartment and spend the afternoon settling in and taking your first stroll through Ljubljana's beautiful Old Town. The compact city centre is wonderfully walkable, with the Ljubljanica River flowing through its heart, crossed by elegant bridges and lined with outdoor cafés.
 
-**Accommodation:** ibis Styles Ljubljana Centre - €65/night (£56) - 4 nights
+**Accommodation:** [ibis Styles Ljubljana Centre](https://www.booking.com/hotel/si/garni.html) - €65/night (£56) - 4 nights
 
 ---
 
@@ -92,7 +92,7 @@ Your final morning in Ljubljana - perhaps a last stroll through the Old Town or 
 - **Total Transportation: £136.00**
 
 ### Core Trip Costs
-**Accommodation + Transportation: £462.24**
+**Accommodation + Transportation: £421.00**
 
 ### Additional Estimated Costs
 - **Meals & Drinks:** £100/day = £500 (5 days)
