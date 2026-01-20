@@ -1,6 +1,6 @@
-import { Routes, Route } from 'react-router-dom'
-import Home from './pages/Home'
-import Itinerary from './pages/Itinerary'
+import { Routes, Route } from "react-router-dom";
+import Home from "./pages/Home";
+import Itinerary from "./pages/Itinerary";
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
       <Route path="/" element={<Home />} />
       <Route path="/:slug" element={<Itinerary />} />
     </Routes>
-  )
+  );
 }
 
-export default App
+export default App;

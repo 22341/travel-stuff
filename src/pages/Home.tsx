@@ -1,5 +1,5 @@
-import { Link } from 'react-router-dom'
-import { trips } from '../data/trips'
+import { Link } from "react-router-dom";
+import { trips } from "../data/trips";
 
 function Home() {
   return (
@@ -7,7 +7,9 @@ function Home() {
       <div className="container">
         <div className="home-heading">
           <h1>✈️ Travel Itineraries</h1>
-          <p className="subtitle">Choose a destination to view the full itinerary</p>
+          <p className="subtitle">
+            Choose a destination to view the full itinerary
+          </p>
         </div>
 
         <div className="trip-grid">
@@ -20,7 +22,7 @@ function Home() {
         </div>
       </div>
     </div>
-  )
+  );
 }
 
-export default Home
+export default Home;
