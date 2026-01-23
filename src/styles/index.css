@@ -28,7 +28,8 @@ body {
   padding: 4rem 0;
 }
 
-.home-heading {
+.home-heading,
+.year-heading {
   text-align: center;
 }
 
@@ -39,9 +40,17 @@ h1 {
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
 }
 
+h2 {
+  color: white;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
 .subtitle {
   color: rgba(255, 255, 255, 0.9);
   font-size: 1.2rem;
+  margin-bottom: 4rem;
 }
 
 .trip-grid {
@@ -50,7 +59,7 @@ h1 {
   gap: 2rem;
   width: 100%;
   max-width: 750px;
-  margin: 6rem auto;
+  margin: 3rem auto 5rem;
 }
 
 .trip-card {
@@ -212,6 +221,10 @@ h1 {
     font-size: 1.5rem;
   }
 
+  h2 {
+    font-size: 1.3rem;
+  }
+
   .subtitle {
     font-size: 1rem;
     margin-bottom: 2rem;
@@ -220,7 +233,7 @@ h1 {
   .trip-grid {
     grid-template-columns: 1fr;
     gap: 1rem;
-    margin: 0 auto;
+    margin: 0 auto 2rem;
   }
 
   .trip-card {
