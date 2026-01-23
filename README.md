@@ -42,18 +42,18 @@ travel-react/
 │       └── slovenia.md
 ├── src/
 │   ├── data/
-│   │   └── trips.js        # Trip configuration
+│   │   └── trips.ts        # Trip configuration
 │   ├── pages/
-│   │   ├── Home.jsx        # Homepage with trip grid
-│   │   └── Itinerary.jsx   # Individual trip page
+│   │   ├── Home.tsx        # Homepage with trip grid
+│   │   └── Itinerary.tsx   # Individual trip page
 │   ├── styles/
 │   │   └── index.css       # Main styles
-│   ├── App.jsx             # Router setup
-│   └── main.jsx            # Entry point
+│   ├── App.tsx             # Router setup
+│   └── main.tsx            # Entry point
 ├── index.html
 ├── package.json
 ├── vercel.json             # Vercel SPA routing config
-└── vite.config.js
+└── vite.config.ts
 ```
 
 ## Adding a New Trip
