@@ -59,12 +59,13 @@ travel-react/
 ## Adding a New Trip
 
 1. Add your markdown file to `public/itineraries/{slug}.md`
-2. Add the trip config to `src/data/trips.js`:
+2. Add the trip config to `src/data/trips.ts`:
 
-```js
+```ts
 {
   slug: 'your-slug',      // Used for URL and markdown filename
   title: 'Trip Title',    // Displayed on card
+  year: 2026,             // Year of the trip (used for grouping)
 }
 ```
 
