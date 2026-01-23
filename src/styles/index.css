@@ -59,13 +59,13 @@ h2 {
   gap: 2rem;
   width: 100%;
   max-width: 750px;
-  margin: 3rem auto 5rem;
+  margin: 2rem auto 4.5rem;
 }
 
 .trip-card {
   background: white;
   border-radius: 12px;
-  padding: 2rem;
+  padding: 1.5rem;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
   transition:
     transform 0.3s ease,
