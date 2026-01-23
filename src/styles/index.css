@@ -90,6 +90,7 @@ h2 {
 .trip-card .arrow {
   color: #764ba2;
   font-size: 2rem;
+  line-height: 2.5rem;
 }
 
 /* Itinerary Page Styles */
@@ -242,6 +243,11 @@ h2 {
 
   .trip-card h2 {
     font-size: 1rem;
+    margin-bottom: 0;
+  }
+
+  .trip-card .arrow {
+    line-height: 1.5rem;
   }
 
   .itinerary-content {
