@@ -31,7 +31,7 @@ npm run preview
 ## Project Structure
 
 ```
-travel-react/
+travel-stuff/
 ├── public/
 │   ├── favicon.ico
 │   └── itineraries/        # Markdown files for each trip
@@ -52,6 +52,9 @@ travel-react/
 │   └── main.tsx            # Entry point
 ├── index.html
 ├── package.json
+├── eslint.config.ts
+├── tsconfig.json
+├── tsconfig.node.json
 ├── vercel.json             # Vercel SPA routing config
 └── vite.config.ts
 ```
