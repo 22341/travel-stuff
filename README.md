@@ -30,7 +30,7 @@ npm run preview
 
 ## Project Structure
 
-```
+```text
 travel-stuff/
 ├── public/
 │   ├── favicon.ico
