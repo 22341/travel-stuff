@@ -13,7 +13,7 @@
 ### London → Kuala Lumpur
 
 - **London:** 1 night (departure prep) _Arrive: Sat 6 Feb 2027_
-  - _Recommended hotel: [Premier Inn Aldgate](https://www.booking.com/searchresults.html?ss=Premier+Inn+Aldgate)_ - £80-120/night
+  - _Recommended hotel: [Premier Inn Aldgate](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-city-aldgate.html?&BRAND=PI)_ - £80-120/night
 - **Overnight Flight to Kuala Lumpur** _Depart: Sun 7 Feb 2027_
   - 13-hour overnight flight
 - **Kuala Lumpur:** 3 nights _Arrive: Mon 8 Feb 2027_
@@ -144,7 +144,7 @@
 
 ## Phase 4: Japan (15 nights)
 
-### Tokyo Metropolitan
+### Kanto Region
 
 - **Tokyo:** 3 nights _Arrive: Fri 19 Mar 2027_
   - _Recommended hotel: [APA Hotel Yamanote Otsuka Ekimae Tower](https://www.booking.com/searchresults.html?ss=APA+Hotel+Yamanote+Otsuka+Ekimae+Tower+Tokyo)_ - £65-85/night
@@ -201,7 +201,7 @@
   - 21st Century Museum of Contemporary Art
   - Omicho Market for fresh seafood
 
-### Tokyo Metropolitan
+### Kanto Region
 
 - **Tokyo:** 1 night _Arrive: Fri 2 Apr 2027_
   - _Recommended hotel: [APA Hotel Yamanote Otsuka Ekimae Tower](https://www.booking.com/searchresults.html?ss=APA+Hotel+Yamanote+Otsuka+Ekimae+Tower+Tokyo)_ - £65-85/night
@@ -261,7 +261,7 @@
 ### London
 
 - **London:** 1 night _Arrive: Tue 20 Apr 2027_
-  - _Recommended hotel: [Premier Inn Aldgate](https://www.booking.com/searchresults.html?ss=Premier+Inn+Aldgate)_ - £100/night
+  - _Recommended hotel: [Premier Inn Aldgate](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-city-aldgate.html?&BRAND=PI)_ - £100/night
   - Recover from jet lag and unwind
   - Final reflections on the career break journey
   - Reconnect with home
