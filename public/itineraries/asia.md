@@ -82,7 +82,6 @@
   - _Recommended train: SE1 Reunification Express (Premium Class)_
   - 14-15 hour journey through Vietnamese countryside
   - Premium sleeper cabin with air conditioning
-  - Dinner and breakfast included
   - Scenic views of rice paddies and mountains
 
 - **Hanoi:** 5 nights _Arrive: Tue 2 Mar 2027_
@@ -408,17 +407,17 @@
 
 - **Meals & Drinks:** £50/day = £3,800 total
 - **Activities & Attractions:** £15/day = £1,140 total
-- **Visas:** £180 total
+- **Visas:** £29 total (Cambodia e-Visa only)
 - **Travel Insurance:** £250 total (Holiday Extras / Staysure)
-- **Airalo Asia eSIM:** £80 total
+- **Airalo Asia eSIM:** £85 total
 - **Shopping & Souvenirs:** £300 total
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
 
 **Core Costs (Accommodation + Transportation):** £6,843  
-**Additional Expenses:** £6,510 total  
-**Total Trip Budget:** £13,353
+**Additional Expenses:** £6,364 total  
+**Total Trip Budget:** £13,207
 
 _Note: Costs are based on mid-range options and vary significantly by season, advance booking, and personal choices. Southeast Asia offers the best value, while Japan and South Korea tend to be moderately priced._
 
@@ -426,23 +425,23 @@ _Note: Costs are based on mid-range options and vary significantly by season, ad
 
 ## Visa Requirements
 
-| Country     | Stay Limit                                             | Special Requirement                                                                                                                                                                                                                                                                                                                   |
-| ----------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Malaysia    | 90 Days                                                | Must submit the [MDAC (Digital Arrival Card)](https://imigresen-online.imi.gov.my/mdac/main) 3 days before arrival.                                                                                                                                                                                                                   |
-| Cambodia    | 30 Days (e-Visa)                                       | [e-Visa](https://www.evisa.gov.kh/) required (approx. £30). Also must complete [e-Arrival Card](https://arrival.gov.kh/) within 7 days before arrival (free).                                                                                                                                                                         |
-| Vietnam     | 45 Days                                                | New for 2026: UK citizens are now visa-free for up to 45 days.                                                                                                                                                                                                                                                                        |
-| Taiwan      | 90 Days                                                | Must complete an [Online Arrival Card](https://twac.immigration.gov.tw/) before landing.                                                                                                                                                                                                                                              |
-| Philippines | 30 Days                                                | Must register on the [eTravel platform](https://etravel.gov.ph/) within 72 hours before arrival.                                                                                                                                                                                                                                      |
-| Japan       | 90 Days                                                | Standard entry; may be asked for proof of onward travel.                                                                                                                                                                                                                                                                              |
-| Hong Kong   | 180 Days                                               | Standard entry.                                                                                                                                                                                                                                                                                                                       |
-| China       | 240 hours (10 days) visa-free transit OR visa required | 240-hour visa-free transit available for transit to third country/region (e.g., onward to UK via Hong Kong). For stays beyond 10 days, [tourist visa (L visa)](https://www.visaforchina.cn/LON3_EN/) required from Chinese embassy/consulate. **Your 17-night stay requires a visa.** Processing takes 4-7 business days. Cost: £151. |
+| Country     | Stay Limit                          | Special Requirement                                                                                                                                                                                                                                                                                                                |
+| ----------- | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Malaysia    | 90 Days                             | Must submit the [MDAC (Digital Arrival Card)](https://imigresen-online.imi.gov.my/mdac/main) 3 days before arrival.                                                                                                                                                                                                                |
+| Cambodia    | 30 Days (e-Visa)                    | [e-Visa](https://www.evisa.gov.kh/) required (approx. £30). Also must complete [e-Arrival Card](https://arrival.gov.kh/) within 7 days before arrival (free).                                                                                                                                                                      |
+| Vietnam     | 45 Days                             | New for 2026: UK citizens are now visa-free for up to 45 days.                                                                                                                                                                                                                                                                     |
+| Taiwan      | 90 Days                             | Must complete an [Online Arrival Card](https://twac.immigration.gov.tw/) before landing.                                                                                                                                                                                                                                           |
+| Philippines | 30 Days                             | Must register on the [eTravel platform](https://etravel.gov.ph/) within 72 hours before arrival.                                                                                                                                                                                                                                   |
+| Japan       | 90 Days                             | Standard entry; may be asked for proof of onward travel.                                                                                                                                                                                                                                                                           |
+| Hong Kong   | 180 Days                            | Standard entry.                                                                                                                                                                                                                                                                                                                    |
+| China       | 30 Days (visa-free for UK citizens) | **NEW as of January 2026:** UK citizens can enter visa-free for tourism, business, or family visits for up to 30 days. Policy valid until 31 December 2026. You must still complete an arrival card and register with local police within 24 hours (hotels do this automatically). **Your 17-night stay does not require a visa.** |
 
 **Important Notes:**
 
 - Ensure your passport is valid for at least 6 months beyond your intended stay
 - Keep proof of onward travel (flight bookings) readily available
 - Complete all online arrival cards and registrations before travel
-- China visa requirements are the most complex - apply well in advance
+- **China visa no longer required** - UK citizens now enjoy 30-day visa-free entry (policy valid until 31 Dec 2026)
 - Visa requirements can change; verify all details closer to departure date
 
 ---
@@ -458,7 +457,6 @@ _Note: Costs are based on mid-range options and vary significantly by season, ad
 
 ### Practical Tips
 
-- **Visas:** Check requirements for each country
 - **Currency:** Multiple currencies across 8 countries/regions
 - **Language:** English less common in China; more widely spoken in Malaysia, Hong Kong, Taiwan, Philippines, Cambodia, and urban areas of Japan
 - **Accommodation:** Mix of hotels, traditional stays, and cruise ship
