@@ -117,6 +117,25 @@ describe("Itinerary", () => {
     });
   });
 
+  it("shows error message when fetch returns not ok (e.g. 404)", async () => {
+    mockSlug = "porto";
+    global.fetch = jest.fn(() =>
+      Promise.resolve({ ok: false }),
+    ) as jest.Mock;
+
+    render(
+      <MemoryRouter>
+        <Itinerary />
+      </MemoryRouter>,
+    );
+
+    await waitFor(() => {
+      expect(
+        screen.getByText(/error loading itinerary/i),
+      ).toBeInTheDocument();
+    });
+  });
+
   describe("external link click handler", () => {
     let mockOpen: jest.Mock;
     const originalOpen = window.open;
