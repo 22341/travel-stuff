@@ -2,6 +2,20 @@ import { render, screen, waitFor, fireEvent } from "@testing-library/react";
 import { MemoryRouter } from "react-router-dom";
 import Itinerary from "./Itinerary";
 
+jest.mock("marked", () => ({
+  marked: {
+    parse: (md: string) =>
+      Promise.resolve(
+        md
+          ? md.replace(
+              /\[([^\]]+)\]\(([^)]+)\)/g,
+              '<a href="$2">$1</a>',
+            )
+          : "",
+      ),
+  },
+}));
+
 let mockSlug: string | undefined = "porto";
 const mockNavigate = jest.fn();
 

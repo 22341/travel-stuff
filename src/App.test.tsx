@@ -2,6 +2,20 @@ import { render, screen } from "@testing-library/react";
 import { MemoryRouter } from "react-router-dom";
 import App from "./App";
 
+jest.mock("marked", () => ({
+  marked: {
+    parse: (md: string) =>
+      Promise.resolve(
+        md
+          ? md.replace(
+              /\[([^\]]+)\]\(([^)]+)\)/g,
+              '<a href="$2">$1</a>',
+            )
+          : "",
+      ),
+  },
+}));
+
 function renderWithRouter(initialEntries: string[] = ["/"]) {
   return render(
     <MemoryRouter initialEntries={initialEntries}>

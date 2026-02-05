@@ -1,10 +1,14 @@
-const path = require("path");
+import path from "path";
+import { fileURLToPath } from "url";
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 /** @type {import('jest').Config} */
-module.exports = {
+export default {
   testEnvironment: "jsdom",
   roots: ["<rootDir>/src"],
   testMatch: ["**/__tests__/**/*.test.[jt]s?(x)", "**/*.test.[jt]s?(x)"],
+  setupFiles: [path.join(__dirname, "src", "jestGlobals.js")],
   setupFilesAfterEnv: [path.join(__dirname, "src", "setupTests.js")],
   rootDir: ".",
   moduleNameMapper: {
@@ -18,5 +22,6 @@ module.exports = {
     "src/**/*.{ts,tsx}",
     "!src/main.tsx",
     "!src/setupTests.js",
+    "!src/jestGlobals.js",
   ],
 };
