@@ -4,7 +4,7 @@ import pluginReact from "eslint-plugin-react";
 
 export default tseslint.config([
   {
-    ignores: ["node_modules/", "dist/"],
+    ignores: ["node_modules/", "dist/", "coverage/"],
   },
   {
     files: ["**/*.{js,mjs,cjs,ts,mts,cts,jsx,tsx}"],

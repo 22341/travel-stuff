@@ -35,9 +35,8 @@ function Itinerary() {
           throw new Error("Failed to load itinerary");
         }
         const markdown = await response.text();
-        const parsed = await marked.parse(markdown);
-        const sanitized = DOMPurify.sanitize(parsed);
-        setState({ status: "loaded", html: sanitized });
+        const sanitizedHtml = DOMPurify.sanitize(await marked.parse(markdown));
+        setState({ status: "loaded", html: sanitizedHtml });
       } catch {
         if (!controller.signal.aborted) {
           setState({
@@ -65,10 +64,7 @@ function Itinerary() {
   // Handle external links - open in new tab
   const handleContentClick = (e: React.MouseEvent<HTMLDivElement>) => {
     const link = (e.target as HTMLElement).closest("a");
-    if (!link?.href) return;
-
-    const href = link.getAttribute("href");
-    if (href?.startsWith("#")) return;
+    if (!link?.href || link.getAttribute("href")?.startsWith("#")) return;
 
     try {
       const isExternal =
