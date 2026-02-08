@@ -69,9 +69,11 @@ function Itinerary() {
     try {
       const isExternal =
         new URL(link.href).hostname !== window.location.hostname;
+      e.preventDefault();
       if (isExternal) {
-        e.preventDefault();
         window.open(link.href, "_blank", "noopener,noreferrer");
+      } else {
+        navigate(link.getAttribute("href")!);
       }
     } catch {
       // Invalid URL, let default behavior handle it
