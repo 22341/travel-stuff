@@ -23,5 +23,6 @@ export default {
     "!src/main.tsx",
     "!src/setupTests.js",
     "!src/jestGlobals.js",
+    "!src/jest-env.d.ts",
   ],
 };
