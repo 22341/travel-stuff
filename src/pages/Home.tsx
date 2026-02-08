@@ -4,9 +4,7 @@ import { trips } from "../data/trips";
 function Home() {
   const tripsByYear = trips.reduce(
     (acc, trip) => {
-      if (!acc[trip.year]) {
-        acc[trip.year] = [];
-      }
+      acc[trip.year] = acc[trip.year] ?? [];
       acc[trip.year].push(trip);
       return acc;
     },
