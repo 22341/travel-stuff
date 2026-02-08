@@ -38,7 +38,7 @@ function Itinerary() {
         const parsed = await marked.parse(markdown);
         const sanitized = DOMPurify.sanitize(parsed);
         setState({ status: "loaded", html: sanitized });
-      } catch (err) {
+      } catch {
         if (!controller.signal.aborted) {
           setState({
             status: "error",
