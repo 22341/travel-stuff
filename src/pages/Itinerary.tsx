@@ -1,12 +1,18 @@
 import { useState, useEffect } from "react";
 import { useParams, Link, useNavigate } from "react-router-dom";
 import { marked } from "marked";
+import DOMPurify from "dompurify";
 import { trips } from "../data/trips";
+
+type ItineraryState =
+  | { status: "loading" }
+  | { status: "error"; message: string }
+  | { status: "loaded"; html: string };
 
 function Itinerary() {
   const { slug } = useParams<{ slug: string }>();
   const navigate = useNavigate();
-  const [content, setContent] = useState("<p>Loading...</p>");
+  const [state, setState] = useState<ItineraryState>({ status: "loading" });
 
   // Find the trip data
   const trip = trips.find((t) => t.slug === slug);
@@ -18,21 +24,32 @@ function Itinerary() {
       return;
     }
 
-    // Fetch the markdown file
-    fetch(`/itineraries/${slug}.md`)
-      .then((response) => {
+    const controller = new AbortController();
+
+    async function loadItinerary() {
+      try {
+        const response = await fetch(`/itineraries/${slug}.md`, {
+          signal: controller.signal,
+        });
         if (!response.ok) {
           throw new Error("Failed to load itinerary");
         }
-        return response.text();
-      })
-      .then(async (markdown) => {
+        const markdown = await response.text();
         const parsed = await marked.parse(markdown);
-        setContent(parsed);
-      })
-      .catch(() => {
-        setContent("<p>Error loading itinerary. Please try again.</p>");
-      });
+        const sanitized = DOMPurify.sanitize(parsed);
+        setState({ status: "loaded", html: sanitized });
+      } catch (err) {
+        if (!controller.signal.aborted) {
+          setState({
+            status: "error",
+            message: "Error loading itinerary. Please try again.",
+          });
+        }
+      }
+    }
+
+    loadItinerary();
+    return () => controller.abort();
   }, [slug, trip, navigate]);
 
   // Update document title
@@ -70,18 +87,32 @@ function Itinerary() {
   }
 
   return (
-    <div className="itinerary-page">
+    <main className="itinerary-page">
       <div className="container">
-        <Link to="/" className="back-button">
-          ← Back to Home
-        </Link>
-        <div
-          className="itinerary-content"
-          dangerouslySetInnerHTML={{ __html: content }}
-          onClick={handleContentClick}
-        />
+        <nav>
+          <Link to="/" className="back-button">
+            ← Back to Home
+          </Link>
+        </nav>
+        {state.status === "loading" && (
+          <div className="itinerary-content">
+            <p>Loading...</p>
+          </div>
+        )}
+        {state.status === "error" && (
+          <div className="itinerary-content">
+            <p>{state.message}</p>
+          </div>
+        )}
+        {state.status === "loaded" && (
+          <div
+            className="itinerary-content"
+            dangerouslySetInnerHTML={{ __html: state.html }}
+            onClick={handleContentClick}
+          />
+        )}
       </div>
-    </div>
+    </main>
   );
 }
 

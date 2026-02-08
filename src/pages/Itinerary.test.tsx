@@ -16,6 +16,13 @@ jest.mock("marked", () => ({
   },
 }));
 
+jest.mock("dompurify", () => ({
+  __esModule: true,
+  default: {
+    sanitize: (html: string) => html,
+  },
+}));
+
 let mockSlug: string | undefined = "porto";
 const mockNavigate = jest.fn();
 

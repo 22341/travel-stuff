@@ -2,7 +2,7 @@
 // The slug is used for the URL path and to locate the markdown file
 // Markdown files should be placed in /public/itineraries/{slug}.md
 
-interface Trip {
+export interface Trip {
   slug: string;
   title: string;
   year: number;

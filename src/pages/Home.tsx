@@ -16,17 +16,17 @@ function Home() {
     .sort((a, b) => a - b);
 
   return (
-    <div className="home-page">
+    <main className="home-page">
       <div className="container">
-        <div className="home-heading">
+        <header className="home-heading">
           <h1>✈️ Travel Itineraries</h1>
           <p className="subtitle">
             Choose a destination to view the full itinerary
           </p>
-        </div>
+        </header>
 
         {sortedYears.map((year) => (
-          <div key={year}>
+          <section key={year}>
             <h2 className="year-heading">{year}</h2>
             <div className="trip-grid">
               {tripsByYear[year].map((trip) => (
@@ -40,10 +40,10 @@ function Home() {
                 </Link>
               ))}
             </div>
-          </div>
+          </section>
         ))}
       </div>
-    </div>
+    </main>
   );
 }
 

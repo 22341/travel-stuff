@@ -33,14 +33,14 @@ body {
   text-align: center;
 }
 
-h1 {
+.home-page h1 {
   color: white;
   font-size: 3rem;
   margin-bottom: 1rem;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
 }
 
-h2 {
+.home-page h2 {
   color: white;
   font-size: 2rem;
   margin-bottom: 1rem;
@@ -218,12 +218,12 @@ h2 {
     margin: 1rem 0;
   }
 
-  h1 {
+  .home-page h1 {
     font-size: 1.5rem;
     margin-bottom: 0.75rem;
   }
 
-  h2 {
+  .home-page h2 {
     font-size: 1.3rem;
   }
 

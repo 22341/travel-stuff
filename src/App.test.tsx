@@ -16,6 +16,13 @@ jest.mock("marked", () => ({
   },
 }));
 
+jest.mock("dompurify", () => ({
+  __esModule: true,
+  default: {
+    sanitize: (html: string) => html,
+  },
+}));
+
 function renderWithRouter(initialEntries: string[] = ["/"]) {
   return render(
     <MemoryRouter initialEntries={initialEntries}>
