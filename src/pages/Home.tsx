@@ -1,19 +1,23 @@
 import { Link } from "react-router-dom";
-import { trips } from "../data/trips";
+import { trips, Trip } from "../data/trips";
+import { useMemo } from "react";
 
 function Home() {
-  const tripsByYear = trips.reduce(
-    (acc, trip) => {
-      acc[trip.year] = acc[trip.year] ?? [];
-      acc[trip.year].push(trip);
-      return acc;
-    },
-    {} as Record<number, typeof trips>,
-  );
+  const { tripsByYear, sortedYears } = useMemo(() => {
+    const byYear = trips.reduce(
+      (acc, trip) => {
+        acc[trip.year] = acc[trip.year] ?? [];
+        acc[trip.year].push(trip);
+        return acc;
+      },
+      {} as Record<number, Trip[]>,
+    );
 
-  const sortedYears = Object.keys(tripsByYear)
-    .map(Number)
-    .sort((a, b) => a - b);
+    const years = Object.keys(byYear)
+      .map(Number)
+      .sort((a, b) => a - b);
+    return { tripsByYear: byYear, sortedYears: years };
+  }, []);
 
   return (
     <main className="home-page">
@@ -34,6 +38,7 @@ function Home() {
                   to={`/${trip.slug}`}
                   className="trip-card"
                   key={trip.slug}
+                  aria-label={`View itinerary for ${trip.title}`}
                 >
                   <h2>{trip.title}</h2>
                   <div className="arrow">→</div>
