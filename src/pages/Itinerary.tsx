@@ -64,19 +64,16 @@ function Itinerary() {
   // Handle external links - open in new tab
   const handleContentClick = (e: React.MouseEvent<HTMLDivElement>) => {
     const link = (e.target as HTMLElement).closest("a");
-    if (!link?.href || link.getAttribute("href")?.startsWith("#")) return;
+    const href = link?.href;
 
-    try {
-      const isExternal =
-        new URL(link.href).hostname !== window.location.hostname;
-      e.preventDefault();
-      if (isExternal) {
-        window.open(link.href, "_blank", "noopener,noreferrer");
-      } else {
-        navigate(link.getAttribute("href")!);
-      }
-    } catch {
-      // Invalid URL, let default behavior handle it
+    if (!href || href?.startsWith("#")) return;
+
+    const isExternal = new URL(href).hostname !== window.location.hostname;
+    e.preventDefault();
+    if (isExternal) {
+      window.open(href, "_blank", "noopener,noreferrer");
+    } else {
+      navigate(href!);
     }
   };
 
