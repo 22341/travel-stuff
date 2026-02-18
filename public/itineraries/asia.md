@@ -15,7 +15,7 @@
 - **Overnight Flight to Kuala Lumpur** *Depart: Sun 7 Feb 2027*
   - 13-hour overnight flight
 - **Kuala Lumpur:** 3 nights *Arrive: Mon 8 Feb 2027*
-  - *Recommended hotel: [Star Muse Hotel Changkat Bukit Bintang](https://www.booking.com/hotel/my/star-muse-at-bukit-bintang.en-gb.html)* - £32/night
+  - ***Booked hotel:*** [Star Muse Hotel Changkat Bukit Bintang](https://www.booking.com/hotel/my/star-muse-at-bukit-bintang.en-gb.html) - £32/night
   - Explore Petronas Towers, Batu Caves
   - Street food tours in Chinatown and Little India
   - Visit Islamic Arts Museum
@@ -43,7 +43,7 @@
   - Local fruit orchards
 
 - **Ho Chi Minh City:** 4 nights (by private car) *Arrive: Wed 17 Feb 2027*
-  - *Recommended hotel: [Minh Luxury Eliana Hotel](https://www.booking.com/searchresults.html?ss=Minh+Luxury+Eliana+Hotel+Ho+Chi+Minh)* - £30-40/night
+  - ***Booked hotel:*** [Minh Luxury Eliana Hotel](https://www.booking.com/searchresults.html?ss=Minh+Luxury+Eliana+Hotel+Ho+Chi+Minh) - £41/night
   - War Remnants Museum and Cu Chi Tunnels
   - Ben Thanh Market and Saigon Central Post Office
   - Rooftop bars and street food tours
@@ -374,9 +374,9 @@
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|----------|
-| Accommodation | £3,444 |
+| Accommodation | £3,468 |
 | Transportation | £3,273 |
-| **Trip Total** | **£6,717** |
+| **Trip Total** | **£6,741** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -388,9 +388,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £6,717  
+**Core Costs (Accommodation + Transportation):** £6,741  
 **Additional Expenses:** £6,364 total  
-**Total Trip Budget:** £13,081
+**Total Trip Budget:** £13,105
 
 *Note: Costs are based on mid-range options and vary significantly by season, advance booking, and personal choices. Southeast Asia offers the best value, while Japan and South Korea tend to be moderately priced.*
 
