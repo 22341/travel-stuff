@@ -66,7 +66,7 @@ function Itinerary() {
     const link = (e.target as HTMLElement).closest("a");
     const href = link?.href;
 
-    if (!href || href?.startsWith("#")) return;
+    if (!href || href.startsWith("#")) return;
 
     const isExternal = new URL(href).hostname !== window.location.hostname;
     e.preventDefault();

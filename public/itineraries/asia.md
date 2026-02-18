@@ -22,11 +22,12 @@
 
 ### Cambodia
 - **Phnom Penh:** 4 nights *Arrive: Thu 11 Feb 2027*
-  - *Recommended hotel: [Botum Domrey Hotel](https://www.booking.com/hotel/kh/botum-domrey.html)* - £25-30/night
+  - *Recommended hotel: [CHECK inn Phnom Penh BKK1](https://www.booking.com/hotel/kh/check-inn-phnompenh-bkk1.html)* - £30-35/night
   - Royal Palace and Silver Pagoda
   - Tuol Sleng Genocide Museum and Killing Fields
   - Central Market and riverside promenade
   - Wat Phnom temple
+  - BKK1 craft beer scene (Craft bar, Embargo, Botanico)
 
 ### Vietnam Journey
 - **Chau Doc:** 1 night (by Hang Chau ferry from Phnom Penh) *Arrive: Mon 15 Feb 2027*
@@ -373,9 +374,9 @@
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|----------|
-| Accommodation | £3,470 |
+| Accommodation | £3,480 |
 | Transportation | £3,273 |
-| **Trip Total** | **£6,743** |
+| **Trip Total** | **£6,753** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -387,9 +388,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £6,743  
+**Core Costs (Accommodation + Transportation):** £6,753  
 **Additional Expenses:** £6,364 total  
-**Total Trip Budget:** £13,107
+**Total Trip Budget:** £13,117
 
 *Note: Costs are based on mid-range options and vary significantly by season, advance booking, and personal choices. Southeast Asia offers the best value, while Japan and South Korea tend to be moderately priced.*
 
