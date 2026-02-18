@@ -15,7 +15,7 @@
 - **Overnight Flight to Kuala Lumpur** *Depart: Sun 7 Feb 2027*
   - 13-hour overnight flight
 - **Kuala Lumpur:** 3 nights *Arrive: Mon 8 Feb 2027*
-  - *Recommended hotel: [Holiday Inn Express Kuala Lumpur City Centre](https://www.booking.com/hotel/my/holiday-inn-express-kuala-lumpur-city-centre.html)* - £45-50/night
+  - *Recommended hotel: [Star Muse Hotel Changkat Bukit Bintang](https://www.booking.com/hotel/my/star-muse-at-bukit-bintang.en-gb.html)* - £32/night
   - Explore Petronas Towers, Batu Caves
   - Street food tours in Chinatown and Little India
   - Visit Islamic Arts Museum
@@ -374,9 +374,9 @@
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|----------|
-| Accommodation | £3,480 |
+| Accommodation | £3,444 |
 | Transportation | £3,273 |
-| **Trip Total** | **£6,753** |
+| **Trip Total** | **£6,717** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -388,9 +388,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £6,753  
+**Core Costs (Accommodation + Transportation):** £6,717  
 **Additional Expenses:** £6,364 total  
-**Total Trip Budget:** £13,117
+**Total Trip Budget:** £13,081
 
 *Note: Costs are based on mid-range options and vary significantly by season, advance booking, and personal choices. Southeast Asia offers the best value, while Japan and South Korea tend to be moderately priced.*
 
