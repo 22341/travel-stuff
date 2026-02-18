@@ -351,16 +351,16 @@
 
 ## Total Trip Cost Estimate
 
-### Accommodation (74 nights)
+### Accommodation (73 nights)
 | Region | Nights | Average Cost/Night | Total Cost |
 |--------|--------|-------------------|------------|
 | London | 2 | £100 | £200 |
-| Southeast Asia | 27 | £35 | £945 |
+| Southeast Asia | 27 | £32 | £873 |
 | Taiwan | 5 | £50 | £250 |
 | Philippines | 7 | £32 | £225 |
 | Japan | 15 | £67 | £1,005 |
 | Greater China | 17 | £56 | £945 |
-| **Total Accommodation** | **73** | **£49 avg** | **£3,570** |
+| **Total Accommodation** | **73** | **£48 avg** | **£3,498** |
 
 ### Transportation
 | Category | Approximate Cost |
