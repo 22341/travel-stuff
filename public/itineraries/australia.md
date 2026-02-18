@@ -13,7 +13,7 @@
 
 ### London: 1 night
 **Arrive:** Thu 7 Jan 2027  
-* **Recommended hotel:** Premier Inn Aldgate - £100/night
+* **Booked hotel:** Premier Inn Aldgate - £78 (1 night total)
 * Final preparations and rest before long-haul flight
 * Check-in for early morning flight
 
@@ -25,7 +25,7 @@
 ### Singapore: 3 nights
 **Arrive:** Sat 9 Jan 2027  
 **Depart:** Tue 12 Jan 2027  
-* **Recommended hotel:** Hotel Boss (Lavender area) - £65/night
+* **Booked hotel:** Capri Frazer China Square - £680 (3 nights total)
 * Marina Bay Sands and Gardens by the Bay
 * Explore Chinatown, Little India, and Arab Street
 * Hawker centre food tours (try Maxwell Food Centre)
@@ -43,7 +43,7 @@
 ### Sydney: 3 nights
 **Arrive:** Tue 12 Jan 2027  
 **Depart:** Fri 15 Jan 2027  
-* **Recommended hotel:** Meriton Suites Kent Street - £120/night
+* **Booked hotel:** Crowne Plaza Darling Harbour - £694 (3 nights total)
 * Sydney Opera House and Harbour Bridge
 * Bondi Beach and coastal walk to Coogee
 * The Rocks historic area
@@ -57,7 +57,7 @@
 ### Brisbane: 3 nights
 **Arrive:** Fri 15 Jan 2027  
 **Depart:** Mon 18 Jan 2027  
-* **Recommended hotel:** Rydges South Bank - £95/night
+* **Booked hotel:** Stamford Plaza - £404 (3 nights total)
 * South Bank Parklands and Streets Beach
 * Lone Pine Koala Sanctuary
 * Brisbane River cruise
@@ -172,15 +172,15 @@
 
 | Location | Nights | Hotel | Cost per Night | Total Cost |
 |----------|--------|-------|----------------|------------|
-| London | 1 | Premier Inn Aldgate | £100 | £100 |
-| Singapore | 3 | Hotel Boss | £65 | £195 |
-| Sydney (1st visit) | 3 | Meriton Suites Kent Street | £120 | £360 |
-| Brisbane | 3 | Rydges South Bank | £95 | £285 |
+| London | 1 | Premier Inn Aldgate (BOOKED) | £78 | £78 |
+| Singapore | 3 | Capri Frazer China Square (BOOKED) | £227 | £680 |
+| Sydney (1st visit) | 3 | Crowne Plaza Darling Harbour (BOOKED) | £231 | £694 |
+| Brisbane | 3 | Stamford Plaza (BOOKED) | £135 | £404 |
 | Adelaide | 3 | Majestic Roof Garden Hotel | £100 | £300 |
 | Melbourne | 5 | Mantra on Russell | £105 | £525 |
 | Sydney (2nd visit) | 1 | Meriton Suites Kent Street | £120 | £120 |
 | Sydney (3rd visit) | 1 | Meriton Suites Kent Street | £120 | £120 |
-| **Total Accommodation** | **20 nights** | | | **£2,005** |
+| **Total Accommodation** | **20 nights** | | | **£2,921** |
 
 ### Train & Cruise Travel
 
@@ -205,10 +205,10 @@
 | Category | Cost |
 |----------|------|
 | Flights | £1,735 |
-| Accommodation | £2,005 |
+| Accommodation | £2,921 |
 | Train & Cruise | £2,300 |
 | Daily Spending Money | £1,980 |
-| **TOTAL** | **£8,020** |
+| **TOTAL** | **£8,936** |
 
 ---
 
