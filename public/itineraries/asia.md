@@ -57,7 +57,7 @@
   - My Son Sanctuary day trip
 
 - **Da Nang:** 3 nights (by taxi) *Arrive: Tue 23 Feb 2027*
-  - *Recommended hotel: [Happy Day Riverside Hotel & Spa Danang](https://www.booking.com/searchresults.html?ss=Happy+Day+Riverside+Hotel+Danang)* - £25-35/night
+  - ***Booked hotel:*** [Coral Cove Hotel](https://www.booking.com/hotel/vn/coral-cove.html) - £26/night
   - Marble Mountains and Buddhist caves
   - Dragon Bridge and Han River waterfront
   - My Khe Beach
@@ -355,12 +355,12 @@
 | Region | Nights | Average Cost/Night | Total Cost |
 |--------|--------|-------------------|------------|
 | London | 2 | £100 | £200 |
-| Southeast Asia | 27 | £32 | £873 |
+| Southeast Asia | 27 | £32 | £861 |
 | Taiwan | 5 | £50 | £250 |
 | Philippines | 7 | £32 | £225 |
 | Japan | 15 | £67 | £1,005 |
 | Greater China | 17 | £56 | £945 |
-| **Total Accommodation** | **73** | **£48 avg** | **£3,498** |
+| **Total Accommodation** | **73** | **£48 avg** | **£3,486** |
 
 ### Transportation
 | Category | Approximate Cost |
@@ -374,9 +374,9 @@
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|----------|
-| Accommodation | £3,498 |
+| Accommodation | £3,486 |
 | Transportation | £3,273 |
-| **Trip Total** | **£6,771** |
+| **Trip Total** | **£6,759** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -388,9 +388,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £6,771  
+**Core Costs (Accommodation + Transportation):** £6,759  
 **Additional Expenses:** £6,364 total  
-**Total Trip Budget:** £13,135
+**Total Trip Budget:** £13,123
 
 *Note: Costs are based on mid-range options and vary significantly by season, advance booking, and personal choices. Southeast Asia offers the best value, while Japan and South Korea tend to be moderately priced.*
 
