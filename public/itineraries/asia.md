@@ -49,7 +49,7 @@
   - Local fruit orchards
 
 - **Ho Chi Minh City:** 4 nights (by private car) *Arrive: Wed 17 Feb 2027*
-  - ***Booked hotel:*** [Minh Luxury Eliana Hotel](https://www.booking.com/searchresults.html?ss=Minh+Luxury+Eliana+Hotel+Ho+Chi+Minh) - £41/night
+  - ***Booked hotel:*** [Premium KaS Luxury Hotel - Metro Ben Thanh](https://www.booking.com/searchresults.html?ss=Minh+Luxury+Eliana+Hotel+Ho+Chi+Minh) - £41/night
   - War Remnants Museum and Cu Chi Tunnels
   - Ben Thanh Market and Saigon Central Post Office
   - Rooftop bars and street food tours
