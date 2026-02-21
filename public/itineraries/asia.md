@@ -322,11 +322,11 @@
 | Sun 21 Feb 2027 | Ho Chi Minh City → Da Nang | 1.5 hours | £60 | |
 | Sat 6 Mar 2027 | Hanoi → Taipei | 3 hours | £150 | |
 | Wed 10 Mar 2027 | Taipei → Manila | 2.5 hours | £120 | |
-| Fri 12 Mar 2027 | Manila → Cebu | 1.5 hours | £40 | |
-| Mon 15 Mar 2027 | Cebu → Tokyo | 4.5 hours | £200 | |
-| Tue 30 Mar 2027 | Tokyo → Seoul | 2.5 hours | £130 | |
-| Sat 3 Apr 2027 | Seoul → Hong Kong | 3.5 hours | £100 | |
-| Tue 20 Apr 2027 | Beijing → London | 11 hours | £500 | |
+| Sat 13 Mar 2027 | Manila → Cebu | 1.5 hours | £40 | |
+| Tue 16 Mar 2027 | Cebu → Tokyo | 4.5 hours | £200 | |
+| Wed 31 Mar 2027 | Tokyo → Seoul | 2.5 hours | £130 | |
+| Sun 4 Apr 2027 | Seoul → Hong Kong | 3.5 hours | £100 | |
+| Wed 21 Apr 2027 | Beijing → London | 11 hours | £500 | |
 | **Total** | | | **£2,010** | |
 
 ### Trains
@@ -426,7 +426,7 @@
 | Taiwan | 90 Days | Must complete an [Online Arrival Card](https://twac.immigration.gov.tw/) before landing. |
 | Philippines | 30 Days | Must register on the [eTravel platform](https://etravel.gov.ph/) within 72 hours before arrival. |
 | Japan | 90 Days | Standard entry; may be asked for proof of onward travel. |
-| South Korea | 90 Days | K-ETA (Korea Electronic Travel Authorization) required - apply online before travel (approx. £8, valid 2 years). |
+| South Korea | 90 Days | [K-ETA (Korea Electronic Travel Authorization)](https://www.k-eta.go.kr) required - apply online before travel (approx. £8, valid 2 years). |
 | Hong Kong | 180 Days | Standard entry. |
 | China | 30 Days (visa-free for UK citizens) | **NEW as of January 2026:** UK citizens can enter visa-free for tourism, business, or family visits for up to 30 days. Policy valid until 31 December 2026. You must still complete an arrival card and register with local police within 24 hours (hotels do this automatically). **Your 17-night stay does not require a visa.** |
 
