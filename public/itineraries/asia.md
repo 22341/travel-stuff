@@ -1,7 +1,7 @@
 # Sabbatical Break 2027
 
 ## Overview
-**Total Duration:** ~77 days  
+**Total Duration:** ~76 days  
 **Countries:** Malaysia, Cambodia, Vietnam, Taiwan, Philippines, Japan, South Korea, Hong Kong, China  
 **Travel Style:** Mix of cultural immersion, historical exploration, and natural beauty
 
@@ -456,4 +456,4 @@
 
 ---
 
-**Total Estimated Duration:** 77 days
+**Total Estimated Duration:** 76 days
