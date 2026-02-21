@@ -231,21 +231,21 @@
   - Cormorant fishing demonstrations
   - West Street night market
 
-- **Chengdu:** 3 nights (by train) *Arrive: Sun 11 Apr 2027*
+- **Chengdu:** 4 nights (by train) *Arrive: Sun 11 Apr 2027*
   - *Recommended hotel: [Chengdu Anjia High Altitude Hotel](https://www.booking.com/searchresults.html?ss=Chengdu+Anjia+High+Altitude+Hotel)* - £35-45/night
   - Giant Panda Breeding Research Base
   - Wuhou Shrine and Jinli Ancient Street
   - Sichuan hot pot and spicy cuisine
   - Leshan Giant Buddha day trip
   - Traditional teahouse culture
+  - Day trip to Chongqing
 
-- **Xi'an:** 3 nights (by train) *Arrive: Wed 14 Apr 2027*
+- **Xi'an:** 2 nights (by train) *Arrive: Thu 15 Apr 2027*
   - *Recommended hotel: [CitiGO Hotel, South Gate of Xi'an Bell Tower](https://www.booking.com/searchresults.html?ss=CitiGO+Hotel+Xian+Bell+Tower)* - £30-40/night
   - Terracotta Army day trip
   - Ancient City Wall cycling
   - Muslim Quarter food tour
   - Shaanxi History Museum
-  - Tang Dynasty show and dumpling banquet
 
 - **Beijing:** 4 nights (by train) *Arrive: Sat 17 Apr 2027*
   - *Recommended hotel: [East Sacred Hotel](https://www.booking.com/searchresults.html?ss=East+Sacred+Hotel+Beijing)* - £55-65/night
@@ -342,7 +342,7 @@
 | Tue 30 Mar 2027 | Kanazawa → Tokyo | 3 hours | £123 | |
 | Thu 8 Apr 2027 | Hong Kong → Guilin | 3-4 hours | £50 | |
 | Sun 11 Apr 2027 | Guilin → Chengdu | 5-6 hours | £50 | |
-| Wed 14 Apr 2027 | Chengdu → Xi'an | 3.5-4 hours | £35 | |
+| Thu 15 Apr 2027 | Chengdu → Xi'an | 3.5-4 hours | £35 | |
 | Sat 17 Apr 2027 | Xi'an → Beijing | 5-6 hours | £60 | |
 | Thu 22 Apr 2027 | London → Leeds | 2.5 hours | £30 | |
 | **Total** | | | **£943** | |
@@ -379,8 +379,8 @@
 | Philippines | 6 | £33 | £200 |
 | Japan | 15 | £67 | £1,005 |
 | South Korea | 4 | £73 | £290 |
-| Greater China | 17 | £56 | £945 |
-| **Total Accommodation** | **73** | **£50 avg** | **£3,690** |
+| Greater China | 17 | £56 | £950 |
+| **Total Accommodation** | **73** | **£50 avg** | **£3,695** |
 
 ### Transportation
 | Category | Approximate Cost |
@@ -394,9 +394,9 @@
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|----------|
-| Accommodation | £3,690 |
+| Accommodation | £3,695 |
 | Transportation | £3,358 |
-| **Trip Total** | **£7,048** |
+| **Trip Total** | **£7,053** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,850 total
@@ -408,9 +408,9 @@
 - **Local Transport:** £10/day = £770 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,048  
+**Core Costs (Accommodation + Transportation):** £7,053  
 **Additional Expenses:** £6,439 total  
-**Total Trip Budget:** £13,487
+**Total Trip Budget:** £13,492
 
 *Note: Costs are based on mid-range options and vary significantly by season, advance booking, and personal choices. Southeast Asia offers the best value, while Japan and South Korea tend to be moderately priced.*
 
