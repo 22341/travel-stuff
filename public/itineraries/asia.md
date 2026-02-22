@@ -77,7 +77,7 @@
   - Day trip to DMZ and Vinh Moc Tunnels
 
 - **Overnight Train to Hanoi:** *Sun 28 Feb 2027*
-  - *Recommended train: SE2 Reunification Express (Premium Class)*
+  - *Recommended train: SE20 Reunification Express (Premium Class)*
   - 14-15 hour journey through Vietnamese countryside
   - Premium sleeper cabin with air conditioning
   - Scenic views of rice paddies and mountains
