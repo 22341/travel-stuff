@@ -435,7 +435,6 @@
 - Keep proof of onward travel (flight bookings) readily available
 - Complete all online arrival cards and registrations before travel
 - **China visa no longer required** - UK citizens now enjoy 30-day visa-free entry (policy valid until 31 Dec 2026)
-- **South Korea K-ETA** required - simple online application
 - Visa requirements can change; verify all details closer to departure date
 
 ---
