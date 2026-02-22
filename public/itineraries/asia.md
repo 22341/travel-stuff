@@ -243,7 +243,7 @@
 - **Xi'an:** 2 nights (by train) *Arrive: Thu 15 Apr 2027*
   - *Recommended hotel: [CitiGO Hotel, South Gate of Xi'an Bell Tower](https://www.booking.com/searchresults.html?ss=CitiGO+Hotel+Xian+Bell+Tower)* - £30-40/night
   - Terracotta Army day trip
-  - Ancient City Wall cycling
+  - Ancient City Wall walk
   - Muslim Quarter food tour
   - Shaanxi History Museum
 
