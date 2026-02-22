@@ -139,12 +139,11 @@
 ### Kanto Region
 - **Tokyo:** 3 nights *Arrive: Tue 16 Mar 2027*
   - *Recommended hotel: [APA Hotel Yamanote Otsuka Ekimae Tower](https://www.booking.com/searchresults.html?ss=APA+Hotel+Yamanote+Otsuka+Ekimae+Tower+Tokyo)* - £65-85/night
-  - Shibuya and Shinjuku modern districts
-  - Asakusa and Senso-ji Temple
-  - Tsukiji Outer Market food tour
-  - Traditional neighborhoods: Yanaka
-  - Meiji Shrine and Harajuku
-  - TeamLab Borderless digital art museum
+  - Explore Shimokitazawa vintage shopping district
+  - Kagurazaka traditional neighborhood and French quarter
+  - Nakameguro riverside cafes and craft beer bars
+  - Visit lesser-known museums (Nezu Museum, Mori Art Museum)
+  - Day trip to Kamakura or Enoshima
 
 ### Chugoku Region
 - **Okayama:** 2 nights *Arrive: Fri 19 Mar 2027*
