@@ -77,7 +77,7 @@
   - Day trip to DMZ and Vinh Moc Tunnels
 
 - **Overnight Train to Hanoi:** *Sun 28 Feb 2027*
-  - *Recommended train: SE1 Reunification Express (Premium Class)*
+  - *Recommended train: SE2 Reunification Express (Premium Class)*
   - 14-15 hour journey through Vietnamese countryside
   - Premium sleeper cabin with air conditioning
   - Scenic views of rice paddies and mountains
@@ -238,7 +238,7 @@
   - Sichuan hot pot and spicy cuisine
   - Leshan Giant Buddha day trip
   - Traditional teahouse culture
-  - Day trip to Chongqing
+  - Day trip to Chongqing (optional)
 
 - **Xi'an:** 2 nights (by train) *Arrive: Thu 15 Apr 2027*
   - *Recommended hotel: [CitiGO Hotel, South Gate of Xi'an Bell Tower](https://www.booking.com/searchresults.html?ss=CitiGO+Hotel+Xian+Bell+Tower)* - £30-40/night
