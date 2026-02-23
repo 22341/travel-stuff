@@ -72,11 +72,12 @@
 ### The Great Southern Train: Brisbane → Adelaide
 **Depart:** Mon 18 Jan 2027 (late afternoon)  
 **Arrive:** Thu 21 Jan 2027 (morning)  
-* **Duration:** 3 days, 2 nights on board
+* **Duration:** 3 days, 3 nights on board
+* **Booked:** Gold Single Cabin - £1,716.40 (Booking ref: JBR742033)
 * Travel through outback Queensland and New South Wales
 * All meals included on train
 * Off-train experiences at Coffs Harbour and Hunter Valley wine region
-* Gold Service cabin with ensuite recommended
+* Gold Service cabin with ensuite
 * Witness spectacular Australian landscapes
 
 ---
@@ -86,7 +87,7 @@
 ### Adelaide: 3 nights
 **Arrive:** Thu 21 Jan 2027  
 **Depart:** Sun 24 Jan 2027  
-* **Recommended hotel:** Majestic Roof Garden Hotel - £100/night
+* **Booked hotel:** Crowne Plaza Adelaide - £391 (3 nights total)
 * Adelaide Central Market for local produce
 * Adelaide Botanic Garden
 * Glenelg Beach via historic tram
@@ -101,7 +102,8 @@
 ### Melbourne: 5 nights
 **Arrive:** Sun 24 Jan 2027  
 **Depart:** Fri 29 Jan 2027  
-* **Recommended hotel:** Mantra on Russell - £105/night
+* **Booked hotel:** Vibe Hotel Docklands - £524 (5 nights total)
+* **Note:** Australian Open tennis (2nd week) - may review booking closer to time
 * Federation Square and Melbourne's laneways
 * Queen Victoria Market
 * St Kilda Beach and Luna Park
@@ -122,7 +124,7 @@
 ### Sydney: 1 night (pre-cruise)
 **Arrive:** Fri 29 Jan 2027  
 **Depart:** Sat 30 Jan 2027  
-* **Recommended hotel:** Meriton Suites Kent Street - £120/night
+* **Booked hotel:** Rydges Sydney Central - £173 (1 night total)
 * Relaxation day before cruise
 * Darling Harbour and Barangaroo
 * Check-in for cruise in evening
@@ -131,18 +133,18 @@
 **Depart Sydney:** Sat 30 Jan 2027  
 **Return Sydney:** Sun 7 Feb 2027  
 * **Duration:** 8 nights
+* **Booked:** Solo traveller cabin - £911 (£99 deposit paid)
 * **Recommended cruise line:** Princess Cruises or P&O Australia
 * Port stops likely include:
   * Hobart, Tasmania (explore Salamanca Market, MONA museum)
   * Port Arthur historic site
   * Scenic cruising along Tasmanian coast
 * All meals and entertainment included onboard
-* **Estimated cost:** £700 depending on cabin category
 
 ### Sydney: 1 night (post-cruise)
 **Arrive:** Sun 7 Feb 2027  
 **Depart:** Mon 8 Feb 2027  
-* **Recommended hotel:** Meriton Suites Kent Street - £120/night
+* **Booked hotel:** Park Regis City Centre Sydney - £131 (1 night total)
 * Final day in Sydney - last-minute shopping
 * Farewell dinner at Circular Quay
 * Rest before overnight flight to Kuala Lumpur
@@ -176,25 +178,25 @@
 | Singapore | 3 | Capri Frazer China Square (BOOKED) | £227 | £680 |
 | Sydney (1st visit) | 3 | Crowne Plaza Darling Harbour (BOOKED) | £231 | £694 |
 | Brisbane | 3 | Stamford Plaza (BOOKED) | £135 | £404 |
-| Adelaide | 3 | Majestic Roof Garden Hotel | £100 | £300 |
-| Melbourne | 5 | Mantra on Russell | £105 | £525 |
-| Sydney (2nd visit) | 1 | Meriton Suites Kent Street | £120 | £120 |
-| Sydney (3rd visit) | 1 | Meriton Suites Kent Street | £120 | £120 |
-| **Total Accommodation** | **20 nights** | | | **£2,921** |
+| Adelaide | 3 | Crowne Plaza Adelaide (BOOKED) | £130 | £391 |
+| Melbourne | 5 | Vibe Hotel Docklands (BOOKED) | £105 | £524 |
+| Sydney (2nd visit) | 1 | Rydges Sydney Central (BOOKED) | £173 | £173 |
+| Sydney (3rd visit) | 1 | Park Regis City Centre (BOOKED) | £131 | £131 |
+| **Total Accommodation** | **20 nights** | | | **£3,075** |
 
 ### Train & Cruise Travel
 
 | Type | Route | Date | Duration | Approx. Cost |
 |------|-------|------|----------|--------------|
-| The Great Southern (Gold Service) | Brisbane → Adelaide | Mon 18 Jan 2027 | 3 days/2 nights | £1,600 |
-| Tasmania Round-Trip Cruise | Sydney → Tasmania → Sydney | Sat 30 Jan - Sun 7 Feb 2027 | 8 nights | £700 |
-| **Total Train & Cruise** | | | | **£2,300** |
+| The Great Southern (Gold Single) | Brisbane → Adelaide | Mon 18 Jan 2027 | 3 days/3 nights | £1,716.40 (BOOKED - Ref: JBR742033) |
+| Tasmania Round-Trip Cruise | Sydney → Tasmania → Sydney | Sat 30 Jan - Sun 7 Feb 2027 | 8 nights | £911 (BOOKED - £99 deposit paid) |
+| **Total Train & Cruise** | | | | **£2,627.40** |
 
 ### Daily Spending Money Estimate
 
 | Category | Days | Daily Rate | Total |
 |----------|------|------------|-------|
-| Meals, drinks, local transport & activities | 22 days* | £90/day | £1,980 |
+| Meals, drinks, local transport & activities | 21 days* | £90/day | £1,890 |
 
 *Excludes 3 nights on train (meals included) and 8 nights on cruise (meals included)
 
@@ -205,10 +207,10 @@
 | Category | Cost |
 |----------|------|
 | Flights | £1,735 |
-| Accommodation | £2,921 |
-| Train & Cruise | £2,300 |
-| Daily Spending Money | £1,980 |
-| **TOTAL** | **£8,936** |
+| Accommodation | £3,075 |
+| Train & Cruise | £2,627 |
+| Daily Spending Money | £1,890 |
+| **TOTAL** | **£9,327** |
 
 ---
 
