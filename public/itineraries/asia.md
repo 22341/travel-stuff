@@ -39,14 +39,11 @@
 - **Chau Doc:** 1 night (by Hang Chau ferry from Phnom Penh) *Arrive: Mon 15 Feb 2027*
   - *Recommended hotel: [Paris Hotel Chau Doc](https://www.booking.com/searchresults.html?ss=Paris+Hotel+Chau+Doc)* - £25-30/night
   - Mekong Delta riverside town
-  - Floating markets and fish farms
-  - Sam Mountain views
 
 - **Can Tho:** 1 night (by private car) *Arrive: Tue 16 Feb 2027*
   - ***Booked hotel:*** [LION 11 Can Tho Hotel](https://www.booking.com/hotel/vn/lion-11-can-tho.html) - £20/night
   - Cai Rang Floating Market
   - Mekong Delta canals
-  - Local fruit orchards
 
 - **Ho Chi Minh City:** 4 nights (by private car) *Arrive: Wed 17 Feb 2027*
   - ***Booked hotel:*** [Premium KaS Luxury Hotel - Metro Ben Thanh](https://www.booking.com/searchresults.html?ss=Minh+Luxury+Eliana+Hotel+Ho+Chi+Minh) - £41/night
@@ -59,7 +56,6 @@
   - *Recommended hotel: [Hai Hội Villa Hoi An](https://www.booking.com/searchresults.html?ss=Hai+Hội+Villa+Hoi+An)* - £20-25/night
   - Ancient Town UNESCO site
   - Lantern Festival (if timing aligns)
-  - Cooking classes and tailor shopping
   - My Son Sanctuary day trip
 
 - **Da Nang:** 3 nights (by taxi) *Arrive: Tue 23 Feb 2027*
@@ -83,7 +79,7 @@
   - Scenic views of rice paddies and mountains
 
 - **Hanoi:** 5 nights *Arrive: Mon 1 Mar 2027*
-  - *Recommended hotel: [Classic Street Hotel](https://www.booking.com/searchresults.html?ss=Classic+Street+Hotel+Hanoi)* - £35-45/night
+  - ***Booked hotel:*** [Centre Point Hanoi Hotel](https://www.booking.com/hotel/vn/centre-point-hanoi.html) - £42/night
   - *Ha Long Bay cruise: Victory Star Cruise or Dragon Pearl Junk*
   - Old Quarter exploration
   - Temple of Literature, Hoan Kiem Lake
@@ -128,7 +124,6 @@
   - Magellan's Cross and Basilica del Santo Niño
   - Fort San Pedro and Cebu Heritage Monument
   - Tops Lookout for panoramic city views
-  - Day trip to Kawasan Falls and canyoneering
   - Day trip to Oslob for whale shark watching
   - Island hopping to Nalusuan and Hilutungan Islands
 
@@ -373,13 +368,13 @@
 | Region | Nights | Average Cost/Night | Total Cost |
 |--------|--------|-------------------|------------|
 | London | 2 | £100 | £200 |
-| Southeast Asia | 25 | £33 | £827 |
+| Southeast Asia | 25 | £33 | £837 |
 | Taiwan | 4 | £50 | £200 |
 | Philippines | 6 | £33 | £200 |
 | Japan | 15 | £67 | £1,005 |
 | South Korea | 4 | £73 | £290 |
 | Greater China | 17 | £61 | £1,030 |
-| **Total Accommodation** | **73** | **£51 avg** | **£3,752** |
+| **Total Accommodation** | **73** | **£51 avg** | **£3,762** |
 
 ### Transportation
 | Category | Approximate Cost |
@@ -393,23 +388,23 @@
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|----------|
-| Accommodation | £3,752 |
+| Accommodation | £3,762 |
 | Transportation | £3,328 |
-| **Trip Total** | **£7,080** |
+| **Trip Total** | **£7,090** |
 
 ### Additional Costs (Not Included)
-- **Meals & Drinks:** £50/day = £3,850 total
-- **Activities & Attractions:** £15/day = £1,155 total
-- **Visas:** £29 total (Cambodia e-Visa only)
+- **Meals & Drinks:** £50/day = £3,800 total
+- **Activities & Attractions:** £15/day = £1,140 total
+- **Visas:** £37 total (Cambodia e-Visa + South Korea K-ETA)
 - **Travel Insurance:** £250 total (Holiday Extras / Staysure)
 - **Airalo Asia eSIM:** £85 total
 - **Shopping & Souvenirs:** £300 total
-- **Local Transport:** £10/day = £770 total
+- **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,080  
-**Additional Expenses:** £6,439 total  
-**Total Trip Budget:** £13,519
+**Core Costs (Accommodation + Transportation):** £7,090  
+**Additional Expenses:** £6,372 total  
+**Total Trip Budget:** £13,462
 
 *Note: Costs are based on mid-range options and vary significantly by season, advance booking, and personal choices. Southeast Asia offers the best value, while Japan and South Korea tend to be moderately priced.*
 
