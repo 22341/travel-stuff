@@ -28,7 +28,7 @@
 
 ### Cambodia
 - **Phnom Penh:** 4 nights *Arrive: Thu 11 Feb 2027*
-  - *Recommended hotel: [CHECK inn Phnom Penh BKK1](https://www.booking.com/hotel/kh/check-inn-phnompenh-bkk1.html)* - £30-35/night
+  - ***Booked hotel:*** [ARISON Hotel](https://www.booking.com/hotel/kh/arison.html) - £26/night
   - Royal Palace and Silver Pagoda
   - Tuol Sleng Genocide Museum and Killing Fields
   - Central Market and riverside promenade
@@ -43,7 +43,7 @@
   - Sam Mountain views
 
 - **Can Tho:** 1 night (by private car) *Arrive: Tue 16 Feb 2027*
-  - *Recommended hotel: [MIDMOST CASA](https://www.booking.com/searchresults.html?ss=MIDMOST+CASA+Can+Tho)* - £15-20/night
+  - ***Booked hotel:*** [LION 11 Can Tho Hotel](https://www.booking.com/hotel/vn/lion-11-can-tho.html) - £20/night
   - Cai Rang Floating Market
   - Mekong Delta canals
   - Local fruit orchards
@@ -323,10 +323,10 @@
 | Wed 10 Mar 2027 | Taipei → Manila | 2.5 hours | £120 | |
 | Sat 13 Mar 2027 | Manila → Cebu | 1.5 hours | £40 | |
 | Tue 16 Mar 2027 | Cebu → Tokyo | 4.5 hours | £200 | |
-| Wed 31 Mar 2027 | Tokyo → Seoul | 2.5 hours | £130 | |
+| Wed 31 Mar 2027 | Tokyo → Seoul | 2.5 hours | £100 | |
 | Sun 4 Apr 2027 | Seoul → Hong Kong | 3.5 hours | £100 | |
 | Wed 21 Apr 2027 | Beijing → London | 11 hours | £500 | |
-| **Total** | | | **£2,010** | |
+| **Total** | | | **£1,980** | |
 
 ### Trains
 | Date | Route | Travel Time | Cost (GBP) | Booked |
@@ -373,29 +373,29 @@
 | Region | Nights | Average Cost/Night | Total Cost |
 |--------|--------|-------------------|------------|
 | London | 2 | £100 | £200 |
-| Southeast Asia | 25 | £34 | £850 |
+| Southeast Asia | 25 | £33 | £827 |
 | Taiwan | 4 | £50 | £200 |
 | Philippines | 6 | £33 | £200 |
 | Japan | 15 | £67 | £1,005 |
 | South Korea | 4 | £73 | £290 |
 | Greater China | 17 | £61 | £1,030 |
-| **Total Accommodation** | **73** | **£51 avg** | **£3,775** |
+| **Total Accommodation** | **73** | **£51 avg** | **£3,752** |
 
 ### Transportation
 | Category | Approximate Cost |
 |----------|------------------|
-| Flights | £2,010 |
+| Flights | £1,980 |
 | Train Travel | £943 |
 | Private Cars | £165 |
 | Boats | £240 |
-| **Total Transportation** | **£3,358** |
+| **Total Transportation** | **£3,328** |
 
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|----------|
-| Accommodation | £3,775 |
-| Transportation | £3,358 |
-| **Trip Total** | **£7,133** |
+| Accommodation | £3,752 |
+| Transportation | £3,328 |
+| **Trip Total** | **£7,080** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,850 total
@@ -407,9 +407,9 @@
 - **Local Transport:** £10/day = £770 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,133  
+**Core Costs (Accommodation + Transportation):** £7,080  
 **Additional Expenses:** £6,439 total  
-**Total Trip Budget:** £13,572
+**Total Trip Budget:** £13,519
 
 *Note: Costs are based on mid-range options and vary significantly by season, advance booking, and personal choices. Southeast Asia offers the best value, while Japan and South Korea tend to be moderately priced.*
 
