@@ -42,12 +42,12 @@
 
 - **Can Tho:** 1 night (by private car) *Arrive: Tue 16 Feb 2027*
   - ***Booked hotel:*** [LION 11 Can Tho Hotel](https://www.booking.com/hotel/vn/lion-11-can-tho.html) - £20/night
-  - Cai Rang Floating Market
+  - Cai Rang Floating Market morning boat trip
   - Mekong Delta canals
 
 - **Ho Chi Minh City:** 4 nights (by private car) *Arrive: Wed 17 Feb 2027*
   - ***Booked hotel:*** [Premium KaS Luxury Hotel - Metro Ben Thanh](https://www.booking.com/searchresults.html?ss=Minh+Luxury+Eliana+Hotel+Ho+Chi+Minh) - £41/night
-  - War Remnants Museum and Cu Chi Tunnels
+  - War Remnants Museum
   - Ben Thanh Market and Saigon Central Post Office
   - Rooftop bars and street food tours
   - Notre-Dame Cathedral and Reunification Palace
@@ -56,7 +56,6 @@
   - *Recommended hotel: [Hai Hội Villa Hoi An](https://www.booking.com/searchresults.html?ss=Hai+Hội+Villa+Hoi+An)* - £20-25/night
   - Ancient Town UNESCO site
   - Lantern Festival (if timing aligns)
-  - My Son Sanctuary day trip
 
 - **Da Nang:** 3 nights (by taxi) *Arrive: Tue 23 Feb 2027*
   - ***Booked hotel:*** [Coral Cove Hotel](https://www.booking.com/hotel/vn/coral-cove.html) - £26/night
@@ -64,6 +63,7 @@
   - Dragon Bridge and Han River waterfront
   - My Khe Beach
   - Golden Bridge at Ba Na Hills
+  - My Son Sanctuary day trip
 
 - **Hue:** 2 nights (by private car) *Arrive: Fri 26 Feb 2027*
   - ***Booked hotel:*** [Hue Serene Palace Hotel](https://www.booking.com/hotel/vn/hue-serene-palace.html) - £31/night
@@ -102,6 +102,7 @@
   - Hot springs in Beitou
   - Explore Dadaocheng historic district
   - Visit Elephant Mountain for sunset views
+  - Day trip to Tamsui Fisherman's Wharf
 
 ---
 
