@@ -51,6 +51,9 @@
   - Ben Thanh Market and Saigon Central Post Office
   - Rooftop bars and street food tours
   - Notre-Dame Cathedral and Reunification Palace
+  - The Cafe Apartment
+  - Hầm Vũ Khí Bí Mật Secret Weapon Cellar
+  - Cholon (Binh Tay Market, Thien Hau Pagoda, Hao Sy Phuong)
 
 - **Hoi An:** 2 nights (by flight) *Arrive: Sun 21 Feb 2027*
   - *Recommended hotel: [Hai Hội Villa Hoi An](https://www.booking.com/searchresults.html?ss=Hai+Hội+Villa+Hoi+An)* - £20-25/night
@@ -84,7 +87,9 @@
   - Old Quarter exploration
   - Temple of Literature, Hoan Kiem Lake
   - Street food and coffee culture
+  - Imperial Citadel of Thang Long
   - Perfume Pagoda day trip
+  - Ninh Binh (Tràng An Landscape Complex)
 
 ---
 
