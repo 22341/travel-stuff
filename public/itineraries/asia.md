@@ -98,10 +98,9 @@
   - Shilin Night Market and street food culture
   - Chiang Kai-shek Memorial Hall
   - Longshan Temple and Ximending district
-  - Day trip to Jiufen and Shifen
-  - Hot springs in Beitou
   - Explore Dadaocheng historic district
   - Visit Elephant Mountain for sunset views
+  - Day trip to Jiufen and Shifen
   - Day trip to Tamsui Fisherman's Wharf
 
 ---
