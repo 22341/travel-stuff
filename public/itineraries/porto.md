@@ -12,7 +12,7 @@
 **Days 1-2: London (1 night)** - *Arriving Friday 29 May 2026*
 * **Arrival:** Day 1
 * **Highlights:** Last-minute London exploration, St Pancras departure
-* **Hotel:** Premier Inn Hub Brick Lane (£92/night) - Close to City attractions, easy access to St Pancras ✓ BOOKED
+* **Hotel:** Premier Inn Hub Spitalfields (£92/night) - Close to City attractions, easy access to St Pancras ✓ BOOKED
 * **Transport:** Eurostar to Paris (2h 16m)
 
 **Days 2-5: Paris (3 nights)** - *Arriving Saturday 30 May 2026*
