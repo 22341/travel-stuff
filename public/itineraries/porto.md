@@ -25,7 +25,7 @@
 * **Arrival:** Day 5 evening
 * **Highlights:** Pintxos bars, La Concha beach, Basque culture, surfing
 * **Hotel:** [Hotel Niza](https://www.booking.com/hotel/es/niza.en-gb.html?aid=356287&label=metatripad-link-dmetagb-hotel-29817_xqdz-b431b9098f6f11a0bd426d93d62fab55_los-03_bw-291_tod-13_dom-couk_curr-GBP_gst-01_nrm-01_clkid-fbecd72d-b8ce-4dc2-b156-65a47beb0431_aud-0000_mbl-M_pd-T_sc-2_defdate-0_spo-0_clksrc-0_mcid-10&sid=b4b8d6e721f49fbc272ec53ddd997337&all_sr_blocks=2981705_411793794_0_2_0&checkin=2026-06-02&checkout=2026-06-05&dest_id=-401497&dest_type=city&dist=0&group_adults=1&group_children=0&hapos=1&highlighted_blocks=2981705_411793794_0_2_0&hpos=1&matching_block_id=2981705_411793794_0_2_0&no_rooms=1&req_adults=1&req_children=0&room1=A&sb_price_type=total&sr_order=popularity&sr_pri_blocks=2981705_411793794_0_2_0__29700&srepoch=1755259330&srpvid=e19b549681951e87&type=total&ucfs=1&) (€99/night) - Beachfront ✓ BOOKED
-* **Transport:** Regional train to Bilbao (2-3h)
+* **Transport:** Alsa Standard bus to Bilbao (1h 20m)
 
 **Days 8-11: Bilbao (3 nights)** - *Arriving Friday 5 June 2026*
 * **Arrival:** Day 8 evening
@@ -69,7 +69,6 @@
 | Sat 30 May              | London → Paris | Eurostar | 2h 16m | Multiple daily | £98 | ✓ |
 | Tue 2 Jun               | Paris → Hendaye | TGV Duplex | 4h 36m | Montparnasse | £50 | ✓ |
 | Tue 2 Jun               | Hendaye → San Sebastián | Euskotren | 37m | Every 30 mins | €3-5 | N/A |
-| Fri 5 Jun               | San Sebastián → Bilbao | Euskotren | 2-3h | Multiple daily | €10-15 | |
 | Mon 8 Jun               | Bilbao → Santander | FEVE | 3h 30m | 8:31am | €8.90 | |
 | Tue 9 Jun               | Santander → Oviedo | FEVE | 5h 27m | 8:29am | €15-20 | |
 | Wed 17 Jun              | Manchester → Leeds | TransPennine | 1h 30m | Hourly | £20-25 | |
@@ -78,10 +77,11 @@
 
 | Date                    | Route | Bus | Duration | Departure | Price | Booked |
 |-------------------------|-------|-----|----------|-----------|-------|--------|
+| Fri 5 Jun               | San Sebastián → Bilbao | Alsa Standard | 1h 20m | 11:30am | €11 | |
 | Thu 11 Jun              | Oviedo → Santiago | Alsa Supra | 4h 30m | 10:00am | €38 | |
 | Sat 13 Jun              | Santiago → Porto | Alsa Supra | 3h | 9:30am | €21 | |
 
-**Total Estimated Cost:** £26 + £98 + £50 + £20-25 + (€95.90-107.90 × £0.87) = **£277-293** (approximately)
+**Total Estimated Cost:** £26 + £98 + £50 + £20-25 + (€29.90-40.90 × £0.87) = **£220-236** (approximately)
 
 ## Accommodation Summary
 **Total Nights:** 19 nights  
@@ -106,9 +106,9 @@
 
 ## Total Trip Cost Estimate
 - **Accommodation:** £1,382
-- **Train Travel:** £194-199 (GBP) + €36.90-48.90 (£32-43) = £226-242
-- **Bus Travel:** €59 (£51)
+- **Train Travel:** £194-199 (GBP) + €26.90-28.90 (£23-25) = £217-224
+- **Bus Travel:** €70 (£61)
 - **Return Flight:** £88
 - **Daily Expenses** (meals/drinks, attractions, local transport): £1,520-1,900 (estimated £80-100 per day × 19 days)
 
-**Grand Total:** £3,267-3,663
+**Grand Total:** £3,268-3,653
