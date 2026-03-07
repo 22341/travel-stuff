@@ -81,7 +81,7 @@
 | Thu 11 Jun              | Oviedo → Santiago | Alsa Supra | 4h 30m | 10:00am | €38 | |
 | Sat 13 Jun              | Santiago → Porto | Alsa Supra | 3h | 9:30am | €21 | |
 
-**Total Estimated Cost:** £26 + £98 + £50 + €112-183 + €38 + €21 + £20-25 = **£315-398** (approximately)
+**Total Estimated Cost:** £26 + £98 + £50 + £20-25 + (€95.90-107.90 × £0.87) = **£277-293** (approximately)
 
 ## Accommodation Summary
 **Total Nights:** 19 nights  
@@ -106,9 +106,9 @@
 
 ## Total Trip Cost Estimate
 - **Accommodation:** £1,382
-- **Train Travel:** £264-398
-- **Bus Travel:** £51 (€59 × £0.87)
+- **Train Travel:** £194-199 (GBP) + €36.90-48.90 (£32-43) = £226-242
+- **Bus Travel:** €59 (£51)
 - **Return Flight:** £88
 - **Daily Expenses** (meals/drinks, attractions, local transport): £1,520-1,900 (estimated £80-100 per day × 19 days)
 
-**Grand Total:** £3,305-3,819
+**Grand Total:** £3,267-3,663
