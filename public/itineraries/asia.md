@@ -58,7 +58,7 @@
 - **Hoi An:** 2 nights (by flight) *Arrive: Sun 21 Feb 2027*
   - *Recommended hotel: [Hai Hội Villa Hoi An](https://www.booking.com/searchresults.html?ss=Hai+Hội+Villa+Hoi+An)* - £20-25/night
   - Ancient Town UNESCO site
-  - Lantern Festival (if timing aligns)
+  - Taste Vietnam morning cooking class
 
 - **Da Nang:** 3 nights (by taxi) *Arrive: Tue 23 Feb 2027*
   - ***Booked hotel:*** [Coral Cove Hotel](https://www.booking.com/hotel/vn/coral-cove.html) - £26/night
@@ -89,7 +89,7 @@
   - Street food and coffee culture
   - Imperial Citadel of Thang Long
   - Perfume Pagoda day trip
-  - Ninh Binh (Tràng An Landscape Complex)
+  - Day trip to Ninh Binh (Tràng An Landscape Complex)
 
 ---
 
@@ -316,7 +316,7 @@
 ### Flights
 | Date | Route | Travel Time | Cost (GBP) | Booked |
 |--------------------------|-------|------------------------|------------|--------|
-| Sun 7 Feb 2027 | London → Kuala Lumpur | 13 hours | £610 | |
+| Sun 7 Feb 2027 | London → Kuala Lumpur | 13 hours | £556 | ✅ |
 | Thu 11 Feb 2027 | Kuala Lumpur → Phnom Penh | 2 hours | £100 | |
 | Sun 21 Feb 2027 | Ho Chi Minh City → Da Nang | 1.5 hours | £60 | |
 | Sat 6 Mar 2027 | Hanoi → Taipei | 3 hours | £150 | |
@@ -326,7 +326,7 @@
 | Wed 31 Mar 2027 | Tokyo → Seoul | 2.5 hours | £100 | |
 | Sun 4 Apr 2027 | Seoul → Hong Kong | 3.5 hours | £100 | |
 | Wed 21 Apr 2027 | Beijing → London | 11 hours | £500 | |
-| **Total** | | | **£1,980** | |
+| **Total** | | | **£1,926** | |
 
 ### Trains
 | Date | Route | Travel Time | Cost (GBP) | Booked |
@@ -349,11 +349,11 @@
 ### Private Cars
 | Date | Route | Travel Time | Cost (GBP) | Booked |
 |------|-------|------------------------|------------|--------|
-| Tue 16 Feb 2027 | Chau Doc → Can Tho | 2 hours | £30 | |
-| Wed 17 Feb 2027 | Can Tho → Ho Chi Minh City | 3 hours | £40 | |
+| Tue 16 Feb 2027 | Chau Doc → Can Tho | 3 hours | £35 | |
+| Wed 17 Feb 2027 | Can Tho → Ho Chi Minh City | 4 hours | £40 | |
 | Fri 26 Feb 2027 | Da Nang → Hue | 3 hours | £30 | |
 | Sat 27 Feb 2027 | Annam Tour (Guided by Mr. Vu) | Full day | £65 | |
-| **Total** | | | **£165** | |
+| **Total** | | | **£170** | |
 
 ### Boats
 | Route | Duration | Cost (GBP) | Booked |
@@ -388,14 +388,14 @@
 | Train Travel | £943 |
 | Private Cars | £165 |
 | Boats | £240 |
-| **Total Transportation** | **£3,328** |
+| **Total Transportation** | **£3,333** |
 
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|----------|
 | Accommodation | £3,762 |
-| Transportation | £3,328 |
-| **Trip Total** | **£7,090** |
+| Transportation | £3,279 |
+| **Trip Total** | **£7,041** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -407,9 +407,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,090  
+**Core Costs (Accommodation + Transportation):** £7,041  
 **Additional Expenses:** £6,372 total  
-**Total Trip Budget:** £13,462
+**Total Trip Budget:** £13,413
 
 *Note: Costs are based on mid-range options and vary significantly by season, advance booking, and personal choices. Southeast Asia offers the best value, while Japan and South Korea tend to be moderately priced.*
 
