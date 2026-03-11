@@ -314,8 +314,8 @@
 ## Transportation Schedule
 
 ### Flights
-| Date | Route | Travel Time | Cost (GBP) | Booked |
-|--------------------------|-------|------------------------|------------|--------|
+| Date | Route | Travel Time | Cost (GBP) | Bkd |
+|--------------------------|-------|------------------------|----------:|:-----:|
 | Sun 7 Feb 2027 | London → Kuala Lumpur | 13 hours | £556 | ✅ |
 | Thu 11 Feb 2027 | Kuala Lumpur → Phnom Penh | 2 hours | £100 | |
 | Sun 21 Feb 2027 | Ho Chi Minh City → Da Nang | 1.5 hours | £60 | |
@@ -329,8 +329,8 @@
 | **Total** | | | **£1,926** | |
 
 ### Trains
-| Date | Route | Travel Time | Cost (GBP) | Booked |
-|------|-------|------------------------|------------|--------|
+| Date | Route | Travel Time | Cost (GBP) | Bkd |
+|------|-------|------------------------|----------:|:-----:|
 | Sat 6 Feb 2027 | Leeds → London | 2.5 hours | £30 | |
 | Sun 28 Feb 2027 | Hue → Hanoi (overnight) | 14-15 hours | £200 | |
 | Fri 19 Mar 2027 | Tokyo → Okayama | 3.5 hours | £119 | |
@@ -347,8 +347,8 @@
 | **Total** | | | **£943** | |
 
 ### Private Cars
-| Date | Route | Travel Time | Cost (GBP) | Booked |
-|------|-------|------------------------|------------|--------|
+| Date | Route | Travel Time | Cost (GBP) | Bkd |
+|------|-------|------------------------|----------:|:-----:|
 | Tue 16 Feb 2027 | Chau Doc → Can Tho | 3 hours | £35 | |
 | Wed 17 Feb 2027 | Can Tho → Ho Chi Minh City | 4 hours | £40 | |
 | Fri 26 Feb 2027 | Da Nang → Hue | 3 hours | £30 | |
@@ -356,8 +356,8 @@
 | **Total** | | | **£170** | |
 
 ### Boats
-| Route | Duration | Cost (GBP) | Booked |
-|-------|----------|------------------------|--------|
+| Route | Duration | Cost (GBP) | Bkd |
+|-------|----------|----------:|:-----:|
 | Hang Chau Ferry (Phnom Penh → Chau Doc) | 6 hours | £45 | |
 | Ha Long Bay Cruise | 1 night | £140 | |
 | Explore Vietnam – Private Imperial River Tour | Half day | £55 | |
