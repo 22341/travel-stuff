@@ -247,7 +247,7 @@
   - Shaanxi History Museum
 
 - **Beijing:** 4 nights (by train) *Arrive: Sun 18 Apr 2027*
-  - ***Booked hotel:*** [Beijing Yasmine Serviced Apartments](https://www.booking.com/hotel/cn/beijing-yasmine-serviced-apartments.en-gb.html) - £69/night
+  - ***Booked hotel:*** [Beijing Yasmine Serviced Apartments](https://www.booking.com/hotel/cn/bei-jing-ya-si-ming-hai-cheng-fu-wu-gong-yu.html) - £69/night
   - Great Wall of China (Mutianyu section)
   - Forbidden City and Tiananmen Square
   - Temple of Heaven and hutong tours
