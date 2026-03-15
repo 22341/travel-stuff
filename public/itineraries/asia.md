@@ -247,7 +247,7 @@
   - Shaanxi History Museum
 
 - **Beijing:** 4 nights (by train) *Arrive: Sun 18 Apr 2027*
-  - *Recommended hotel: [East Sacred Hotel](https://www.booking.com/searchresults.html?ss=East+Sacred+Hotel+Beijing)* - £55-65/night
+  - ***Booked hotel:*** [Beijing Yasmine Serviced Apartments](https://www.booking.com/hotel/cn/beijing-yasmine-serviced-apartments.en-gb.html) - £69/night
   - Great Wall of China (Mutianyu section)
   - Forbidden City and Tiananmen Square
   - Temple of Heaven and hutong tours
@@ -379,7 +379,7 @@
 | Japan | 15 | £67 | £1,005 |
 | South Korea | 4 | £108 | £432 |
 | Greater China | 17 | £61 | £1,030 |
-| **Total Accommodation** | **74** | **£54 avg** | **£3,933** |
+| **Total Accommodation** | **74** | **£54 avg** | **£3,969** |
 
 ### Transportation
 | Category | Approximate Cost |
@@ -393,9 +393,9 @@
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|----------|
-| Accommodation | £3,933 |
+| Accommodation | £3,969 |
 | Transportation | £3,279 |
-| **Trip Total** | **£7,212** |
+| **Trip Total** | **£7,248** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -407,9 +407,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,212  
+**Core Costs (Accommodation + Transportation):** £7,248  
 **Additional Expenses:** £6,372 total  
-**Total Trip Budget:** £13,584
+**Total Trip Budget:** £13,620
 
 *Note: Costs are based on mid-range options and vary significantly by season, advance booking, and personal choices. Southeast Asia offers the best value, while Japan and South Korea tend to be moderately priced.*
 
