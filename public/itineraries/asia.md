@@ -11,7 +11,7 @@
 
 ### London
 - **London:** 1 night (departure prep) *Arrive: Sat 6 Feb 2027*
-  - ***Booked hotel:*** [Premier Inn Hub Paddington](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/hub-london-paddington-paddington-station.html?ARRdd=06&ARRmm=02&ARRyyyy=2027&NIGHTS=1&ROOMS=1&ADULT1=1&CHILD1=0&COT1=0&INTTYP1=DB&BRAND=HUB) - £100/night
+  - ***Booked hotel:*** [Premier Inn Hub Paddington](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/hub-london-paddington-paddington-station.html?ARRdd=06&ARRmm=02&ARRyyyy=2027&NIGHTS=1&ROOMS=1&ADULT1=1&CHILD1=0&COT1=0&INTTYP1=DB&BRAND=HUB) - £81/night
 - **Overnight Flight to Kuala Lumpur** *Depart: Sun 7 Feb 2027*
   - 13-hour overnight flight
 
@@ -339,10 +339,10 @@
 | Sat 27 Mar 2027 | Himeji → Kobe | 40 mins | £6 | |
 | Mon 29 Mar 2027 | Kobe → Kanazawa | 3 hours | £123 | |
 | Wed 31 Mar 2027 | Kanazawa → Tokyo | 3 hours | £123 | |
-| Fri 9 Apr 2027 | Hong Kong → Guilin | 3-4 hours | £50 | |
-| Mon 12 Apr 2027 | Guilin → Chengdu | 5-6 hours | £50 | |
-| Fri 16 Apr 2027 | Chengdu → Xi'an | 3.5-4 hours | £35 | |
-| Sun 18 Apr 2027 | Xi'an → Beijing | 5-6 hours | £60 | |
+| Fri 9 Apr 2027 | Hong Kong → Guilin | 3.5 hours | £50 | |
+| Mon 12 Apr 2027 | Guilin → Chengdu | 5.5 hours | £50 | |
+| Fri 16 Apr 2027 | Chengdu → Xi'an | 4 hours | £35 | |
+| Sun 18 Apr 2027 | Xi'an → Beijing | 4.5 hours | £60 | |
 | Fri 23 Apr 2027 | London → Leeds | 2.5 hours | £30 | |
 | **Total** | | | **£943** | |
 
@@ -372,14 +372,14 @@
 ### Accommodation (73 nights)
 | Region | Nights | Average Cost/Night | Total Cost |
 |--------|--------|-------------------|------------|
-| London | 2 | £100 | £200 |
+| London | 2 | £91 | £181 |
 | Southeast Asia | 25 | £33 | £828 |
 | Taiwan | 5 | £50 | £250 |
 | Philippines | 6 | £33 | £200 |
 | Japan | 15 | £67 | £1,005 |
 | South Korea | 4 | £108 | £432 |
 | Greater China | 17 | £61 | £1,030 |
-| **Total Accommodation** | **74** | **£54 avg** | **£3,969** |
+| **Total Accommodation** | **74** | **£53 avg** | **£3,950** |
 
 ### Transportation
 | Category | Approximate Cost |
@@ -393,9 +393,9 @@
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|----------|
-| Accommodation | £3,969 |
+| Accommodation | £3,950 |
 | Transportation | £3,279 |
-| **Trip Total** | **£7,248** |
+| **Trip Total** | **£7,229** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -407,9 +407,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,248  
+**Core Costs (Accommodation + Transportation):** £7,229  
 **Additional Expenses:** £6,372 total  
-**Total Trip Budget:** £13,620
+**Total Trip Budget:** £13,601
 
 *Note: Costs are based on mid-range options and vary significantly by season, advance booking, and personal choices. Southeast Asia offers the best value, while Japan and South Korea tend to be moderately priced.*
 
