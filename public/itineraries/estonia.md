@@ -124,7 +124,7 @@
 ### Trains
 | Date | Route | Travel Time | Cost (GBP) |
 |------|-------|-------------|------------|
-| Mon 23 Mar 2026 | Riga → Tartu | 3h 45m | £16 |
+| Mon 23 Mar 2026 | Riga → Tartu (BOOKED) | 3h 45m | £16 |
 | Wed 25 Mar 2026 | Tartu → Tallinn | 2h | £11 |
 | **Total** | | | **£27** |
 
