@@ -125,10 +125,10 @@
 | Date | Route | Travel Time | Cost (GBP) |
 |------|-------|-------------|------------|
 | Mon 23 Mar 2026 | Riga → Tartu (BOOKED) | 3h 45m | £16 |
-| Wed 25 Mar 2026 | Tartu → Tallinn | 2h | £11 |
-| **Total** | | | **£27** |
+| Wed 25 Mar 2026 | Tartu → Tallinn (BOOKED) | 2h | £13 |
+| **Total** | | | **£29** |
 
-**Total Transportation Cost:** £282
+**Total Transportation Cost:** £284
 
 ---
 
@@ -146,15 +146,15 @@
 | Category | Cost |
 |----------|------|
 | Flights (BOOKED) | £255 |
-| Trains | £27 |
-| **Total Transportation** | **£282** |
+| Trains | £29 |
+| **Total Transportation** | **£284** |
 
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|----------|
 | Accommodation (BOOKED) | £486.88 |
-| Transportation | £282.00 |
-| **Trip Total** | **£768.88** |
+| Transportation | £284.00 |
+| **Trip Total** | **£770.88** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £80/day = £720 total (9 days)
@@ -166,9 +166,9 @@
 - **Airport Parking (Leeds):** £37.50
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £768.88  
+**Core Costs (Accommodation + Transportation):** £770.88  
 **Additional Expenses:** £816.50 total  
-**Total Trip Budget:** £1,585.38
+**Total Trip Budget:** £1,587.38
 
 *Note: Costs are based on confirmed bookings where indicated. Estonia and Latvia use the Euro; exchange rate of 0.8725 used for conversions. March offers good value as it's low season, though weather can be cool.*
 
