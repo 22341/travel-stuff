@@ -56,7 +56,7 @@
   - Cholon (Binh Tay Market, Thien Hau Pagoda, Hao Sy Phuong)
 
 - **Hoi An:** 2 nights (by flight) *Arrive: Sun 21 Feb 2027*
-  - *Recommended hotel: [Hai Hội Villa Hoi An](https://www.booking.com/searchresults.html?ss=Hai+Hội+Villa+Hoi+An)* - £20-25/night
+  - ***Booked hotel:*** [Little Town Villa](https://www.booking.com/hotel/vn/little-town-villa.html) - £32/night
   - Ancient Town UNESCO site
   - Taste Vietnam morning cooking class
 
@@ -373,13 +373,13 @@
 | Region | Nights | Average Cost/Night | Total Cost |
 |--------|--------|-------------------|------------|
 | London | 2 | £91 | £181 |
-| Southeast Asia | 25 | £33 | £824 |
+| Southeast Asia | 25 | £34 | £843 |
 | Taiwan | 5 | £50 | £250 |
 | Philippines | 6 | £31 | £183 |
 | Japan | 15 | £67 | £1,005 |
 | South Korea | 4 | £108 | £432 |
 | Greater China | 17 | £61 | £1,030 |
-| **Total Accommodation** | **74** | **£53 avg** | **£3,929** |
+| **Total Accommodation** | **74** | **£53 avg** | **£3,948** |
 
 ### Transportation
 | Category | Approximate Cost |
@@ -393,9 +393,9 @@
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|----------|
-| Accommodation | £3,929 |
+| Accommodation | £3,948 |
 | Transportation | £3,279 |
-| **Trip Total** | **£7,208** |
+| **Trip Total** | **£7,227** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -407,9 +407,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,208  
+**Core Costs (Accommodation + Transportation):** £7,227  
 **Additional Expenses:** £6,372 total  
-**Total Trip Budget:** £13,580
+**Total Trip Budget:** £13,599
 
 ---
 
