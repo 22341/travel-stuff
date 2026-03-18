@@ -46,7 +46,7 @@
   - Mekong Delta canals
 
 - **Ho Chi Minh City:** 4 nights (by private car) *Arrive: Wed 17 Feb 2027*
-  - ***Booked hotel:*** [Premium KaS Luxury Hotel - Metro Ben Thanh](https://www.booking.com/searchresults.html?ss=Minh+Luxury+Eliana+Hotel+Ho+Chi+Minh) - £41/night
+  - ***Booked hotel:*** [Ben Thanh Retreats Hotel](https://www.booking.com/hotel/vn/ben-thanh-retreats.html) - £40/night
   - War Remnants Museum
   - Ben Thanh Market and Saigon Central Post Office
   - Rooftop bars and street food tours
@@ -125,7 +125,7 @@
 
 ### Cebu
 - **Cebu City:** 3 nights *Arrive: Sun 14 Mar 2027*
-  - *Recommended hotel: [Red Planet Cebu](https://www.booking.com/searchresults.html?ss=Red+Planet+Cebu)* - £25-35/night
+  - ***Booked hotel:*** [Red Planet Cebu](https://www.booking.com/hotel/ph/red-planet-cebu.en-gb.html) - £26/night
   - Magellan's Cross and Basilica del Santo Niño
   - Fort San Pedro and Cebu Heritage Monument
   - Tops Lookout for panoramic city views
@@ -373,13 +373,13 @@
 | Region | Nights | Average Cost/Night | Total Cost |
 |--------|--------|-------------------|------------|
 | London | 2 | £91 | £181 |
-| Southeast Asia | 25 | £33 | £828 |
+| Southeast Asia | 25 | £33 | £824 |
 | Taiwan | 5 | £50 | £250 |
-| Philippines | 6 | £33 | £200 |
+| Philippines | 6 | £31 | £183 |
 | Japan | 15 | £67 | £1,005 |
 | South Korea | 4 | £108 | £432 |
 | Greater China | 17 | £61 | £1,030 |
-| **Total Accommodation** | **74** | **£53 avg** | **£3,950** |
+| **Total Accommodation** | **74** | **£53 avg** | **£3,929** |
 
 ### Transportation
 | Category | Approximate Cost |
@@ -393,9 +393,9 @@
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|----------|
-| Accommodation | £3,950 |
+| Accommodation | £3,929 |
 | Transportation | £3,279 |
-| **Trip Total** | **£7,229** |
+| **Trip Total** | **£7,208** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -407,11 +407,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,229  
+**Core Costs (Accommodation + Transportation):** £7,208  
 **Additional Expenses:** £6,372 total  
-**Total Trip Budget:** £13,601
-
-*Note: Costs are based on mid-range options and vary significantly by season, advance booking, and personal choices. Southeast Asia offers the best value, while Japan and South Korea tend to be moderately priced.*
+**Total Trip Budget:** £13,580
 
 ---
 
