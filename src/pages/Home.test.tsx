@@ -33,17 +33,11 @@ describe("Home", () => {
         <Home />
       </MemoryRouter>,
     );
-    expect(screen.getByRole("link", { name: /estonia/i })).toHaveAttribute(
-      "href",
-      "/estonia",
-    );
-    expect(screen.getByRole("link", { name: /porto by train/i })).toHaveAttribute(
-      "href",
-      "/porto",
-    );
-    expect(screen.getByRole("link", { name: /southeast asia/i })).toHaveAttribute(
-      "href",
-      "/asia",
-    );
+    expect(
+      screen.getByRole("link", { name: /porto by train/i }),
+    ).toHaveAttribute("href", "/porto");
+    expect(
+      screen.getByRole("link", { name: /southeast asia/i }),
+    ).toHaveAttribute("href", "/asia");
   });
 });

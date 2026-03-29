@@ -10,11 +10,6 @@ export interface Trip {
 
 export const trips: Trip[] = [
   {
-    slug: "estonia",
-    title: "Estonia",
-    year: 2026,
-  },
-  {
     slug: "porto",
     title: "Porto by Train",
     year: 2026,
