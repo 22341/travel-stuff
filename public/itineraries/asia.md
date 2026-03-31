@@ -37,7 +37,7 @@
 
 ### Vietnam Journey
 - **Chau Doc:** 1 night (by Hang Chau ferry from Phnom Penh) *Arrive: Mon 15 Feb 2027*
-  - ***Booked hotel:*** [Hostel Dang Loi](https://www.booking.com/hotel/vn/hostel-dang-loi-chau-doc.en-gb.html) - £12/night
+  - ***Booked hotel:*** [Hostel Dang Loi](https://www.booking.com/hotel/vn/hostel-dang-loi.en-gb.html) - £12/night
   - Mekong Delta riverside town
 
 - **Can Tho:** 1 night (by private car) *Arrive: Tue 16 Feb 2027*
@@ -114,7 +114,7 @@
 
 ### Manila
 - **Manila:** 3 nights *Arrive: Thu 11 Mar 2027*
-  - *Recommended hotel: [The Milano Residences](https://www.booking.com/searchresults.html?ss=The+Milano+Residences+Manila)* - £30-40/night
+  - ***Booked hotel:*** [Royal Bellagio Hotel](https://www.booking.com/hotel/ph/royal-bellagio.html) - £34/night
   - Intramuros historic walled city
   - Rizal Park and Fort Santiago
   - Manila Cathedral and San Agustin Church
@@ -375,11 +375,11 @@
 | London | 2 | £91 | £181 |
 | Southeast Asia | 25 | £34 | £843 |
 | Taiwan | 5 | £50 | £250 |
-| Philippines | 6 | £31 | £183 |
+| Philippines | 6 | £30 | £180 |
 | Japan | 15 | £67 | £1,005 |
 | South Korea | 4 | £108 | £432 |
 | Greater China | 17 | £61 | £1,030 |
-| **Total Accommodation** | **74** | **£53 avg** | **£3,948** |
+| **Total Accommodation** | **74** | **£53 avg** | **£3,945** |
 
 ### Transportation
 | Category | Approximate Cost |
@@ -393,9 +393,9 @@
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|----------|
-| Accommodation | £3,948 |
+| Accommodation | £3,945 |
 | Transportation | £3,279 |
-| **Trip Total** | **£7,227** |
+| **Trip Total** | **£7,224** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -407,9 +407,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,227  
+**Core Costs (Accommodation + Transportation):** £7,224  
 **Additional Expenses:** £6,372 total  
-**Total Trip Budget:** £13,599
+**Total Trip Budget:** £13,596
 
 ---
 

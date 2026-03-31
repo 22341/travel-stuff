@@ -34,8 +34,8 @@ describe("Home", () => {
       </MemoryRouter>,
     );
     expect(
-      screen.getByRole("link", { name: /porto by train/i }),
-    ).toHaveAttribute("href", "/porto");
+      screen.getByRole("link", { name: /colin in australia/i }),
+    ).toHaveAttribute("href", "/australia");
     expect(
       screen.getByRole("link", { name: /southeast asia/i }),
     ).toHaveAttribute("href", "/asia");
