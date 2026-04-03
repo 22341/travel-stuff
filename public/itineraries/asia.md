@@ -315,22 +315,22 @@
 
 ### Flights
 | Date | Route | Travel Time | Cost (GBP) | Bkd |
-|--------------------------|-------|------------------------|----------:|:-----:|
+|------|-------|-------------|----------:|:---:|
 | Sun 7 Feb 2027 | London → Kuala Lumpur | 13 hours | £556 | ✅ |
-| Thu 11 Feb 2027 | Kuala Lumpur → Phnom Penh | 2 hours | £100 | |
+| Thu 11 Feb 2027 | Kuala Lumpur → Phnom Penh | 2 hours | £57 | ✅ |
 | Sun 21 Feb 2027 | Ho Chi Minh City → Da Nang | 1.5 hours | £60 | |
-| Sat 6 Mar 2027 | Hanoi → Taipei | 3 hours | £150 | |
-| Thu 11 Mar 2027 | Taipei → Manila | 2.5 hours | £120 | |
-| Sun 14 Mar 2027 | Manila → Cebu | 1.5 hours | £40 | |
-| Wed 17 Mar 2027 | Cebu → Tokyo | 4.5 hours | £200 | |
+| Wed 10 Mar 2027 | Hanoi → Taipei | 3 hours | £150 | |
+| Thu 11 Mar 2027 | Taipei → Manila | 2.5 hours | £96 | ✅ |
+| Sun 14 Mar 2027 | Manila → Cebu | 1.5 hours | £37 | ✅ |
+| Wed 17 Mar 2027 | Cebu → Tokyo | 4.5 hours | £182 | ✅ |
 | Thu 1 Apr 2027 | Tokyo → Seoul | 2.5 hours | £100 | |
 | Mon 5 Apr 2027 | Seoul → Hong Kong | 3.5 hours | £100 | |
 | Thu 22 Apr 2027 | Beijing → London | 11 hours | £500 | |
-| **Total** | | | **£1,926** | |
+| **Total** | | | **£1,838** | |
 
 ### Trains
 | Date | Route | Travel Time | Cost (GBP) | Bkd |
-|------|-------|------------------------|----------:|:-----:|
+|------|-------|-------------|----------:|:---:|
 | Sat 6 Feb 2027 | Leeds → London | 2.5 hours | £30 | |
 | Sun 28 Feb 2027 | Hue → Hanoi (overnight) | 14-15 hours | £200 | |
 | Sat 20 Mar 2027 | Tokyo → Okayama | 3.5 hours | £119 | |
@@ -348,7 +348,7 @@
 
 ### Private Cars
 | Date | Route | Travel Time | Cost (GBP) | Bkd |
-|------|-------|------------------------|----------:|:-----:|
+|------|-------|-------------|----------:|:---:|
 | Tue 16 Feb 2027 | Chau Doc → Can Tho | 3 hours | £35 | |
 | Wed 17 Feb 2027 | Can Tho → Ho Chi Minh City | 4 hours | £40 | |
 | Fri 26 Feb 2027 | Da Nang → Hue | 3 hours | £30 | |
@@ -357,45 +357,43 @@
 
 ### Boats
 | Route | Duration | Cost (GBP) | Bkd |
-|-------|----------|----------:|:-----:|
+|-------|----------|----------:|:---:|
 | Hang Chau Ferry (Phnom Penh → Chau Doc) | 6 hours | £45 | |
 | Ha Long Bay Cruise | 1 night | £140 | |
 | Explore Vietnam – Private Imperial River Tour | Half day | £55 | |
 | **Total** | | **£240** | |
 
-**Note:** Costs are approximate and vary significantly based on season, booking timing, class of service, and specific operators. High-speed rail in China and Japan Rail Pass options can affect pricing.
-
 ---
 
 ## Total Trip Cost Estimate
 
-### Accommodation (73 nights)
+### Accommodation (74 nights)
 | Region | Nights | Average Cost/Night | Total Cost |
-|--------|--------|-------------------|------------|
+|--------|--------|-------------------|----------:|
 | London | 2 | £91 | £181 |
 | Southeast Asia | 25 | £34 | £843 |
 | Taiwan | 5 | £50 | £250 |
 | Philippines | 6 | £30 | £180 |
 | Japan | 15 | £67 | £1,005 |
 | South Korea | 4 | £108 | £432 |
-| Greater China | 17 | £61 | £1,030 |
+| Greater China | 17 | £63 | £1,066 |
 | **Total Accommodation** | **74** | **£53 avg** | **£3,945** |
 
 ### Transportation
 | Category | Approximate Cost |
-|----------|------------------|
-| Flights | £1,980 |
+|----------|----------------:|
+| Flights | £1,838 |
 | Train Travel | £943 |
-| Private Cars | £165 |
+| Private Cars | £170 |
 | Boats | £240 |
-| **Total Transportation** | **£3,333** |
+| **Total Transportation** | **£3,191** |
 
 ### Grand Total Estimate
 | Category | Estimate |
-|----------|----------|
+|----------|--------:|
 | Accommodation | £3,945 |
-| Transportation | £3,279 |
-| **Trip Total** | **£7,224** |
+| Transportation | £3,191 |
+| **Trip Total** | **£7,136** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -407,9 +405,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,224  
+**Core Costs (Accommodation + Transportation):** £7,136  
 **Additional Expenses:** £6,372 total  
-**Total Trip Budget:** £13,596
+**Total Trip Budget:** £13,508
 
 ---
 
