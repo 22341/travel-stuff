@@ -319,14 +319,14 @@
 | Sun 7 Feb 2027 | London → Kuala Lumpur | 13 hours | £556 | ✅ |
 | Thu 11 Feb 2027 | Kuala Lumpur → Phnom Penh | 2 hours | £57 | ✅ |
 | Sun 21 Feb 2027 | Ho Chi Minh City → Da Nang | 1.5 hours | £60 | |
-| Sat 6 Mar 2027 | Hanoi → Taipei | 3 hours | £150 | |
+| Sat 6 Mar 2027 | Hanoi → Taipei | 3 hours | £159 | ✅ |
 | Thu 11 Mar 2027 | Taipei → Manila | 2.5 hours | £96 | ✅ |
 | Sun 14 Mar 2027 | Manila → Cebu | 1.5 hours | £37 | ✅ |
 | Wed 17 Mar 2027 | Cebu → Tokyo | 4.5 hours | £182 | ✅ |
-| Thu 1 Apr 2027 | Tokyo → Seoul | 2.5 hours | £100 | |
+| Thu 1 Apr 2027 | Tokyo → Seoul | 2.5 hours | £148 | ✅ |
 | Mon 5 Apr 2027 | Seoul → Hong Kong | 3.5 hours | £100 | |
 | Thu 22 Apr 2027 | Beijing → London | 11 hours | £500 | |
-| **Total** | | | **£1,838** | |
+| **Total** | | | **£1,895** | |
 
 ### Trains
 | Date | Route | Travel Time | Cost (GBP) | Bkd |
@@ -382,18 +382,18 @@
 ### Transportation
 | Category | Approximate Cost |
 |----------|----------------:|
-| Flights | £1,838 |
+| Flights | £1,895 |
 | Train Travel | £943 |
 | Private Cars | £170 |
 | Boats | £240 |
-| **Total Transportation** | **£3,191** |
+| **Total Transportation** | **£3,248** |
 
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|--------:|
 | Accommodation | £3,945 |
-| Transportation | £3,191 |
-| **Trip Total** | **£7,136** |
+| Transportation | £3,248 |
+| **Trip Total** | **£7,193** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -405,9 +405,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,136  
+**Core Costs (Accommodation + Transportation):** £7,193  
 **Additional Expenses:** £6,372 total  
-**Total Trip Budget:** £13,508
+**Total Trip Budget:** £13,565
 
 ---
 
