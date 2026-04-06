@@ -319,7 +319,7 @@
 | Sun 7 Feb 2027 | London → Kuala Lumpur | 13 hours | £556 | ✅ |
 | Thu 11 Feb 2027 | Kuala Lumpur → Phnom Penh | 2 hours | £57 | ✅ |
 | Sun 21 Feb 2027 | Ho Chi Minh City → Da Nang | 1.5 hours | £60 | |
-| Wed 10 Mar 2027 | Hanoi → Taipei | 3 hours | £150 | |
+| Sat 6 Mar 2027 | Hanoi → Taipei | 3 hours | £150 | |
 | Thu 11 Mar 2027 | Taipei → Manila | 2.5 hours | £96 | ✅ |
 | Sun 14 Mar 2027 | Manila → Cebu | 1.5 hours | £37 | ✅ |
 | Wed 17 Mar 2027 | Cebu → Tokyo | 4.5 hours | £182 | ✅ |
