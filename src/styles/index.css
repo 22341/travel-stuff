@@ -179,6 +179,11 @@ body {
   text-align: right;
 }
 
+.itinerary-content th[align="center"],
+.itinerary-content td[align="center"] {
+  text-align: center;
+}
+
 .itinerary-content td {
   padding: 0.75rem 1rem;
   border-bottom: 1px solid #e0e0e0;
