@@ -369,7 +369,7 @@
 
 ### Accommodation (74 nights)
 | Region | Nights | Average Cost/Night | Total Cost |
-|--------|--------|-------------------|----------:|
+|--------|-------:|------------------:|----------:|
 | London | 2 | £91 | £181 |
 | Southeast Asia | 25 | £34 | £843 |
 | Taiwan | 5 | £50 | £250 |
@@ -377,7 +377,7 @@
 | Japan | 15 | £67 | £1,005 |
 | South Korea | 4 | £43 | £172 |
 | Greater China | 17 | £66 | £1,178 |
-| **Total Accommodation** | **74** | **£51 avg** | **£3,797** |
+| **Total Accommodation** | **74** | **£51** | **£3,797** |
 
 ### Transportation
 | Category | Approximate Cost |
