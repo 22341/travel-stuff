@@ -174,7 +174,8 @@ body {
   font-weight: 600;
 }
 
-.itinerary-content th[style*="text-align: right"] {
+.itinerary-content th[align="right"],
+.itinerary-content td[align="right"] {
   text-align: right;
 }
 
