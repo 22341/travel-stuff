@@ -199,7 +199,7 @@
 
 ### Seoul
 - **Seoul:** 4 nights *Arrive: Thu 1 Apr 2027*
-  - ***Booked hotel:*** [Hi Stay EULJIRO](https://www.booking.com/hotel/kr/hi-stay-euljiro.en-gb.html) - £108/night
+  - ***Booked hotel:*** [Tripstay Myeongdong](https://www.booking.com/hotel/kr/philstay-myeongdong-cheonggye.html) - £43/night
   - Gyeongbokgung Palace and changing of the guard
   - Bukchon Hanok Village traditional houses
   - Myeongdong shopping district
@@ -215,7 +215,7 @@
 
 ### Hong Kong
 - **Hong Kong:** 4 nights *Arrive: Mon 5 Apr 2027*
-  - ***Booked hotel:*** [Ibis Hong Kong Central & Sheung Wan](https://www.booking.com/searchresults.html?ss=Ibis+Hong+Kong+Central+Sheung+Wan) - £150/night
+  - ***Booked hotel:*** [Ibis Hong Kong Central & Sheung Wan](https://www.booking.com/searchresults.html?ss=Ibis+Hong+Kong+Central+Sheung+Wan) - £138/night
   - Victoria Peak and Star Ferry
   - Dim sum culture and night markets
   - Temple Street and Symphony of Lights
@@ -375,9 +375,9 @@
 | Taiwan | 5 | £50 | £250 |
 | Philippines | 6 | £30 | £180 |
 | Japan | 15 | £67 | £1,005 |
-| South Korea | 4 | £108 | £432 |
-| Greater China | 17 | £69 | £1,226 |
-| **Total Accommodation** | **74** | **£56 avg** | **£4,105** |
+| South Korea | 4 | £43 | £172 |
+| Greater China | 17 | £66 | £1,178 |
+| **Total Accommodation** | **74** | **£51 avg** | **£3,797** |
 
 ### Transportation
 | Category | Approximate Cost |
@@ -391,9 +391,9 @@
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|--------:|
-| Accommodation | £4,105 |
+| Accommodation | £3,797 |
 | Transportation | £3,248 |
-| **Trip Total** | **£7,353** |
+| **Trip Total** | **£7,045** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -405,9 +405,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,353  
+**Core Costs (Accommodation + Transportation):** £7,045  
 **Additional Expenses:** £6,372 total  
-**Total Trip Budget:** £13,725
+**Total Trip Budget:** £13,417
 
 ---
 
@@ -431,6 +431,7 @@
 - Complete all online arrival cards and registrations before travel
 - **China visa no longer required** - UK citizens now enjoy 30-day visa-free entry (policy valid until 31 Dec 2026)
 - Visa requirements can change; verify all details closer to departure date
+- Download **Naver Map** before arriving in South Korea and **Amap (高德地图)** before arriving in China for reliable navigation
 
 ---
 
