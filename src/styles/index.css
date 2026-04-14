@@ -170,7 +170,12 @@ body {
   background: #312c85;
   color: white;
   padding: 1rem;
+  text-align: left;
   font-weight: 600;
+}
+
+.itinerary-content th[style*="text-align: right"] {
+  text-align: right;
 }
 
 .itinerary-content td {
