@@ -43,7 +43,7 @@
 * **Arrival:** Day 12 afternoon
 * **Highlights:** Pre-Romanesque architecture, Asturian cider, historic center
 * **Hotel:** [Hotel Clarin](https://www.booking.com/hotel/es/room-mate-marcos.en-gb.html?label=metatripad-link-dmetagb-hotel-29817_xqdz-b431b9098f6f11a0bd426d93d62fab55_los-03_bw-291_tod-13_dom-couk_curr-GBP_gst-01_nrm-01_clkid-fbecd72d-b8ce-4dc2-b156-65a47beb0431_aud-0000_mbl-M_pd-T_sc-2_defdate-0_spo-0_clksrc-0_mcid-10&sid=b4b8d6e721f49fbc272ec53ddd997337&aid=356287&ucfs=1&checkin=2026-06-09&checkout=2026-06-11&dest_id=-394970&dest_type=city&group_adults=1&no_rooms=1&group_children=0&sr_order=price&nflt=price%3DGBP-min-120-1%3Broomfacility%3D38&srpvid=9fe25204a32a0508&srepoch=1755344475&matching_block_id=1727502_276236112_0_2_0&atlas_src=sr_iw_title) (€55/night) - Near station and centre ✓ BOOKED
-* **Transport:** Alsa Supra bus to Santiago de Compostela (4h 30m)
+* **Transport:** FEVE train to Ferrol (7h 25m), then Monbus to Santiago (1h 20m)
 
 **Days 14-16: Santiago de Compostela (2 nights)** - *Arriving Thursday 11 June 2026*
 * **Arrival:** Day 14 evening
@@ -71,6 +71,7 @@
 | Tue 2 Jun               | Hendaye → San Sebastián | Euskotren | 37m | Every 30 mins | €3-5 | N/A |
 | Mon 8 Jun               | Bilbao → Santander | FEVE | 3h 30m | 8:31am | €8.90 | |
 | Tue 9 Jun               | Santander → Oviedo | FEVE | 5h 27m | 8:29am | €15-20 | |
+| Thu 11 Jun              | Oviedo → Ferrol | FEVE | 7h 25m | 7:19am | €24 | |
 | Wed 17 Jun              | Manchester → Leeds | TransPennine | 1h 30m | Hourly | £20-25 | |
 
 ## Key Bus Connections
@@ -78,10 +79,10 @@
 | Date                    | Route | Bus | Duration | Departure | Price | Booked |
 |-------------------------|-------|-----|----------|-----------|-------|--------|
 | Fri 5 Jun               | San Sebastián → Bilbao | Alsa Standard | 1h 20m | 11:30am | €11 | |
-| Thu 11 Jun              | Oviedo → Santiago | Alsa Supra | 4h 30m | 10:00am | €38 | |
+| Thu 11 Jun              | Ferrol → Santiago | Monbus | 1h 20m | 3:40pm | €9 | |
 | Sat 13 Jun              | Santiago → Porto | Alsa Supra | 3h | 9:30am | €21 | |
 
-**Total Estimated Cost:** £26 + £98 + £50 + £20-25 + (€29.90-40.90 × £0.87) = **£220-236** (approximately)
+**Total Estimated Cost:** £26 + £98 + £50 + £20-25 + (€53.90-68.90 × £0.87) = **£241-254** (approximately)
 
 ## Accommodation Summary
 **Total Nights:** 19 nights  
@@ -106,9 +107,9 @@
 
 ## Total Trip Cost Estimate
 - **Accommodation:** £1,382
-- **Train Travel:** £194-199 (GBP) + €26.90-28.90 (£23-25) = £217-224
-- **Bus Travel:** €70 (£61)
+- **Train Travel:** £194-199 (GBP) + €50.90-68.90 (£44-60) = £238-259
+- **Bus Travel:** €41 (£36)
 - **Return Flight:** £88
 - **Daily Expenses** (meals/drinks, attractions, local transport): £1,520-1,900 (estimated £80-100 per day × 19 days)
 
-**Grand Total:** £3,268-3,653
+**Grand Total:** £3,264-3,663
