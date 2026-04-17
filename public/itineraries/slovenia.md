@@ -21,7 +21,7 @@ Your Slovenian adventure begins with an early afternoon train journey from Leeds
 
 ### Manchester to Ljubljana
 
-An early start this morning with a 6:10am flight from Manchester Airport to Ljubljana (£58). After a comfortable 2 hour 30 minute flight, you'll arrive in Slovenia's charming capital around 9:40am local time. Transfer to your apartment and spend the afternoon settling in and taking your first stroll through Ljubljana's beautiful Old Town. The compact city centre is wonderfully walkable, with the Ljubljanica River flowing through its heart, crossed by elegant bridges and lined with outdoor cafés.
+An early start this morning with a 6:10am flight from Manchester Airport to Ljubljana (£58). After a comfortable 2 hour 30 minute flight, you'll arrive in Slovenia's charming capital around 9:40am local time. Transfer to your hotel and spend the afternoon settling in and taking your first stroll through Ljubljana's beautiful Old Town. The compact city centre is wonderfully walkable, with the Ljubljanica River flowing through its heart, crossed by elegant bridges and lined with outdoor cafés.
 
 **Accommodation:** [ibis Styles Ljubljana Centre](https://www.booking.com/hotel/si/garni.html) - €65/night (£56) - 4 nights
 
@@ -68,14 +68,14 @@ Your final morning in Ljubljana - perhaps a last stroll through the Old Town or 
 ## Transportation Summary
 
 **Trains:**
-- Monday 2 Nov: Leeds → Manchester (1h 30m) - £10
-- Saturday 7 Nov: Manchester → Leeds (1h 30m) - £10
+- Monday 2 Nov: Leeds → Manchester (1h 30m) - £20
+- Saturday 7 Nov: Manchester → Leeds (1h 30m) - £20
 
 **Flights:**
 - Tuesday 3 Nov: Manchester → Ljubljana (2h 30m) - £58
 - Saturday 7 Nov: Ljubljana → Manchester (2h 45m) - £58
 
-**Total Transportation Cost:** £136
+**Total Transportation Cost:** £156
 
 ---
 
@@ -87,15 +87,15 @@ Your final morning in Ljubljana - perhaps a last stroll through the Old Town or 
 - **Total Accommodation: £285.00**
 
 ### Transportation
-- Trains: £20.00
+- Trains: £40.00
 - Flights: £116.00
-- **Total Transportation: £136.00**
+- **Total Transportation: £156.00**
 
 ### Core Trip Costs
-**Accommodation + Transportation: £421.00**
+**Accommodation + Transportation: £441.00**
 
 ### Additional Estimated Costs
-- **Meals & Drinks:** £100/day = £500 (5 days)
+- **Meals & Drinks:** £80/day = £400 (5 days)
 - **Day Trips & Activities:** ~£110
   - Postojna Cave & Predjama Castle tour: ~£50-70
   - Ljubljana Castle entrance & funicular: ~£15
@@ -104,9 +104,9 @@ Your final morning in Ljubljana - perhaps a last stroll through the Old Town or 
 - **Local Transport:** Included in daily budget
 
 ### Complete Trip Budget
-- **Core Costs:** £421.00
-- **Additional Expenses:** £610.00
-- **Total Trip Budget: £1,031.00**
+- **Core Costs:** £441.00
+- **Additional Expenses:** £510.00
+- **Total Trip Budget: £951.00**
 
 *Note: Slovenia uses the Euro; exchange rate of 0.8725 used for conversions. November is autumn season with cooler weather but fewer tourists and good value for money.*
 
