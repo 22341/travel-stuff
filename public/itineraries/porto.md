@@ -49,7 +49,7 @@
 * **Arrival:** Day 14 evening
 * **Highlights:** Cathedral, pilgrimage routes, Galician culture
 * **Hotel:** [Hotel Universal](https://www.booking.com/hotel/es/husa-universal.en-gb.html?label=gen173nr-10CAEoggI46AdIM1gEaFCIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4ArqY-8UGwAIB0gIkY2Q2N2MzNzEtZDRiNC00Mjk1LTk3YTAtNTcxYzQxNDZmOWQ12AIB4AIB&sid=374e7899cff364fc4ec65eaa1312e453&aid=304142&ucfs=1&checkin=2026-06-11&checkout=2026-06-13&dest_id=-402059&dest_type=city&group_adults=1&no_rooms=1&group_children=0&nflt=price%3DGBP-min-130-1%3Broomfacility%3D38&srpvid=591b57e6673f06b2&srepoch=1757334637&matching_block_id=9335206_88193592_0_2_0&atlas_src=sr_iw_title) (€85/night) - Central location ✓ BOOKED
-* **Transport:** Alsa Supra bus to Porto (3h)
+* **Transport:** Alsa Standard bus to Porto (3h)
 
 **Days 16-19: Porto (4 nights)** - *Arriving Saturday 13 June 2026*
 * **Arrival:** Day 16 afternoon
@@ -80,7 +80,7 @@
 |-------------------------|-------|-----|----------|-----------|-------|--------|
 | Fri 5 Jun               | San Sebastián → Bilbao | Alsa Standard | 1h 20m | 11:30am | €11 | |
 | Thu 11 Jun              | Ferrol → Santiago | Monbus | 1h 20m | 3:40pm | €9 | |
-| Sat 13 Jun              | Santiago → Porto | Alsa Supra | 3h | 9:30am | €21 | |
+| Sat 13 Jun              | Santiago → Porto | Alsa Standard | 3h | 9:30am | €21 | |
 
 **Total Estimated Cost:** £26 + £98 + £50 + £20-25 + (€53.90-68.90 × £0.87) = **£241-254** (approximately)
 
