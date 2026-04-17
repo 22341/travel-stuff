@@ -86,7 +86,7 @@
   - *Ha Long Bay cruise: Victory Star Cruise or Dragon Pearl Junk*
   - Old Quarter exploration
   - Temple of Literature, Hoan Kiem Lake
-  - Street food and coffee culture
+  - Street food evening walking tour
   - Imperial Citadel of Thang Long
   - Perfume Pagoda day trip
   - Day trip to Ninh Binh (Tràng An Landscape Complex)
