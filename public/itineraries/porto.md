@@ -69,20 +69,20 @@
 | Sat 30 May              | London → Paris | Eurostar | 2h 16m | Multiple daily | £98 | ✓ |
 | Tue 2 Jun               | Paris → Hendaye | TGV Duplex | 4h 36m | Montparnasse | £50 | ✓ |
 | Tue 2 Jun               | Hendaye → San Sebastián | Euskotren | 37m | Every 30 mins | €3-5 | N/A |
-| Mon 8 Jun               | Bilbao → Santander | FEVE | 3h 30m | 8:31am | €8.90 | |
-| Tue 9 Jun               | Santander → Oviedo | FEVE | 5h 27m | 8:29am | €15-20 | |
-| Thu 11 Jun              | Oviedo → Ferrol | FEVE | 7h 25m | 7:19am | €24 | |
-| Wed 17 Jun              | Manchester → Leeds | TransPennine | 1h 30m | Hourly | £20-25 | |
+| Mon 8 Jun               | Bilbao → Santander | FEVE | 3h 30m | 8:31am | €8.90 | ✓ |
+| Tue 9 Jun               | Santander → Oviedo | FEVE | 5h 27m | 8:29am | €17 | ✓ |
+| Thu 11 Jun              | Oviedo → Ferrol | FEVE | 7h 25m | 7:19am | €24 | ✓ |
+| Wed 17 Jun              | Manchester → Leeds | TransPennine | 1h 30m | Hourly | £12 | |
 
 ## Key Bus Connections
 
 | Date                    | Route | Bus | Duration | Departure | Price | Booked |
 |-------------------------|-------|-----|----------|-----------|-------|--------|
-| Fri 5 Jun               | San Sebastián → Bilbao | Alsa Standard | 1h 20m | 11:30am | €11 | |
+| Fri 5 Jun               | San Sebastián → Bilbao | Alsa Standard | 1h 20m | 11:30am | €14 | ✓ |
 | Thu 11 Jun              | Ferrol → Santiago | Monbus | 1h 20m | 3:40pm | €9 | |
-| Sat 13 Jun              | Santiago → Porto | Alsa Standard | 3h | 9:30am | €21 | |
+| Sat 13 Jun              | Santiago → Porto | Alsa Standard | 3h | 9:30am | €24 | ✓ |
 
-**Total Estimated Cost:** £26 + £98 + £50 + £20-25 + (€53.90-68.90 × £0.87) = **£241-254** (approximately)
+**Total Estimated Cost:** £26 + £98 + £50 + £12 + (€99.90-101.90 × £0.87) = **£273-275** (approximately)
 
 ## Accommodation Summary
 **Total Nights:** 19 nights  
@@ -107,9 +107,9 @@
 
 ## Total Trip Cost Estimate
 - **Accommodation:** £1,382
-- **Train Travel:** £194-199 (GBP) + €50.90-68.90 (£44-60) = £238-259
-- **Bus Travel:** €41 (£36)
+- **Train Travel:** £186 (GBP) + €49.90 (£43) = £229
+- **Bus Travel:** €47 (£41)
 - **Return Flight:** £88
 - **Daily Expenses** (meals/drinks, attractions, local transport): £1,520-1,900 (estimated £80-100 per day × 19 days)
 
-**Grand Total:** £3,264-3,663
+**Grand Total:** £3,262-3,642
