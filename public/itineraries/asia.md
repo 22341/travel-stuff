@@ -259,7 +259,7 @@
 
 ### London
 - **London:** 1 night *Arrive: Thu 22 Apr 2027*
-  - *Recommended hotel: [Premier Inn Aldgate](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-city-aldgate.html?&BRAND=PI)* - £100/night
+  - ***Booked hotel:*** [hub by Premier Inn London Marylebone](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/hub-london-marylebone.html) - £111/night
   - Recover from jet lag and unwind
   - Final reflections on the career break journey
   - Reconnect with home
@@ -370,14 +370,14 @@
 ### Accommodation (74 nights)
 | Region | Nights | Average Cost/Night | Total Cost |
 |--------|-------:|------------------:|----------:|
-| London | 2 | £91 | £181 |
+| London | 2 | £96 | £192 |
 | Southeast Asia | 25 | £34 | £843 |
 | Taiwan | 5 | £50 | £250 |
 | Philippines | 6 | £30 | £180 |
 | Japan | 15 | £67 | £1,005 |
 | South Korea | 4 | £43 | £172 |
 | Greater China | 17 | £66 | £1,178 |
-| **Total Accommodation** | **74** | **£51** | **£3,797** |
+| **Total Accommodation** | **74** | **£51** | **£3,808** |
 
 ### Transportation
 | Category | Approximate Cost |
@@ -405,9 +405,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,125  
+**Core Costs (Accommodation + Transportation):** £7,136  
 **Additional Expenses:** £6,372 total  
-**Total Trip Budget:** £13,497
+**Total Trip Budget:** £13,508
 
 ---
 
