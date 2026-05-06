@@ -83,3 +83,25 @@ The `vercel.json` file handles SPA routing so direct links to `/estonia`, `/port
 ## Updating Itineraries
 
 Simply edit the markdown files in `public/itineraries/`. Changes will be reflected immediately in development, and after a rebuild in production.
+
+---
+
+#### Local LLM Commands
+
+- `ollama pull {model}`
+- `ollama ps`
+- `ollama list`
+- `ollama rm {model}`
+- `ollama run {model} --verbose`
+- `ollama create {model} -f {modelfile}`
+- `ollama serve` (for debugging)
+
+llama-server -m "D:\Tools\models\Qwen3.5-9B-Q4_K_M.gguf" --port 8080 --n-gpu-layers 999 --ctx-size 65536
+llama-server -m "D:\Tools\models\Qwen3.5-27B.Q4_K_M.gguf" --port 8080 --n-gpu-layers 999 --ctx-size 32768
+
+llama-server -m "D:\Tools\models\Qwen2.5-Coder-1.5B.Q4_K_M.gguf" --port 8081 --n-gpu-layers 0 --ctx-size 4096
+
+llama-server -m "D:\Tools\models\nomic-embed-text-v1.5.Q6_K.gguf" --port 8082 --n-gpu-layers 0 --embedding --pooling mean
+
+http://localhost:8080/props
+http://localhost:8080/v1/models
