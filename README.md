@@ -97,12 +97,13 @@ Simply edit the markdown files in `public/itineraries/`. Changes will be reflect
 - `ollama serve` (for debugging)
 
 (unsloth)
-llama-server -m "D:\Tools\models\Qwen3.5-9B-Q8_0.gguf" --port 8080 --n-gpu-layers 999 --ctx-size 65536
-llama-server -m "D:\Tools\models\Qwen3.6-27B-IQ4_NL.gguf" --port 8080 --n-gpu-layers 999 --ctx-size 32768
+llama-server -m "D:\Tools\models\Qwen3.5-9B-Q8_0.gguf" --port 8080 --n-gpu-layers 999 --ctx-size 65536 --flash-attn on
 
-llama-server -m "D:\Tools\models\Qwen2.5-Coder-1.5B.Q4_K_M.gguf" --port 8081 --n-gpu-layers 0 --ctx-size 4096
+llama-server -m "D:\Tools\models\Qwen3.6-27B-IQ4_NL.gguf" --port 8080 --n-gpu-layers 999 --ctx-size 32768 --flash-attn on
 
-llama-server -m "D:\Tools\models\nomic-embed-text-v1.5.Q6_K.gguf" --port 8082 --n-gpu-layers 0 --embedding --pooling mean
+llama-server -m "D:\Tools\models\Qwen2.5-Coder-1.5B.Q4_K_M.gguf" --port 8081 --n-gpu-layers 99 --ctx-size 4096 --flash-attn on
+
+llama-server -m "D:\Tools\models\nomic-embed-text-v1.5.Q6_K.gguf" --port 8082 --n-gpu-layers 99 --embedding --pooling mean
 
 http://localhost:8080/props
 http://localhost:8080/v1/models
