@@ -96,8 +96,9 @@ Simply edit the markdown files in `public/itineraries/`. Changes will be reflect
 - `ollama create {model} -f {modelfile}`
 - `ollama serve` (for debugging)
 
-llama-server -m "D:\Tools\models\Qwen3.5-9B-Q4_K_M.gguf" --port 8080 --n-gpu-layers 999 --ctx-size 65536
-llama-server -m "D:\Tools\models\Qwen3.5-27B.Q4_K_M.gguf" --port 8080 --n-gpu-layers 999 --ctx-size 32768
+(unsloth)
+llama-server -m "D:\Tools\models\Qwen3.5-9B-Q8_0.gguf" --port 8080 --n-gpu-layers 999 --ctx-size 65536
+llama-server -m "D:\Tools\models\Qwen3.6-27B-IQ4_NL.gguf" --port 8080 --n-gpu-layers 999 --ctx-size 32768
 
 llama-server -m "D:\Tools\models\Qwen2.5-Coder-1.5B.Q4_K_M.gguf" --port 8081 --n-gpu-layers 0 --ctx-size 4096
 
