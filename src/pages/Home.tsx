@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import { trips, Trip } from "../data/trips";
 import { useMemo } from "react";
+import { Globe2 } from "lucide-react";
 
 function daysUntil(isoDate?: string): number | null {
   if (!isoDate) return null;
@@ -31,7 +32,10 @@ function Home() {
     <main className="home-page">
       <div className="container">
         <header className="home-heading">
-          <h1>✈️ Travel Itineraries</h1>
+          <h1>
+            <Globe2 className="heading-icon" strokeWidth={1.5} /> Travel
+            Itineraries
+          </h1>
           <p className="subtitle">
             Choose a destination to view the full itinerary
           </p>

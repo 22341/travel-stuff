@@ -64,6 +64,15 @@ body {
   margin-top: 0;
 }
 
+.heading-icon {
+  display: inline-block;
+  vertical-align: middle;
+  margin-bottom: 0.2em;
+  color: #7c6fcd;
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
 .trip-list {
   display: flex;
   flex-direction: column;
