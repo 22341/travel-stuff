@@ -38,13 +38,6 @@ body {
   margin-bottom: 2.5rem;
 }
 
-.subtitle {
-  color: #2a1f6e;
-  font-size: 1.1rem;
-  font-weight: 500;
-  margin-bottom: 3rem;
-}
-
 .year-heading {
   font-size: 0.9rem;
   font-weight: 600;
@@ -296,11 +289,6 @@ body {
     .home-page h1 {
       font-size: 1.8rem;
       margin-bottom: 1rem;
-    }
-
-    .subtitle {
-      font-size: 0.95rem;
-      margin-bottom: 2rem;
     }
 
     .year-heading {
