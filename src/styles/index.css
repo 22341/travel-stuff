@@ -22,7 +22,6 @@ body {
 }
 
 /* Home Page Styles */
-/* Home Page Styles */
 .home-page {
   background: #f0eef8;
   min-height: 100vh;
@@ -36,7 +35,7 @@ body {
 .home-page h1 {
   color: #2a1f6e;
   font-size: 3rem;
-  margin-bottom: 1rem;
+  margin-bottom: 2.5rem;
 }
 
 .subtitle {
@@ -47,12 +46,12 @@ body {
 }
 
 .year-heading {
-  font-size: 0.75rem;
+  font-size: 0.9rem;
   font-weight: 600;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color: #2a1f6e;
-  margin: 2rem auto 0.75rem;
+  margin: 2.5rem auto 0.75rem;
   padding-top: 1.5rem;
   border-top: 1px solid #d8d0ee;
   max-width: 700px;
@@ -76,7 +75,7 @@ body {
 .trip-list {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 15px;
   max-width: 700px;
   margin: 0 auto 2rem;
 }
@@ -118,7 +117,7 @@ body {
 }
 
 .chip {
-  font-size: 11px;
+  font-size: 12px;
   padding: 2px 9px;
   border-radius: 100px;
   border: 1px solid #ddd;
@@ -127,14 +126,14 @@ body {
 }
 
 .trip-row__title {
-  font-size: 1.1rem;
+  font-size: 1.4rem;
   font-weight: 600;
   color: #1a1a2e;
   margin: 0 0 3px;
 }
 
 .trip-row__description {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   color: #888;
   margin: 0;
 }
@@ -150,7 +149,7 @@ body {
 }
 
 .trip-row__countdown {
-  font-size: 1.6rem;
+  font-size: 1.7rem;
   font-weight: 600;
   line-height: 1;
 }
@@ -159,11 +158,6 @@ body {
   font-size: 11px;
   color: #aaa;
   white-space: nowrap;
-}
-
-.trip-row__arrow {
-  font-size: 1.4rem;
-  color: #aaa;
 }
 
 /* Itinerary Page Styles */
@@ -301,7 +295,7 @@ body {
 
     .home-page h1 {
       font-size: 1.8rem;
-      margin-bottom: 0.5rem;
+      margin-bottom: 1rem;
     }
 
     .subtitle {
@@ -310,15 +304,15 @@ body {
     }
 
     .year-heading {
-      font-size: 0.7rem;
+      font-size: 0.8rem;
     }
 
     .trip-row__title {
-      font-size: 1rem;
+      font-size: 1.2rem;
     }
 
     .trip-row__countdown {
-      font-size: 1.3rem;
+      font-size: 1.4rem;
     }
 
     .trip-row__right {

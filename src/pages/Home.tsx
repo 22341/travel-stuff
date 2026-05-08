@@ -36,9 +36,6 @@ function Home() {
             <Globe2 className="heading-icon" strokeWidth={1.5} /> Travel
             Itineraries
           </h1>
-          <p className="subtitle">
-            Choose a destination to view the full itinerary
-          </p>
         </header>
 
         {sortedYears.map((year, i) => (
