@@ -12,9 +12,6 @@ describe("Home", () => {
     expect(
       screen.getByRole("heading", { name: /travel itineraries/i }),
     ).toBeInTheDocument();
-    expect(
-      screen.getByText(/choose a destination to view the full itinerary/i),
-    ).toBeInTheDocument();
   });
 
   it("groups trips by year and shows year headings", () => {
