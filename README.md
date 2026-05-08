@@ -97,7 +97,7 @@ Simply edit the markdown files in `public/itineraries/`. Changes will be reflect
 - `ollama serve` (for debugging)
 
 (unsloth)
-llama-server -m "D:\Tools\models\Qwen3.5-9B-Q8_0.gguf" --port 8080 --n-gpu-layers 999 --ctx-size 65536 --flash-attn on
+llama-server -m "D:\Tools\models\Qwen3.5-9B-Q8_0.gguf" --port 8080 --n-gpu-layers 999 --ctx-size 65536 --flash-attn on --jinja --reasoning-format deepseek --chat-template-kwargs "{\"enable_thinking\":true}"
 
 llama-server -m "D:\Tools\models\Qwen3.6-27B-IQ4_NL.gguf" --port 8080 --n-gpu-layers 999 --ctx-size 32768 --flash-attn on
 
