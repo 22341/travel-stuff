@@ -19,7 +19,7 @@ export const trips: Trip[] = [
     year: 2026,
     startDate: "2026-05-29",
     tags: ["Rail", "Iberian Peninsula", "20 days"],
-    description: "Paris · San Sebastián · Bilbao + more",
+    description: "Paris · San Sebastián · Bilbao · Oviedo + more",
     accentColor: "#87048b",
   },
   {
@@ -46,7 +46,7 @@ export const trips: Trip[] = [
     year: 2027,
     startDate: "2027-02-06",
     tags: ["Career break", "9 countries", "77 days"],
-    description: "Malaysia · Vietnam · Japan · Korea + more",
+    description: "Malaysia · Vietnam · Japan · China + more",
     accentColor: "#7F77DD",
   },
 ];
