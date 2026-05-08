@@ -20,7 +20,7 @@ export const trips: Trip[] = [
     startDate: "2026-05-29",
     tags: ["Rail", "Iberian Peninsula", "20 days"],
     description: "Paris · San Sebastián · Bilbao + more",
-    accentColor: "#534AB7",
+    accentColor: "#87048b",
   },
   {
     slug: "slovenia",
@@ -38,7 +38,7 @@ export const trips: Trip[] = [
     startDate: "2027-01-15",
     tags: ["Oceania", "Gold plated pension", "33 days"],
     description: "Scenic rail trip, Tasmanian cruise",
-    accentColor: "#D85A30",
+    accentColor: "#0415a7",
   },
   {
     slug: "asia",
