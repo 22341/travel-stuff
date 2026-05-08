@@ -37,7 +37,7 @@ export const trips: Trip[] = [
     year: 2027,
     startDate: "2027-01-07",
     tags: ["Oceania", "Gold plated pension", "33 days"],
-    description: "Scenic rail trip, Tasmanian cruise",
+    description: "Great Southern rail trip, Tasmanian cruise",
     accentColor: "#0415a7",
   },
   {
