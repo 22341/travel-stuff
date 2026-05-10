@@ -1,23 +1,18 @@
 import { render, screen } from "@testing-library/react";
 import { MemoryRouter } from "react-router-dom";
+import { vi } from "vitest";
 import App from "./App";
 
-jest.mock("marked", () => ({
+vi.mock("marked", () => ({
   marked: {
     parse: (md: string) =>
       Promise.resolve(
-        md
-          ? md.replace(
-              /\[([^\]]+)\]\(([^)]+)\)/g,
-              '<a href="$2">$1</a>',
-            )
-          : "",
+        md ? md.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>') : "",
       ),
   },
 }));
 
-jest.mock("dompurify", () => ({
-  __esModule: true,
+vi.mock("dompurify", () => ({
   default: {
     sanitize: (html: string) => html,
   },
@@ -32,6 +27,10 @@ function renderWithRouter(initialEntries: string[] = ["/"]) {
 }
 
 describe("App", () => {
+  afterEach(() => {
+    vi.unstubAllGlobals();
+  });
+
   it("renders Home at /", () => {
     renderWithRouter(["/"]);
     expect(
@@ -40,12 +39,15 @@ describe("App", () => {
   });
 
   it("renders Itinerary at /:slug", async () => {
-    global.fetch = jest.fn(() =>
-      Promise.resolve({
-        ok: true,
-        text: () => Promise.resolve("# Porto"),
-      }),
-    ) as jest.Mock;
+    vi.stubGlobal(
+      "fetch",
+      vi.fn(() =>
+        Promise.resolve({
+          ok: true,
+          text: () => Promise.resolve("# Porto"),
+        }),
+      ),
+    );
 
     renderWithRouter(["/porto"]);
 
