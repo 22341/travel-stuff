@@ -325,8 +325,8 @@
 | Wed 17 Mar 2027 | Cebu → Tokyo | 4.5 hours | £182 | ✅ |
 | Thu 1 Apr 2027 | Tokyo → Seoul | 2.5 hours | £148 | ✅ |
 | Mon 5 Apr 2027 | Seoul → Hong Kong | 3.5 hours | £180 | |
-| Thu 22 Apr 2027 | Beijing → London | 11 hours | £500 | |
-| **Total** | | | **£1,975** | |
+| Thu 22 Apr 2027 | Beijing → London | 11 hours | £642 | ✅ |
+| **Total** | | | **£2,117** | |
 
 ### Trains
 | Date | Route | Travel Time | Cost (GBP) | Bkd |
@@ -382,11 +382,11 @@
 ### Transportation
 | Category | Approximate Cost |
 |----------|----------------:|
-| Flights | £1,975 |
+| Flights | £2,117 |
 | Train Travel | £943 |
 | Private Cars | £170 |
 | Boats | £240 |
-| **Total Transportation** | **£3,328** |
+| **Total Transportation** | **£3,470** |
 
 ### Grand Total Estimate
 | Category | Estimate |
@@ -399,15 +399,15 @@
 - **Meals & Drinks:** £50/day = £3,800 total
 - **Activities & Attractions:** £15/day = £1,140 total
 - **Visas:** £37 total (Cambodia e-Visa + South Korea K-ETA)
-- **Travel Insurance:** £250 total (Holiday Extras / Staysure)
+- **Travel Insurance:** £250 total (Holiday Extras / TrueTraveller / Post Office / Staysure)
 - **Airalo Asia eSIM:** £85 total
 - **Shopping & Souvenirs:** £300 total
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,136  
+**Core Costs (Accommodation + Transportation):** £7,278  
 **Additional Expenses:** £6,372 total  
-**Total Trip Budget:** £13,508
+**Total Trip Budget:** £13,650
 
 ---
 
