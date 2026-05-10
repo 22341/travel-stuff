@@ -77,7 +77,7 @@ function Home() {
                       )}
                     </div>
                     <div className="trip-row__right">
-                      {days !== null ? (
+                      {days && days !== 0 && (
                         <>
                           <span
                             className="trip-row__countdown"
@@ -86,11 +86,9 @@ function Home() {
                             {days}
                           </span>
                           <span className="trip-row__countdown-label">
-                            days away
+                            {days == 1 ? "day" : "days"} away
                           </span>
                         </>
-                      ) : (
-                        <span className="trip-row__arrow">→</span>
                       )}
                     </div>
                   </Link>
