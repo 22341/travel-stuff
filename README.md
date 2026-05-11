@@ -66,9 +66,13 @@ travel-stuff/
 
 ```ts
 {
-  slug: 'your-slug',      // Used for URL and markdown filename
-  title: 'Trip Title',    // Displayed on card
-  year: 2026,             // Year of the trip (used for grouping)
+  slug: 'your-slug',        // Used for URL and markdown filename
+  title: 'Trip Title',      // Card title
+  year: 2026,               // Year of the trip (used for grouping)
+  startDate: "2026-05-29",  // Start date of the trip
+  tags: ["Rail", "2 days"], // Optional info pills
+  description: "Paris"      // Trip description
+  accentColor: "#87048b"  // Accent colour to use
 }
 ```
 
