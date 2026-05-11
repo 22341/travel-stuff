@@ -138,7 +138,7 @@
 
 ### Kanto Region
 - **Tokyo:** 3 nights *Arrive: Wed 17 Mar 2027*
-  - *Recommended hotel: [APA Hotel Yamanote Otsuka Ekimae Tower](https://www.booking.com/searchresults.html?ss=APA+Hotel+Yamanote+Otsuka+Ekimae+Tower+Tokyo)* - £65-85/night
+  - ***Booked hotel:*** [APA Hotel Yamanote Otsuka Ekimae Tower](https://www.booking.com/hotel/jp/apa-yamanote-otsuka-eki-tower.html) - £58/night
   - Explore Shimokitazawa vintage shopping district
   - Kagurazaka traditional neighborhood and French quarter
   - Nakameguro riverside cafes and craft beer bars
@@ -147,7 +147,7 @@
 
 ### Chugoku Region
 - **Okayama:** 2 nights *Arrive: Sat 20 Mar 2027*
-  - *Recommended hotel: [Okayama Koraku Hotel](https://www.booking.com/searchresults.html?ss=Okayama+Koraku+Hotel)* - £55-75/night
+  - ***Booked hotel:*** [Hotel Excel Okayama](https://www.booking.com/hotel/jp/hotel-excel-okayama.html) - £68/night
   - Korakuen Garden (one of Japan's top 3 gardens)
   - Okayama Castle (Crow Castle)
   - Day trip to Kurashiki historic district with Edo-era canals
@@ -155,7 +155,7 @@
 
 ### Kyushu Region
 - **Fukuoka:** 3 nights *Arrive: Mon 22 Mar 2027*
-  - *Recommended hotel: [Hotel Grandolce HAKATA](https://www.booking.com/searchresults.html?ss=Hotel+Grandolce+HAKATA+Fukuoka)* - £45-65/night
+  - ***Booked hotel:*** [APA Hotel Fukuoka Tenjin Nishi](https://www.booking.com/hotel/jp/apa-hotel-fukuoka-tenjin-nishi.html) - £49/night
   - Fukuoka Castle ruins and Ohori Park
   - Hakata ramen and yatai street food stalls
   - Dazaifu Tenmangu Shrine day trip
@@ -164,13 +164,13 @@
 
 ### Kansai Region
 - **Himeji:** 2 nights *Arrive: Thu 25 Mar 2027*
-  - *Recommended hotel: [KOKO HOTEL Himeji Castle](https://www.booking.com/searchresults.html?ss=KOKO+HOTEL+Himeji+Castle)* - £75-85/night
+  - ***Booked hotel:*** [APA Hotel Himeji Ekikita](https://www.booking.com/hotel/jp/apa-himeji-eki-kita.html) - £39/night
   - Himeji Castle (UNESCO World Heritage Site)
   - Kokoen Garden
   - Mount Shosha and Engyoji Temple
 
 - **Kobe:** 2 nights *Arrive: Sat 27 Mar 2027*
-  - *Recommended hotel: [Hotel Monte Hermana Kobe Amalie](https://www.booking.com/searchresults.html?ss=Hotel+Monte+Hermana+Kobe+Amalie)* - £50-70/night
+  - ***Booked hotel:*** [APA Hotel Kobe Sannomiya Ekimae](https://www.booking.com/hotel/jp/apa-hotel-kobe-sannomiya-ekimae.html) - £48/night
   - Kobe Port and Harborland waterfront
   - Nunobiki Herb Gardens and ropeway
   - Famous Kobe beef dining experience
@@ -179,7 +179,7 @@
 
 ### Hokuriku Region
 - **Kanazawa:** 2 nights *Arrive: Mon 29 Mar 2027*
-  - *Recommended hotel: [First Hotel Kanazawa](https://www.booking.com/searchresults.html?ss=First+Hotel+Kanazawa)* - £55-75/night
+  - ***Booked hotel:*** [APA Hotel Kanazawa Chuo](https://www.booking.com/hotel/jp/apa-kanazawa-chuo.html) - £25/night
   - Kenroku-en Garden (one of Japan's top 3)
   - Higashi Chaya geisha district
   - Kanazawa Castle and samurai district
@@ -189,7 +189,7 @@
 
 ### Kanto Region
 - **Tokyo:** 1 night *Arrive: Wed 31 Mar 2027*
-  - *Recommended hotel: [APA Hotel Yamanote Otsuka Ekimae Tower](https://www.booking.com/searchresults.html?ss=APA+Hotel+Yamanote+Otsuka+Ekimae+Tower+Tokyo)* - £65-85/night
+  - ***Booked hotel:*** [APA Hotel Yamanote Otsuka Ekimae Tower](https://www.booking.com/hotel/jp/apa-yamanote-otsuka-eki-tower.html) - £90/night
   - Final shopping and exploration
   - Last-minute sightseeing or revisit favorites
 
@@ -374,10 +374,10 @@
 | Southeast Asia | 25 | £34 | £843 |
 | Taiwan | 5 | £50 | £250 |
 | Philippines | 6 | £30 | £180 |
-| Japan | 15 | £67 | £1,005 |
+| Japan | 15 | £51 | £771 |
 | South Korea | 4 | £43 | £172 |
 | Greater China | 17 | £66 | £1,178 |
-| **Total Accommodation** | **74** | **£51** | **£3,808** |
+| **Total Accommodation** | **74** | **£48** | **£3,574** |
 
 ### Transportation
 | Category | Approximate Cost |
@@ -405,9 +405,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,278  
+**Core Costs (Accommodation + Transportation):** £7,044  
 **Additional Expenses:** £6,372 total  
-**Total Trip Budget:** £13,650
+**Total Trip Budget:** £13,416
 
 ---
 
