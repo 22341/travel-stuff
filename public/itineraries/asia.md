@@ -377,7 +377,7 @@
 | Japan | 15 | £51 | £771 |
 | South Korea | 4 | £43 | £172 |
 | Greater China | 17 | £66 | £1,178 |
-| **Total Accommodation** | **74** | **£48** | **£3,574** |
+| **Total Accommodation** | **74** | **£48** | **£3,586** |
 
 ### Transportation
 | Category | Approximate Cost |
@@ -391,9 +391,9 @@
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|--------:|
-| Accommodation | £3,797 |
-| Transportation | £3,328 |
-| **Trip Total** | **£7,125** |
+| Accommodation | £3,586 |
+| Transportation | £3,470 |
+| **Trip Total** | **£7,056** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -405,9 +405,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,044  
+**Core Costs (Accommodation + Transportation):** £7,056  
 **Additional Expenses:** £6,372 total  
-**Total Trip Budget:** £13,416
+**Total Trip Budget:** £13,428
 
 ---
 
