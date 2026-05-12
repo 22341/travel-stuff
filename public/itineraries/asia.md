@@ -316,16 +316,16 @@
 ### Flights
 | Date | Route | Travel Time | Cost (GBP) | Bkd |
 |------|-------|-------------|----------:|:---:|
-| Sun 7 Feb 2027 | London → Kuala Lumpur | 13 hours | £556 | ✅ |
-| Thu 11 Feb 2027 | Kuala Lumpur → Phnom Penh | 2 hours | £57 | ✅ |
-| Sun 21 Feb 2027 | Ho Chi Minh City → Da Nang | 1.5 hours | £60 | |
-| Sat 6 Mar 2027 | Hanoi → Taipei | 3 hours | £159 | ✅ |
-| Thu 11 Mar 2027 | Taipei → Manila | 2.5 hours | £96 | ✅ |
-| Sun 14 Mar 2027 | Manila → Cebu | 1.5 hours | £37 | ✅ |
-| Wed 17 Mar 2027 | Cebu → Tokyo | 4.5 hours | £182 | ✅ |
-| Thu 1 Apr 2027 | Tokyo → Seoul | 2.5 hours | £148 | ✅ |
-| Mon 5 Apr 2027 | Seoul → Hong Kong | 3.5 hours | £216 | ✅ |
-| Thu 22 Apr 2027 | Beijing → London | 11 hours | £642 | ✅ |
+| Sun 7 Feb 2027 | London → Kuala Lumpur | 10:25, 13 hrs | £556 | ✅ |
+| Thu 11 Feb 2027 | Kuala Lumpur → Phnom Penh | 09:00, 2 hrs | £57 | ✅ |
+| Sun 21 Feb 2027 | Ho Chi Minh City → Da Nang | 1.5 hrs | £60 | |
+| Sat 6 Mar 2027 | Hanoi → Taipei | 07:35, 3 hrs | £159 | ✅ |
+| Thu 11 Mar 2027 | Taipei → Manila | 09:45, 2.5 hrs | £96 | ✅ |
+| Sun 14 Mar 2027 | Manila → Cebu | 12:25, 1.5 hrs | £37 | ✅ |
+| Wed 17 Mar 2027 | Cebu → Tokyo | 08:15, 4.5 hrs | £182 | ✅ |
+| Thu 1 Apr 2027 | Tokyo → Seoul | 12:50, 2.5 hrs | £148 | ✅ |
+| Mon 5 Apr 2027 | Seoul → Hong Kong | 13:25, 3.5 hrs | £216 | ✅ |
+| Thu 22 Apr 2027 | Beijing → London | 13:35, 11 hrs | £642 | ✅ |
 | **Total** | | | **£2,153** | |
 
 ### Trains
