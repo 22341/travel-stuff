@@ -324,9 +324,9 @@
 | Sun 14 Mar 2027 | Manila → Cebu | 1.5 hours | £37 | ✅ |
 | Wed 17 Mar 2027 | Cebu → Tokyo | 4.5 hours | £182 | ✅ |
 | Thu 1 Apr 2027 | Tokyo → Seoul | 2.5 hours | £148 | ✅ |
-| Mon 5 Apr 2027 | Seoul → Hong Kong | 3.5 hours | £180 | |
+| Mon 5 Apr 2027 | Seoul → Hong Kong | 3.5 hours | £216 | ✅ |
 | Thu 22 Apr 2027 | Beijing → London | 11 hours | £642 | ✅ |
-| **Total** | | | **£2,117** | |
+| **Total** | | | **£2,153** | |
 
 ### Trains
 | Date | Route | Travel Time | Cost (GBP) | Bkd |
@@ -382,18 +382,18 @@
 ### Transportation
 | Category | Approximate Cost |
 |----------|----------------:|
-| Flights | £2,117 |
+| Flights | £2,153 |
 | Train Travel | £943 |
 | Private Cars | £170 |
 | Boats | £240 |
-| **Total Transportation** | **£3,470** |
+| **Total Transportation** | **£3,506** |
 
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|--------:|
 | Accommodation | £3,586 |
-| Transportation | £3,470 |
-| **Trip Total** | **£7,056** |
+| Transportation | £3,506 |
+| **Trip Total** | **£7,092** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -405,9 +405,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,056  
+**Core Costs (Accommodation + Transportation):** £7,092  
 **Additional Expenses:** £6,372 total  
-**Total Trip Budget:** £13,428
+**Total Trip Budget:** £13,464
 
 ---
 
