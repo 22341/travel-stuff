@@ -247,7 +247,7 @@
   - Shaanxi History Museum
 
 - **Beijing:** 4 nights (by train) *Arrive: Sun 18 Apr 2027*
-  - ***Booked hotel:*** [Beijing Yasmine Serviced Apartments](https://www.booking.com/hotel/cn/bei-jing-ya-si-ming-hai-cheng-fu-wu-gong-yu.html) - £69/night
+  - ***Booked hotel:*** [Holiday Inn Express Beijing Dongzhimen by IHG](https://www.booking.com/hotel/cn/holiday-inn-express-beijing-dongzhimen.html) - £78/night
   - Great Wall of China (Mutianyu section)
   - Forbidden City and Tiananmen Square
   - Temple of Heaven and hutong tours
@@ -318,7 +318,7 @@
 |------|-------|-------------|----------:|:---:|
 | Sun 7 Feb 2027 | London → Kuala Lumpur | 10:25, 13 hrs | £556 | ✅ |
 | Thu 11 Feb 2027 | Kuala Lumpur → Phnom Penh | 09:00, 2 hrs | £57 | ✅ |
-| Sun 21 Feb 2027 | Ho Chi Minh City → Da Nang | 1.5 hrs | £60 | |
+| Sun 21 Feb 2027 | Ho Chi Minh City → Da Nang | 09:05, 1.5 hrs | £78 | ✅ |
 | Sat 6 Mar 2027 | Hanoi → Taipei | 07:35, 3 hrs | £159 | ✅ |
 | Thu 11 Mar 2027 | Taipei → Manila | 09:45, 2.5 hrs | £96 | ✅ |
 | Sun 14 Mar 2027 | Manila → Cebu | 12:25, 1.5 hrs | £37 | ✅ |
@@ -326,7 +326,7 @@
 | Thu 1 Apr 2027 | Tokyo → Seoul | 12:50, 2.5 hrs | £148 | ✅ |
 | Mon 5 Apr 2027 | Seoul → Hong Kong | 13:25, 3.5 hrs | £216 | ✅ |
 | Thu 22 Apr 2027 | Beijing → London | 13:35, 11 hrs | £642 | ✅ |
-| **Total** | | | **£2,153** | |
+| **Total** | | | **£2,171** | |
 
 ### Trains
 | Date | Route | Travel Time | Cost (GBP) | Bkd |
@@ -376,24 +376,24 @@
 | Philippines | 6 | £30 | £180 |
 | Japan | 15 | £51 | £771 |
 | South Korea | 4 | £43 | £172 |
-| Greater China | 17 | £66 | £1,178 |
-| **Total Accommodation** | **74** | **£48** | **£3,586** |
+| Greater China | 17 | £71 | £1,214 |
+| **Total Accommodation** | **74** | **£49** | **£3,622** |
 
 ### Transportation
 | Category | Approximate Cost |
 |----------|----------------:|
-| Flights | £2,153 |
+| Flights | £2,171 |
 | Train Travel | £943 |
 | Private Cars | £170 |
 | Boats | £240 |
-| **Total Transportation** | **£3,506** |
+| **Total Transportation** | **£3,524** |
 
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|--------:|
-| Accommodation | £3,586 |
-| Transportation | £3,506 |
-| **Trip Total** | **£7,092** |
+| Accommodation | £3,622 |
+| Transportation | £3,524 |
+| **Trip Total** | **£7,146** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -405,9 +405,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,092  
+**Core Costs (Accommodation + Transportation):** £7,146  
 **Additional Expenses:** £6,372 total  
-**Total Trip Budget:** £13,464
+**Total Trip Budget:** £13,518
 
 ---
 
@@ -421,7 +421,7 @@
 | Taiwan | 90 Days | Must complete an [Online Arrival Card](https://twac.immigration.gov.tw/) within 72 hours before arrival. |
 | Philippines | 30 Days | Must register on the [eTravel platform](https://etravel.gov.ph/) within 72 hours before arrival. |
 | Japan | 90 Days | Standard entry; may be asked for proof of onward travel. |
-| South Korea | 90 Days | [K-ETA (Korea Electronic Travel Authorization)](https://www.k-eta.go.kr) required - apply online before travel (approx. £8, valid 2 years). |
+| South Korea | 90 Days | [K-ETA (Korea Electronic Travel Authorization)](https://www.k-eta.go.kr) required - the temporary exemption for UK citizens expires 31 December 2026, so K-ETA is mandatory for your April 2027 visit. Apply online before travel (approx. £6, valid 3 years). |
 | Hong Kong | 180 Days | Standard entry. |
 | China | 30 Days (visa-free for UK citizens) | **NEW as of January 2026:** UK citizens can enter visa-free for tourism, business, or family visits for up to 30 days. Policy valid until 31 December 2026. You must still complete an arrival card and register with local police within 24 hours (hotels do this automatically). **Your 17-night stay does not require a visa.** |
 
@@ -431,7 +431,7 @@
 - Complete all online arrival cards and registrations before travel
 - **China visa no longer required** - UK citizens now enjoy 30-day visa-free entry (policy valid until 31 Dec 2026)
 - Visa requirements can change; verify all details closer to departure date
-- Download **Naver Map** before arriving in South Korea and **Amap (高德地图)** before arriving in China for reliable navigation
+- Download **Naver Map** before arriving in South Korea and **Amap (高德地图)** and **Dianping (大众点评)** before arriving in China for reliable navigation
 
 ---
 
