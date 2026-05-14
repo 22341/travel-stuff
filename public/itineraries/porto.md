@@ -60,18 +60,18 @@
 | Sat 30 May              | London → Paris | Eurostar | 2h 16m | 10:31 | £98 | ✓ |
 | Tue 2 Jun               | Paris → Hendaye | TGV Duplex | 4h 36m | 12:06 | £50 | ✓ |
 | Tue 2 Jun               | Hendaye → San Sebastián | Euskotren | 37m | Every 30 mins | €3-5 | N/A |
-| Mon 8 Jun               | Bilbao → Santander | FEVE | 3h 30m | 8:31am | €8.90 | ✓ |
-| Tue 9 Jun               | Santander → Oviedo | FEVE | 5h 27m | 8:29am | €17 | ✓ |
-| Thu 11 Jun              | Oviedo → Ferrol | FEVE | 7h 25m | 7:19am | €24 | ✓ |
+| Mon 8 Jun               | Bilbao → Santander | FEVE | 3h 30m | 08:31 | €8.90 | ✓ |
+| Tue 9 Jun               | Santander → Oviedo | FEVE | 5h 27m | 08:29 | €17 | ✓ |
+| Thu 11 Jun              | Oviedo → Ferrol | FEVE | 7h 25m | 07:19 | €24 | ✓ |
 | Wed 17 Jun              | Manchester → Leeds | TransPennine | 1h 30m | 14:44 | £12 | ✓ |
 
 ## Key Bus Connections
 
 | Date                    | Route | Bus | Duration | Departure | Price | Booked |
 |-------------------------|-------|-----|----------|-----------|-------|--------|
-| Fri 5 Jun               | San Sebastián → Bilbao | Alsa Standard | 1h 20m | 11:30am | €14 | ✓ |
-| Thu 11 Jun              | Ferrol → Santiago | Monbus | 1h 20m | 3:40pm | €9 | |
-| Sat 13 Jun              | Santiago → Porto | Alsa Standard | 3h | 9:30am | €24 | ✓ |
+| Fri 5 Jun               | San Sebastián → Bilbao | Alsa Standard | 1h 20m | 11:30 | €14 | ✓ |
+| Thu 11 Jun              | Ferrol → Santiago | Monbus | 1h 20m | 15:40 | €9 | |
+| Sat 13 Jun              | Santiago → Porto | Alsa Standard | 3h | 09:30 | €24 | ✓ |
 
 **Total Estimated Cost:** £26 + £98 + £50 + £12 + (€99.90-101.90 × £0.87) = **£273-275** (approximately)
 
