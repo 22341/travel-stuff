@@ -97,7 +97,7 @@
 
 ### Taipei
 - **Taipei:** 5 nights *Arrive: Sat 6 Mar 2027*
-  - *Recommended hotel: [Via Hotel Zhongxiao](https://www.booking.com/searchresults.html?ss=Via+Hotel+Zhongxiao+Taipei)* - £40-60/night
+  - ***Booked hotel:*** [玩行旅大安分館 (Wow Travel Da'an)](https://www.booking.com/hotel/tw/wan-xing-lu-da-an-fen-guan.html) - £64/night
   - Taipei 101 and observation deck
   - National Palace Museum
   - Shilin Night Market and street food culture
@@ -231,7 +231,7 @@
   - West Street night market
 
 - **Chengdu:** 4 nights (by train) *Arrive: Mon 12 Apr 2027*
-  - *Recommended hotel: [Chengdu Anjia High Altitude Hotel](https://www.booking.com/searchresults.html?ss=Chengdu+Anjia+High+Altitude+Hotel)* - £35-45/night
+  - ***Booked hotel:*** [Echeng Hotel Chengdu Chunxi Road Taikoo Li](https://www.booking.com/hotel/cn/yi-cheng-jiu-dian-cheng-du-chun-xi-lu-tai-gu-li-dian.html) - £44/night
   - Giant Panda Breeding Research Base
   - Wuhou Shrine and Jinli Ancient Street
   - Sichuan hot pot and spicy cuisine
@@ -372,12 +372,12 @@
 |--------|-------:|------------------:|----------:|
 | London | 2 | £96 | £192 |
 | Southeast Asia | 25 | £34 | £843 |
-| Taiwan | 5 | £50 | £250 |
+| Taiwan | 5 | £64 | £320 |
 | Philippines | 6 | £30 | £180 |
 | Japan | 15 | £51 | £771 |
 | South Korea | 4 | £43 | £172 |
-| Greater China | 17 | £73 | £1,243 |
-| **Total Accommodation** | **74** | **£49** | **£3,651** |
+| Greater China | 17 | £74 | £1,259 |
+| **Total Accommodation** | **74** | **£50** | **£3,737** |
 
 ### Transportation
 | Category | Approximate Cost |
@@ -391,9 +391,9 @@
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|--------:|
-| Accommodation | £3,651 |
+| Accommodation | £3,737 |
 | Transportation | £3,524 |
-| **Trip Total** | **£7,175** |
+| **Trip Total** | **£7,261** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -405,9 +405,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,175  
+**Core Costs (Accommodation + Transportation):** £7,261  
 **Additional Expenses:** £6,372 total  
-**Total Trip Budget:** £13,547
+**Total Trip Budget:** £13,633
 
 ---
 
