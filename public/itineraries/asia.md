@@ -359,9 +359,9 @@
 | Route | Duration | Cost (GBP) | Bkd |
 |-------|----------|----------:|:---:|
 | Hang Chau Ferry (Phnom Penh → Chau Doc) | 6 hours | £45 | |
-| Ha Long Bay Cruise | 1 night | £140 | |
+| Ha Long Bay Cruise | 1 night | £250 | |
 | Explore Vietnam – Private Imperial River Tour | Half day | £55 | |
-| **Total** | | **£240** | |
+| **Total** | | **£350** | |
 
 ---
 
@@ -385,15 +385,15 @@
 | Flights | £2,171 |
 | Train Travel | £943 |
 | Private Cars | £170 |
-| Boats | £240 |
-| **Total Transportation** | **£3,524** |
+| Boats | £350 |
+| **Total Transportation** | **£3,634** |
 
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|--------:|
 | Accommodation | £3,737 |
-| Transportation | £3,524 |
-| **Trip Total** | **£7,261** |
+| Transportation | £3,634 |
+| **Trip Total** | **£7,371** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -405,9 +405,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,261  
+**Core Costs (Accommodation + Transportation):** £7,371  
 **Additional Expenses:** £6,372 total  
-**Total Trip Budget:** £13,633
+**Total Trip Budget:** £13,743
 
 ---
 
