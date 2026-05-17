@@ -223,7 +223,7 @@
 
 ### Mainland China
 - **Guilin:** 3 nights (by train) *Arrive: Fri 9 Apr 2027*
-  - *Recommended hotel: [Wing Hotel Guilin, Central Square](https://www.booking.com/searchresults.html?ss=Wing+Hotel+Guilin+Central+Square)* - £35-45/night
+  - ***Booked hotel:*** [Wing Hotel Guilin, Central Square](https://www.booking.com/searchresults.html?ss=Wing+Hotel+Guilin+Central+Square) - £43/night
   - Li River cruise to Yangshuo
   - Reed Flute Cave and Elephant Trunk Hill
   - Longji Rice Terraces day trip
@@ -240,7 +240,7 @@
   - Day trip to Chongqing (optional)
 
 - **Xi'an:** 2 nights (by train) *Arrive: Fri 16 Apr 2027*
-  - *Recommended hotel: [CitiGO Hotel, South Gate of Xi'an Bell Tower](https://www.booking.com/searchresults.html?ss=CitiGO+Hotel+Xian+Bell+Tower)* - £30-40/night
+  - ***Booked hotel:*** [CitiGO Hotel, South Gate of Xi'an Bell Tower](https://www.booking.com/searchresults.html?ss=CitiGO+Hotel+Xian+Bell+Tower) - £45/night
   - Terracotta Army day trip
   - Ancient City Wall walk
   - Muslim Quarter food tour
@@ -376,8 +376,8 @@
 | Philippines | 6 | £30 | £180 |
 | Japan | 15 | £51 | £771 |
 | South Korea | 4 | £43 | £172 |
-| Greater China | 17 | £71 | £1,214 |
-| **Total Accommodation** | **74** | **£49** | **£3,622** |
+| Greater China | 17 | £73 | £1,243 |
+| **Total Accommodation** | **74** | **£49** | **£3,651** |
 
 ### Transportation
 | Category | Approximate Cost |
@@ -391,9 +391,9 @@
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|--------:|
-| Accommodation | £3,622 |
+| Accommodation | £3,651 |
 | Transportation | £3,524 |
-| **Trip Total** | **£7,146** |
+| **Trip Total** | **£7,175** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -405,9 +405,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,146  
+**Core Costs (Accommodation + Transportation):** £7,175  
 **Additional Expenses:** £6,372 total  
-**Total Trip Budget:** £13,518
+**Total Trip Budget:** £13,547
 
 ---
 
