@@ -20,12 +20,12 @@
 * **Transport:** TGV to Hendaye, then Euskotren to San Sebastián (5h 13m total)
 
 **Days 5-8: San Sebastián (3 nights)** - *Arriving Tuesday 2 June 2026*
-* **Highlights:** Pintxos bars, La Concha beach, Basque culture, surfing
+* **Highlights:** Pintxos crawl through the Old Town (Bar Nestor, La Cuchara de San Telmo, Borda Berri); San Telmo Museum for Basque history and culture; day trip to a Basque cider house (sagardotegi) for the txotx ritual and traditional meal
 * **Hotel:** [Hotel Niza](https://www.booking.com/hotel/es/niza.en-gb.html?aid=356287&label=metatripad-link-dmetagb-hotel-29817_xqdz-b431b9098f6f11a0bd426d93d62fab55_los-03_bw-291_tod-13_dom-couk_curr-GBP_gst-01_nrm-01_clkid-fbecd72d-b8ce-4dc2-b156-65a47beb0431_aud-0000_mbl-M_pd-T_sc-2_defdate-0_spo-0_clksrc-0_mcid-10&sid=b4b8d6e721f49fbc272ec53ddd997337&all_sr_blocks=2981705_411793794_0_2_0&checkin=2026-06-02&checkout=2026-06-05&dest_id=-401497&dest_type=city&dist=0&group_adults=1&group_children=0&hapos=1&highlighted_blocks=2981705_411793794_0_2_0&hpos=1&matching_block_id=2981705_411793794_0_2_0&no_rooms=1&req_adults=1&req_children=0&room1=A&sb_price_type=total&sr_order=popularity&sr_pri_blocks=2981705_411793794_0_2_0__29700&srepoch=1755259330&srpvid=e19b549681951e87&type=total&ucfs=1&) (€99/night) - Beachfront ✓ BOOKED
 * **Transport:** Alsa Standard bus to Bilbao (1h 20m)
 
 **Days 8-11: Bilbao (3 nights)** - *Arriving Friday 5 June 2026*
-* **Highlights:** Guggenheim Museum, Casco Viejo, Basque gastronomy
+* **Highlights:** Guggenheim Museum (Gehry's chrome-and-titanium icon plus Koons' Puppy); Casco Viejo pintxos crawl with a stop at Mercado de la Ribera; funicular up Mount Artxanda for panoramic views; Museo de Bellas Artes (Goya, El Greco, Gauguin, Bacon, Chillida)
 * **Hotel:** [Casual Gurea](https://www.booking.com/hotel/es/hostal-gurea.en-gb.html?label=metatripad-link-dmetagb-hotel-29817_xqdz-b431b9098f6f11a0bd426d93d62fab55_los-03_bw-291_tod-13_dom-couk_curr-GBP_gst-01_nrm-01_clkid-fbecd72d-b8ce-4dc2-b156-65a47beb0431_aud-0000_mbl-M_pd-T_sc-2_defdate-0_spo-0_clksrc-0_mcid-10&sid=b4b8d6e721f49fbc272ec53ddd997337&aid=356287&ucfs=1&checkin=2026-06-05&checkout=2026-06-08&dest_id=11933&dest_type=district&group_adults=1&no_rooms=1&group_children=0&sr_order=price&nflt=price%3DGBP-min-110-1%3Broomfacility%3D38&srpvid=c65054af56bb01cb&srepoch=1755259390&matching_block_id=28127505_363693523_0_0_0_829437&atlas_src=sr_iw_title) (€87/night) - Near the station ✓ BOOKED
 * **Transport:** FEVE train to Santander (3h, departing 2pm)
 
@@ -45,7 +45,7 @@
 * **Transport:** Alsa Standard bus to Porto (3h)
 
 **Days 16-19: Porto (4 nights)** - *Arriving Saturday 13 June 2026*
-* **Highlights:** Port wine, Ribeira district, azulejo tiles, Douro River
+* **Highlights:** Port wine cellar tours in Vila Nova de Gaia (Taylor's, Graham's, Ferreira) plus the WOW complex; Ribeira district and old town (São Bento Station's azulejos, Livraria Lello, Clérigos Tower, Sé Cathedral, Igreja de São Francisco); Palácio da Bolsa with its Moorish Arabian Hall; day trip to the Douro Valley for vineyards, port tastings and a rabelo river cruise
 * **Hotel (Nights 1-3):** [Porto Grand Sasimi House](https://www.booking.com/hotel/pt/porto-grand-sasimi-house.en-gb.html?label=metatripad-link-dmetagb-hotel-29817_xqdz-b431b9098f6f11a0bd426d93d62fab55_los-03_bw-291_tod-13_dom-couk_curr-GBP_gst-01_nrm-01_clkid-fbecd72d-b8ce-4dc2-b156-65a47beb0431_aud-0000_mbl-M_pd-T_sc-2_defdate-0_spo-0_clksrc-0_mcid-10&sid=b4b8d6e721f49fbc272ec53ddd997337&aid=356287&ucfs=1&checkin=2026-06-13&checkout=2026-06-16&dest_id=1279&dest_type=district&group_adults=1&no_rooms=1&group_children=0&sr_order=price&nflt=roomfacility%3D38%3Bprice%3DGBP-min-130-1&srpvid=00a55310976c0287&srepoch=1755345293&matching_block_id=943002603_417678823_1_0_0&atlas_src=sr_iw_title) (€54/night) - Central ✓ BOOKED
 * **Hotel (Night 4):** [Bom Sucesso Hotel by gaiarooms](https://www.booking.com/hotel/pt/oca-bom-sucesso.en-gb.html?label=gen173nr-10CAEoggI46AdIM1gEaFCIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AtPJv8sGwAIB0gIkYzczMDVhNzMtYjYxNy00Y2M0LThlN2YtMzE2ZTllYzAzN2M42AIB4AIB&aid=304142&ucfs=1&checkin=2026-06-16&checkout=2026-06-17&dest_id=-2173088&dest_type=city&group_adults=1&no_rooms=1&group_children=0&srpvid=d7cd8c3ddc320198&srepoch=1769111854&matching_block_id=1074485003_425248323_1_2_0&atlas_src=sr_iw_title) (€85/night) ✓ BOOKED
 
