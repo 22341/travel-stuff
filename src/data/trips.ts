@@ -37,7 +37,7 @@ export const trips: Trip[] = [
     year: 2027,
     startDate: "2027-02-06",
     tags: ["Career break", "9 countries", "77 days"],
-    description: "Malaysia · Cambodia · Vietnam · Taiwan + more",
+    description: "Malaysia · Cambodia · Vietnam + more",
     accentColor: "#7F77DD",
   },
 ];
