@@ -14,15 +14,6 @@ export interface Trip {
 
 export const trips: Trip[] = [
   {
-    slug: "porto",
-    title: "Porto by Train",
-    year: 2026,
-    startDate: "2026-05-29",
-    tags: ["Rail", "Iberian Peninsula", "20 days"],
-    description: "Paris · San Sebastián · Bilbao + more",
-    accentColor: "#87048b",
-  },
-  {
     slug: "slovenia",
     title: "Slovenia",
     year: 2026,

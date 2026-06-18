@@ -18,6 +18,11 @@ vi.mock("dompurify", () => ({
   },
 }));
 
+vi.mock("./data/trips", async () => {
+  const data = await import("./data/trips.mock");
+  return { trips: data.mockTrips };
+});
+
 function renderWithRouter(initialEntries: string[] = ["/"]) {
   return render(
     <MemoryRouter initialEntries={initialEntries}>
@@ -49,7 +54,7 @@ describe("App", () => {
       ),
     );
 
-    renderWithRouter(["/porto"]);
+    renderWithRouter(["/test-trip-future"]);
 
     expect(
       await screen.findByRole("link", { name: /back to home/i }),

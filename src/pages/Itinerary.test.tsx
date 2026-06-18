@@ -18,7 +18,12 @@ vi.mock("dompurify", () => ({
   },
 }));
 
-let mockSlug: string | undefined = "porto";
+vi.mock("../data/trips", async () => {
+  const data = await import("../data/trips.mock");
+  return { trips: data.mockTrips };
+});
+
+let mockSlug: string | undefined = "test-trip-future";
 const mockNavigate = vi.fn();
 
 vi.mock("react-router-dom", async () => ({
@@ -38,7 +43,7 @@ describe("Itinerary", () => {
   });
 
   it("shows loading state initially when slug is valid", () => {
-    mockSlug = "porto";
+    mockSlug = "test-trip-future";
     vi.stubGlobal(
       "fetch",
       vi.fn(
@@ -80,7 +85,7 @@ describe("Itinerary", () => {
   });
 
   it("renders back to home link when trip exists and content loads", async () => {
-    mockSlug = "porto";
+    mockSlug = "test-trip-future";
     vi.stubGlobal(
       "fetch",
       vi.fn(() =>
@@ -105,13 +110,13 @@ describe("Itinerary", () => {
   });
 
   it("sets document title when trip is loaded", async () => {
-    mockSlug = "porto";
+    mockSlug = "test-trip-future";
     vi.stubGlobal(
       "fetch",
       vi.fn(() =>
         Promise.resolve({
           ok: true,
-          text: () => Promise.resolve("# Porto"),
+          text: () => Promise.resolve("# Future Trip"),
         }),
       ),
     );
@@ -123,12 +128,12 @@ describe("Itinerary", () => {
     );
 
     await waitFor(() => {
-      expect(document.title).toBe("Porto by Train - Travel Itineraries");
+      expect(document.title).toBe("Future Trip - Travel Itineraries");
     });
   });
 
   it("shows error message when fetch fails", async () => {
-    mockSlug = "porto";
+    mockSlug = "test-trip-future";
     vi.stubGlobal(
       "fetch",
       vi.fn(() => Promise.reject(new Error("Network error"))),
@@ -146,7 +151,7 @@ describe("Itinerary", () => {
   });
 
   it("shows error message when fetch returns not ok (e.g. 404)", async () => {
-    mockSlug = "porto";
+    mockSlug = "test-trip-future";
     vi.stubGlobal(
       "fetch",
       vi.fn(() => Promise.resolve({ ok: false })),
@@ -173,7 +178,7 @@ describe("Itinerary", () => {
     });
 
     it("opens external links in new tab and prevents default", async () => {
-      mockSlug = "porto";
+      mockSlug = "test-trip-future";
       vi.stubGlobal(
         "fetch",
         vi.fn(() =>
@@ -210,7 +215,7 @@ describe("Itinerary", () => {
     });
 
     it("does not open internal links in new tab", async () => {
-      mockSlug = "porto";
+      mockSlug = "test-trip-future";
       vi.stubGlobal(
         "fetch",
         vi.fn(() =>
@@ -240,7 +245,7 @@ describe("Itinerary", () => {
     });
 
     it("does not open anchor links in new tab", async () => {
-      mockSlug = "porto";
+      mockSlug = "test-trip-future";
       vi.stubGlobal(
         "fetch",
         vi.fn(() =>
