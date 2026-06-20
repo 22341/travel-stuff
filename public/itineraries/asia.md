@@ -21,7 +21,7 @@
 
 ### Malaysia
 - **Kuala Lumpur:** 3 nights *Arrive: Mon 8 Feb 2027*
-  - ***Booked hotel:*** [Star Muse Hotel Changkat Bukit Bintang](https://www.booking.com/hotel/my/star-muse-at-bukit-bintang.en-gb.html) - £42/night
+  - ***Booked hotel:*** [Verdant Hill Hotel Kuala Lumpur](https://www.booking.com/hotel/my/verdant-hill-kuala-lumpur.en-gb.html) - £51/night
   - Explore Petronas Towers, Batu Caves
   - Street food tours in Chinatown and Little India
   - Visit Islamic Arts Museum
@@ -259,7 +259,7 @@
 
 ### London
 - **London:** 1 night *Arrive: Thu 22 Apr 2027*
-  - ***Booked hotel:*** [hub by Premier Inn London Marylebone](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/hub-london-marylebone.html) - £111/night
+  - ***Booked hotel:*** [Premier Inn London Paddington (Paddington Station)](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-paddington-paddington-station.html) - £111/night
   - Recover from jet lag and unwind
   - Final reflections on the career break journey
   - Reconnect with home
@@ -371,13 +371,13 @@
 | Region | Nights | Average Cost/Night | Total Cost |
 |--------|-------:|------------------:|----------:|
 | London | 2 | £96 | £192 |
-| Southeast Asia | 25 | £34 | £843 |
+| Southeast Asia | 25 | £35 | £870 |
 | Taiwan | 5 | £64 | £320 |
 | Philippines | 6 | £30 | £180 |
 | Japan | 15 | £51 | £771 |
 | South Korea | 4 | £43 | £172 |
 | Greater China | 17 | £74 | £1,259 |
-| **Total Accommodation** | **74** | **£50** | **£3,737** |
+| **Total Accommodation** | **74** | **£51** | **£3,764** |
 
 ### Transportation
 | Category | Approximate Cost |
@@ -391,9 +391,9 @@
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|--------:|
-| Accommodation | £3,737 |
+| Accommodation | £3,764 |
 | Transportation | £3,634 |
-| **Trip Total** | **£7,371** |
+| **Trip Total** | **£7,398** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -405,9 +405,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,371  
+**Core Costs (Accommodation + Transportation):** £7,398  
 **Additional Expenses:** £6,372 total  
-**Total Trip Budget:** £13,743
+**Total Trip Budget:** £13,770
 
 ---
 

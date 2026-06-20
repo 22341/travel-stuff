@@ -46,7 +46,7 @@ export const trips: Trip[] = [
     year: 2027,
     startDate: "2027-08-28",
     tags: ["Europe", "Gold plated pension", "37 days"],
-    description: "Paris · Strasbourg · Salzburg + more",
+    description: "Paris · Strasbourg · Munich + more",
     accentColor: "#bd77dd",
   },
 ];
