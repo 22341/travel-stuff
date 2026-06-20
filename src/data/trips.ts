@@ -40,4 +40,13 @@ export const trips: Trip[] = [
     description: "Malaysia · Cambodia · Vietnam + more",
     accentColor: "#7F77DD",
   },
+  {
+    slug: "istanbul",
+    title: "Istanbul by train",
+    year: 2027,
+    startDate: "2027-08-28",
+    tags: ["Europe", "Gold plated pension", "37 days"],
+    description: "Paris · Strasbourg · Salzburg + more",
+    accentColor: "#bd77dd",
+  },
 ];
