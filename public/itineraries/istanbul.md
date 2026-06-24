@@ -116,28 +116,28 @@ A round-trip railway odyssey from Yorkshire to the Bosphorus and back, taking in
 
 ## Transportation Schedule
 
-| Date | Route | Duration | Cost | Bkd |
-| ---- | ----- | -------- | ---- | --- |
-| 28 Aug | Leeds → London | 2h 15m | £40 | |
-| 29 Aug | London → Paris (Eurostar) | 2h 20m | £60 | |
-| 30 Aug | Paris → Strasbourg (TGV) | 1h 50m | £35 | |
-| 1 Sep | Strasbourg → Munich (TGV/ICE) | 3h 40m | £45 | |
-| 3 Sep | Munich → Salzburg (Railjet) | 1h 45m | £20 | |
-| 5 Sep | Salzburg → Graz (ÖBB IC) | 4h 05m | £25 | |
-| 7 Sep | Graz → Zagreb (ÖBB EC) | 3h 50m | £20 | |
-| 9 Sep | Zagreb → Belgrade (coach) | ~5h 30m | £20 | |
-| 11 Sep | Belgrade → Sofia (coach) | ~6h 30m | £25 | |
-| 13 Sep | Sofia → Istanbul (sleeper, overnight) | ~12h 40m | £60 | |
-| 18 Sep | Istanbul → Bucharest (sleeper, overnight) | ~19h | £70 | |
-| 21 Sep | Bucharest → Brașov (CFR IC) | 2h 45m | £15 | |
-| 23 Sep | Brașov → Cluj-Napoca (CFR IR) | ~6h 00m | £20 | |
-| 25 Sep | Cluj-Napoca → Budapest (IC Claudiopolis) | ~8h 00m | £30 | |
-| 27 Sep | Budapest → Wrocław (via Ostrava) | ~7h 00m | £45 | |
-| 29 Sep | Wrocław → Berlin (EC) | 4h 30m | £30 | |
-| 1 Oct | Berlin → Cologne (ICE) | 4h 15m | £40 | |
-| 2 Oct | Cologne → Amsterdam (ICE/IC) | 2h 40m | £35 | |
-| 3 Oct | Amsterdam → London (Eurostar) | 4h 00m | £70 | |
-| 4 Oct | London → Leeds (LNER) | 2h 15m | £40 | |
+| Date   | Route                                     | Duration | Cost | Bkd |
+| ------ | ----------------------------------------- | -------- | ---- | --- |
+| 28 Aug | Leeds → London                            | 2h 15m   | £40  |     |
+| 29 Aug | London → Paris (Eurostar)                 | 2h 20m   | £60  |     |
+| 30 Aug | Paris → Strasbourg (TGV)                  | 1h 50m   | £35  |     |
+| 1 Sep  | Strasbourg → Munich (TGV/ICE)             | 3h 40m   | £45  |     |
+| 3 Sep  | Munich → Salzburg (Railjet)               | 1h 45m   | £20  |     |
+| 5 Sep  | Salzburg → Graz (ÖBB IC)                  | 4h 05m   | £25  |     |
+| 7 Sep  | Graz → Zagreb (ÖBB EC)                    | 3h 50m   | £20  |     |
+| 9 Sep  | Zagreb → Belgrade (coach)                 | ~5h 30m  | £20  |     |
+| 11 Sep | Belgrade → Sofia (coach)                  | ~6h 30m  | £25  |     |
+| 13 Sep | Sofia → Istanbul (sleeper, overnight)     | ~12h 40m | £60  |     |
+| 18 Sep | Istanbul → Bucharest (sleeper, overnight) | ~19h     | £70  |     |
+| 21 Sep | Bucharest → Brașov (CFR IC)               | 2h 45m   | £15  |     |
+| 23 Sep | Brașov → Cluj-Napoca (CFR IR)             | ~6h 00m  | £20  |     |
+| 25 Sep | Cluj-Napoca → Budapest (IC Claudiopolis)  | ~8h 00m  | £30  |     |
+| 27 Sep | Budapest → Wrocław (via Ostrava)          | ~7h 00m  | £45  |     |
+| 29 Sep | Wrocław → Berlin (EC)                     | 4h 30m   | £30  |     |
+| 1 Oct  | Berlin → Cologne (ICE)                    | 4h 15m   | £40  |     |
+| 2 Oct  | Cologne → Amsterdam (ICE/IC)              | 2h 40m   | £35  |     |
+| 3 Oct  | Amsterdam → London (Eurostar)             | 4h 00m   | £70  |     |
+| 4 Oct  | London → Leeds (LNER)                     | 2h 15m   | £40  |     |
 
 **Transport total: ~£745** (advance-purchase / Sparpreis estimates, 2nd class; sleepers in a private or 2-berth compartment)
 
@@ -146,63 +146,65 @@ A round-trip railway odyssey from Yorkshire to the Bosphorus and back, taking in
 ## Total Trip Cost Estimate
 
 ### Transport
+
 Point-to-point advance tickets as above: **~£745**. (See Travel Notes for an Interrail pass comparison — the two coach legs and Eurostar reservation fees make a pass roughly line-ball here rather than a clear saving.)
 
 ### Accommodation
 
-| Stop | Nights | Per night | Total |
-| ---- | ------ | --------- | ----- |
-| London (out) | 1 | £150 | £150 |
-| Paris | 1 | £125 | £125 |
-| Strasbourg | 2 | £105 | £210 |
-| Munich | 2 | £120 | £240 |
-| Salzburg | 2 | £120 | £240 |
-| Graz | 2 | £100 | £200 |
-| Zagreb | 2 | £95 | £190 |
-| Belgrade | 2 | £85 | £170 |
-| Sofia | 2 | £80 | £160 |
-| Istanbul | 4 | £100 | £400 |
-| Bucharest | 2 | £85 | £170 |
-| Brașov | 2 | £80 | £160 |
-| Cluj-Napoca | 2 | £85 | £170 |
-| Budapest | 2 | £100 | £200 |
-| Wrocław | 2 | £95 | £190 |
-| Berlin | 2 | £110 | £220 |
-| Cologne | 1 | £110 | £110 |
-| Amsterdam | 1 | £155 | £155 |
-| London (return) | 1 | £150 | £150 |
-| **Total** | **35** | | **£3,610** |
+| Stop            | Nights | Per night | Total      |
+| --------------- | ------ | --------- | ---------- |
+| London (out)    | 1      | £150      | £150       |
+| Paris           | 1      | £125      | £125       |
+| Strasbourg      | 2      | £105      | £210       |
+| Munich          | 2      | £120      | £240       |
+| Salzburg        | 2      | £120      | £240       |
+| Graz            | 2      | £100      | £200       |
+| Zagreb          | 2      | £95       | £190       |
+| Belgrade        | 2      | £85       | £170       |
+| Sofia           | 2      | £80       | £160       |
+| Istanbul        | 4      | £100      | £400       |
+| Bucharest       | 2      | £85       | £170       |
+| Brașov          | 2      | £80       | £160       |
+| Cluj-Napoca     | 2      | £85       | £170       |
+| Budapest        | 2      | £100      | £200       |
+| Wrocław         | 2      | £95       | £190       |
+| Berlin          | 2      | £110      | £220       |
+| Cologne         | 1      | £110      | £110       |
+| Amsterdam       | 1      | £155      | £155       |
+| London (return) | 1      | £150      | £150       |
+| **Total**       | **35** |           | **£3,610** |
 
 (The two sleeper nights are counted under transport, not accommodation.)
 
 ### Daily Spend
+
 Food, drink and incidentals vary widely across the route, so rates are banded by region:
 
-- **Meals & drinks:** ~£90/day in Western Europe (UK, France, Germany, Austria, Netherlands), ~£60/day in Croatia, Hungary and Poland, ~£45/day in Serbia, Bulgaria, Romania and Türkiye → **~£2,475** across the trip
-- **Activities & sights:** entry fees, castles, baths, day trips, ~£20/day → **~£740**
-- **Local transport:** metros, trams, the Marmaray and ferries, ~£6/day → **~£220**
+- **Meals & drinks:** ~£90/day in Western Europe (UK, France, Germany, Austria, Netherlands), ~£60/day in Croatia, Hungary and Poland, ~£45/day in Serbia, Bulgaria, Romania and Türkiye: **~£2,475** across the trip
+- **Activities & sights:** entry fees, castles, baths, day trips, ~£20/day: **~£740**
+- **Local transport:** metros, trams, the Marmaray and ferries, ~£6/day: **~£220**
 
 ### Total Estimated Trip Cost
 
-| Category | Estimate |
-| -------- | -------- |
-| Transport | £745 |
-| Accommodation | £3,610 |
-| Meals & drinks | £2,475 |
-| Activities & sights | £740 |
-| Local transport | £220 |
-| **Subtotal** | **£7,790** |
+| Category            | Estimate   |
+| ------------------- | ---------- |
+| Transport           | £745       |
+| Accommodation       | £3,610     |
+| Meals & drinks      | £2,475     |
+| Activities & sights | £740       |
+| Local transport     | £220       |
+| **Subtotal**        | **£7,790** |
 
 ---
 
 ## Complete Trip Budget
 
-| | Estimate |
-| --- | --- |
-| Core costs (transport + accommodation) | £4,355 |
-| Daily living (food, drink, activities, local transport) | £3,435 |
-| Contingency & extras (ETIAS, eSIM, travel insurance, laundry, tips) | £260 |
-| **Grand total (solo)** | **~£8,050** |
+|                                                                     | Estimate    |
+| ------------------------------------------------------------------- | ----------- |
+| Core costs (transport + accommodation)                              | £4,355      |
+| Daily living (food, drink, activities, local transport)             | £3,435      |
+| Contingency & extras (ETIAS, eSIM, travel insurance, laundry, tips) | £260        |
+| **Grand total (solo)**                                              | **~£8,050** |
 
 Roughly **£215/day** all-in for a 38-day, twelve-country rail adventure. The Balkan and Romanian legs are where the daily costs drop most, balancing the pricier Western European bookends.
 
@@ -221,15 +223,19 @@ Roughly **£215/day** all-in for a 38-day, twelve-country rail adventure. The Ba
 ## Travel Notes
 
 ### Rail pass strategy
+
 With ~17 paid legs, an **Interrail Global Pass** (e.g. 15 travel days within 2 months) is worth pricing up. However, the two Balkan coach legs aren't covered, Eurostar takes only a limited pass quota plus a reservation fee, and the TGV/sleepers need paid reservations anyway — so for this exact routing a pass tends to come out roughly level with advance point-to-point tickets. Book the cheap advance fares (especially Eurostar, TGV and German Sparpreis) the moment they open, ~3–6 months ahead.
 
 ### The two coach legs
+
 Zagreb→Belgrade and Belgrade→Sofia are currently buses because the railways are suspended/under reconstruction. Both lines are slated to improve by late 2027 — check closer to the date; if the trains are running again, swap them straight in. Either way, FlixBus and the Balkan coach operators are comfortable and cheap.
 
 ### The sleepers
+
 The Sofia→Istanbul Express and the Istanbul→Bucharest Bosphorus through-carriage often can't be booked online — reserve a berth at the departure station a day or two ahead, or through a specialist agent a month or so out. Book a single-berth or 2-berth sleeper for comfort. Bring your own food and water; there's no buffet car.
 
 ### Currencies (one line each)
+
 - **Pound sterling (UK):** cards everywhere.
 - **Euro (France, Germany, Austria, Croatia, Netherlands — and Bulgaria, which adopts the euro from 2026):** cards widely accepted.
 - **Serbian dinar (RSD):** fairly cash-led away from hotels — carry some notes.
@@ -239,10 +245,13 @@ The Sofia→Istanbul Express and the Istanbul→Bucharest Bosphorus through-carr
 - **Polish złoty (PLN):** very card-friendly, contactless almost everywhere.
 
 ### Language
-English is widely spoken in tourist areas throughout. A few local courtesies go a long way — *merci* (France), *danke* (Germany/Austria), *hvala* (Croatia/Serbia), *blagodarya* (Bulgaria), *teşekkürler* (Türkiye), *mulțumesc* (Romania), *köszönöm* (Hungary), *dziękuję* (Poland).
+
+English is widely spoken in tourist areas throughout. A few local courtesies go a long way — _merci_ (France), _danke_ (Germany/Austria), _hvala_ (Croatia/Serbia), _blagodarya_ (Bulgaria), _teşekkürler_ (Türkiye), _mulțumesc_ (Romania), _köszönöm_ (Hungary), _dziękuję_ (Poland).
 
 ### Weather & packing
+
 Late August starts warm and summery (mid-20s°C in Western and Central Europe, often 28–32°C in Belgrade, Sofia and Istanbul). By late September into early October it turns autumnal — cooler days (12–18°C) and genuinely chilly evenings in Transylvania and the Carpathians. Pack layers, a light waterproof, comfortable walking shoes, and one warmer layer for the back end of the trip.
 
 ### Local rail booking platforms
+
 SNCF Connect / Trainline (France), DB and the international planner at int.bahn.de (Germany & connections), ÖBB (Austria, also the Graz–Zagreb EC), MÁV (Hungary), PKP Intercity (Poland), CFR Călători (Romania), BDŽ (Bulgaria), TCDD (Türkiye — Sofia–Istanbul at the station), Srbija Voz (Serbia), Eurostar, and FlixBus for the Balkan coaches.
