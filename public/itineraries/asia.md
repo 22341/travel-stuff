@@ -429,7 +429,6 @@
 - Ensure your passport is valid for at least 6 months beyond your intended stay
 - Keep proof of onward travel (flight bookings) readily available
 - Complete all online arrival cards and registrations before travel
-- **China visa no longer required** - UK citizens now enjoy 30-day visa-free entry (policy valid until 31 Dec 2026)
 - Visa requirements can change; verify all details closer to departure date
 - **Phnom Penh → Chau Doc ferry:** this land/river border crossing may have different visa requirements or processing than air entry points - check whether a Vietnam entry visa or additional documentation is needed for this specific crossing before travel
 - Download **Naver Map** before arriving in South Korea and **Amap (高德地图)** and **Dianping (大众点评)** before arriving in China for reliable navigation
