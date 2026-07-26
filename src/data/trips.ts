@@ -15,11 +15,11 @@ export interface Trip {
 export const trips: Trip[] = [
   {
     slug: "slovenia",
-    title: "Slovenia",
+    title: "Ljubljana",
     year: 2026,
     startDate: "2026-11-01",
     tags: ["City break", "Central Europe", "6 days"],
-    description: "Ljubljana",
+    description: "Old town, castle, Lake Bled, Postojna cave",
     accentColor: "#1D9E75",
   },
   {
