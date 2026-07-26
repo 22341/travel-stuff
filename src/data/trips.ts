@@ -29,7 +29,7 @@ export const trips: Trip[] = [
     startDate: "2027-01-07",
     tags: ["Oceania", "Gold plated pension", "33 days"],
     description: "Great Southern rail trip, Tasmanian cruise",
-    accentColor: "#0415a7",
+    accentColor: "#fac003",
   },
   {
     slug: "asia",
@@ -39,6 +39,15 @@ export const trips: Trip[] = [
     tags: ["Career break", "9 countries", "77 days"],
     description: "Malaysia · Cambodia · Vietnam + more",
     accentColor: "#7F77DD",
+  },
+  {
+    slug: "paris-2027",
+    title: "Colin in Paris",
+    year: 2027,
+    startDate: "2027-05-22",
+    tags: ["City break", "Gold plated pension", "10 days"],
+    description: "London · Paris · Brussels",
+    accentColor: "#114bc9",
   },
   {
     slug: "istanbul",
