@@ -11,7 +11,7 @@
 
 ### Leeds to Manchester
 
-Your Slovenian adventure begins with an early afternoon train journey from Leeds to Manchester Piccadilly, departing around 2pm and taking approximately 1 hour 30 minutes (£10). Arriving in Manchester by mid-afternoon, you'll have plenty of time to check into your hotel and spend the evening exploring the vibrant city centre and the trendy Northern Quarter, known for its independent restaurants, bars, and lively atmosphere. Enjoy dinner and drinks before getting an early night ahead of tomorrow's flight.
+Your Slovenian adventure begins with an early afternoon train journey from Leeds to Manchester Piccadilly, departing around 2pm and taking approximately 1 hour 30 minutes (£20). Arriving in Manchester by mid-afternoon, you'll have plenty of time to check into your hotel and spend the evening exploring the vibrant city centre and the trendy Northern Quarter, known for its independent restaurants, bars, and lively atmosphere. Enjoy dinner and drinks before getting an early night ahead of tomorrow's flight.
 
 **Overnight:** [Motel One Manchester-Piccadilly](https://www.booking.com/hotel/gb/motel-one-manchester-piccadilly.en-gb.html) - £61
 
@@ -51,9 +51,19 @@ Don't miss the opportunity to sample traditional Slovenian cuisine at local rest
 
 **Postojna Cave and Predjama Castle** (50km southwest) can be combined into one spectacular day trip. Postojna Cave is one of Europe's most impressive underground cave systems, with a miniature train taking you deep into vast chambers filled with extraordinary stalactites and stalagmites formed over millions of years. Just 10km away, Predjama Castle is one of the world's most dramatic fortresses - a Renaissance castle ingeniously built into the mouth of a 123-metre-high cliff, creating one of the most photogenic castles you'll ever see.
 
-**Škocjan Caves** (UNESCO World Heritage site, 80km southwest) offers a more dramatic underground experience than Postojna. This magnificent karst cave system features an enormous underground canyon where the Reka River disappears into the depths. The scale and natural beauty of these caves is truly breathtaking.
+**Kamnik** (25km north, half-day by train) is one of Slovenia's finest medieval towns, set against a dramatic Alpine backdrop — and an easy direct train ride from Ljubljana.
 
-**Lake Bohinj** (80km northwest) provides a quieter, more pristine alternative to the busier Lake Bled. Set within Triglav National Park, this larger alpine lake is surrounded by mountains and offers a more peaceful atmosphere with fewer tourists. It's perfect if you want to experience Slovenia's natural beauty without the crowds.
+Getting there: Direct train from Ljubljana to Kamnik Mesto, roughly every hour, taking around 40–42 minutes. Tickets cost only a few euros each way. The station is a 10-minute walk south of the town centre.
+
+What to see and do:
+
+- **Mali Grad (Little Castle):** The unmissable centrepiece of Kamnik — a rocky hill right in the heart of town topped by a beautifully preserved two-storey Romanesque chapel with crypt, dating to the 11th century. Climb up for great panoramic views over the rooftops to the Alps.
+- **Šutna:** Kamnik's most picturesque street, lined with pastel-washed medieval and Secession-era buildings, many bearing traditional guild and craftsman signs. An ideal spot for a gentle wander.
+- **Franciscan Monastery & Plečnik Chapel:** A 15th-century complex housing the Church of St James and its extraordinary Chapel of the Holy Sepulchre — a late work by Slovenia's greatest architect, Jože Plečnik (1952), full of symbolism. The monastery also holds a remarkable library of around 10,000 volumes, including incunabula and a 1584 Slovene Bible.
+- **Stari Grad (Old Castle) ruins:** A short hike above town rewards with sweeping panoramic views of the Julian Alps, the Karavanke mountains, and the Kamnik-Savinja Alps.
+- **Glavni trg (Main Square):** The heart of the old town, featuring another Plečnik-designed facade. A good spot to stop for coffee.
+
+Good to know: November is off-season, so it'll be quiet and unhurried. The Mali Grad chapel may have limited opening hours — worth checking locally. The whole town is very walkable and the half-day pace suits it well.
 
 ---
 
@@ -61,7 +71,7 @@ Don't miss the opportunity to sample traditional Slovenian cuisine at local rest
 
 ### Ljubljana to Manchester to Leeds
 
-Your final morning in Ljubljana - perhaps a last stroll through the Old Town or a final coffee by the river before heading to the airport. Your 10:25am flight departs for Manchester (£58), arriving back in the UK around 11:10am local time after approximately 2 hours 45 minutes in the air. From Manchester, take the train back to Leeds (£10, 1 hour 30 minutes), arriving home in the afternoon with wonderful memories of Slovenia's beautiful capital.
+Your final morning in Ljubljana - perhaps a last stroll through the Old Town or a final coffee by the river before heading to the airport. Your 10:25am flight departs for Manchester (£58), arriving back in the UK around 11:10am local time after approximately 2 hours 45 minutes in the air. From Manchester, take the train back to Leeds (£20, 1 hour 30 minutes), arriving home in the afternoon with wonderful memories of Slovenia's beautiful capital.
 
 ---
 
@@ -126,7 +136,7 @@ Your final morning in Ljubljana - perhaps a last stroll through the Old Town or 
 
 **Time Zone:** Slovenia is on Central European Time (CET), 1 hour ahead of UK time.
 
-**Getting Around:** Ljubljana's compact city centre is easily walkable. Bike rental is also available and popular. For day trips, bus services run to Lake Bled and other destinations, though organized tours are recommended for the cave systems.
+**Getting Around:** Ljubljana's compact city centre is easily walkable. Bike rental is also available and popular. For day trips, bus services run to Lake Bled and other destinations, though organised tours are recommended for the cave systems.
 
 **Ljubljana Card:** Consider purchasing a Ljubljana Card for free public transport and free/discounted entry to museums and attractions.
 

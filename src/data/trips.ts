@@ -38,7 +38,7 @@ export const trips: Trip[] = [
     startDate: "2027-02-06",
     tags: ["Career break", "9 countries", "77 days"],
     description: "Malaysia · Cambodia · Vietnam + more",
-    accentColor: "#7F77DD",
+    accentColor: "#852f2f",
   },
   {
     slug: "paris-2027",
@@ -56,6 +56,15 @@ export const trips: Trip[] = [
     startDate: "2027-08-28",
     tags: ["Europe", "Gold plated pension", "37 days"],
     description: "Paris · Strasbourg · Munich + more",
-    accentColor: "#bd77dd",
+    accentColor: "#043f0e",
+  },
+  {
+    slug: "andalucia",
+    title: "Andalucía road trip",
+    year: 2027,
+    startDate: "2027-09-11",
+    tags: ["Self-drive", "Princess Kimberley", "16 days"],
+    description: "Granada · Córdoba · Seville + more",
+    accentColor: "#7a24a1",
   },
 ];
