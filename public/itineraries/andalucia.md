@@ -35,7 +35,7 @@
 
 - **Málaga:** 3 nights (by hire car, via Setenil de las Bodegas and Ardales) _Arrive: Thu 23 Sep 2027_
   - **Recommended hotel:** [Hotel Don Paco](https://www.booking.com/hotel/es/donpacomalaga.html) — ~£95/night
-  - En route: stops in Setenil de las Bodegas — whitewashed rock ledge village, and Ardales - Castle of Peña, lunch
+  - En route: stops in Setenil de las Bodegas — whitewashed rock ledge village, and Ardales - Caminito del Rey hike, lunch
   - Hire car drop-off at María Zambrano station
   - Picasso Museum, Alcazaba & Gibralfaro castle, Muelle Uno waterfront, craft beer bars in the Soho district
   - Fly home Sun 26 Sep 2027
