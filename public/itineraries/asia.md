@@ -321,7 +321,7 @@
 | Sun 21 Feb 2027 | Ho Chi Minh City → Da Nang | 09:05, 1.5 hrs | £78 | ✅ |
 | Sat 6 Mar 2027 | Hanoi → Taipei | 07:35, 3 hrs | £159 | ✅ |
 | Thu 11 Mar 2027 | Taipei → Manila | 09:45, 2.5 hrs | £96 | ✅ |
-| Sun 14 Mar 2027 | Manila → Cebu | 12:25, 1.5 hrs | £37 | ✅ |
+| Sun 14 Mar 2027 | Manila → Cebu | 09:15, 1.5 hrs | £37 | ✅ |
 | Wed 17 Mar 2027 | Cebu → Tokyo | 08:05, 4.5 hrs | £182 | ✅ |
 | Thu 1 Apr 2027 | Tokyo → Seoul | 12:50, 2.5 hrs | £148 | ✅ |
 | Mon 5 Apr 2027 | Seoul → Hong Kong | 13:25, 3.5 hrs | £216 | ✅ |
