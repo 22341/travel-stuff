@@ -1,257 +1,229 @@
-# Leeds to Istanbul Grand Rail Loop 2027
-
-A round-trip railway odyssey from Yorkshire to the Bosphorus and back, taking in twelve countries by a different route out and home.
+# Leeds–Istanbul Grand Rail Loop 2027
 
 ## Overview
 
 **Total Duration:** 37 nights / 38 days
 **Dates:** Sat 28 Aug 2027 – Mon 4 Oct 2027
-**Countries:** England, France, Germany, Austria, Croatia, Serbia, Bulgaria, Türkiye, Romania, Hungary, Poland, Netherlands (12)
-**Travel Style:** Solo, rail-based, mid-range hotels, 2-night bases with a brisk but sustainable pace. Two short Balkan coach legs (rail currently suspended) and two overnight sleepers carry you where ≤6h daytime trains aren't possible. Outbound and return share no cities except London, the unavoidable UK gateway.
+**Countries:** UK, France, Germany, Austria, Croatia, Serbia, Bulgaria, Turkey, Romania, Hungary, Poland, Netherlands (12)
+**Travel Style:** Solo rail loop on an Interrail Global Pass, with two Balkan bus substitutions and two overnight sleeper trains either side of Istanbul, the turning point of the trip
 
 ---
 
 ## Itinerary
 
-### Phase 1 — Outbound: The Heart of Europe to the Bosphorus
+### Phase 1: UK, France & Austria
 
 - **London:** 1 night (by train) _Arrive: Sat 28 Aug 2027_
-  - **Recommended hotel:** [Premier Inn London King's Cross](https://www.booking.com/searchresults.html?ss=Premier+Inn+London+King's+Cross) — ~£150/night
-  - Evening stroll around Coal Drops Yard and Granary Square, craft beer at the King's Cross BrewDog or Craft Beer Co Islington
-
-- **Paris:** 1 night (by train) _Arrive: Sun 29 Aug 2027_
-  - **Recommended hotel:** [ibis Styles Paris Gare de l'Est](https://www.booking.com/searchresults.html?ss=ibis+Styles+Paris+Gare+de+l'Est) — ~£125/night
-  - Evening walk along the Seine and Île de la Cité, dinner and bar-hopping in the Canal Saint-Martin quarter
-
-- **Strasbourg:** 2 nights (by train) _Arrive: Mon 30 Aug 2027_
-  - **Recommended hotel:** [Hôtel Gutenberg Strasbourg](https://www.booking.com/searchresults.html?ss=Hotel+Gutenberg+Strasbourg) — ~£105/night
-  - Cathedral and the Grande Île, the canals and timbered houses of Petite France
-  - Half-day to Colmar (30 min by train) or the Alsace wine route
-
+  - **Recommended hotel:** [hub by Premier Inn London King's Cross](https://www.booking.com/hotel/gb/hub-london-kings-cross.en-gb.html) (near St Pancras for the Eurostar) — ~£130/night
+  - Eurostar connection the following morning, British Museum, King's Cross/St Pancras area, Camden Market
+- **Paris:** 2 nights (by train) _Arrive: Sun 29 Aug 2027_
+  - **Recommended hotel:** [Hôtel Whistler Paris](https://www.booking.com/hotel/fr/whistler.html) (10e, steps from Gare du Nord, 4.5★) — ~£125/night
+  - Eiffel Tower, Louvre, Montmartre, Seine riverside walk
+- **Strasbourg:** 1 night (by train) _Arrive: Tue 31 Aug 2027_
+  - **Recommended hotel:** [Hôtel Gutenberg](https://www.booking.com/hotel/fr/gutenberg.html) (by the cathedral, 4.5★) — ~£105/night
+  - Strasbourg Cathedral, La Petite France, canal boat tour
 - **Munich:** 2 nights (by train) _Arrive: Wed 1 Sep 2027_
-  - **Recommended hotel:** [Motel One München-Hauptbahnhof](https://www.booking.com/searchresults.html?ss=Motel+One+Munchen+Hauptbahnhof) — ~£120/night
-  - Marienplatz, Viktualienmarkt and the Englischer Garten, then a beer hall (Hofbräuhaus) plus craft at Tap House
-  - Nymphenburg Palace or the Deutsches Museum
+  - **Recommended hotel:** [Mercure München Altstadt](https://www.booking.com/hotel/de/mercure-munchen-altstadt.html) (old town, 4.5★) — ~£115/night
+  - Marienplatz, English Garden, Viktualienmarkt, Deutsches Museum
+- **Salzburg:** 1 night (by train) _Arrive: Fri 3 Sep 2027_
+  - **Recommended hotel:** [Hotel Wolf](https://www.booking.com/hotel/at/wolf.html) (heart of old town, family-run, 4.7★) — ~£105/night
+  - Hohensalzburg Fortress, Mirabell Palace, Getreidegasse
 
-- **Salzburg:** 2 nights (by train) _Arrive: Fri 3 Sep 2027_
-  - **Recommended hotel:** [Star Inn Hotel Salzburg Gablerbräu](https://www.booking.com/searchresults.html?ss=Star+Inn+Hotel+Salzburg+Gablerbrau) — ~£120/night
-  - Altstadt and the Hohensalzburg Fortress funicular, Mirabell Gardens and the Getreidegasse
-  - Day trip to the lakes (Hallstatt) or the Berchtesgaden Alps
+### Phase 2: Balkans Outbound
 
-- **Graz:** 2 nights (by train) _Arrive: Sun 5 Sep 2027_
-  - **Recommended hotel:** [Hotel Daniel Graz](https://www.booking.com/searchresults.html?ss=Hotel+Daniel+Graz) — ~£100/night
-  - Schlossberg clock tower and the red rooftops, the Kunsthaus "friendly alien" and the Murinsel
-  - Eggenberg Palace, then drinks in the student bars off Mehlplatz
+- **Graz:** 2 nights (by train) _Arrive: Sat 4 Sep 2027_
+  - **Recommended hotel:** [Hotel Das Weitzer](https://www.booking.com/hotel/at/dasweitzer.html) (riverside, 4.4★) — ~£95/night
+  - Schlossberg, Graz Old Town, Kunsthaus Graz, Eggenberg Palace
+  - Chosen over Ljubljana, previously visited
+- **Zagreb:** 2 nights (by train) _Arrive: Mon 6 Sep 2027_
+  - **Recommended hotel:** [Hotel Dubrovnik](https://www.booking.com/hotel/hr/dubrovnik.html) (on the main square, 4.5★) — ~£95/night
+  - Upper Town, Zagreb Cathedral, Dolac Market, Museum of Broken Relationships
+- **Belgrade:** 2 nights (by bus — rail line suspended) _Arrive: Wed 8 Sep 2027_
+  - **Recommended hotel:** [Courtyard by Marriott Belgrade City Center](https://www.booking.com/hotel/rs/courtyard-by-marriott-belgrade-city-center.html) (central, quiet, 4.6★) — ~£85/night
+  - Kalemegdan Fortress, Skadarlija, Nikola Tesla Museum
+- **Sofia:** 1 night (by bus — rail line suspended) _Arrive: Fri 10 Sep 2027_
+  - **Recommended hotel:** [B1 Downtown Hotel](https://www.booking.com/hotel/bg/b1-downtown.html) (city centre, walkable, 4.5★) — ~£68/night
+  - Alexander Nevsky Cathedral, Vitosha Boulevard, Boyana Church
 
-- **Zagreb:** 2 nights (by train) _Arrive: Tue 7 Sep 2027_
-  - **Recommended hotel:** [Hotel Jägerhorn Zagreb](https://www.booking.com/searchresults.html?ss=Hotel+Jagerhorn+Zagreb) — ~£95/night
-  - Upper Town (Gornji Grad), St Mark's Church and the Dolac market
-  - Croatia's best craft beer scene: Garden Brewery taproom and the Tkalčićeva bars
+### Phase 3: Istanbul — Turning Point
 
-- **Belgrade:** 2 nights (by coach) _Arrive: Thu 9 Sep 2027_
-  - **Recommended hotel:** [Mama Shelter Belgrade](https://www.booking.com/searchresults.html?ss=Mama+Shelter+Belgrade) — ~£85/night
-  - Kalemegdan Fortress above the Sava–Danube confluence, the bohemian Skadarlija quarter
-  - Cetinjska craft-beer yard and the Savamala riverfront
+- **Istanbul:** 3 nights (by overnight sleeper) _Arrive: Sun 12 Sep 2027_
+  - **Recommended hotel:** [Radisson Hotel Istanbul Sultanahmet](https://www.booking.com/hotel/tr/radissonhotelistanbulsultanahmet.html) (seafront, walk to Blue Mosque/Hagia Sophia, 4.5★) — ~£100/night
+  - Hagia Sophia, Blue Mosque, Grand Bazaar, Bosphorus ferry cruise
 
-- **Sofia:** 2 nights (by coach) _Arrive: Sat 11 Sep 2027_
-  - **Recommended hotel:** [R34 Boutique Hotel Sofia](https://www.booking.com/searchresults.html?ss=R34+Boutique+Hotel+Sofia) — ~£80/night
-  - Alexander Nevsky Cathedral, the Roman ruins beneath Serdika and Vitosha Boulevard
-  - Day trip to Rila Monastery, or the Boyana Church and National History Museum
+### Phase 4: Romania & Hungary
 
-- **Istanbul:** 4 nights (by overnight sleeper) _Arrive: Tue 14 Sep 2027_
-  - **Recommended hotel:** [Hotel Momento Golden Horn Istanbul](https://www.booking.com/searchresults.html?ss=Hotel+Momento+Golden+Horn+Istanbul) — ~£100/night
-  - Hagia Sophia and the Blue Mosque, then Topkapı Palace and the Basilica Cistern
-  - Grand Bazaar and the Spice Bazaar, with a Bosphorus ferry to Kadıköy on the Asian side
-  - Galata Tower and the craft-beer bars of Karaköy and Beyoğlu
-  - A leisurely day: a hamam, Süleymaniye Mosque, or a Princes' Islands ferry
+- **Bucharest:** 2 nights (by overnight sleeper) _Arrive: Thu 16 Sep 2027_
+  - **Recommended hotel:** [Moxy Bucharest Old Town](https://www.booking.com/hotel/ro/moxy-bucharest-old-town.html) (modern, old town, 4.5★) — ~£80/night
+  - Palace of Parliament, Lipscani Old Town, Herăstrău Park
+- **Brașov:** 2 nights (by train) _Arrive: Sat 18 Sep 2027_
+  - **Recommended hotel:** [Casa Chitic – Hotel & Restaurant](https://www.booking.com/hotel/ro/casa-chitic-balcescu.html) (old town, near the square, 4.7★) — ~£73/night
+  - Council Square, Black Church, Tâmpa cable car, Bran Castle day trip
+- **Cluj-Napoca:** 2 nights (by train) _Arrive: Mon 20 Sep 2027_
+  - **Recommended hotel:** [Hampton by Hilton Cluj-Napoca](https://www.booking.com/hotel/ro/hampton-by-hilton-cluj-napoca.html) (central, 4.6★) — ~£78/night
+  - St Michael's Church, Botanical Garden, Old Town, Turda Salt Mine day trip
+- **Budapest:** 2 nights (by train) _Arrive: Wed 22 Sep 2027_
+  - **Recommended hotel:** [Prestige Hotel Budapest](https://www.booking.com/hotel/hu/prestige-budapest.html) (central Pest, 4.4★) — ~£110/night
+  - Buda Castle, Fisherman's Bastion, Széchenyi Thermal Baths, Parliament building
 
-### Phase 2 — Return: Transylvania, the Plains and the Rhine
+### Phase 5: Poland & Germany
 
-- **Bucharest:** 2 nights (by overnight sleeper) _Arrive: Sun 19 Sep 2027_
-  - **Recommended hotel:** [Hotel Cișmigiu Bucharest](https://www.booking.com/searchresults.html?ss=Hotel+Cismigiu+Bucharest) — ~£85/night
-  - The vast Palace of Parliament and the restored Old Town (Lipscani)
-  - The open-air Village Museum by Herăstrău Park, then Old-Town craft beer
+- **Wrocław:** 2 nights (by train) _Arrive: Fri 24 Sep 2027_
+  - **Recommended hotel:** [B&B Hotel Wrocław Old Town](https://www.booking.com/hotel/pl/b-amp-b-wroclaw-old-town.html) (on the market square, 4.9★) — ~£83/night
+  - Market Square, dwarves trail, Cathedral Island, Centennial Hall
+- **Berlin:** 2 nights (by train) _Arrive: Sun 26 Sep 2027_
+  - **Recommended hotel:** [Holiday Inn Express Berlin Alexanderplatz](https://www.booking.com/hotel/de/holiday-inn-express-berlin-alexanderplatz.html) (central, near transport, 4.4★) — ~£105/night
+  - Brandenburg Gate, East Side Gallery, Museum Island, Reichstag
+- **Cologne:** 2 nights (by train) _Arrive: Tue 28 Sep 2027_
+  - **Recommended hotel:** [CityClass Hotel am Dom](https://www.booking.com/hotel/de/cityclasshotelamdom.html) (by the cathedral and station, 4.5★) — ~£105/night
+  - Cologne Cathedral, Old Town, Chocolate Museum, Rhine riverside walk
 
-- **Brașov:** 2 nights (by train) _Arrive: Tue 21 Sep 2027_
-  - **Recommended hotel:** [Hotel Bella Muzica Brașov](https://www.booking.com/searchresults.html?ss=Hotel+Bella+Muzica+Brasov) — ~£80/night
-  - Council Square and the Black Church, the Tâmpa cable car for the view
-  - Day trip to Bran Castle and the fortified hilltop citadel at Râșnov
+### Phase 6: Netherlands & Home
 
-- **Cluj-Napoca:** 2 nights (by train) _Arrive: Thu 23 Sep 2027_
-  - **Recommended hotel:** [Opera Plaza Hotel Cluj-Napoca](https://www.booking.com/searchresults.html?ss=Opera+Plaza+Hotel+Cluj-Napoca) — ~£85/night
-  - Union Square and St Michael's Church, the botanical garden and Cetățuia hill
-  - Transylvania's liveliest student nightlife and craft-beer bars; optional Turda Salt Mine
-
-- **Budapest:** 2 nights (by train) _Arrive: Sat 25 Sep 2027_
-  - **Recommended hotel:** [Roombach Hotel Budapest Center](https://www.booking.com/searchresults.html?ss=Roombach+Hotel+Budapest+Center) — ~£100/night
-  - Buda Castle, Fisherman's Bastion and the Parliament riverfront
-  - Széchenyi thermal baths, then the District VII ruin bars (Szimpla Kert)
-
-- **Wrocław:** 2 nights (by train) _Arrive: Mon 27 Sep 2027_
-  - **Recommended hotel:** [PURO Wrocław Stare Miasto](https://www.booking.com/searchresults.html?ss=PURO+Wroclaw+Stare+Miasto) — ~£95/night
-  - The Market Square and Gothic town hall, hunting the bronze dwarves, Cathedral Island
-  - One of Poland's great craft-beer cities: Browar Stu Mostów taproom and Kontynuacja
-
-- **Berlin:** 2 nights (by train) _Arrive: Wed 29 Sep 2027_
-  - **Recommended hotel:** [Motel One Berlin-Hauptbahnhof](https://www.booking.com/searchresults.html?ss=Motel+One+Berlin+Hauptbahnhof) — ~£110/night
-  - Brandenburg Gate, the Reichstag dome and Museum Island
-  - The East Side Gallery, then Kreuzberg craft beer (BRLO, Hops & Barley)
-
-- **Cologne:** 1 night (by train) _Arrive: Fri 1 Oct 2027_
-  - **Recommended hotel:** [Motel One Köln-Neumarkt](https://www.booking.com/searchresults.html?ss=Motel+One+Koln+Neumarkt) — ~£110/night
-  - The twin-spired Cathedral and the Old Town riverside, Kölsch at a traditional Brauhaus (Früh or Päffgen)
-
-- **Amsterdam:** 1 night (by train) _Arrive: Sat 2 Oct 2027_
-  - **Recommended hotel:** [Hampton by Hilton Amsterdam Centre East](https://www.booking.com/searchresults.html?ss=Hampton+by+Hilton+Amsterdam+Centre+East) — ~£155/night
-  - An evening canal-ring walk through the Jordaan, beers at the windmill brewery Brouwerij 't IJ
-
-- **London:** 1 night (by train) _Arrive: Sun 3 Oct 2027_
-  - **Recommended hotel:** [Premier Inn London King's Cross](https://www.booking.com/searchresults.html?ss=Premier+Inn+London+King's+Cross) — ~£150/night
-  - A final night by St Pancras before the morning LNER service home
-
-- **Leeds:** Home _Arrive: Mon 4 Oct 2027_
-  - Direct LNER train from London King's Cross to Leeds — journey complete.
+- **Amsterdam:** 2 nights (by train) _Arrive: Thu 30 Sep 2027_
+  - **Recommended hotel:** [Park Plaza Victoria Amsterdam](https://www.booking.com/hotel/nl/victoria.html) (opposite Centraal Station, 4.4★) — ~£140/night
+  - Anne Frank House, canal cruise, Rijksmuseum, Jordaan neighbourhood
+- **London:** 2 nights (by train) _Arrive: Sat 2 Oct 2027_
+  - **Recommended hotel:** [hub by Premier Inn London King's Cross](https://www.booking.com/hotel/gb/hub-london-kings-cross.en-gb.html) — ~£130/night
+  - Final free days before heading home — West End, riverside walk, last-minute shopping
+- **Leeds:** Return home (by train) _Arrive: Mon 4 Oct 2027_
+  - Trip ends — final domestic leg from London to Leeds.
 
 ---
 
 ## Transportation Schedule
 
-| Date   | Route                                     | Duration | Cost | Bkd |
-| ------ | ----------------------------------------- | -------- | ---- | --- |
-| 28 Aug | Leeds → London                            | 2h 15m   | £40  |     |
-| 29 Aug | London → Paris (Eurostar)                 | 2h 20m   | £60  |     |
-| 30 Aug | Paris → Strasbourg (TGV)                  | 1h 50m   | £35  |     |
-| 1 Sep  | Strasbourg → Munich (TGV/ICE)             | 3h 40m   | £45  |     |
-| 3 Sep  | Munich → Salzburg (Railjet)               | 1h 45m   | £20  |     |
-| 5 Sep  | Salzburg → Graz (ÖBB IC)                  | 4h 05m   | £25  |     |
-| 7 Sep  | Graz → Zagreb (ÖBB EC)                    | 3h 50m   | £20  |     |
-| 9 Sep  | Zagreb → Belgrade (coach)                 | ~5h 30m  | £20  |     |
-| 11 Sep | Belgrade → Sofia (coach)                  | ~6h 30m  | £25  |     |
-| 13 Sep | Sofia → Istanbul (sleeper, overnight)     | ~12h 40m | £60  |     |
-| 18 Sep | Istanbul → Bucharest (sleeper, overnight) | ~19h     | £70  |     |
-| 21 Sep | Bucharest → Brașov (CFR IC)               | 2h 45m   | £15  |     |
-| 23 Sep | Brașov → Cluj-Napoca (CFR IR)             | ~6h 00m  | £20  |     |
-| 25 Sep | Cluj-Napoca → Budapest (IC Claudiopolis)  | ~8h 00m  | £30  |     |
-| 27 Sep | Budapest → Wrocław (via Ostrava)          | ~7h 00m  | £45  |     |
-| 29 Sep | Wrocław → Berlin (EC)                     | 4h 30m   | £30  |     |
-| 1 Oct  | Berlin → Cologne (ICE)                    | 4h 15m   | £40  |     |
-| 2 Oct  | Cologne → Amsterdam (ICE/IC)              | 2h 40m   | £35  |     |
-| 3 Oct  | Amsterdam → London (Eurostar)             | 4h 00m   | £70  |     |
-| 4 Oct  | London → Leeds (LNER)                     | 2h 15m   | £40  |     |
+| Date      | Route                  | Duration           | Cost                   | Bkd |
+| --------- | ---------------------- | ------------------ | ---------------------- | --- |
+| 28 Aug    | Leeds → London         | ~2h 20m            | £30–60                 |     |
+| 29 Aug    | London → Paris         | ~2h 30m            | £30–45 (Eurostar res.) |     |
+| 31 Aug    | Paris → Strasbourg     | ~1h 50m            | Pass                   |     |
+| 1 Sep     | Strasbourg → Munich    | ~5h 30m            | Pass                   |     |
+| 3 Sep     | Munich → Salzburg      | ~1h 30m            | Pass                   |     |
+| 4 Sep     | Salzburg → Graz        | ~3h 30m            | Pass                   |     |
+| 6 Sep     | Graz → Zagreb          | ~2h 45m            | Pass                   |     |
+| 8 Sep     | Zagreb → Belgrade      | ~6h 00m (bus)      | ~£20–30                |     |
+| 10 Sep    | Belgrade → Sofia       | ~6h 30m (bus)      | ~£20–30                |     |
+| 11–12 Sep | Sofia → Istanbul       | ~10h 30m (sleeper) | Pass + supplement      |     |
+| 15–16 Sep | Istanbul → Bucharest   | ~19h 00m (sleeper) | Pass + supplement      |     |
+| 18 Sep    | Bucharest → Brașov     | ~2h 30m            | Pass                   |     |
+| 20 Sep    | Brașov → Cluj-Napoca   | ~3h 30m            | Pass                   |     |
+| 22 Sep    | Cluj-Napoca → Budapest | ~6h 00m            | Pass                   |     |
+| 24 Sep    | Budapest → Wrocław     | ~8h 00m            | Pass                   |     |
+| 26 Sep    | Wrocław → Berlin       | ~5h 30m            | Pass                   |     |
+| 28 Sep    | Berlin → Cologne       | ~4h 15m            | Pass                   |     |
+| 30 Sep    | Cologne → Amsterdam    | ~2h 45m            | Pass                   |     |
+| 2 Oct     | Amsterdam → London     | ~4h 10m            | £30–45 (Eurostar res.) |     |
+| 4 Oct     | London → Leeds         | ~2h 20m            | £30–60                 |     |
 
-**Transport total: ~£745** (advance-purchase / Sparpreis estimates, 2nd class; sleepers in a private or 2-berth compartment)
-
----
-
-## Total Trip Cost Estimate
-
-### Transport
-
-Point-to-point advance tickets as above: **~£745**. (See Travel Notes for an Interrail pass comparison — the two coach legs and Eurostar reservation fees make a pass roughly line-ball here rather than a clear saving.)
-
-### Accommodation
-
-| Stop            | Nights | Per night | Total      |
-| --------------- | ------ | --------- | ---------- |
-| London (out)    | 1      | £150      | £150       |
-| Paris           | 1      | £125      | £125       |
-| Strasbourg      | 2      | £105      | £210       |
-| Munich          | 2      | £120      | £240       |
-| Salzburg        | 2      | £120      | £240       |
-| Graz            | 2      | £100      | £200       |
-| Zagreb          | 2      | £95       | £190       |
-| Belgrade        | 2      | £85       | £170       |
-| Sofia           | 2      | £80       | £160       |
-| Istanbul        | 4      | £100      | £400       |
-| Bucharest       | 2      | £85       | £170       |
-| Brașov          | 2      | £80       | £160       |
-| Cluj-Napoca     | 2      | £85       | £170       |
-| Budapest        | 2      | £100      | £200       |
-| Wrocław         | 2      | £95       | £190       |
-| Berlin          | 2      | £110      | £220       |
-| Cologne         | 1      | £110      | £110       |
-| Amsterdam       | 1      | £155      | £155       |
-| London (return) | 1      | £150      | £150       |
-| **Total**       | **35** |           | **£3,610** |
-
-(The two sleeper nights are counted under transport, not accommodation.)
-
-### Daily Spend
-
-Food, drink and incidentals vary widely across the route, so rates are banded by region:
-
-- **Meals & drinks:** ~£90/day in Western Europe (UK, France, Germany, Austria, Netherlands), ~£60/day in Croatia, Hungary and Poland, ~£45/day in Serbia, Bulgaria, Romania and Türkiye: **~£2,475** across the trip
-- **Activities & sights:** entry fees, castles, baths, day trips, ~£20/day: **~£740**
-- **Local transport:** metros, trams, the Marmaray and ferries, ~£6/day: **~£220**
-
-### Total Estimated Trip Cost
-
-| Category            | Estimate   |
-| ------------------- | ---------- |
-| Transport           | £745       |
-| Accommodation       | £3,610     |
-| Meals & drinks      | £2,475     |
-| Activities & sights | £740       |
-| Local transport     | £220       |
-| **Subtotal**        | **£7,790** |
+_Durations are typical journey times and per-leg costs are indicative splits of the totals below — reconfirm exact times and fares once tickets are booked. The two Balkan bus legs are not covered by the Interrail Pass._
 
 ---
 
 ## Complete Trip Budget
 
-|                                                                     | Estimate    |
-| ------------------------------------------------------------------- | ----------- |
-| Core costs (transport + accommodation)                              | £4,355      |
-| Daily living (food, drink, activities, local transport)             | £3,435      |
-| Contingency & extras (ETIAS, eSIM, travel insurance, laundry, tips) | £260        |
-| **Grand total (solo)**                                              | **~£8,050** |
+### Transport
 
-Roughly **£215/day** all-in for a 38-day, twelve-country rail adventure. The Balkan and Romanian legs are where the daily costs drop most, balancing the pricier Western European bookends.
+| Item                                                        | Estimate       | Notes                                    |
+| ----------------------------------------------------------- | -------------- | ---------------------------------------- |
+| Interrail Global Pass (2-month continuous, 2nd class adult) | £600–720       | Needed as trip exceeds 1 month           |
+| Eurostar reservations (London↔Paris, Amsterdam↔London)      | £60–90         | Pass-holder reservation fees             |
+| Seat/sleeper reservations & high-speed supplements          | £180–260       | TGV, Railjet, sleepers to/from Istanbul  |
+| Balkan bus tickets (Zagreb→Belgrade, Belgrade→Sofia)        | £40–60         | Not covered by Interrail                 |
+| Leeds↔London domestic rail                                  | £60–120        | Or use pass outbound/inbound travel days |
+| **Transport subtotal**                                      | **£940–1,250** |                                          |
 
----
+### Accommodation
 
-## Visa Requirements (UK passport holder)
+| Stop                       | Nights | £/night | Total      |
+| -------------------------- | ------ | ------- | ---------- |
+| London (outbound)          | 1      | £130    | £130       |
+| Paris                      | 2      | £125    | £250       |
+| Strasbourg                 | 1      | £105    | £105       |
+| Munich                     | 2      | £115    | £230       |
+| Salzburg                   | 1      | £105    | £105       |
+| Graz                       | 2      | £95     | £190       |
+| Zagreb                     | 2      | £95     | £190       |
+| Belgrade                   | 2      | £85     | £170       |
+| Sofia                      | 1      | £68     | £68        |
+| Istanbul                   | 3      | £100    | £300       |
+| Bucharest                  | 2      | £80     | £160       |
+| Brașov                     | 2      | £73     | £146       |
+| Cluj-Napoca                | 2      | £78     | £156       |
+| Budapest                   | 2      | £110    | £220       |
+| Wrocław                    | 2      | £83     | £166       |
+| Berlin                     | 2      | £105    | £210       |
+| Cologne                    | 2      | £105    | £210       |
+| Amsterdam                  | 2      | £140    | £280       |
+| London (return)            | 2      | £130    | £260       |
+| **Accommodation subtotal** | **35** |         | **£3,546** |
 
-- **Schengen area** (France, Germany, Austria, Croatia, Hungary, Poland, Netherlands — plus Bulgaria and Romania, both now fully in Schengen): visa-free for short stays. Your total Schengen time here is well within the 90-days-in-180 limit, and the days spent in Serbia and Türkiye don't count toward it.
-- **ETIAS:** expected to be required for UK travellers entering Schengen from late 2026, so almost certainly in force by Aug 2027. Apply online in advance (a quick authorisation, ~€7, valid 3 years) — **the one new admin item to sort before you go.**
-- **Serbia:** visa-free for UK nationals (up to 90 days).
-- **Türkiye:** visa-free for UK nationals (up to 90 days) since the e-visa was scrapped — no Turkish visa needed.
-- **Passport:** must be issued within the previous 10 years and valid for at least 3 months beyond your planned departure from the Schengen area.
+### Daily Spend
+
+| Item                                                      | Estimate         |
+| --------------------------------------------------------- | ---------------- |
+| Food & drink (~£35–45/day × 38)                           | £1,330–1,710     |
+| Attractions, local transport, incidentals (~£20/day × 38) | £760             |
+| **Daily-spend subtotal**                                  | **£2,090–2,470** |
+
+## Total Estimated Trip Cost
+
+| Item            | Estimate           |
+| --------------- | ------------------ |
+| Transport       | £940–1,250         |
+| Accommodation   | £3,546             |
+| Daily spend     | £2,090–2,470       |
+| **Grand total** | **≈ £6,576–7,266** |
+
+## Visa Requirements
+
+- **UK passport holders:** visa-free for the Schengen area (90/180-day rule applies — this itinerary sits within 90 Schengen days, but track carefully given the trip length)
+- **Serbia:** visa-free for UK citizens, up to 90 days
+- **Turkey:** visa-free for UK citizens for short stays as of early 2026 — reconfirm current e-Visa/entry rules before travel
+- **Croatia, Hungary, Romania, Bulgaria, Poland, Germany, Netherlands, France, Austria:** Schengen or EU, covered by UK visa-free entry
+- Visa rules change — reconfirm close to departure
 
 ---
 
 ## Travel Notes
 
-### Rail pass strategy
+### Pass strategy
 
-With ~17 paid legs, an **Interrail Global Pass** (e.g. 15 travel days within 2 months) is worth pricing up. However, the two Balkan coach legs aren't covered, Eurostar takes only a limited pass quota plus a reservation fee, and the TGV/sleepers need paid reservations anyway — so for this exact routing a pass tends to come out roughly level with advance point-to-point tickets. Book the cheap advance fares (especially Eurostar, TGV and German Sparpreis) the moment they open, ~3–6 months ahead.
+- Interrail Global Pass (2-month continuous, 2nd class) covers all standard rail legs
+- The two Balkan bus substitutions (Zagreb→Belgrade, Belgrade→Sofia) are **not** covered and must be bought separately
+- Seat and sleeper reservations (TGV, Railjet, Istanbul sleepers) are extra and should be booked as early as possible
 
-### The two coach legs
+### Currencies
 
-Zagreb→Belgrade and Belgrade→Sofia are currently buses because the railways are suspended/under reconstruction. Both lines are slated to improve by late 2027 — check closer to the date; if the trains are running again, swap them straight in. Either way, FlixBus and the Balkan coach operators are comfortable and cheap.
-
-### The sleepers
-
-The Sofia→Istanbul Express and the Istanbul→Bucharest Bosphorus through-carriage often can't be booked online — reserve a berth at the departure station a day or two ahead, or through a specialist agent a month or so out. Book a single-berth or 2-berth sleeper for comfort. Bring your own food and water; there's no buffet car.
-
-### Currencies (one line each)
-
-- **Pound sterling (UK):** cards everywhere.
-- **Euro (France, Germany, Austria, Croatia, Netherlands — and Bulgaria, which adopts the euro from 2026):** cards widely accepted.
-- **Serbian dinar (RSD):** fairly cash-led away from hotels — carry some notes.
-- **Turkish lira (TRY):** cards common in cities, but keep cash for markets, ferries and ticket machines.
-- **Romanian leu (RON):** cards in towns; cash useful for rural day trips and small cafés.
-- **Hungarian forint (HUF):** cards widely accepted; some cash handy.
-- **Polish złoty (PLN):** very card-friendly, contactless almost everywhere.
+- **Euro (€):** France, Germany, Austria, Netherlands — cards widely accepted
+- **British Pound (£):** UK — cards widely accepted
+- **Croatian Kuna → Euro:** Croatia now uses the euro
+- **Serbian Dinar:** Serbia — cash useful for smaller vendors and the bus tickets
+- **Bulgarian Lev:** Bulgaria — cash-friendly outside central Sofia
+- **Turkish Lira:** Turkey — cards common in Istanbul, carry some cash for the Grand Bazaar and transport
+- **Romanian Leu:** Romania — cards widely accepted in cities
+- **Hungarian Forint:** Hungary — cards widely accepted
+- **Polish Złoty:** Poland — cards widely accepted
 
 ### Language
 
-English is widely spoken in tourist areas throughout. A few local courtesies go a long way — _merci_ (France), _danke_ (Germany/Austria), _hvala_ (Croatia/Serbia), _blagodarya_ (Bulgaria), _teşekkürler_ (Türkiye), _mulțumesc_ (Romania), _köszönöm_ (Hungary), _dziękuję_ (Poland).
+- English is widely spoken in hotels, stations, and tourist areas throughout the route
+- Useful to learn a few basic words locally, especially in Serbia, Bulgaria, Turkey, and Romania where English is less universal outside city centres
 
-### Weather & packing
+### Weather
 
-Late August starts warm and summery (mid-20s°C in Western and Central Europe, often 28–32°C in Belgrade, Sofia and Istanbul). By late September into early October it turns autumnal — cooler days (12–18°C) and genuinely chilly evenings in Transylvania and the Carpathians. Pack layers, a light waterproof, comfortable walking shoes, and one warmer layer for the back end of the trip.
+- Late August/early September: warm in the Balkans and Turkey (25–30°C)
+- Late September/early October: cooler in Northern Europe (10–15°C)
+- Pack in layers; bring a light rain layer for Amsterdam/Cologne/Berlin and a modest scarf/shawl for mosque visits in Istanbul
 
-### Local rail booking platforms
+### Booking platforms
 
-SNCF Connect / Trainline (France), DB and the international planner at int.bahn.de (Germany & connections), ÖBB (Austria, also the Graz–Zagreb EC), MÁV (Hungary), PKP Intercity (Poland), CFR Călători (Romania), BDŽ (Bulgaria), TCDD (Türkiye — Sofia–Istanbul at the station), Srbija Voz (Serbia), Eurostar, and FlixBus for the Balkan coaches.
+- Interrail Global Pass and most seat reservations: via the Interrail/Eurail app or national rail operator sites (SNCF Connect, ÖBB, DB)
+- Balkan bus tickets: FlixBus or local carriers, book ahead in peak season
+- Hotels: apply the "Free cancellation" filter manually — it can't be filtered automatically on all sites
+
+### Other notes
+
+- Several old-town hotels lack lifts — pack light or bring a wheeled cabin case suited to cobblestones
+- Keep printed backups of sleeper and Balkan bus reservations in case of patchy connectivity in transit
+- Outstanding items to confirm: exact 2027 Interrail pass pricing once published, live hotel rates at booking time, and current Turkey entry rules nearer departure
