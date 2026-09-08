@@ -439,14 +439,17 @@
 
 - **Malaysia:** Tap-and-pay via Wise for most spend (malls, chains, hotels). Touch 'n Go eWallet tourist registration isn't yet open to UK numbers, so carry a little cash for hawker stalls and markets.
 - **Cambodia:** Download the Bakong Tourist App before landing and load it from the Wise card - use it for everything (tuk-tuks, markets, restaurants). No Cambodian bank account needed.
-- **Vietnam:** VNPAY as the main app - register with passport and international phone number, then link the Wise card. Standard VietQR codes generally can't be scanned with foreign banking apps, so use Wise card directly as backup where cards are accepted.
+- **Vietnam:** **Moreta Pay** as the QR primary - it connects to the VietQR/NAPAS network (2m+ merchants) rather than VNPAY's own smaller network (~200k), which matters for street food, markets and small cafes. Fund it by UK Faster Payments in GBP, not by card (card top-ups add 2.5%). Costs ~2.1% all-in per payment (1.5% fee + ~0.6% FX). Wise card for anything with a terminal; VNPAY optional as backup only.
 - **Taiwan:** Tap the physical Wise card for in-store purchases and MRT fare gates (foreign cards can't be added to Apple/Google Pay for in-store NFC in Taiwan). An EasyCard is worth getting for convenience stores and small transit top-ups.
 - **Philippines:** Set up a GCash GTourist account and link the Wise card there (note: the new GCash/Mastercard "Pay Local" service launching Q3 2026 won't apply to a Visa card). Keep the physical Wise card for places that take cards directly.
 - **South Korea:** Get a WOWPASS card at the airport (reads as a domestic card, so more widely accepted at small businesses) for daily spending and transit. Use the Wise Visa as backup at hotels and major chains - avoid relying on Google Wallet, and note Visa (unlike Mastercard) currently fails when topping up mobile T-money via Apple/Google Pay.
 - **Hong Kong:** Wise card tap-and-pay works flawlessly almost everywhere. Grab a physical tourist Octopus card for transport, minibuses and small vendors - Octopus can't be added to Google Wallet without a Hong Kong phone number.
 - **Mainland China:** Set up both Alipay and WeChat Pay before flying and link the Wise card to each (Alipay's foreigner onboarding is generally easier). Use WeChat Pay as backup if Alipay has issues. Straight contactless tap is unreliable outside major hotels/malls.
 
-**General tip:** Set up and verify each app on home wifi before departure - several (VNPAY, Bakong, GCash, Alipay/WeChat) require passport verification that's far easier done in advance than at an airport with patchy signal.
+**General tips:**
+- Set up and verify each app on home wifi before departure - several (Moreta Pay, Bakong, GCash, Alipay/WeChat) require passport verification that's far easier done in advance than at an airport with patchy signal.
+- **Moreta Pay** also covers Cambodia (KHQR), Malaysia (DuitNow), the Philippines, mainland China (WeChat) and South Korea, so one KYC can act as a universal QR fallback across most of the trip. Keep the local apps as primary where they're free at point of use (e.g. Bakong in Cambodia, where Moreta still charges 1.5%).
+- Make a small test payment on day one in Kuala Lumpur to confirm Moreta works before relying on it later in the trip - the app is still relatively new and users report occasional bugs.
 
 ---
 
