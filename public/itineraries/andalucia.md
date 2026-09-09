@@ -2,8 +2,8 @@
 
 ## Overview
 
-**Total Duration:** 15 nights / 16 days
-**Dates:** Sat 11 Sep 2027 – Sun 26 Sep 2027
+**Total Duration:** 14 nights / 15 days
+**Dates:** Sat 11 Sep 2027 – Sat 25 Sep 2027
 **Countries:** Spain
 **Travel Style:** Self-drive circular road trip through Andalucía, mixing Moorish history, whitewashed hill towns and coastal cities, on a budget-conscious pace.
 
@@ -23,22 +23,27 @@
   - En route: stops in Ecija - Baroque churches, Plaza de España, Palacio de Benamejí, and Carmona - valley views, historic centre
   - Real Alcázar, Seville Cathedral & Giralda tower, Plaza de España, Triana neighbourhood for tapas and flamenco
 
-- **Cádiz:** 3 nights (by hire car, via Jerez de la Frontera & El Puerto de Santa María) _Arrive: Sat 18 Sep 2027_
+- **Cádiz:** 2 nights (by hire car, via Jerez de la Frontera & El Puerto de Santa María) _Arrive: Sat 18 Sep 2027_
   - **Recommended hotel:** [Soho Boutique Cádiz](https://www.booking.com/hotel/es/soho-boutique-cadiz.html) — ~£100/night
   - En route: stops in Jerez - Sherry, Cathedral, and El Puerto de Santa María - coastal town, castle, seafood
   - Cádiz Cathedral & rooftop views, La Caleta beach at sunset, Mercado Central tapas crawl, city walls and Torre Tavira
 
-- **Ronda:** 2 nights (by hire car, via Arcos de la Frontera & Grazalema) _Arrive: Tue 21 Sep 2027_
+- **Ronda:** 1 night (by hire car, via Arcos de la Frontera & Grazalema) _Arrive: Mon 20 Sep 2027_
   - **Recommended hotel:** [Hotel Don Miguel](https://www.booking.com/hotel/es/don-miguel-ronda.html) — ~£105/night
   - En route: stops in Arcos de la Frontera - Basílica de Santa María, and Grazalema — Plaza de España, goats cheese
   - Puente Nuevo bridge & El Tajo gorge viewpoints, Plaza de Toros (Spain's oldest bullring), La Ciudad old town
 
-- **Málaga:** 3 nights (by hire car, via Setenil de las Bodegas and Ardales) _Arrive: Thu 23 Sep 2027_
+- **Ardales:** 1 night (by hire car, via Setenil de las Bodegas) _Arrive: Tue 21 Sep 2027_
+  - **Recommended hotel:** [Hotel La Posada del Conde](https://www.booking.com/hotel/es/laposadadelconde.html) — ~£100/night
+  - En route: stop in Setenil de las Bodegas — whitewashed rock ledge village
+  - Castle of Peña ruins, Caminito del Rey hike, Bobastro ancient ruins, Guadalhorce reservoir views
+
+- **Málaga:** 3 nights (by hire car, via Álora) _Arrive: Wed 22 Sep 2027_
   - **Recommended hotel:** [Hotel Don Paco](https://www.booking.com/hotel/es/donpacomalaga.html) — ~£95/night
-  - En route: stops in Setenil de las Bodegas — whitewashed rock ledge village, and Ardales - Caminito del Rey hike, lunch
-  - Hire car drop-off at María Zambrano station
+  - En route: stop in Álora - Castillo de Álora
+  - Hire car drop-off at Málaga Airport
   - Picasso Museum, Alcazaba & Gibralfaro castle, Muelle Uno waterfront, craft beer bars in the Soho district
-  - Fly home Sun 26 Sep 2027
+  - Fly home Sat 25 Sep 2027
 
 ## Transportation Schedule
 
@@ -49,11 +54,12 @@
 | 13 Sep | Granada → Alcalá la Real → Baena → Córdoba | ~2h30m | incl. in car hire | |
 | 15 Sep | Córdoba → Ecija → Carmona → Seville | ~2h | incl. in car hire | |
 | 18 Sep | Seville → Jerez → Santa María → Cádiz | ~2h30m | incl. in car hire | |
-| 21 Sep | Cádiz → Arcos de la Frontera → Grazalema → Ronda | ~2h30m | incl. in car hire | |
-| 23 Sep | Ronda → Setenil de las Bodegas → Ardales → Málaga | ~2h30m | incl. in car hire | |
-| 26 Sep | Málaga → Manchester (flight) | ~2h55m | £220 | |
+| 20 Sep | Cádiz → Arcos de la Frontera → Grazalema → Ronda | ~2h30m | incl. in car hire | |
+| 21 Sep | Ronda → Setenil de las Bodegas → Ardales | ~1h30m | incl. in car hire | |
+| 22 Sep | Ardales → Álora → Málaga | ~1h30m | incl. in car hire | |
+| 25 Sep | Málaga → Manchester (flight) | ~2h55m | £220 | |
 
-Total driving distance: ~513 miles across 6 travel days.
+Total driving distance: ~523 miles across 7 travel days.
 
 ## Total Trip Cost Estimate
 
@@ -62,8 +68,8 @@ Total driving distance: ~513 miles across 6 travel days.
 | Item | Cost |
 | ---- | ---- |
 | Flights (return, per person: £110 outbound + £220 inbound) | £330 |
-| Car hire (per person, 12 days, Málaga Airport → Málaga station) | £150 |
-| Fuel (estimated per person, ~513 miles) | £35 |
+| Car hire (per person, 11 days, Málaga Airport round trip) | £150 |
+| Fuel (estimated per person, ~523 miles) | £35 |
 | **Transport total** | **£515** |
 
 **Accommodation**
@@ -73,27 +79,28 @@ Total driving distance: ~513 miles across 6 travel days.
 | Granada | 2 | £95 | £190 |
 | Córdoba | 2 | £90 | £180 |
 | Seville | 3 | £100 | £300 |
-| Cádiz | 3 | £100 | £300 |
-| Ronda | 2 | £105 | £210 |
+| Cádiz | 2 | £100 | £200 |
+| Ronda | 1 | £105 | £105 |
+| Ardales | 1 | £100 | £100 |
 | Málaga | 3 | £95 | £285 |
-| **Accommodation total** | **15** | | **£1,465** |
+| **Accommodation total** | **14** | | **£1,360** |
 
 **Daily Spend**
 
-Meals, drinks, activities and local transport: ~£85/day × 16 days = **£1,360**
+Meals, drinks, activities and local transport: ~£85/day × 15 days = **£1,275**
 
 ## Complete Trip Budget
 
 | Category | Cost |
 | -------- | ---- |
 | Transport | £515 |
-| Accommodation | £1,465 |
-| Daily Spend | £1,360 |
-| **Total Estimated Trip Cost** | **£3,340** |
+| Accommodation | £1,360 |
+| Daily Spend | £1,275 |
+| **Total Estimated Trip Cost** | **£3,150** |
 
 ## Visa Requirements
 
-Spain is in the Schengen Area. UK passport holders can visit visa-free for up to 90 days in any 180-day period — this 15-night trip is well within that limit. Make sure passports are valid for at least 3 months beyond the return date.
+Spain is in the Schengen Area. UK passport holders can visit visa-free for up to 90 days in any 180-day period — this 14-night trip is well within that limit. Make sure passports are valid for at least 3 months beyond the return date.
 
 ## Travel Notes
 
