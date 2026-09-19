@@ -27,7 +27,7 @@ export const trips: Trip[] = [
     title: "Colin in Australia",
     year: 2027,
     startDate: "2027-01-07",
-    tags: ["Oceania", "Gold plated pension", "33 days"],
+    tags: ["Oceania", "Gold plated pension", "34 days"],
     description: "Great Southern rail trip, Tasmanian cruise",
     accentColor: "#fac003",
   },
