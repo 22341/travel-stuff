@@ -63,7 +63,7 @@ export const trips: Trip[] = [
     title: "Andalucía road trip",
     year: 2027,
     startDate: "2027-09-11",
-    tags: ["Self-drive", "Princess Kimberley", "16 days"],
+    tags: ["Self-drive", "Princess Kimberley", "15 days"],
     description: "Granada · Córdoba · Seville + more",
     accentColor: "#7a24a1",
   },
