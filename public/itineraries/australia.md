@@ -1,21 +1,23 @@
 # Australia & Singapore Adventure 2027
 
 ## Overview
-**Total Duration:** 33 days  
+**Total Duration:** 34 days  
 **Countries:** UK, Singapore, Australia  
 **Travel Style:** Urban exploration, coastal beauty, wine regions, and island cruising  
-**Start Date:** Thu 7 Jan 2027  
+**Start Date:** Wed 6 Jan 2027  
 **End Date:** Mon 8 Feb 2027
 
 ---
 
-## Phase 1: Departure & Singapore (5 days)
+## Phase 1: Departure & Singapore (6 days)
 
-### London: 1 night
-**Arrive:** Thu 7 Jan 2027  
-* **Booked hotel:** Premier Inn Aldgate - £78 (1 night total)
-* Final preparations and rest before long-haul flight
-* Check-in for evening flight
+### London: 2 nights
+**Arrive:** Wed 6 Jan 2027  
+**Depart:** Fri 8 Jan 2027  
+* **Booked hotel:** Premier Inn London Paddington - £155 (2 nights total)
+* **Booked:** Heathrow Express to airport - £10 (Fri 8 Jan)
+* Two nights in London before the long-haul flight
+* Final preparations and rest; Paddington gives a direct Heathrow Express run on departure day
 
 ### Flight to Singapore
 **Depart:** Fri 8 Jan 2027 at 18:40 (BA011)  
@@ -111,7 +113,9 @@
 **Arrive:** Sun 24 Jan 2027  
 **Depart:** Fri 29 Jan 2027  
 * **Booked hotel:** Vibe Hotel Docklands - £524 (5 nights total)
-* **Note:** Australian Open tennis (2nd week) - may review booking closer to time
+* **Booked - Australian Open (Rod Laver Arena):**
+  * Mon 25 Jan 2027 - £68.68
+  * Wed 27 Jan 2027 - £144.85
 * Federation Square and Melbourne's laneways
 * Queen Victoria Market
 * St Kilda Beach and Luna Park
@@ -185,7 +189,7 @@
 
 | Location | Nights | Hotel | Cost per Night | Total Cost |
 |----------|--------|-------|----------------|------------|
-| London | 1 | Premier Inn Aldgate (BOOKED) | £78 | £78 |
+| London | 2 | Premier Inn London Paddington (BOOKED) | £78 | £155 |
 | Singapore | 3 | KINN Studios, Chinatown (BOOKED) | £87 | £260 |
 | Sydney (1st visit) | 3 | Kith Hotel, Darling Harbour (BOOKED) | £92 | £275 |
 | Brisbane | 3 | Meriton Suites Herschel Street (BOOKED) | £109 | £327 |
@@ -193,21 +197,30 @@
 | Melbourne | 5 | Vibe Hotel Docklands (BOOKED) | £105 | £524 |
 | Sydney (2nd visit) | 1 | Rydges Sydney Central (BOOKED) | £122 | £122 |
 | Sydney (3rd visit) | 1 | Park Regis City Centre (BOOKED) | £131 | £131 |
-| **Total Accommodation** | **20 nights** | | | **£1,988** |
+| **Total Accommodation** | **21 nights** | | | **£2,065** |
 
-### Train & Cruise Travel
+### Train, Cruise & Ground Transport
 
 | Type | Route | Date | Duration | Cost |
 |------|-------|------|----------|------|
 | The Great Southern (Gold Single) | Brisbane → Adelaide | Mon 18 Jan 2027 | 3 days/3 nights | £1,716.40 (BOOKED - Ref: JBR742033) |
 | Tasmania Round-Trip Cruise | Sydney → Tasmania → Sydney | Sat 30 Jan - Sun 7 Feb 2027 | 8 nights | £911 (BOOKED - £99 deposit paid) |
-| **Total Train & Cruise** | | | | **£2,627.40** |
+| Heathrow Express | London → Heathrow | Fri 8 Jan 2027 | — | £10 (BOOKED) |
+| **Total Train, Cruise & Ground** | | | | **£2,637.40** |
+
+### Events & Attractions
+
+| Event | Venue | Date | Cost |
+|-------|-------|------|------|
+| Australian Open | Rod Laver Arena, Melbourne | Mon 25 Jan 2027 | £68.68 |
+| Australian Open | Rod Laver Arena, Melbourne | Wed 27 Jan 2027 | £144.85 |
+| **Total Events** | | | **£213.53** |
 
 ### Daily Spending Money Estimate
 
 | Category | Days | Daily Rate | Total |
 |----------|------|------------|-------|
-| Meals, drinks, local transport & activities | 21 days* | £90/day | £1,890 |
+| Meals, drinks, local transport & activities | 22 days* | £90/day | £1,980 |
 
 *Excludes 3 nights on train (meals included) and 8 nights on cruise (meals included)
 
@@ -218,17 +231,18 @@
 | Category | Cost |
 |----------|------|
 | Flights | £1,771 |
-| Accommodation | £1,988 |
-| Train & Cruise | £2,627 |
-| Daily Spending Money | £1,890 |
-| **TOTAL** | **£8,276** |
+| Accommodation | £2,065 |
+| Train, Cruise & Ground Transport | £2,637 |
+| Events & Attractions | £214 |
+| Daily Spending Money | £1,980 |
+| **TOTAL** | **£8,667** |
 
 ---
 
 ## Travel Tips
 
 * **Visa Requirements:** Check if you need an ETA for Australia and entry requirements for Singapore
-* **Travel Insurance:** Essential for 33-day trip including cruise
+* **Travel Insurance:** Essential for 34-day trip including cruise
 * **Best Time:** January-February is Australian summer - perfect for beaches and outdoor activities
 * **Currency:** Singapore Dollar (SGD) and Australian Dollar (AUD) - notify your bank
 * **SIM Card:** Consider buying local SIMs in Singapore and Australia for data
