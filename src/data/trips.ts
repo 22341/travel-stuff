@@ -26,7 +26,7 @@ export const trips: Trip[] = [
     slug: "australia",
     title: "Colin in Australia",
     year: 2027,
-    startDate: "2027-01-07",
+    startDate: "2027-01-06",
     tags: ["Oceania", "Gold plated pension", "34 days"],
     description: "Great Southern rail trip, Tasmanian cruise",
     accentColor: "#fac003",
