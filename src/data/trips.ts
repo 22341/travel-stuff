@@ -54,7 +54,7 @@ export const trips: Trip[] = [
     title: "Istanbul by train",
     year: 2027,
     startDate: "2027-08-28",
-    tags: ["Europe", "Gold plated pension", "38 days"],
+    tags: ["Europe", "Gold plated pension", "36 days"],
     description: "Paris · Strasbourg · Munich + more",
     accentColor: "#043f0e",
   },
