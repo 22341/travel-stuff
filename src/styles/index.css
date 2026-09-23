@@ -181,6 +181,7 @@ body {
 }
 
 .itinerary-content {
+  font-size: 0.95rem;
   background: white;
   padding: 2rem;
   border-radius: 12px;
@@ -189,7 +190,7 @@ body {
 
 .itinerary-content h1 {
   color: #2a1f6e;
-  font-size: 2rem;
+  font-size: 1.7rem;
   margin-bottom: 1rem;
   border-bottom: 3px solid #2f0d68;
   padding-bottom: 0.5rem;
@@ -198,14 +199,14 @@ body {
 
 .itinerary-content h2 {
   color: #2a1f6e;
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
 
 .itinerary-content h3 {
   color: #2a1f6e;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   margin-top: 1.5rem;
   margin-bottom: 0.75rem;
 }
@@ -313,6 +314,7 @@ body {
     }
 
     .itinerary-content {
+      font-size: 0.9rem;
       padding: 1rem;
     }
 
@@ -323,7 +325,7 @@ body {
     }
 
     .itinerary-content h1 {
-      font-size: 1.5rem;
+      font-size: 1.4rem;
     }
     .itinerary-content h2 {
       font-size: 1.2rem;
