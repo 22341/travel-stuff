@@ -29,18 +29,18 @@
   - Cádiz Cathedral & rooftop views, La Caleta beach at sunset, Mercado Central tapas crawl, city walls and Torre Tavira
 
 - **Ronda:** 1 night (by hire car, via Arcos de la Frontera & Grazalema) _Arrive: Mon 20 Sep 2027_
-  - **Recommended hotel:** [Hotel Don Miguel](https://www.booking.com/hotel/es/don-miguel-ronda.html) — ~£105/night
+  - **BOOKED HOTEL:** [Hotel Don Miguel](https://www.booking.com/hotel/es/don-miguel-ronda.html) — £83/night
   - En route: stops in Arcos de la Frontera - Basílica de Santa María, and Grazalema — Plaza de España, goats cheese
   - Puente Nuevo bridge & El Tajo gorge viewpoints, Plaza de Toros (Spain's oldest bullring), La Ciudad old town
 
-- **Ardales:** 1 night (by hire car, via Setenil de las Bodegas) _Arrive: Tue 21 Sep 2027_
-  - **Recommended hotel:** [Hotel La Posada del Conde](https://www.booking.com/hotel/es/laposadadelconde.html) — ~£100/night
-  - En route: stop in Setenil de las Bodegas — whitewashed rock ledge village
-  - Castle of Peña ruins, Caminito del Rey hike, Bobastro ancient ruins, Guadalhorce reservoir views
+- **Antequera:** 1 night (by hire car, via Setenil de las Bodegas & Caminito del Rey) _Arrive: Tue 21 Sep 2027_
+  - **BOOKED HOTEL:** [Hotel Manzanito](https://www.booking.com/hotel/es/manzanito.html) — £53/night
+  - En route: stops in Setenil de las Bodegas — whitewashed rock ledge village, and Caminito del Rey hike
+  - Alcazaba of Antequera & Arco de los Gigantes, Dolmens of Antequera (UNESCO-listed Bronze Age burial mounds)
 
-- **Málaga:** 3 nights (by hire car, via Álora) _Arrive: Wed 22 Sep 2027_
+- **Málaga:** 3 nights (by hire car, via Almogía) _Arrive: Wed 22 Sep 2027_
   - **Recommended hotel:** [Hotel Don Paco](https://www.booking.com/hotel/es/donpacomalaga.html) — ~£95/night
-  - En route: stop in Álora - Castillo de Álora
+  - En route: stop in Almogía - historic Torre de la Vela ruins
   - Hire car drop-off at Málaga Airport
   - Picasso Museum, Alcazaba & Gibralfaro castle, Muelle Uno waterfront, craft beer bars in the Soho district
   - Fly home Sat 25 Sep 2027
@@ -49,17 +49,17 @@
 
 | Date | Route | Duration | Cost | Bkd |
 | ---- | ----- | -------- | ---- | --- |
-| 11 Sep | Manchester → Málaga (flight) | ~2h55m | £110 | |
+| 11 Sep | Manchester → Málaga (flight) | ~2h55m | £116 | ✓ |
 | 11 Sep | Málaga Airport → Granada | ~1h30m | incl. in car hire | |
 | 13 Sep | Granada → Alcalá la Real → Baena → Córdoba | ~2h30m | incl. in car hire | |
 | 15 Sep | Córdoba → Ecija → Carmona → Seville | ~2h | incl. in car hire | |
 | 18 Sep | Seville → Jerez → Santa María → Cádiz | ~2h30m | incl. in car hire | |
 | 20 Sep | Cádiz → Arcos de la Frontera → Grazalema → Ronda | ~2h30m | incl. in car hire | |
-| 21 Sep | Ronda → Setenil de las Bodegas → Ardales | ~1h30m | incl. in car hire | |
-| 22 Sep | Ardales → Álora → Málaga | ~1h30m | incl. in car hire | |
-| 25 Sep | Málaga → Manchester (flight) | ~2h55m | £220 | |
+| 21 Sep | Ronda → Setenil de las Bodegas → Caminito del Rey → Antequera | ~1h45m | incl. in car hire | |
+| 22 Sep | Antequera → Almogía → Málaga | ~1h15m | incl. in car hire | |
+| 25 Sep | Málaga → Manchester (flight) | ~2h55m | £166 | ✓ |
 
-Total driving distance: ~523 miles across 7 travel days.
+Total driving distance: ~545 miles across 7 travel days.
 
 ## Total Trip Cost Estimate
 
@@ -67,10 +67,10 @@ Total driving distance: ~523 miles across 7 travel days.
 
 | Item | Cost |
 | ---- | ---- |
-| Flights (return, per person: £110 outbound + £220 inbound) | £330 |
+| Flights (return, per person: £116 outbound + £166 inbound) | £282 |
 | Car hire (per person, 11 days, Málaga Airport round trip) | £150 |
-| Fuel (estimated per person, ~523 miles) | £35 |
-| **Transport total** | **£515** |
+| Fuel (estimated per person, ~545 miles) | £50 |
+| **Transport total** | **£482** |
 
 **Accommodation**
 
@@ -80,10 +80,10 @@ Total driving distance: ~523 miles across 7 travel days.
 | Córdoba | 2 | £90 | £180 |
 | Seville | 3 | £100 | £300 |
 | Cádiz | 2 | £100 | £200 |
-| Ronda | 1 | £105 | £105 |
-| Ardales | 1 | £100 | £100 |
+| Ronda | 1 | £83 | £83 |
+| Antequera | 1 | £53 | £53 |
 | Málaga | 3 | £95 | £285 |
-| **Accommodation total** | **14** | | **£1,360** |
+| **Accommodation total** | **14** | | **£1,291** |
 
 **Daily Spend**
 
@@ -93,10 +93,10 @@ Meals, drinks, activities and local transport: ~£85/day × 15 days = **£1,275*
 
 | Category | Cost |
 | -------- | ---- |
-| Transport | £515 |
-| Accommodation | £1,360 |
+| Transport | £482 |
+| Accommodation | £1,291 |
 | Daily Spend | £1,275 |
-| **Total Estimated Trip Cost** | **£3,150** |
+| **Total Estimated Trip Cost** | **£3,048** |
 
 ## Visa Requirements
 
