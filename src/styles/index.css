@@ -215,13 +215,18 @@ body {
   margin-bottom: 1rem;
 }
 
+.itinerary-content li p {
+  margin-bottom: 0.25rem;
+}
+
 .itinerary-content ul,
 .itinerary-content ol {
-  margin-left: 2rem;
+  margin-left: 1.3rem;
   margin-bottom: 1rem;
 }
 
 .itinerary-content table {
+  font-size: 0.95em;
   width: 100%;
   border-collapse: collapse;
   margin: 1.5rem 0;
