@@ -21,7 +21,7 @@
   - En route: stops in Ecija - Baroque churches, Plaza de España, Palacio de Benamejí, and Carmona - valley views, historic centre
   - Real Alcázar, Seville Cathedral & Giralda tower, Plaza de España, Triana neighbourhood for tapas and flamenco
 - **Cádiz:** 2 nights (by hire car, via Jerez de la Frontera & El Puerto de Santa María) _Arrive: Sat 18 Sep 2027_
-  - **Recommended apartment:** [AirBnB Cadiz](https://www.airbnb.co.uk/rooms/29543366?adults=2&check_in=2027-09-18&check_out=2027-09-20&search_mode=regular_search&amenities%5B%5D=5&source_impression_id=p3_1790241985_P327BgIBDuOQ0SGK&previous_page_section_name=1001&federated_search_id=248c1ea2-cf65-4570-a840-8995c1444de3&review_page_entrypoint=pdp_header) — \~£54/night
+  - **BOOKED APARTMENT:** [AirBnB Cadiz](https://www.airbnb.co.uk/rooms/29543366?adults=2&check_in=2027-09-18&check_out=2027-09-20&search_mode=regular_search&amenities%5B%5D=5&source_impression_id=p3_1790241985_P327BgIBDuOQ0SGK&previous_page_section_name=1001&federated_search_id=248c1ea2-cf65-4570-a840-8995c1444de3&review_page_entrypoint=pdp_header) — £54/night
   - En route: stops in Jerez - Sherry, Cathedral, and El Puerto de Santa María - coastal town, castle, seafood
   - Cádiz Cathedral & rooftop views, La Caleta beach at sunset, Mercado Central tapas crawl, city walls and Torre Tavira
 - **Ronda:** 1 night (by hire car, via Arcos de la Frontera & Grazalema) _Arrive: Mon 20 Sep 2027_
