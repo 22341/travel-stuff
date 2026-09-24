@@ -33,7 +33,7 @@
   - En route: stops in Setenil de las Bodegas — whitewashed rock ledge village, and Caminito del Rey hike
   - Alcazaba of Antequera & Arco de los Gigantes, Dolmens of Antequera (UNESCO-listed Bronze Age burial mounds)
 - **Málaga:** 3 nights (by hire car, via Almogía) _Arrive: Wed 22 Sep 2027_
-  - **Recommended apartment:** [AirBnB Malaga](https://www.airbnb.co.uk/rooms/705744253674468304?adults=2&check_in=2027-09-22&check_out=2027-09-25&search_mode=regular_search&amenities%5B%5D=5&source_impression_id=p3_1790245798_P3ab35G-1W5IJGob&previous_page_section_name=1001&federated_search_id=bd2ede34-dddf-4806-b4e3-39b5bcbf85b5&review_page_entrypoint=pdp_header) — \~£62/night
+  - **BOOKED APARTMENT:** [AirBnB Malaga](https://www.airbnb.co.uk/rooms/705744253674468304?adults=2&check_in=2027-09-22&check_out=2027-09-25&search_mode=regular_search&amenities%5B%5D=5&source_impression_id=p3_1790245798_P3ab35G-1W5IJGob&previous_page_section_name=1001&federated_search_id=bd2ede34-dddf-4806-b4e3-39b5bcbf85b5&review_page_entrypoint=pdp_header) — £62/night
   - En route: stop in Almogía - historic Torre de la Vela ruins
   - Hire car drop-off at Málaga Airport
   - Picasso Museum, Alcazaba & Gibralfaro castle, Muelle Uno waterfront, craft beer bars in the Soho district
