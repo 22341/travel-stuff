@@ -1,3 +1,5 @@
+Markdown · andalucia.md
+
 # Andalucía Road Trip 2027
 
 ## Overview
@@ -10,10 +12,10 @@
 ## Itinerary
 
 - **Granada:** 2 nights (by flight & hire car) _Arrive: Sat 11 Sep 2027_
-  - **Recommended hotel:** [Hotel Granada Five Senses Rooms & Suites](https://www.booking.com/hotel/es/maciagranvia.html) — \~£95/night
+  - **BOOKED HOTEL:** [Porcel Navas](https://www.booking.com/hotel/es/navas.html) — £86/night
   - Alhambra & Generalife palace complex, Albaicín quarter and sunset at Mirador San Nicolás, free tapas crawl along Calle Navas, Sacromonte flamenco caves
 - **Córdoba:** 2 nights (by hire car, via Alcalá la Real & Baena) _Arrive: Mon 13 Sep 2027_
-  - **Recommended hotel:** [Hotel Mezquita](https://www.booking.com/hotel/es/mezquita-s-l.html) — \~£90/night
+  - **BOOKED HOTEL:** [NH Córdoba Califa](https://www.booking.com/hotel/es/nhcalifa.html) — £53/night
   - En route: stops in Alcalá la Real - Medieval Fortress, and Baena - castle, olive oil, lunch
   - Mezquita-Catedral, Alcázar de los Reyes Cristianos & gardens, Judería quarter and Calleja de las Flores, day trip to Medina Azahara ruins
 - **Seville:** 3 nights (by hire car, via Ecija & Carmona) _Arrive: Wed 15 Sep 2027_
@@ -63,21 +65,22 @@ Total driving distance: \~545 miles across 7 travel days.
 | ---------------------------------------------------------- | -------- |
 | Flights (return, per person: £116 outbound + £166 inbound) | £282     |
 | Car hire (per person, 11 days, Málaga Airport round trip)  | £150     |
+| Car parking (per person)                                   | £100     |
 | Fuel (estimated per person, \~545 miles)                   | £50      |
-| **Transport total**                                        | **£482** |
+| **Transport total**                                        | **£582** |
 
 **Accommodation**
 
-| Stop                    | Nights | £/night | Total      |
-| ----------------------- | ------ | ------- | ---------- |
-| Granada                 | 2      | £95     | £190       |
-| Córdoba                 | 2      | £90     | £180       |
-| Seville                 | 3      | £68     | £204       |
-| Cádiz                   | 2      | £54     | £108       |
-| Ronda                   | 1      | £83     | £83        |
-| Antequera               | 1      | £53     | £53        |
-| Málaga                  | 3      | £62     | £186       |
-| **Accommodation total** | **14** |         | **£1,004** |
+| Stop                    | Nights | £/night | Total    |
+| ----------------------- | ------ | ------- | -------- |
+| Granada                 | 2      | £86     | £172     |
+| Córdoba                 | 2      | £53     | £106     |
+| Seville                 | 3      | £68     | £204     |
+| Cádiz                   | 2      | £54     | £108     |
+| Ronda                   | 1      | £83     | £83      |
+| Antequera               | 1      | £53     | £53      |
+| Málaga                  | 3      | £62     | £186     |
+| **Accommodation total** | **14** |         | **£912** |
 
 **Daily Spend**
 
@@ -87,10 +90,10 @@ Meals, drinks, activities and local transport: \~£85/day × 15 days = **£1,275
 
 | Category                      | Cost       |
 | ----------------------------- | ---------- |
-| Transport                     | £482       |
-| Accommodation                 | £1,004     |
+| Transport                     | £582       |
+| Accommodation                 | £912       |
 | Daily Spend                   | £1,275     |
-| **Total Estimated Trip Cost** | **£2,761** |
+| **Total Estimated Trip Cost** | **£2,769** |
 
 ## Visa Requirements
 
