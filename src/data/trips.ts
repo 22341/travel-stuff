@@ -45,7 +45,7 @@ export const trips: Trip[] = [
     title: "Colin in Paris",
     year: 2027,
     startDate: "2027-05-22",
-    tags: ["Europe", "Gold plated pension", "10 days"],
+    tags: ["City break", "Gold plated pension", "10 days"],
     description: "London · Paris · Brussels",
     accentColor: "#114bc9",
   },
