@@ -1,5 +1,3 @@
-Markdown · andalucia.md
-
 # Andalucía Road Trip 2027
 
 ## Overview
