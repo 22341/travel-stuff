@@ -264,7 +264,7 @@
   - Shaanxi History Museum
 
 - **Beijing:** 4 nights (by train) _Arrive: Sun 18 Apr 2027_
-  - **_Booked hotel:_** [Holiday Inn Express Beijing Dongzhimen by IHG](https://www.booking.com/hotel/cn/holiday-inn-express-beijing-dongzhimen.html) - £78/night
+  - **_Booked hotel:_** [Holiday Inn Express Beijing Dongzhimen by IHG](https://www.booking.com/hotel/cn/holiday-inn-express-beijing-dongzhimen.html) - £68/night
   - Great Wall of China (Mutianyu section)
   - Forbidden City and Tiananmen Square
   - Temple of Heaven and hutong tours
@@ -402,8 +402,8 @@
 | Philippines             |      6 |                £30 |       £180 |
 | Japan                   |     15 |                £51 |       £771 |
 | South Korea             |      4 |                £73 |       £292 |
-| Greater China           |     17 |                £74 |     £1,259 |
-| **Total Accommodation** | **74** |            **£52** | **£3,884** |
+| Greater China           |     17 |                £72 |     £1,219 |
+| **Total Accommodation** | **74** |            **£52** | **£3,844** |
 
 ### Transportation
 
@@ -419,9 +419,9 @@
 
 | Category       |   Estimate |
 | -------------- | ---------: |
-| Accommodation  |     £3,884 |
+| Accommodation  |     £3,844 |
 | Transportation |     £3,634 |
-| **Trip Total** | **£7,518** |
+| **Trip Total** | **£7,478** |
 
 ### Additional Costs (Not Included)
 
@@ -435,9 +435,9 @@
 
 ### Complete Trip Budget
 
-**Core Costs (Accommodation + Transportation):** £7,518  
+**Core Costs (Accommodation + Transportation):** £7,478  
 **Additional Expenses:** £6,361 total  
-**Total Trip Budget:** £13,879
+**Total Trip Budget:** £13,839
 
 ---
 
