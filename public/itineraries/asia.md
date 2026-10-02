@@ -1,7 +1,6 @@
 # Sabbatical Break 2027
 
 ## Overview
-
 **Total Duration:** ~77 days  
 **Countries:** Malaysia, Cambodia, Vietnam, Taiwan, Philippines, Japan, South Korea, Hong Kong, China  
 **Travel Style:** Mix of cultural immersion, historical exploration, and natural beauty
@@ -11,10 +10,9 @@
 ## Departure
 
 ### London
-
-- **London:** 1 night (departure prep) _Arrive: Sat 6 Feb 2027_
-  - **_Booked hotel:_** [Premier Inn Hub Paddington](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/hub-london-paddington-paddington-station.html?ARRdd=06&ARRmm=02&ARRyyyy=2027&NIGHTS=1&ROOMS=1&ADULT1=1&CHILD1=0&COT1=0&INTTYP1=DB&BRAND=HUB) - £81/night
-- **Overnight Flight to Kuala Lumpur** _Depart: Sun 7 Feb 2027_
+- **London:** 1 night (departure prep) *Arrive: Sat 6 Feb 2027*
+  - ***Booked hotel:*** [Premier Inn Hub Paddington](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/hub-london-paddington-paddington-station.html?ARRdd=06&ARRmm=02&ARRyyyy=2027&NIGHTS=1&ROOMS=1&ADULT1=1&CHILD1=0&COT1=0&INTTYP1=DB&BRAND=HUB) - £81/night
+- **Overnight Flight to Kuala Lumpur** *Depart: Sun 7 Feb 2027*
   - 13-hour overnight flight
 
 ---
@@ -22,17 +20,15 @@
 ## Phase 1: Southeast Asia (26 nights)
 
 ### Malaysia
-
-- **Kuala Lumpur:** 3 nights _Arrive: Mon 8 Feb 2027_
-  - **_Booked hotel:_** [Verdant Hill Hotel Kuala Lumpur](https://www.booking.com/hotel/my/verdant-hill-kuala-lumpur.en-gb.html) - £51/night
+- **Kuala Lumpur:** 3 nights *Arrive: Mon 8 Feb 2027*
+  - ***Booked hotel:*** [Verdant Hill Hotel Kuala Lumpur](https://www.booking.com/hotel/my/verdant-hill-kuala-lumpur.en-gb.html) - £51/night
   - Explore Petronas Towers, Batu Caves
   - Street food tours in Chinatown and Little India
   - Visit Islamic Arts Museum
 
 ### Cambodia
-
-- **Phnom Penh:** 4 nights _Arrive: Thu 11 Feb 2027_
-  - **_Booked hotel:_** [ARISON Hotel](https://www.booking.com/hotel/kh/arison.html) - £26/night
+- **Phnom Penh:** 4 nights *Arrive: Thu 11 Feb 2027*
+  - ***Booked hotel:*** [ARISON Hotel](https://www.booking.com/hotel/kh/arison.html) - £26/night
   - Royal Palace and Silver Pagoda
   - Tuol Sleng Genocide Museum and Killing Fields
   - Central Market and riverside promenade
@@ -40,18 +36,17 @@
   - BKK1 craft beer scene (Craft bar, Embargo, Botanico)
 
 ### Vietnam Journey
-
-- **Chau Doc:** 1 night (by Hang Chau ferry from Phnom Penh) _Arrive: Mon 15 Feb 2027_
-  - **_Booked hotel:_** [Hostel Dang Loi](https://www.booking.com/hotel/vn/hostel-dang-loi.en-gb.html) - £12/night
+- **Chau Doc:** 1 night (by Hang Chau ferry from Phnom Penh) *Arrive: Mon 15 Feb 2027*
+  - ***Booked hotel:*** [Hostel Dang Loi](https://www.booking.com/hotel/vn/hostel-dang-loi.en-gb.html) - £12/night
   - Mekong Delta riverside town
 
-- **Can Tho:** 1 night (by private car) _Arrive: Tue 16 Feb 2027_
-  - **_Booked hotel:_** [LION 11 Can Tho Hotel](https://www.booking.com/hotel/vn/lion-11-can-tho.html) - £20/night
+- **Can Tho:** 1 night (by private car) *Arrive: Tue 16 Feb 2027*
+  - ***Booked hotel:*** [LION 11 Can Tho Hotel](https://www.booking.com/hotel/vn/lion-11-can-tho.html) - £20/night
   - Cai Rang Floating Market morning boat trip
   - Mekong Delta canals
 
-- **Ho Chi Minh City:** 4 nights (by private car) _Arrive: Wed 17 Feb 2027_
-  - **_Booked hotel:_** [Ben Thanh Retreats Hotel](https://www.booking.com/hotel/vn/ben-thanh-retreats.html) - £40/night
+- **Ho Chi Minh City:** 4 nights (by private car) *Arrive: Wed 17 Feb 2027*
+  - ***Booked hotel:*** [Ben Thanh Retreats Hotel](https://www.booking.com/hotel/vn/ben-thanh-retreats.html) - £40/night
   - War Remnants Museum
   - Ben Thanh Market and Saigon Central Post Office
   - Rooftop bars and street food tours
@@ -60,35 +55,35 @@
   - Hầm Vũ Khí Bí Mật Secret Weapon Cellar
   - Cholon (Binh Tay Market, Thien Hau Pagoda, Hao Sy Phuong)
 
-- **Hoi An:** 2 nights (by flight) _Arrive: Sun 21 Feb 2027_
-  - **_Booked hotel:_** [Little Town Villa](https://www.booking.com/hotel/vn/little-town-villa.html) - £32/night
+- **Hoi An:** 2 nights (by flight) *Arrive: Sun 21 Feb 2027*
+  - ***Booked hotel:*** [Little Town Villa](https://www.booking.com/hotel/vn/little-town-villa.html) - £32/night
   - Ancient Town UNESCO site
   - Taste Vietnam morning cooking class
 
-- **Da Nang:** 3 nights (by taxi) _Arrive: Tue 23 Feb 2027_
-  - **_Booked hotel:_** [Coral Cove Hotel](https://www.booking.com/hotel/vn/coral-cove.html) - £26/night
+- **Da Nang:** 3 nights (by taxi) *Arrive: Tue 23 Feb 2027*
+  - ***Booked hotel:*** [Coral Cove Hotel](https://www.booking.com/hotel/vn/coral-cove.html) - £26/night
   - Marble Mountains and Buddhist caves
   - Dragon Bridge and Han River waterfront
   - My Khe Beach
   - Golden Bridge at Ba Na Hills
   - My Son Sanctuary day trip
 
-- **Hue:** 2 nights (by private car) _Arrive: Fri 26 Feb 2027_
-  - **_Booked hotel:_** [Hue Serene Palace Hotel](https://www.booking.com/hotel/vn/hue-serene-palace.html) - £31/night
+- **Hue:** 2 nights (by private car) *Arrive: Fri 26 Feb 2027*
+  - ***Booked hotel:*** [Jade Scene Hotel](https://www.booking.com/hotel/vn/jade-scene.html) - £34/night
   - Imperial City and royal tombs
   - Perfume River boat trip
   - Traditional imperial cuisine
   - Day trip to DMZ and Vinh Moc Tunnels
 
-- **Overnight Train to Hanoi:** _Sun 28 Feb 2027_
-  - _Recommended train: SE20 Reunification Express (Premium Class)_
+- **Overnight Train to Hanoi:** *Sun 28 Feb 2027*
+  - *Recommended train: SE20 Reunification Express (Premium Class)*
   - 14-15 hour journey through Vietnamese countryside
   - Premium sleeper cabin with air conditioning
   - Scenic views of rice paddies and mountains
 
-- **Hanoi:** 5 nights _Arrive: Mon 1 Mar 2027_
-  - **_Booked hotel:_** [Centre Point Hanoi Hotel](https://www.booking.com/hotel/vn/centre-point-hanoi.html) - £42/night
-  - _Ha Long Bay cruise: Victory Star Cruise or Dragon Pearl Junk_
+- **Hanoi:** 5 nights *Arrive: Mon 1 Mar 2027*
+  - ***Booked hotel:*** [Centre Point Hanoi Hotel](https://www.booking.com/hotel/vn/centre-point-hanoi.html) - £42/night
+  - *Ha Long Bay cruise: Victory Star Cruise or Dragon Pearl Junk*
   - Old Quarter exploration
   - Temple of Literature, Hoan Kiem Lake
   - Street food evening walking tour
@@ -101,9 +96,8 @@
 ## Phase 2: Taiwan (5 nights)
 
 ### Taipei
-
-- **Taipei:** 5 nights _Arrive: Sat 6 Mar 2027_
-  - **_Booked hotel:_** [玩行旅大安分館 (Wow Travel Da'an)](https://www.booking.com/hotel/tw/wan-xing-lu-da-an-fen-guan.html) - £64/night
+- **Taipei:** 5 nights *Arrive: Sat 6 Mar 2027*
+  - ***Booked hotel:*** [玩行旅大安分館 (Wow Travel Da'an)](https://www.booking.com/hotel/tw/wan-xing-lu-da-an-fen-guan.html) - £64/night
   - Taipei 101 and observation deck
   - National Palace Museum
   - Shilin Night Market and street food culture
@@ -119,9 +113,8 @@
 ## Phase 3: Philippines (6 nights)
 
 ### Manila
-
-- **Manila:** 3 nights _Arrive: Thu 11 Mar 2027_
-  - **_Booked hotel:_** [Royal Bellagio Hotel](https://www.booking.com/hotel/ph/royal-bellagio.html) - £34/night
+- **Manila:** 3 nights *Arrive: Thu 11 Mar 2027*
+  - ***Booked hotel:*** [Royal Bellagio Hotel](https://www.booking.com/hotel/ph/royal-bellagio.html) - £34/night
   - Intramuros historic walled city
   - Rizal Park and Fort Santiago
   - Manila Cathedral and San Agustin Church
@@ -131,9 +124,8 @@
   - Day trip to Tagaytay and Taal Volcano
 
 ### Cebu
-
-- **Cebu City:** 3 nights _Arrive: Sun 14 Mar 2027_
-  - **_Booked hotel:_** [Red Planet Cebu](https://www.booking.com/hotel/ph/red-planet-cebu.en-gb.html) - £26/night
+- **Cebu City:** 3 nights *Arrive: Sun 14 Mar 2027*
+  - ***Booked hotel:*** [Red Planet Cebu](https://www.booking.com/hotel/ph/red-planet-cebu.en-gb.html) - £26/night
   - Magellan's Cross and Basilica del Santo Niño
   - Fort San Pedro and Cebu Heritage Monument
   - Tops Lookout for panoramic city views
@@ -145,9 +137,8 @@
 ## Phase 4: Japan (15 nights)
 
 ### Kanto Region
-
-- **Tokyo:** 3 nights _Arrive: Wed 17 Mar 2027_
-  - **_Booked hotel:_** [APA Hotel Yamanote Otsuka Ekimae Tower](https://www.booking.com/hotel/jp/apa-yamanote-otsuka-eki-tower.html) - £58/night
+- **Tokyo:** 3 nights *Arrive: Wed 17 Mar 2027*
+  - ***Booked hotel:*** [APA Hotel Yamanote Otsuka Ekimae Tower](https://www.booking.com/hotel/jp/apa-yamanote-otsuka-eki-tower.html) - £58/night
   - Explore Shimokitazawa vintage shopping district
   - Kagurazaka traditional neighborhood and French quarter
   - Nakameguro riverside cafes and craft beer bars
@@ -155,18 +146,16 @@
   - Day trip to Kamakura or Enoshima
 
 ### Chugoku Region
-
-- **Okayama:** 2 nights _Arrive: Sat 20 Mar 2027_
-  - **_Booked hotel:_** [Hotel Excel Okayama](https://www.booking.com/hotel/jp/hotel-excel-okayama.html) - £68/night
+- **Okayama:** 2 nights *Arrive: Sat 20 Mar 2027*
+  - ***Booked hotel:*** [Hotel Excel Okayama](https://www.booking.com/hotel/jp/hotel-excel-okayama.html) - £68/night
   - Korakuen Garden (one of Japan's top 3 gardens)
   - Okayama Castle (Crow Castle)
   - Day trip to Kurashiki historic district with Edo-era canals
   - Bikan Historical Quarter
 
 ### Kyushu Region
-
-- **Fukuoka:** 3 nights _Arrive: Mon 22 Mar 2027_
-  - **_Booked hotel:_** [APA Hotel Fukuoka Tenjin Nishi](https://www.booking.com/hotel/jp/apa-hotel-fukuoka-tenjin-nishi.html) - £49/night
+- **Fukuoka:** 3 nights *Arrive: Mon 22 Mar 2027*
+  - ***Booked hotel:*** [APA Hotel Fukuoka Tenjin Nishi](https://www.booking.com/hotel/jp/apa-hotel-fukuoka-tenjin-nishi.html) - £49/night
   - Fukuoka Castle ruins and Ohori Park
   - Hakata ramen and yatai street food stalls
   - Dazaifu Tenmangu Shrine day trip
@@ -174,15 +163,14 @@
   - Fukuoka Tower and seaside views
 
 ### Kansai Region
-
-- **Himeji:** 2 nights _Arrive: Thu 25 Mar 2027_
-  - **_Booked hotel:_** [APA Hotel Himeji Ekikita](https://www.booking.com/hotel/jp/apa-himeji-eki-kita.html) - £39/night
+- **Himeji:** 2 nights *Arrive: Thu 25 Mar 2027*
+  - ***Booked hotel:*** [APA Hotel Himeji Ekikita](https://www.booking.com/hotel/jp/apa-himeji-eki-kita.html) - £39/night
   - Himeji Castle (UNESCO World Heritage Site)
   - Kokoen Garden
   - Mount Shosha and Engyoji Temple
 
-- **Kobe:** 2 nights _Arrive: Sat 27 Mar 2027_
-  - **_Booked hotel:_** [APA Hotel Kobe Sannomiya Ekimae](https://www.booking.com/hotel/jp/apa-hotel-kobe-sannomiya-ekimae.html) - £48/night
+- **Kobe:** 2 nights *Arrive: Sat 27 Mar 2027*
+  - ***Booked hotel:*** [APA Hotel Kobe Sannomiya Ekimae](https://www.booking.com/hotel/jp/apa-hotel-kobe-sannomiya-ekimae.html) - £48/night
   - Kobe Port and Harborland waterfront
   - Nunobiki Herb Gardens and ropeway
   - Famous Kobe beef dining experience
@@ -190,9 +178,8 @@
   - Mt. Rokko for panoramic city views
 
 ### Hokuriku Region
-
-- **Kanazawa:** 2 nights _Arrive: Mon 29 Mar 2027_
-  - **_Booked hotel:_** [APA Hotel Kanazawa Chuo](https://www.booking.com/hotel/jp/apa-kanazawa-chuo.html) - £25/night
+- **Kanazawa:** 2 nights *Arrive: Mon 29 Mar 2027*
+  - ***Booked hotel:*** [APA Hotel Kanazawa Chuo](https://www.booking.com/hotel/jp/apa-kanazawa-chuo.html) - £25/night
   - Kenroku-en Garden (one of Japan's top 3)
   - Higashi Chaya geisha district
   - Kanazawa Castle and samurai district
@@ -201,9 +188,8 @@
   - Omicho Market for fresh seafood
 
 ### Kanto Region
-
-- **Tokyo:** 1 night _Arrive: Wed 31 Mar 2027_
-  - **_Booked hotel:_** [APA Hotel Yamanote Otsuka Ekimae Tower](https://www.booking.com/hotel/jp/apa-yamanote-otsuka-eki-tower.html) - £90/night
+- **Tokyo:** 1 night *Arrive: Wed 31 Mar 2027*
+  - ***Booked hotel:*** [APA Hotel Yamanote Otsuka Ekimae Tower](https://www.booking.com/hotel/jp/apa-yamanote-otsuka-eki-tower.html) - £90/night
   - Final shopping and exploration
   - Last-minute sightseeing or revisit favorites
 
@@ -212,9 +198,8 @@
 ## Phase 5: South Korea (4 nights)
 
 ### Seoul
-
-- **Seoul:** 4 nights _Arrive: Thu 1 Apr 2027_
-  - **_Booked hotel:_** [Grid Inn Hotel](https://www.booking.com/hotel/kr/grid-inn.html) - £73/night
+- **Seoul:** 4 nights *Arrive: Thu 1 Apr 2027*
+  - ***Booked hotel:*** [Grid Inn Hotel](https://www.booking.com/hotel/kr/grid-inn.html) - £73/night
   - Gyeongbokgung Palace and changing of the guard
   - Bukchon Hanok Village traditional houses
   - Myeongdong shopping district
@@ -229,26 +214,24 @@
 ## Phase 6: Greater China (17 nights)
 
 ### Hong Kong
-
-- **Hong Kong:** 4 nights _Arrive: Mon 5 Apr 2027_
-  - **_Booked hotel:_** [Ibis Hong Kong Central & Sheung Wan](https://www.booking.com/searchresults.html?ss=Ibis+Hong+Kong+Central+Sheung+Wan) - £138/night
+- **Hong Kong:** 4 nights *Arrive: Mon 5 Apr 2027*
+  - ***Booked hotel:*** [Ibis Hong Kong Central & Sheung Wan](https://www.booking.com/searchresults.html?ss=Ibis+Hong+Kong+Central+Sheung+Wan) - £138/night
   - Victoria Peak and Star Ferry
   - Dim sum culture and night markets
   - Temple Street and Symphony of Lights
   - Day trip to Lantau Island
 
 ### Mainland China
-
-- **Guilin:** 3 nights (by train) _Arrive: Fri 9 Apr 2027_
-  - **_Booked hotel:_** [Wing Hotel Guilin, Central Square](https://www.booking.com/searchresults.html?ss=Wing+Hotel+Guilin+Central+Square) - £43/night
+- **Guilin:** 3 nights (by train) *Arrive: Fri 9 Apr 2027*
+  - ***Booked hotel:*** [Wing Hotel Guilin, Central Square](https://www.booking.com/searchresults.html?ss=Wing+Hotel+Guilin+Central+Square) - £43/night
   - Li River cruise to Yangshuo
   - Reed Flute Cave and Elephant Trunk Hill
   - Longji Rice Terraces day trip
   - Cormorant fishing demonstrations
   - West Street night market
 
-- **Chengdu:** 4 nights (by train) _Arrive: Mon 12 Apr 2027_
-  - **_Booked hotel:_** [Echeng Hotel Chengdu Chunxi Road Taikoo Li](https://www.booking.com/hotel/cn/yi-cheng-jiu-dian-cheng-du-chun-xi-lu-tai-gu-li-dian.html) - £44/night
+- **Chengdu:** 4 nights (by train) *Arrive: Mon 12 Apr 2027*
+  - ***Booked hotel:*** [Echeng Hotel Chengdu Chunxi Road Taikoo Li](https://www.booking.com/hotel/cn/yi-cheng-jiu-dian-cheng-du-chun-xi-lu-tai-gu-li-dian.html) - £44/night
   - Giant Panda Breeding Research Base
   - Wuhou Shrine and Jinli Ancient Street
   - Sichuan hot pot and spicy cuisine
@@ -256,15 +239,15 @@
   - Traditional teahouse culture
   - Day trip to Chongqing (optional)
 
-- **Xi'an:** 2 nights (by train) _Arrive: Fri 16 Apr 2027_
-  - **_Booked hotel:_** [CitiGO Hotel, South Gate of Xi'an Bell Tower](https://www.booking.com/searchresults.html?ss=CitiGO+Hotel+Xian+Bell+Tower) - £45/night
+- **Xi'an:** 2 nights (by train) *Arrive: Fri 16 Apr 2027*
+  - ***Booked hotel:*** [CitiGO Hotel, South Gate of Xi'an Bell Tower](https://www.booking.com/searchresults.html?ss=CitiGO+Hotel+Xian+Bell+Tower) - £45/night
   - Terracotta Army day trip
   - Ancient City Wall walk
   - Muslim Quarter food tour
   - Shaanxi History Museum
 
-- **Beijing:** 4 nights (by train) _Arrive: Sun 18 Apr 2027_
-  - **_Booked hotel:_** [Holiday Inn Express Beijing Dongzhimen by IHG](https://www.booking.com/hotel/cn/holiday-inn-express-beijing-dongzhimen.html) - £68/night
+- **Beijing:** 4 nights (by train) *Arrive: Sun 18 Apr 2027*
+  - ***Booked hotel:*** [Holiday Inn Express Beijing Dongzhimen by IHG](https://www.booking.com/hotel/cn/holiday-inn-express-beijing-dongzhimen.html) - £68/night
   - Great Wall of China (Mutianyu section)
   - Forbidden City and Tiananmen Square
   - Temple of Heaven and hutong tours
@@ -275,13 +258,12 @@
 ## Phase 7: Back to the UK (1 night)
 
 ### London
-
-- **London:** 1 night _Arrive: Thu 22 Apr 2027_
-  - **_Booked hotel:_** [Premier Inn London Paddington (Paddington Station)](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-paddington-paddington-station.html) - £111/night
+- **London:** 1 night *Arrive: Thu 22 Apr 2027*
+  - ***Booked hotel:*** [Premier Inn London Paddington (Paddington Station)](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-paddington-paddington-station.html) - £111/night
   - Recover from jet lag and unwind
   - Final reflections on the career break journey
   - Reconnect with home
-- **Train to Leeds** _Depart: Fri 23 Apr 2027_
+- **Train to Leeds** *Depart: Fri 23 Apr 2027*
   - 2.5 hour journey home
   - End of career break adventure
 
@@ -290,7 +272,6 @@
 ## Key Highlights by Region
 
 ### Cultural Immersion
-
 - **Southeast Asia:** Buddhist temples, colonial history, street food culture, Mekong Delta life
 - **Taiwan:** Night markets, tea culture, hot springs, modern Asian fusion
 - **Philippines:** Spanish colonial heritage, island culture, marine biodiversity
@@ -299,7 +280,6 @@
 - **China:** Ancient dynasties, diverse regional cuisines, ethnic diversity
 
 ### Natural Beauty
-
 - **Mekong Delta:** Floating markets and river landscapes (Vietnam)
 - **Ha Long Bay:** Limestone karsts and emerald waters (Vietnam)
 - **Jiufen & Shifen:** Mountain villages and waterfalls (Taiwan)
@@ -313,7 +293,6 @@
 - **Longji Rice Terraces:** Spectacular terraced hillsides (near Guilin)
 
 ### Historical Significance
-
 - **Killing Fields & Tuol Sleng:** Cambodian genocide history (Phnom Penh)
 - **Imperial City & Royal Tombs:** Vietnamese imperial heritage (Hue)
 - **DMZ & Vinh Moc Tunnels:** Vietnam War sites (Hue)
@@ -335,96 +314,88 @@
 ## Transportation Schedule
 
 ### Flights
-
-| Date            | Route                      | Travel Time    | Cost (GBP) | Bkd |
-| --------------- | -------------------------- | -------------- | ---------: | :-: |
-| Sun 7 Feb 2027  | London → Kuala Lumpur      | 10:25, 13 hrs  |       £556 | ✅  |
-| Thu 11 Feb 2027 | Kuala Lumpur → Phnom Penh  | 09:00, 2 hrs   |        £57 | ✅  |
-| Sun 21 Feb 2027 | Ho Chi Minh City → Da Nang | 09:05, 1.5 hrs |        £78 | ✅  |
-| Sat 6 Mar 2027  | Hanoi → Taipei             | 07:35, 3 hrs   |       £159 | ✅  |
-| Thu 11 Mar 2027 | Taipei → Manila            | 09:45, 2.5 hrs |        £96 | ✅  |
-| Sun 14 Mar 2027 | Manila → Cebu              | 09:15, 1.5 hrs |        £37 | ✅  |
-| Wed 17 Mar 2027 | Cebu → Tokyo               | 08:05, 4.5 hrs |       £182 | ✅  |
-| Thu 1 Apr 2027  | Tokyo → Seoul              | 12:50, 2.5 hrs |       £148 | ✅  |
-| Mon 5 Apr 2027  | Seoul → Hong Kong          | 13:25, 3.5 hrs |       £216 | ✅  |
-| Thu 22 Apr 2027 | Beijing → London           | 13:35, 11 hrs  |       £642 | ✅  |
-| **Total**       |                            |                | **£2,171** |     |
+| Date | Route | Travel Time | Cost (GBP) | Bkd |
+|------|-------|-------------|----------:|:---:|
+| Sun 7 Feb 2027 | London → Kuala Lumpur | 10:25, 13 hrs | £556 | ✅ |
+| Thu 11 Feb 2027 | Kuala Lumpur → Phnom Penh | 09:00, 2 hrs | £57 | ✅ |
+| Sun 21 Feb 2027 | Ho Chi Minh City → Da Nang | 09:05, 1.5 hrs | £78 | ✅ |
+| Sat 6 Mar 2027 | Hanoi → Taipei | 07:35, 3 hrs | £159 | ✅ |
+| Thu 11 Mar 2027 | Taipei → Manila | 09:45, 2.5 hrs | £96 | ✅ |
+| Sun 14 Mar 2027 | Manila → Cebu | 09:15, 1.5 hrs | £37 | ✅ |
+| Wed 17 Mar 2027 | Cebu → Tokyo | 08:05, 4.5 hrs | £182 | ✅ |
+| Thu 1 Apr 2027 | Tokyo → Seoul | 12:50, 2.5 hrs | £148 | ✅ |
+| Mon 5 Apr 2027 | Seoul → Hong Kong | 13:25, 3.5 hrs | £216 | ✅ |
+| Thu 22 Apr 2027 | Beijing → London | 13:35, 11 hrs | £642 | ✅ |
+| **Total** | | | **£2,171** | |
 
 ### Trains
-
-| Date            | Route                   | Travel Time | Cost (GBP) | Bkd |
-| --------------- | ----------------------- | ----------- | ---------: | :-: |
-| Sat 6 Feb 2027  | Leeds → London          | 2.5 hours   |        £30 |     |
-| Sun 28 Feb 2027 | Hue → Hanoi (overnight) | 14-15 hours |       £200 |     |
-| Sat 20 Mar 2027 | Tokyo → Okayama         | 3.5 hours   |       £119 |     |
-| Mon 22 Mar 2027 | Okayama → Fukuoka       | 2 hours     |        £96 |     |
-| Thu 25 Mar 2027 | Fukuoka → Himeji        | 2 hours     |       £105 |     |
-| Sat 27 Mar 2027 | Himeji → Kobe           | 40 mins     |         £6 |     |
-| Mon 29 Mar 2027 | Kobe → Kanazawa         | 3 hours     |       £123 |     |
-| Wed 31 Mar 2027 | Kanazawa → Tokyo        | 3 hours     |       £123 |     |
-| Fri 9 Apr 2027  | Hong Kong → Guilin      | 3.5 hours   |        £50 |     |
-| Mon 12 Apr 2027 | Guilin → Chengdu        | 5.5 hours   |        £50 |     |
-| Fri 16 Apr 2027 | Chengdu → Xi'an         | 4 hours     |        £35 |     |
-| Sun 18 Apr 2027 | Xi'an → Beijing         | 4.5 hours   |        £60 |     |
-| Fri 23 Apr 2027 | London → Leeds          | 2.5 hours   |        £30 |     |
-| **Total**       |                         |             |   **£943** |     |
+| Date | Route | Travel Time | Cost (GBP) | Bkd |
+|------|-------|-------------|----------:|:---:|
+| Sat 6 Feb 2027 | Leeds → London | 2.5 hours | £30 | |
+| Sun 28 Feb 2027 | Hue → Hanoi (overnight) | 14-15 hours | £200 | |
+| Sat 20 Mar 2027 | Tokyo → Okayama | 3.5 hours | £119 | |
+| Mon 22 Mar 2027 | Okayama → Fukuoka | 2 hours | £96 | |
+| Thu 25 Mar 2027 | Fukuoka → Himeji | 2 hours | £105 | |
+| Sat 27 Mar 2027 | Himeji → Kobe | 40 mins | £6 | |
+| Mon 29 Mar 2027 | Kobe → Kanazawa | 3 hours | £123 | |
+| Wed 31 Mar 2027 | Kanazawa → Tokyo | 3 hours | £123 | |
+| Fri 9 Apr 2027 | Hong Kong → Guilin | 3.5 hours | £50 | |
+| Mon 12 Apr 2027 | Guilin → Chengdu | 5.5 hours | £50 | |
+| Fri 16 Apr 2027 | Chengdu → Xi'an | 4 hours | £35 | |
+| Sun 18 Apr 2027 | Xi'an → Beijing | 4.5 hours | £60 | |
+| Fri 23 Apr 2027 | London → Leeds | 2.5 hours | £30 | |
+| **Total** | | | **£1,027** | |
 
 ### Private Cars
-
-| Date            | Route                         | Travel Time | Cost (GBP) | Bkd |
-| --------------- | ----------------------------- | ----------- | ---------: | :-: |
-| Tue 16 Feb 2027 | Chau Doc → Can Tho            | 3 hours     |        £35 |     |
-| Wed 17 Feb 2027 | Can Tho → Ho Chi Minh City    | 4 hours     |        £40 |     |
-| Fri 26 Feb 2027 | Da Nang → Hue                 | 3 hours     |        £30 |     |
-| Sat 27 Feb 2027 | Annam Tour (Guided by Mr. Vu) | Full day    |        £65 |     |
-| **Total**       |                               |             |   **£170** |     |
+| Date | Route | Travel Time | Cost (GBP) | Bkd |
+|------|-------|-------------|----------:|:---:|
+| Tue 16 Feb 2027 | Chau Doc → Can Tho | 3 hours | £35 | |
+| Wed 17 Feb 2027 | Can Tho → Ho Chi Minh City | 4 hours | £40 | |
+| Fri 26 Feb 2027 | Da Nang → Hue | 3 hours | £30 | |
+| Sat 27 Feb 2027 | Annam Tour (Guided by Mr. Vu) | Full day | £65 | |
+| **Total** | | | **£170** | |
 
 ### Boats
-
-| Route                                         | Duration | Cost (GBP) | Bkd |
-| --------------------------------------------- | -------- | ---------: | :-: |
-| Hang Chau Ferry (Phnom Penh → Chau Doc)       | 6 hours  |        £45 |     |
-| Ha Long Bay Cruise                            | 1 night  |       £250 |     |
-| Explore Vietnam – Private Imperial River Tour | Half day |        £55 |     |
-| **Total**                                     |          |   **£350** |     |
+| Route | Duration | Cost (GBP) | Bkd |
+|-------|----------|----------:|:---:|
+| Hang Chau Ferry (Phnom Penh → Chau Doc) | 6 hours | £45 | |
+| Ha Long Bay Cruise | 1 night | £250 | |
+| Explore Vietnam – Private Imperial River Tour | Half day | £55 | |
+| **Total** | | **£350** | |
 
 ---
 
 ## Total Trip Cost Estimate
 
 ### Accommodation (74 nights)
-
-| Region                  | Nights | Average Cost/Night | Total Cost |
-| ----------------------- | -----: | -----------------: | ---------: |
-| London                  |      2 |                £96 |       £192 |
-| Southeast Asia          |     25 |                £35 |       £870 |
-| Taiwan                  |      5 |                £64 |       £320 |
-| Philippines             |      6 |                £30 |       £180 |
-| Japan                   |     15 |                £51 |       £771 |
-| South Korea             |      4 |                £73 |       £292 |
-| Greater China           |     17 |                £72 |     £1,219 |
-| **Total Accommodation** | **74** |            **£52** | **£3,844** |
+| Region | Nights | Average Cost/Night | Total Cost |
+|--------|-------:|------------------:|----------:|
+| London | 2 | £96 | £192 |
+| Southeast Asia | 25 | £35 | £869 |
+| Taiwan | 5 | £64 | £320 |
+| Philippines | 6 | £30 | £180 |
+| Japan | 15 | £51 | £771 |
+| South Korea | 4 | £73 | £292 |
+| Greater China | 17 | £72 | £1,219 |
+| **Total Accommodation** | **74** | **£52** | **£3,843** |
 
 ### Transportation
-
-| Category                 | Approximate Cost |
-| ------------------------ | ---------------: |
-| Flights                  |           £2,171 |
-| Train Travel             |             £943 |
-| Private Cars             |             £170 |
-| Boats                    |             £350 |
-| **Total Transportation** |       **£3,634** |
+| Category | Approximate Cost |
+|----------|----------------:|
+| Flights | £2,171 |
+| Train Travel | £1,027 |
+| Private Cars | £170 |
+| Boats | £350 |
+| **Total Transportation** | **£3,718** |
 
 ### Grand Total Estimate
-
-| Category       |   Estimate |
-| -------------- | ---------: |
-| Accommodation  |     £3,844 |
-| Transportation |     £3,634 |
-| **Trip Total** | **£7,478** |
+| Category | Estimate |
+|----------|--------:|
+| Accommodation | £3,843 |
+| Transportation | £3,718 |
+| **Trip Total** | **£7,561** |
 
 ### Additional Costs (Not Included)
-
 - **Meals & Drinks:** £50/day = £3,800 total
 - **Activities & Attractions:** £15/day = £1,140 total
 - **Visas:** £37 total (Cambodia e-Visa + South Korea K-ETA)
@@ -434,29 +405,27 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-
-**Core Costs (Accommodation + Transportation):** £7,478  
+**Core Costs (Accommodation + Transportation):** £7,561  
 **Additional Expenses:** £6,361 total  
-**Total Trip Budget:** £13,839
+**Total Trip Budget:** £13,922
 
 ---
 
 ## Visa Requirements
 
-| Country     | Stay Limit                          | Special Requirement                                                                                                                                                                                                                                                                                                                |
-| ----------- | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Malaysia    | 90 Days                             | Must submit the [MDAC (Digital Arrival Card)](https://imigresen-online.imi.gov.my/mdac/main) 3 days before arrival.                                                                                                                                                                                                                |
-| Cambodia    | 30 Days (e-Visa)                    | [e-Visa](https://www.evisa.gov.kh/) required (approx. £30). Also must complete [e-Arrival Card](https://arrival.gov.kh/) within 7 days before arrival (free).                                                                                                                                                                      |
-| Vietnam     | 45 Days                             | New for 2026: UK citizens are now visa-free for up to 45 days.                                                                                                                                                                                                                                                                     |
-| Taiwan      | 90 Days                             | Must complete an [Online Arrival Card](https://twac.immigration.gov.tw/) within 72 hours before arrival.                                                                                                                                                                                                                           |
-| Philippines | 30 Days                             | Must register on the [eTravel platform](https://etravel.gov.ph/) within 72 hours before arrival.                                                                                                                                                                                                                                   |
-| Japan       | 90 Days                             | Standard entry; may be asked for proof of onward travel.                                                                                                                                                                                                                                                                           |
-| South Korea | 90 Days                             | [K-ETA (Korea Electronic Travel Authorization)](https://www.k-eta.go.kr) required - the temporary exemption for UK citizens expires 31 December 2026, so K-ETA is mandatory for your April 2027 visit. Apply online before travel (approx. £6, valid 3 years).                                                                     |
-| Hong Kong   | 180 Days                            | Standard entry.                                                                                                                                                                                                                                                                                                                    |
-| China       | 30 Days (visa-free for UK citizens) | **NEW as of January 2026:** UK citizens can enter visa-free for tourism, business, or family visits for up to 30 days. Policy valid until 31 December 2026. You must still complete an arrival card and register with local police within 24 hours (hotels do this automatically). **Your 17-night stay does not require a visa.** |
+| Country | Stay Limit | Special Requirement |
+|---------|-----------|---------------------|
+| Malaysia | 90 Days | Must submit the [MDAC (Digital Arrival Card)](https://imigresen-online.imi.gov.my/mdac/main) 3 days before arrival. |
+| Cambodia | 30 Days (e-Visa) | [e-Visa](https://www.evisa.gov.kh/) required (approx. £30). Also must complete [e-Arrival Card](https://arrival.gov.kh/) within 7 days before arrival (free). |
+| Vietnam | 45 Days | New for 2026: UK citizens are now visa-free for up to 45 days. |
+| Taiwan | 90 Days | Must complete an [Online Arrival Card](https://twac.immigration.gov.tw/) within 72 hours before arrival. |
+| Philippines | 30 Days | Must register on the [eTravel platform](https://etravel.gov.ph/) within 72 hours before arrival. |
+| Japan | 90 Days | Standard entry; may be asked for proof of onward travel. |
+| South Korea | 90 Days | [K-ETA (Korea Electronic Travel Authorization)](https://www.k-eta.go.kr) required - the temporary exemption for UK citizens expires 31 December 2026, so K-ETA is mandatory for your April 2027 visit. Apply online before travel (approx. £6, valid 3 years). |
+| Hong Kong | 180 Days | Standard entry. |
+| China | 30 Days (visa-free for UK citizens) | **NEW as of January 2026:** UK citizens can enter visa-free for tourism, business, or family visits for up to 30 days. Policy valid until 31 December 2026. You must still complete an arrival card and register with local police within 24 hours (hotels do this automatically). **Your 17-night stay does not require a visa.** |
 
 **Important Notes:**
-
 - Ensure your passport is valid for at least 6 months beyond your intended stay
 - Keep proof of onward travel (flight bookings) readily available
 - Complete all online arrival cards and registrations before travel
@@ -466,7 +435,7 @@
 
 ## Digital Payments
 
-_Base method: **Wise** account with linked Visa card (UK Wise cards are issued on the Visa network). The Wise app's built-in **Scan to Pay** (powered by Alipay+) covers QR payments in 6 of the 8 non-Japan countries, paid straight from the Wise balance at the mid-market rate. Note Alipay+ codes can only be scanned while travelling outside your home country - not an issue on this trip._
+*Base method: **Wise** account with linked Visa card (UK Wise cards are issued on the Visa network). The Wise app's built-in **Scan to Pay** (powered by Alipay+) covers QR payments in 6 of the 8 non-Japan countries, paid straight from the Wise balance at the mid-market rate. Note Alipay+ codes can only be scanned while travelling outside your home country - not an issue on this trip.*
 
 - **Malaysia:** Wise Scan to Pay works with **DuitNow QR** (available to all Wise customers, not just Alipay+ markets) - covers hawker stalls, markets and small vendors. Wise card tap-and-pay for malls, chains and hotels.
 - **Cambodia:** Wise scans **KHQR** directly - one code standard across Bakong, ABA, ACLEDA and Wing, so it covers tuk-tuks, markets and restaurants. Wise card for hotels and larger venues.
@@ -478,7 +447,6 @@ _Base method: **Wise** account with linked Visa card (UK Wise cards are issued o
 - **Mainland China:** Wise scans **Alipay QR codes directly in-app**, wherever Alipay is accepted - no Alipay app required. Worth still setting up **WeChat Pay** as a fallback, since some small vendors display only a WeChat code. Straight contactless tap is unreliable outside major hotels and malls.
 
 **Backup options (and for anyone travelling without a Wise account):**
-
 - **Cambodia:** Bakong Tourist App - free at point of use, loads from any international Visa/Mastercard, no local bank account needed.
 - **Philippines:** GCash GTourist account - designed for short-term visitors without a Philippine mobile number.
 - **Mainland China:** Alipay and WeChat Pay both accept linked foreign Visa/Mastercard after passport verification. Under ¥200 per transaction is fee-free; 3% above that.
@@ -486,7 +454,6 @@ _Base method: **Wise** account with linked Visa card (UK Wise cards are issued o
 - **Moreta Pay** also covers Cambodia, Malaysia, the Philippines, mainland China and South Korea - one KYC as a universal QR fallback, though at 1.5% per payment it's dearer than the alternatives above.
 
 **General tips:**
-
 - Set up and verify any apps on home wifi before departure - passport verification is far easier done in advance than at an airport with patchy signal.
 - Make a small test payment on day one in Kuala Lumpur to confirm your setup works before relying on it later in the trip.
 - Carry a modest cash reserve throughout - traditional markets, street food and rural vendors remain cash-only in several countries.
@@ -496,14 +463,12 @@ _Base method: **Wise** account with linked Visa card (UK Wise cards are issued o
 ## Travel Notes
 
 ### Transportation
-
 - **Flights:** 8 international flights, 2 domestic flights scheduled
 - **Trains:** Extensive rail travel in Vietnam, China, and Japan
 - **Ferry & Private Transport:** Mekong Delta journey from Cambodia to Vietnam
 - **Cruise:** Ha Long Bay overnight experience
 
 ### Practical Tips
-
 - **Currency:** Multiple currencies across 9 countries/regions
 - **Language:** English less common in China; more widely spoken in Malaysia, Hong Kong, Taiwan, Philippines, Cambodia, South Korea (major cities), and urban areas of Japan
 - **Accommodation:** Mix of hotels, traditional stays, and cruise ship
