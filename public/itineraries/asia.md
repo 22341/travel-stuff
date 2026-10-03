@@ -351,17 +351,18 @@
 |------|-------|-------------|----------:|:---:|
 | Tue 16 Feb 2027 | Chau Doc → Can Tho | 3 hours | £35 | |
 | Wed 17 Feb 2027 | Can Tho → Ho Chi Minh City | 4 hours | £40 | |
-| Fri 26 Feb 2027 | Da Nang → Hue | 3 hours | £30 | |
-| Sat 27 Feb 2027 | Annam Tour (Guided by Mr. Vu) | Full day | £65 | |
-| **Total** | | | **£170** | |
+| Sun 21 Feb 2027 | Da Nang Airport → Hoi An | 45 mins | £4 | |
+| Fri 26 Feb 2027 | Da Nang → Hue | 4-5 hours | £16 | |
+| Sun 28 Feb 2027 | Annam Tour (Guided by Mr. Vu) | 7 hours | £45 | |
+| **Total** | | | **£140** | |
 
 ### Boats
-| Route | Duration | Cost (GBP) | Bkd |
-|-------|----------|----------:|:---:|
-| Hang Chau Ferry (Phnom Penh → Chau Doc) | 6 hours | £45 | |
-| Ha Long Bay Cruise | 1 night | £250 | |
-| Explore Vietnam – Private Imperial River Tour | Half day | £55 | |
-| **Total** | | **£350** | |
+| Date | Route | Duration | Cost (GBP) | Bkd |
+|------|-------|----------|----------:|:---:|
+| Mon 15 Feb 2027 | Hang Chau Ferry (Phnom Penh → Chau Doc) | 6 hours | £45 | |
+| Sat 27 Feb 2027 | Explore Vietnam – Private Imperial River Tour | Half day | £45 | |
+| Thu 4 Mar 2027 | Ha Long Bay Cruise | 1 night | £250 | |
+| **Total** | | | **£340** | |
 
 ---
 
@@ -384,30 +385,30 @@
 |----------|----------------:|
 | Flights | £2,171 |
 | Train Travel | £1,027 |
-| Private Cars | £170 |
-| Boats | £350 |
-| **Total Transportation** | **£3,718** |
+| Private Cars | £140 |
+| Boats | £340 |
+| **Total Transportation** | **£3,678** |
 
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|--------:|
 | Accommodation | £3,879 |
-| Transportation | £3,718 |
-| **Trip Total** | **£7,597** |
+| Transportation | £3,678 |
+| **Trip Total** | **£7,557** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
 - **Activities & Attractions:** £15/day = £1,140 total
 - **Visas:** £37 total (Cambodia e-Visa + South Korea K-ETA)
 - **Travel Insurance:** £239 total (Holiday Extras)
-- **Airalo Asia eSIM:** £85 total
+- **Airalo Asia eSIM:** £55 total
 - **Shopping & Souvenirs:** £300 total
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,597  
-**Additional Expenses:** £6,361 total  
-**Total Trip Budget:** £13,958
+**Core Costs (Accommodation + Transportation):** £7,557  
+**Additional Expenses:** £6,331 total  
+**Total Trip Budget:** £13,888
 
 ---
 
