@@ -114,7 +114,7 @@
 
 ### Manila
 - **Manila:** 3 nights *Arrive: Thu 11 Mar 2027*
-  - ***Booked hotel:*** [Royal Bellagio Hotel](https://www.booking.com/hotel/ph/royal-bellagio.html) - £34/night
+  - ***Booked hotel:*** [The Belamy House Managed by HII](https://www.booking.com/hotel/ph/the-belamy-house.html) - £36/night
   - Intramuros historic walled city
   - Rizal Park and Fort Santiago
   - Manila Cathedral and San Agustin Church
@@ -373,11 +373,11 @@
 | London | 2 | £96 | £192 |
 | Southeast Asia | 25 | £36 | £899 |
 | Taiwan | 5 | £64 | £320 |
-| Philippines | 6 | £30 | £180 |
+| Philippines | 6 | £31 | £186 |
 | Japan | 15 | £51 | £771 |
 | South Korea | 4 | £73 | £292 |
 | Greater China | 17 | £72 | £1,219 |
-| **Total Accommodation** | **74** | **£52** | **£3,873** |
+| **Total Accommodation** | **74** | **£52** | **£3,879** |
 
 ### Transportation
 | Category | Approximate Cost |
@@ -391,9 +391,9 @@
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|--------:|
-| Accommodation | £3,873 |
+| Accommodation | £3,879 |
 | Transportation | £3,718 |
-| **Trip Total** | **£7,591** |
+| **Trip Total** | **£7,597** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -405,9 +405,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,591  
+**Core Costs (Accommodation + Transportation):** £7,597  
 **Additional Expenses:** £6,361 total  
-**Total Trip Budget:** £13,952
+**Total Trip Budget:** £13,958
 
 ---
 
