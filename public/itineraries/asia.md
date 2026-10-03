@@ -399,7 +399,7 @@
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
 - **Activities & Attractions:** £15/day = £1,140 total
-- **Visas:** £37 total (Cambodia e-Visa + South Korea K-ETA)
+- **Visas:** £36 total (Cambodia e-Visa + South Korea K-ETA)
 - **Travel Insurance:** £239 total (Holiday Extras)
 - **Airalo Asia eSIM:** £55 total
 - **Shopping & Souvenirs:** £300 total
@@ -407,8 +407,8 @@
 
 ### Complete Trip Budget
 **Core Costs (Accommodation + Transportation):** £7,557  
-**Additional Expenses:** £6,331 total  
-**Total Trip Budget:** £13,888
+**Additional Expenses:** £6,330 total  
+**Total Trip Budget:** £13,887
 
 ---
 
@@ -424,7 +424,7 @@
 | Japan | 90 Days | Standard entry; may be asked for proof of onward travel. |
 | South Korea | 90 Days | [K-ETA (Korea Electronic Travel Authorization)](https://www.k-eta.go.kr) required - the temporary exemption for UK citizens expires 31 December 2026, so K-ETA is mandatory for your April 2027 visit. Apply online before travel (approx. £6, valid 3 years). |
 | Hong Kong | 180 Days | Standard entry. |
-| China | 30 Days (visa-free for UK citizens) | **NEW as of January 2026:** UK citizens can enter visa-free for tourism, business, or family visits for up to 30 days. Policy valid until 31 December 2026. You must still complete an arrival card and register with local police within 24 hours (hotels do this automatically). **Your 17-night stay does not require a visa.** |
+| China | 30 Days (visa-free for UK citizens) | **NEW as of January 2026:** UK citizens can enter visa-free for tourism, business, or family visits for up to 30 days. Policy valid until 31 December 2026. You must still complete an arrival card and register with local police within 24 hours (hotels do this automatically). Your mainland stay is 13 nights (Guilin, Chengdu, Xi'an, Beijing), well within the 30-day limit. **⚠️ Your arrival (Fri 9 Apr 2027) is after the policy's current end date - check that it has been extended before travel; if not, a visa will be needed.** |
 
 **Important Notes:**
 - Ensure your passport is valid for at least 6 months beyond your intended stay
