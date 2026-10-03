@@ -61,7 +61,7 @@
   - Taste Vietnam morning cooking class
 
 - **Da Nang:** 3 nights (by taxi) *Arrive: Tue 23 Feb 2027*
-  - ***Booked hotel:*** [Coral Cove Hotel](https://www.booking.com/hotel/vn/coral-cove.html) - £26/night
+  - ***Booked hotel:*** [Estrella Boutique Hotel](https://www.booking.com/hotel/vn/estrella-boutique.html) - £36/night
   - Marble Mountains and Buddhist caves
   - Dragon Bridge and Han River waterfront
   - My Khe Beach
@@ -371,13 +371,13 @@
 | Region | Nights | Average Cost/Night | Total Cost |
 |--------|-------:|------------------:|----------:|
 | London | 2 | £96 | £192 |
-| Southeast Asia | 25 | £35 | £869 |
+| Southeast Asia | 25 | £36 | £899 |
 | Taiwan | 5 | £64 | £320 |
 | Philippines | 6 | £30 | £180 |
 | Japan | 15 | £51 | £771 |
 | South Korea | 4 | £73 | £292 |
 | Greater China | 17 | £72 | £1,219 |
-| **Total Accommodation** | **74** | **£52** | **£3,843** |
+| **Total Accommodation** | **74** | **£52** | **£3,873** |
 
 ### Transportation
 | Category | Approximate Cost |
@@ -391,9 +391,9 @@
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|--------:|
-| Accommodation | £3,843 |
+| Accommodation | £3,873 |
 | Transportation | £3,718 |
-| **Trip Total** | **£7,561** |
+| **Trip Total** | **£7,591** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -405,9 +405,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,561  
+**Core Costs (Accommodation + Transportation):** £7,591  
 **Additional Expenses:** £6,361 total  
-**Total Trip Budget:** £13,922
+**Total Trip Budget:** £13,952
 
 ---
 
