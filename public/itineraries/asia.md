@@ -332,7 +332,7 @@
 | Date | Route | Travel Time | Cost | Bkd |
 |------|-------|-------------|----------:|:---:|
 | Sat 6 Feb | Leeds → London | 2.5 hours | £30 | |
-| Sun 28 Feb | Hue → Hanoi (overnight) | 14-15 hours | £245 | ✅ |
+| Sun 28 Feb | Hue → Hanoi (overnight) | 20:35, 14-15 hours | £245 | ✅ |
 | Sat 20 Mar | Tokyo → Okayama | 3.5 hours | £119 | |
 | Mon 22 Mar | Okayama → Fukuoka | 2 hours | £96 | |
 | Thu 25 Mar | Fukuoka → Himeji | 2 hours | £105 | |
