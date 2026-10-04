@@ -363,7 +363,7 @@
 | Mon 15 Feb | Hang Chau Ferry (Phnom Penh → Chau Doc) | 6 hours | £45 | |
 | Wed 17 Feb | Floating market boat trip | 05:30, 4 hours | £16 | ✅ |
 | Sat 27 Feb | Explore Vietnam – Private Imperial River Tour | 12:30, Half day | £45 | ✅ |
-| Thu 4 Mar | Ha Long Bay Cruise | 1 night | £200 | ✅ |
+| Thu 4 Mar | Ha Long Bay Cruise | 08:00, 1 night | £200 | ✅ |
 | **Total** | | | **£306** | |
 
 ---
