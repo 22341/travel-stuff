@@ -314,7 +314,7 @@
 ## Transportation Schedule
 
 ### Flights
-| Date | Route | Travel Time | Cost (GBP) | Bkd |
+| Date | Route | Travel Time | Cost | Bkd |
 |------|-------|-------------|----------:|:---:|
 | Sun 7 Feb 2027 | London → Kuala Lumpur | 10:25, 13 hrs | £556 | ✅ |
 | Thu 11 Feb 2027 | Kuala Lumpur → Phnom Penh | 09:00, 2 hrs | £57 | ✅ |
@@ -329,7 +329,7 @@
 | **Total** | | | **£2,171** | |
 
 ### Trains
-| Date | Route | Travel Time | Cost (GBP) | Bkd |
+| Date | Route | Travel Time | Cost | Bkd |
 |------|-------|-------------|----------:|:---:|
 | Sat 6 Feb 2027 | Leeds → London | 2.5 hours | £30 | |
 | Sun 28 Feb 2027 | Hue → Hanoi (overnight) | 14-15 hours | £200 | |
@@ -347,22 +347,23 @@
 | **Total** | | | **£1,027** | |
 
 ### Private Cars
-| Date | Route | Travel Time | Cost (GBP) | Bkd |
+| Date | Route | Travel Time | Cost | Bkd |
 |------|-------|-------------|----------:|:---:|
 | Tue 16 Feb 2027 | Chau Doc → Can Tho | 3 hours | £35 | |
-| Wed 17 Feb 2027 | Can Tho → Ho Chi Minh City | 4 hours | £40 | |
+| Wed 17 Feb 2027 | Can Tho → Ho Chi Minh City | 4 hours | £25 | |
 | Sun 21 Feb 2027 | Da Nang Airport → Hoi An | 45 mins | £4 | |
 | Fri 26 Feb 2027 | Da Nang → Hue | 4-5 hours | £16 | |
 | Sun 28 Feb 2027 | Annam Tour (Guided by Mr. Vu) | 7 hours | £45 | |
-| **Total** | | | **£140** | |
+| **Total** | | | **£125** | |
 
 ### Boats
-| Date | Route | Duration | Cost (GBP) | Bkd |
+| Date | Route | Duration | Cost | Bkd |
 |------|-------|----------|----------:|:---:|
 | Mon 15 Feb 2027 | Hang Chau Ferry (Phnom Penh → Chau Doc) | 6 hours | £45 | |
+| Wed 17 Feb 2027 | Floating market boat trip | 4 hours | £16 | |
 | Sat 27 Feb 2027 | Explore Vietnam – Private Imperial River Tour | Half day | £45 | |
 | Thu 4 Mar 2027 | Ha Long Bay Cruise | 1 night | £250 | |
-| **Total** | | | **£340** | |
+| **Total** | | | **£356** | |
 
 ---
 
@@ -385,16 +386,16 @@
 |----------|----------------:|
 | Flights | £2,171 |
 | Train Travel | £1,027 |
-| Private Cars | £140 |
-| Boats | £340 |
-| **Total Transportation** | **£3,678** |
+| Private Cars | £125 |
+| Boats | £356 |
+| **Total Transportation** | **£3,679** |
 
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|--------:|
 | Accommodation | £3,879 |
-| Transportation | £3,678 |
-| **Trip Total** | **£7,557** |
+| Transportation | £3,679 |
+| **Trip Total** | **£7,558** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -406,9 +407,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,557  
+**Core Costs (Accommodation + Transportation):** £7,558  
 **Additional Expenses:** £6,330 total  
-**Total Trip Budget:** £13,887
+**Total Trip Budget:** £13,888
 
 ---
 
