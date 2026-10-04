@@ -360,11 +360,11 @@
 ### Boats
 | Date | Route | Duration | Cost | Bkd |
 |------|-------|----------|----------:|:---:|
-| Mon 15 Feb | Hang Chau Ferry (Phnom Penh → Chau Doc) | 6 hours | £45 | |
+| Mon 15 Feb | Hang Chau Ferry (Phnom Penh → Chau Doc) | 12:30, 6 hours | £46 | ✅ |
 | Wed 17 Feb | Floating market boat trip | 05:30, 4 hours | £16 | ✅ |
 | Sat 27 Feb | Explore Vietnam – Private Imperial River Tour | 12:30, Half day | £45 | ✅ |
 | Thu 4 Mar | Ha Long Bay Cruise | 08:00, 1 night | £200 | ✅ |
-| **Total** | | | **£306** | |
+| **Total** | | | **£307** | |
 
 ---
 
@@ -388,15 +388,15 @@
 | Flights | £2,171 |
 | Train Travel | £1,072 |
 | Private Cars | £114 |
-| Boats | £306 |
-| **Total Transportation** | **£3,663** |
+| Boats | £307 |
+| **Total Transportation** | **£3,664** |
 
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|--------:|
 | Accommodation | £3,885 |
-| Transportation | £3,663 |
-| **Trip Total** | **£7,548** |
+| Transportation | £3,664 |
+| **Trip Total** | **£7,549** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -408,9 +408,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,548  
+**Core Costs (Accommodation + Transportation):** £7,549  
 **Additional Expenses:** £6,330 total  
-**Total Trip Budget:** £13,878
+**Total Trip Budget:** £13,879
 
 ---
 
@@ -433,7 +433,6 @@
 - Keep proof of onward travel (flight bookings) readily available
 - Complete all online arrival cards and registrations before travel
 - Visa requirements can change; verify all details closer to departure date
-- **Phnom Penh → Chau Doc ferry:** this land/river border crossing may have different visa requirements or processing than air entry points - check whether a Vietnam entry visa or additional documentation is needed for this specific crossing before travel
 - Download **Naver Map** before arriving in South Korea and **Amap (高德地图)** and **Dianping (大众点评)** before arriving in China for reliable navigation
 
 ## Digital Payments
