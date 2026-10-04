@@ -21,7 +21,7 @@
 
 ### Malaysia
 - **Kuala Lumpur:** 3 nights *Arrive: Mon 8 Feb 2027*
-  - ***Booked hotel:*** [Verdant Hill Hotel Kuala Lumpur](https://www.booking.com/hotel/my/verdant-hill-kuala-lumpur.en-gb.html) - £51/night
+  - ***Booked hotel:*** [Verdant Hill Hotel Kuala Lumpur](https://www.booking.com/hotel/my/verdant-hill-kuala-lumpur.en-gb.html) - £53/night
   - Explore Petronas Towers, Batu Caves
   - Street food tours in Chinatown and Little India
   - Visit Islamic Arts Museum
@@ -55,12 +55,12 @@
   - Hầm Vũ Khí Bí Mật Secret Weapon Cellar
   - Cholon (Binh Tay Market, Thien Hau Pagoda, Hao Sy Phuong)
 
-- **Hoi An:** 2 nights (by flight) *Arrive: Sun 21 Feb 2027*
+- **Hoi An:** 2 nights (by flight and private car) *Arrive: Sun 21 Feb 2027*
   - ***Booked hotel:*** [Little Town Villa](https://www.booking.com/hotel/vn/little-town-villa.html) - £32/night
   - Ancient Town UNESCO site
   - Taste Vietnam morning cooking class
 
-- **Da Nang:** 3 nights (by taxi) *Arrive: Tue 23 Feb 2027*
+- **Da Nang:** 3 nights (by private car) *Arrive: Tue 23 Feb 2027*
   - ***Booked hotel:*** [Estrella Boutique Hotel](https://www.booking.com/hotel/vn/estrella-boutique.html) - £36/night
   - Marble Mountains and Buddhist caves
   - Dragon Bridge and Han River waterfront
@@ -83,7 +83,7 @@
 
 - **Hanoi:** 5 nights *Arrive: Mon 1 Mar 2027*
   - ***Booked hotel:*** [Centre Point Hanoi Hotel](https://www.booking.com/hotel/vn/centre-point-hanoi.html) - £42/night
-  - *Ha Long Bay cruise: Victory Star Cruise or Dragon Pearl Junk*
+  - *Ha Long Bay cruise: Dragon Pearl Junk*
   - Old Quarter exploration
   - Temple of Literature, Hoan Kiem Lake
   - Street food evening walking tour
@@ -332,7 +332,7 @@
 | Date | Route | Travel Time | Cost | Bkd |
 |------|-------|-------------|----------:|:---:|
 | Sat 6 Feb | Leeds → London | 2.5 hours | £30 | |
-| Sun 28 Feb | Hue → Hanoi (overnight) | 14-15 hours | £200 | |
+| Sun 28 Feb | Hue → Hanoi (overnight) | 14-15 hours | £245 | ✅ |
 | Sat 20 Mar | Tokyo → Okayama | 3.5 hours | £119 | |
 | Mon 22 Mar | Okayama → Fukuoka | 2 hours | £96 | |
 | Thu 25 Mar | Fukuoka → Himeji | 2 hours | £105 | |
@@ -344,26 +344,27 @@
 | Fri 16 Apr | Chengdu → Xi'an | 4 hours | £35 | |
 | Sun 18 Apr | Xi'an → Beijing | 4.5 hours | £60 | |
 | Fri 23 Apr | London → Leeds | 2.5 hours | £30 | |
-| **Total** | | | **£1,027** | |
+| **Total** | | | **£1,072** | |
 
 ### Private Cars
 | Date | Route | Travel Time | Cost | Bkd |
 |------|-------|-------------|----------:|:---:|
-| Tue 16 Feb | Chau Doc → Can Tho | 3 hours | £35 | |
+| Tue 16 Feb | Chau Doc → Can Tho | 3 hours | £20 | |
 | Wed 17 Feb | Can Tho → Ho Chi Minh City | 4 hours | £25 | |
-| Sun 21 Feb | Da Nang Airport → Hoi An | 45 mins | £4 | |
+| Sun 21 Feb | Da Nang Airport → Hoi An | 11:15, 45 mins | £4 | ✅ |
+| Tue 23 Feb | Hoi An → Da Nang | 45 mins | £4 | |
 | Fri 26 Feb | Da Nang → Hue | 10:00, 4-5 hours | £16 | ✅ |
-| Sun 28 Feb | Annam Tour (Guided by Mr. Vu) | 7 hours | £45 | |
-| **Total** | | | **£125** | |
+| Sun 28 Feb | Annam Tour (Guided by Mr. Vu) | 09:30, 7 hours | £45 | ✅ |
+| **Total** | | | **£114** | |
 
 ### Boats
 | Date | Route | Duration | Cost | Bkd |
 |------|-------|----------|----------:|:---:|
 | Mon 15 Feb | Hang Chau Ferry (Phnom Penh → Chau Doc) | 6 hours | £45 | |
-| Wed 17 Feb | Floating market boat trip | 4 hours | £16 | |
-| Sat 27 Feb | Explore Vietnam – Private Imperial River Tour | Half day | £45 | |
-| Thu 4 Mar | Ha Long Bay Cruise | 1 night | £250 | |
-| **Total** | | | **£356** | |
+| Wed 17 Feb | Floating market boat trip | 05:30, 4 hours | £16 | ✅ |
+| Sat 27 Feb | Explore Vietnam – Private Imperial River Tour | 12:30, Half day | £45 | ✅ |
+| Thu 4 Mar | Ha Long Bay Cruise | 1 night | £200 | ✅ |
+| **Total** | | | **£306** | |
 
 ---
 
@@ -373,29 +374,29 @@
 | Region | Nights | Average Cost/Night | Total Cost |
 |--------|-------:|------------------:|----------:|
 | London | 2 | £96 | £192 |
-| Southeast Asia | 25 | £36 | £899 |
+| Southeast Asia | 25 | £36 | £905 |
 | Taiwan | 5 | £64 | £320 |
 | Philippines | 6 | £31 | £186 |
 | Japan | 15 | £51 | £771 |
 | South Korea | 4 | £73 | £292 |
 | Greater China | 17 | £72 | £1,219 |
-| **Total Accommodation** | **74** | **£52** | **£3,879** |
+| **Total Accommodation** | **74** | **£53** | **£3,885** |
 
 ### Transportation
 | Category | Approximate Cost |
 |----------|----------------:|
 | Flights | £2,171 |
-| Train Travel | £1,027 |
-| Private Cars | £125 |
-| Boats | £356 |
-| **Total Transportation** | **£3,679** |
+| Train Travel | £1,072 |
+| Private Cars | £114 |
+| Boats | £306 |
+| **Total Transportation** | **£3,663** |
 
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|--------:|
-| Accommodation | £3,879 |
-| Transportation | £3,679 |
-| **Trip Total** | **£7,558** |
+| Accommodation | £3,885 |
+| Transportation | £3,663 |
+| **Trip Total** | **£7,548** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -407,9 +408,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,558  
+**Core Costs (Accommodation + Transportation):** £7,548  
 **Additional Expenses:** £6,330 total  
-**Total Trip Budget:** £13,888
+**Total Trip Budget:** £13,878
 
 ---
 
