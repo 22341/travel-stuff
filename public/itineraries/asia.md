@@ -316,53 +316,53 @@
 ### Flights
 | Date | Route | Travel Time | Cost | Bkd |
 |------|-------|-------------|----------:|:---:|
-| Sun 7 Feb 2027 | London → Kuala Lumpur | 10:25, 13 hrs | £556 | ✅ |
-| Thu 11 Feb 2027 | Kuala Lumpur → Phnom Penh | 09:00, 2 hrs | £57 | ✅ |
-| Sun 21 Feb 2027 | Ho Chi Minh City → Da Nang | 09:05, 1.5 hrs | £78 | ✅ |
-| Sat 6 Mar 2027 | Hanoi → Taipei | 07:35, 3 hrs | £159 | ✅ |
-| Thu 11 Mar 2027 | Taipei → Manila | 09:45, 2.5 hrs | £96 | ✅ |
-| Sun 14 Mar 2027 | Manila → Cebu | 09:15, 1.5 hrs | £37 | ✅ |
-| Wed 17 Mar 2027 | Cebu → Tokyo | 08:05, 4.5 hrs | £182 | ✅ |
-| Thu 1 Apr 2027 | Tokyo → Seoul | 12:50, 2.5 hrs | £148 | ✅ |
-| Mon 5 Apr 2027 | Seoul → Hong Kong | 13:25, 3.5 hrs | £216 | ✅ |
-| Thu 22 Apr 2027 | Beijing → London | 13:35, 11 hrs | £642 | ✅ |
+| Sun 7 Feb | London → Kuala Lumpur | 10:25, 13 hrs | £556 | ✅ |
+| Thu 11 Feb | Kuala Lumpur → Phnom Penh | 09:00, 2 hrs | £57 | ✅ |
+| Sun 21 Feb | Ho Chi Minh City → Da Nang | 09:05, 1.5 hrs | £78 | ✅ |
+| Sat 6 Mar | Hanoi → Taipei | 07:35, 3 hrs | £159 | ✅ |
+| Thu 11 Mar | Taipei → Manila | 09:45, 2.5 hrs | £96 | ✅ |
+| Sun 14 Mar | Manila → Cebu | 09:15, 1.5 hrs | £37 | ✅ |
+| Wed 17 Mar | Cebu → Tokyo | 08:05, 4.5 hrs | £182 | ✅ |
+| Thu 1 Apr | Tokyo → Seoul | 12:50, 2.5 hrs | £148 | ✅ |
+| Mon 5 Apr | Seoul → Hong Kong | 13:25, 3.5 hrs | £216 | ✅ |
+| Thu 22 Apr | Beijing → London | 13:35, 11 hrs | £642 | ✅ |
 | **Total** | | | **£2,171** | |
 
 ### Trains
 | Date | Route | Travel Time | Cost | Bkd |
 |------|-------|-------------|----------:|:---:|
-| Sat 6 Feb 2027 | Leeds → London | 2.5 hours | £30 | |
-| Sun 28 Feb 2027 | Hue → Hanoi (overnight) | 14-15 hours | £200 | |
-| Sat 20 Mar 2027 | Tokyo → Okayama | 3.5 hours | £119 | |
-| Mon 22 Mar 2027 | Okayama → Fukuoka | 2 hours | £96 | |
-| Thu 25 Mar 2027 | Fukuoka → Himeji | 2 hours | £105 | |
-| Sat 27 Mar 2027 | Himeji → Kobe | 40 mins | £6 | |
-| Mon 29 Mar 2027 | Kobe → Kanazawa | 3 hours | £123 | |
-| Wed 31 Mar 2027 | Kanazawa → Tokyo | 3 hours | £123 | |
-| Fri 9 Apr 2027 | Hong Kong → Guilin | 3.5 hours | £50 | |
-| Mon 12 Apr 2027 | Guilin → Chengdu | 5.5 hours | £50 | |
-| Fri 16 Apr 2027 | Chengdu → Xi'an | 4 hours | £35 | |
-| Sun 18 Apr 2027 | Xi'an → Beijing | 4.5 hours | £60 | |
-| Fri 23 Apr 2027 | London → Leeds | 2.5 hours | £30 | |
+| Sat 6 Feb | Leeds → London | 2.5 hours | £30 | |
+| Sun 28 Feb | Hue → Hanoi (overnight) | 14-15 hours | £200 | |
+| Sat 20 Mar | Tokyo → Okayama | 3.5 hours | £119 | |
+| Mon 22 Mar | Okayama → Fukuoka | 2 hours | £96 | |
+| Thu 25 Mar | Fukuoka → Himeji | 2 hours | £105 | |
+| Sat 27 Mar | Himeji → Kobe | 40 mins | £6 | |
+| Mon 29 Mar | Kobe → Kanazawa | 3 hours | £123 | |
+| Wed 31 Mar | Kanazawa → Tokyo | 3 hours | £123 | |
+| Fri 9 Apr | Hong Kong → Guilin | 3.5 hours | £50 | |
+| Mon 12 Apr | Guilin → Chengdu | 5.5 hours | £50 | |
+| Fri 16 Apr | Chengdu → Xi'an | 4 hours | £35 | |
+| Sun 18 Apr | Xi'an → Beijing | 4.5 hours | £60 | |
+| Fri 23 Apr | London → Leeds | 2.5 hours | £30 | |
 | **Total** | | | **£1,027** | |
 
 ### Private Cars
 | Date | Route | Travel Time | Cost | Bkd |
 |------|-------|-------------|----------:|:---:|
-| Tue 16 Feb 2027 | Chau Doc → Can Tho | 3 hours | £35 | |
-| Wed 17 Feb 2027 | Can Tho → Ho Chi Minh City | 4 hours | £25 | |
-| Sun 21 Feb 2027 | Da Nang Airport → Hoi An | 45 mins | £4 | |
-| Fri 26 Feb 2027 | Da Nang → Hue | 4-5 hours | £16 | |
-| Sun 28 Feb 2027 | Annam Tour (Guided by Mr. Vu) | 7 hours | £45 | |
+| Tue 16 Feb | Chau Doc → Can Tho | 3 hours | £35 | |
+| Wed 17 Feb | Can Tho → Ho Chi Minh City | 4 hours | £25 | |
+| Sun 21 Feb | Da Nang Airport → Hoi An | 45 mins | £4 | |
+| Fri 26 Feb | Da Nang → Hue | 10:00, 4-5 hours | £16 | ✅ |
+| Sun 28 Feb | Annam Tour (Guided by Mr. Vu) | 7 hours | £45 | |
 | **Total** | | | **£125** | |
 
 ### Boats
 | Date | Route | Duration | Cost | Bkd |
 |------|-------|----------|----------:|:---:|
-| Mon 15 Feb 2027 | Hang Chau Ferry (Phnom Penh → Chau Doc) | 6 hours | £45 | |
-| Wed 17 Feb 2027 | Floating market boat trip | 4 hours | £16 | |
-| Sat 27 Feb 2027 | Explore Vietnam – Private Imperial River Tour | Half day | £45 | |
-| Thu 4 Mar 2027 | Ha Long Bay Cruise | 1 night | £250 | |
+| Mon 15 Feb | Hang Chau Ferry (Phnom Penh → Chau Doc) | 6 hours | £45 | |
+| Wed 17 Feb | Floating market boat trip | 4 hours | £16 | |
+| Sat 27 Feb | Explore Vietnam – Private Imperial River Tour | Half day | £45 | |
+| Thu 4 Mar | Ha Long Bay Cruise | 1 night | £250 | |
 | **Total** | | | **£356** | |
 
 ---
