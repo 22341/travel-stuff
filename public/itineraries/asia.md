@@ -28,7 +28,7 @@
 
 ### Cambodia
 - **Phnom Penh:** 4 nights *Arrive: Thu 11 Feb 2027*
-  - ***Booked hotel:*** [ARISON Hotel](https://www.booking.com/hotel/kh/arison.html) - £26/night
+  - ***Booked hotel:*** [ARISON Hotel](https://www.booking.com/hotel/kh/arison.html) - £41/night
   - Royal Palace and Silver Pagoda
   - Tuol Sleng Genocide Museum and Killing Fields
   - Central Market and riverside promenade
@@ -374,13 +374,13 @@
 | Region | Nights | Average Cost/Night | Total Cost |
 |--------|-------:|------------------:|----------:|
 | London | 2 | £96 | £192 |
-| Southeast Asia | 25 | £36 | £905 |
+| Southeast Asia | 25 | £39 | £965 |
 | Taiwan | 5 | £64 | £320 |
 | Philippines | 6 | £31 | £186 |
 | Japan | 15 | £51 | £771 |
 | South Korea | 4 | £73 | £292 |
 | Greater China | 17 | £72 | £1,219 |
-| **Total Accommodation** | **74** | **£53** | **£3,885** |
+| **Total Accommodation** | **74** | **£53** | **£3,945** |
 
 ### Transportation
 | Category | Approximate Cost |
@@ -394,9 +394,9 @@
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|--------:|
-| Accommodation | £3,885 |
+| Accommodation | £3,945 |
 | Transportation | £3,664 |
-| **Trip Total** | **£7,549** |
+| **Trip Total** | **£7,609** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -408,9 +408,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,549  
+**Core Costs (Accommodation + Transportation):** £7,609  
 **Additional Expenses:** £6,330 total  
-**Total Trip Budget:** £13,879
+**Total Trip Budget:** £13,939
 
 ---
 
