@@ -354,7 +354,7 @@
 | Sun 21 Feb | Da Nang Airport → Hoi An | 11:15, 45 mins | £4 | ✅ |
 | Tue 23 Feb | Hoi An → Da Nang | 45 mins | £4 | |
 | Fri 26 Feb | Da Nang → Hue | 10:00, 4-5 hours | £16 | ✅ |
-| Sun 28 Feb | Annam Tour (Guided by Mr. Vu) | 09:30, 7 hours | £45 | ✅ |
+| Sun 28 Feb | Annam Tour (Guided by Mr. Vu) | 09:00, 7 hours | £45 | ✅ |
 | **Total** | | | **£114** | |
 
 ### Boats
