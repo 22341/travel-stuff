@@ -223,7 +223,7 @@
 
 ### Mainland China
 - **Guilin:** 3 nights (by train) *Arrive: Fri 9 Apr 2027*
-  - ***Booked hotel:*** [Wing Hotel Guilin, Central Square](https://www.booking.com/searchresults.html?ss=Wing+Hotel+Guilin+Central+Square) - £43/night
+  - ***Booked hotel:*** [O-LIVE Social Hotel Downtown](https://www.booking.com/hotel/cn/gui-lin-di-zhong-hai-jiu-dian.en-gb.html) - £48/night
   - Li River cruise to Yangshuo
   - Reed Flute Cave and Elephant Trunk Hill
   - Longji Rice Terraces day trip
@@ -231,7 +231,7 @@
   - West Street night market
 
 - **Chengdu:** 4 nights (by train) *Arrive: Mon 12 Apr 2027*
-  - ***Booked hotel:*** [Echeng Hotel Chengdu Chunxi Road Taikoo Li](https://www.booking.com/hotel/cn/yi-cheng-jiu-dian-cheng-du-chun-xi-lu-tai-gu-li-dian.html) - £44/night
+  - ***Booked hotel:*** [CYBO Station SSAW Hotel Chunxi Road Tianfu Square](https://www.booking.com/hotel/cn/cheng-du-tian-fu-yan-chang-chun-xi-lu-jun-ting-shang-pin-jiu-dian.en-gb.html) - £33/night
   - Giant Panda Breeding Research Base
   - Wuhou Shrine and Jinli Ancient Street
   - Sichuan hot pot and spicy cuisine
@@ -240,14 +240,14 @@
   - Day trip to Chongqing (optional)
 
 - **Xi'an:** 2 nights (by train) *Arrive: Fri 16 Apr 2027*
-  - ***Booked hotel:*** [CitiGO Hotel, South Gate of Xi'an Bell Tower](https://www.booking.com/searchresults.html?ss=CitiGO+Hotel+Xian+Bell+Tower) - £45/night
+  - ***Booked hotel:*** [Xi'an Dajing Castle Hotel](https://www.booking.com/hotel/cn/grand-park-xian.html) - £55/night
   - Terracotta Army day trip
   - Ancient City Wall walk
   - Muslim Quarter food tour
   - Shaanxi History Museum
 
 - **Beijing:** 4 nights (by train) *Arrive: Sun 18 Apr 2027*
-  - ***Booked hotel:*** [Holiday Inn Express Beijing Dongzhimen by IHG](https://www.booking.com/hotel/cn/holiday-inn-express-beijing-dongzhimen.html) - £68/night
+  - ***Booked hotel:*** [Happy Dragon Alley Hotel Beijing Tian An Men Forbidden City](https://www.booking.com/hotel/cn/dragon-house.html) - £66/night
   - Great Wall of China (Mutianyu section)
   - Forbidden City and Tiananmen Square
   - Temple of Heaven and hutong tours
@@ -379,8 +379,8 @@
 | Philippines | 6 | £31 | £186 |
 | Japan | 15 | £51 | £771 |
 | South Korea | 4 | £73 | £292 |
-| Greater China | 17 | £72 | £1,219 |
-| **Total Accommodation** | **74** | **£54** | **£3,987** |
+| Greater China | 17 | £71 | £1,202 |
+| **Total Accommodation** | **74** | **£54** | **£3,970** |
 
 ### Transportation
 | Category | Approximate Cost |
@@ -394,9 +394,9 @@
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|--------:|
-| Accommodation | £3,987 |
+| Accommodation | £3,970 |
 | Transportation | £3,664 |
-| **Trip Total** | **£7,651** |
+| **Trip Total** | **£7,634** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -408,9 +408,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,651  
+**Core Costs (Accommodation + Transportation):** £7,634  
 **Additional Expenses:** £6,330 total  
-**Total Trip Budget:** £13,981
+**Total Trip Budget:** £13,964
 
 ---
 
