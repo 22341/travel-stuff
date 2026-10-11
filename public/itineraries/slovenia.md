@@ -25,45 +25,75 @@ An early start this morning with a 6:10am flight from Manchester Airport to Ljub
 
 **Accommodation:** [ibis Styles Ljubljana Centre](https://www.booking.com/hotel/si/garni.html) - €65/night (£56) - 4 nights
 
----
-
-## Days 2-5: Tuesday 3rd - Friday 6th November 2026
-
-### Exploring Ljubljana and Beyond
-
-Over the next few days, immerse yourself in Ljubljana's unique charm and explore some of Slovenia's most spectacular attractions.
-
 ### Ljubljana City Highlights
+
+These can be spread across Tuesday afternoon and Wednesday afternoon.
+
+**BOOKED:** 2-hour Ljubljana walking tour. A good way to get your bearings early, and it will cover many of the Old Town sights below.
 
 Start with a visit to Ljubljana Castle, perched dramatically on a hill overlooking the city. Take the funicular railway up to enjoy panoramic views across the terracotta rooftops to the Julian Alps beyond. The castle itself dates back to the 11th century and houses exhibitions on Slovenian history.
 
-Wander through the atmospheric Old Town, discovering architectural gems like the Triple Bridge and Dragon Bridge, both designed by the renowned architect Jože Plečnik. The Dragon Bridge, with its impressive Art Nouveau dragons, has become an iconic symbol of the city. Visit Prešeren Square, the heart of Ljubljana's social life, dominated by the salmon-pink Franciscan Church of the Annunciation.
+Wander through the atmospheric Old Town, discovering architectural gems like the Triple Bridge and Dragon Bridge. The Triple Bridge was designed by the renowned architect Jože Plečnik, while the Dragon Bridge, with its impressive Art Nouveau dragons, has become an iconic symbol of the city. Visit Prešeren Square, the heart of Ljubljana's social life, dominated by the salmon-pink Franciscan Church of the Annunciation.
 
-Spend time exploring the Central Market along the riverbank, where you can sample local produce, pick up artisan goods, and soak up the vibrant atmosphere. The market's colonnades were also designed by Plečnik and blend beautifully with the riverside setting. Afterwards, relax at one of the many riverside cafés watching the world go by.
+Spend time exploring the Central Market along the riverbank, where you can sample local produce, pick up artisan goods, and soak up the atmosphere. The market's colonnades were also designed by Plečnik and blend beautifully with the riverside setting. Afterwards, relax at one of the many riverside cafés.
 
-Take a leisurely walk through Tivoli Park, Ljubljana's largest green space, with tree-lined paths, gardens, and plenty of open areas perfect for a peaceful stroll. For something more alternative, head to Metelkova Art Centre, a former military barracks transformed into a colourful hub of galleries, street art, and nightlife that showcases Ljubljana's creative side.
+Take a leisurely walk through Tivoli Park, Ljubljana's largest green space. For something more alternative, head to Metelkova Art Centre, a former military barracks transformed into a colourful hub of galleries, street art, and nightlife.
 
-Don't miss the opportunity to sample traditional Slovenian cuisine at local restaurants. Try žlikrofi (similar to ravioli, filled with potato and herbs), potica (a delicious rolled cake with nuts), and other regional specialties. Visit wine bars to taste excellent Slovenian wines - the country produces outstanding whites and reds from several distinct wine regions. Consider taking a canal boat tour along the Ljubljanica River for a relaxing way to see the city's beautiful bridges and architecture from a different perspective.
+Sample traditional Slovenian cuisine: try žlikrofi (similar to ravioli, filled with potato and herbs), potica (a rolled nut cake), and other regional specialities. Visit wine bars to taste excellent Slovenian wines, and consider a canal boat tour along the Ljubljanica River to see the city's bridges from a different perspective.
 
-### Day Trip Options
+---
 
-**Lake Bled** (55km north) is Slovenia's most famous and photographed destination, and for good reason. The stunning alpine lake features a fairy-tale island with a church in the centre, reached by traditional wooden boats called pletnas. Bled Castle, perched on cliffs above the lake, offers spectacular views, and you absolutely must try the famous Bled cream cake (kremšnita) at one of the lakeside cafés. The backdrop of the Julian Alps makes this an unforgettable day trip.
+## Day 3: Wednesday 4th November 2026
 
-**Postojna Cave and Predjama Castle** (50km southwest) can be combined into one spectacular day trip. Postojna Cave is one of Europe's most impressive underground cave systems, with a miniature train taking you deep into vast chambers filled with extraordinary stalactites and stalagmites formed over millions of years. Just 10km away, Predjama Castle is one of the world's most dramatic fortresses - a Renaissance castle ingeniously built into the mouth of a 123-metre-high cliff, creating one of the most photogenic castles you'll ever see.
+### Morning: Kamnik by Train (half day)
 
-**Kamnik** (25km north, half-day by train) is one of Slovenia's finest medieval towns, set against a dramatic Alpine backdrop — and an easy direct train ride from Ljubljana.
+Take a morning train from Ljubljana to Kamnik Mesto, roughly hourly and taking around 40 minutes. The station is a 10-minute walk from the town centre. Aim to be back in Ljubljana by early afternoon for more of the city highlights above.
 
-Getting there: Direct train from Ljubljana to Kamnik Mesto, roughly every hour, taking around 40–42 minutes. Tickets cost only a few euros each way. The station is a 10-minute walk south of the town centre.
+**What to see and do:**
 
-What to see and do:
+- **Mali Grad (Little Castle):** A rocky hill in the heart of town topped by a preserved two-storey Romanesque chapel with crypt, dating to the 11th century. Climb up for views over the rooftops to the Alps.
+- **Šutna:** Kamnik's most picturesque street, lined with medieval and Secession-era buildings, many bearing traditional craftsman signs.
+- **Franciscan Monastery & Plečnik Chapel:** The Church of St James and its Chapel of the Holy Sepulchre, a late work by Jože Plečnik. The monastery library holds around 10,000 volumes, including incunabula.
+- **Stari Grad (Old Castle) ruins:** A short hike above town with panoramic views of the Julian Alps, the Karavanke and the Kamnik-Savinja Alps.
+- **Glavni trg (Main Square):** The heart of the old town and a good spot for a coffee before the train back.
 
-- **Mali Grad (Little Castle):** The unmissable centrepiece of Kamnik — a rocky hill right in the heart of town topped by a beautifully preserved two-storey Romanesque chapel with crypt, dating to the 11th century. Climb up for great panoramic views over the rooftops to the Alps.
-- **Šutna:** Kamnik's most picturesque street, lined with pastel-washed medieval and Secession-era buildings, many bearing traditional guild and craftsman signs. An ideal spot for a gentle wander.
-- **Franciscan Monastery & Plečnik Chapel:** A 15th-century complex housing the Church of St James and its extraordinary Chapel of the Holy Sepulchre — a late work by Slovenia's greatest architect, Jože Plečnik (1952), full of symbolism. The monastery also holds a remarkable library of around 10,000 volumes, including incunabula and a 1584 Slovene Bible.
-- **Stari Grad (Old Castle) ruins:** A short hike above town rewards with sweeping panoramic views of the Julian Alps, the Karavanke mountains, and the Kamnik-Savinja Alps.
-- **Glavni trg (Main Square):** The heart of the old town, featuring another Plečnik-designed facade. A good spot to stop for coffee.
+**Good to know:** November is off-season, so it will be quiet. The Mali Grad chapel may have limited opening hours, so check locally.
 
-Good to know: November is off-season, so it'll be quiet and unhurried. The Mali Grad chapel may have limited opening hours — worth checking locally. The whole town is very walkable and the half-day pace suits it well.
+### Afternoon: Ljubljana
+
+Back in Ljubljana for the afternoon: pick up whichever city highlights you didn't fit in on Tuesday.
+
+---
+
+## Day 4: Thursday 5th November 2026
+
+### Predjama Castle & Postojna Cave by Hire Car
+
+A self-drive day, following the order the park itself recommends: the castle in the morning, the cave in the afternoon.
+
+**Suggested timings:**
+
+- **10:00** Collect the hire car in Ljubljana and drive south-west on the motorway (around 1 hour to Predjama).
+- **11:00** Arrive at Predjama Castle (November hours 10:00-16:00, last entry 30 minutes before closing). Allow around 1.5 hours. The castle is built into the mouth of a 123-metre cliff and has stood there for over 700 years; the audio guide is included in the ticket.
+- **12:30-13:45** Lunch, either near the castle or at Postojna Cave Park, which has several places to eat.
+- **Around 14:00** Drive to Postojna (around 10km, 15 minutes).
+- **By 14:30** Collect tickets at the Postojna Cave ticket office, at least 30 minutes before the tour. Train boarding starts 15 minutes before the tour time.
+- **15:00** Postojna Cave tour. November tours run at 10:00, 12:00 and 15:00 only, so 15:00 is the last of the day. The tour starts with the electric cave train and lasts around 1.5 hours; the cave is a constant cool temperature, so bring a warm layer (cloaks can be hired at the entrance).
+- **Around 16:30** Tour ends. Drive back to Ljubljana (around 1 hour), arriving roughly 17:30. Sunset is around 16:45, so the return drive will be in the dark.
+
+**Driving notes:** Slovenian motorways require a vignette (e-vignette). Many rental companies include one, so confirm when booking; otherwise a 7-day vignette costs €16.50. Drive on the right.
+
+---
+
+## Day 5: Friday 6th November 2026
+
+### Lake Bled by Train
+
+Take the train from Ljubljana to Lesce-Bled (hourly, around 55 minutes). Lesce-Bled station is about 4km from the lake, so take the local bus (frequent, under 10 minutes) or a taxi into Bled.
+
+Lake Bled is Slovenia's most famous destination: an alpine lake with a church on a small island, reached by traditional wooden pletna boats. Bled Castle, perched on cliffs above the lake, has spectacular views across to the Julian Alps. Walk the 6km path around the lake, and try the famous Bled cream cake (kremšnita) at one of the lakeside cafés.
+
+**Good to know:** Some pletna boats may run a reduced schedule in November, depending on weather. Check train times back before you head out, as later evening services thin out.
 
 ---
 
@@ -71,7 +101,7 @@ Good to know: November is off-season, so it'll be quiet and unhurried. The Mali 
 
 ### Ljubljana to Manchester to Leeds
 
-Your final morning in Ljubljana - perhaps a last stroll through the Old Town or a final coffee by the river before heading to the airport. Your 10:25am flight departs for Manchester (£58), arriving back in the UK around 11:10am local time after approximately 2 hours 45 minutes in the air. From Manchester, take the train back to Leeds (£20, 1 hour 30 minutes), arriving home in the afternoon with wonderful memories of Slovenia's beautiful capital.
+Your final morning in Ljubljana: a last stroll through the Old Town or a coffee by the river before heading to the airport. Your 10:25am flight departs for Manchester (£58), arriving back in the UK around 11:10am local time after approximately 2 hours 45 minutes in the air. From Manchester, take the train back to Leeds (£20, 1 hour 30 minutes), arriving home in the afternoon.
 
 ---
 
@@ -85,7 +115,9 @@ Your final morning in Ljubljana - perhaps a last stroll through the Old Town or 
 - Tuesday 3 Nov: Manchester → Ljubljana (2h 30m) - £58
 - Saturday 7 Nov: Ljubljana → Manchester (2h 45m) - £58
 
-**Total Transportation Cost:** £156
+**Total Transportation Cost:** £20 + £20 + £58 + £58 = £156
+
+*Local trains and car hire in Slovenia are costed under Day Trips & Activities below.*
 
 ---
 
@@ -102,23 +134,28 @@ Your final morning in Ljubljana - perhaps a last stroll through the Old Town or 
 - **Total Transportation: £156.00**
 
 ### Core Trip Costs
-**Accommodation + Transportation: £441.00**
+**Accommodation + Transportation: £285 + £156 = £441.00**
 
 ### Additional Estimated Costs
-- **Meals & Drinks:** £80/day = £400 (5 days)
-- **Day Trips & Activities:** ~£110
-  - Postojna Cave & Predjama Castle tour: ~£50-70
-  - Ljubljana Castle entrance & funicular: ~£15
-  - Canal boat tour: ~£15
-  - Other attractions: ~£20
-- **Local Transport:** Included in daily budget
+- **Meals & Drinks:** £80/day × 5 days = £400
+- **Day Trips & Activities:** \~£167
+  - Wed – Kamnik return train: \~€5 = \~£4
+  - Thu – Postojna Cave + Predjama Castle combined ticket: £42
+  - Thu – EV hire (1 day, £17) + charging (\~€10 = \~£9): \~£26
+  - Fri – Lesce-Bled return train + local bus: \~€15 = \~£13
+  - Fri – Bled Castle entrance & pletna boat: \~£32
+  - Ljubljana Castle entrance & funicular: \~£15
+  - Canal boat tour: \~£15
+  - Other attractions: \~£20
+  - Workings: £4 + £42 + £26 + £13 + £32 + £15 + £15 + £20 = £167
+- **Local Transport (within Ljubljana):** Included in daily budget
 
 ### Complete Trip Budget
 - **Core Costs:** £441.00
-- **Additional Expenses:** £510.00
-- **Total Trip Budget: £951.00**
+- **Additional Expenses:** £400 + £167 = £567.00
+- **Total Trip Budget: £441 + £567 = £1,008.00**
 
-*Note: Slovenia uses the Euro; exchange rate of 0.8725 used for conversions. November is autumn season with cooler weather but fewer tourists and good value for money.*
+*Note: Slovenia uses the Euro; exchange rate of 0.8725 used for conversions. Car hire assumes an EV with the vignette included; add €16.50 if it isn't. Bled Castle and pletna prices are estimates. November is autumn season with cooler weather but fewer tourists and good value for money.*
 
 ---
 
@@ -136,7 +173,9 @@ Your final morning in Ljubljana - perhaps a last stroll through the Old Town or 
 
 **Time Zone:** Slovenia is on Central European Time (CET), 1 hour ahead of UK time.
 
-**Getting Around:** Ljubljana's compact city centre is easily walkable. Bike rental is also available and popular. For day trips, bus services run to Lake Bled and other destinations, though organised tours are recommended for the cave systems.
+**Getting Around:** Ljubljana's compact city centre is easily walkable. Kamnik and Lake Bled are both straightforward by train from Ljubljana's main station. For Predjama and Postojna, a hire car gives you full control over the timings; city-centre pick-up is available from several rental firms.
+
+**Advance Bookings:** Book the Postojna Cave + Predjama Castle ticket (15:00 tour, Thu 5 Nov) and the hire car ahead of time.
 
 **Ljubljana Card:** Consider purchasing a Ljubljana Card for free public transport and free/discounted entry to museums and attractions.
 
@@ -146,7 +185,7 @@ Your final morning in Ljubljana - perhaps a last stroll through the Old Town or 
 
 ## Why Visit Ljubljana?
 
-Ljubljana offers a perfect blend of historical charm and contemporary culture, all wrapped up in a compact, walkable city that feels more like a large town. The beautiful riverside setting, impressive castle, vibrant café culture, and proximity to stunning natural attractions like Lake Bled make it an ideal destination for an autumn getaway. November means fewer crowds and better value, though you'll need to dress warmly. The city's green credentials (it was European Green Capital in 2016) and pedestrianized Old Town make it a pleasure to explore on foot.
+Ljubljana offers a perfect blend of historical charm and contemporary culture, all wrapped up in a compact, walkable city that feels more like a large town. The riverside setting, castle, café culture, and proximity to natural attractions like Lake Bled make it an ideal destination for an autumn getaway. November means fewer crowds and better value, though you'll need to dress warmly. The city's green credentials (European Green Capital in 2016) and pedestrianised Old Town make it a pleasure to explore on foot.
 
 ---
 
