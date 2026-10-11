@@ -59,14 +59,14 @@
   - ***Booked hotel:*** [Little Town Villa](https://www.booking.com/hotel/vn/little-town-villa.html) - £32/night
   - Ancient Town UNESCO site
   - Taste Vietnam morning cooking class
+  - My Son Sanctuary half day trip
 
 - **Da Nang:** 3 nights (by private car) *Arrive: Tue 23 Feb 2027*
-  - ***Booked hotel:*** [Estrella Boutique Hotel](https://www.booking.com/hotel/vn/estrella-boutique.html) - £36/night
+  - ***Booked hotel:*** [Estrella Boutique Hotel](https://www.booking.com/hotel/vn/estrella-boutique.html) - £50/night
   - Marble Mountains and Buddhist caves
   - Dragon Bridge and Han River waterfront
   - My Khe Beach
   - Golden Bridge at Ba Na Hills
-  - My Son Sanctuary day trip
 
 - **Hue:** 2 nights (by private car) *Arrive: Fri 26 Feb 2027*
   - ***Booked hotel:*** [Jade Scene Hotel](https://www.booking.com/hotel/vn/jade-scene.html) - £34/night
@@ -374,13 +374,13 @@
 | Region | Nights | Average Cost/Night | Total Cost |
 |--------|-------:|------------------:|----------:|
 | London | 2 | £96 | £192 |
-| Southeast Asia | 25 | £39 | £965 |
+| Southeast Asia | 25 | £40 | £1,007 |
 | Taiwan | 5 | £64 | £320 |
 | Philippines | 6 | £31 | £186 |
 | Japan | 15 | £51 | £771 |
 | South Korea | 4 | £73 | £292 |
 | Greater China | 17 | £72 | £1,219 |
-| **Total Accommodation** | **74** | **£53** | **£3,945** |
+| **Total Accommodation** | **74** | **£54** | **£3,987** |
 
 ### Transportation
 | Category | Approximate Cost |
@@ -394,9 +394,9 @@
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|--------:|
-| Accommodation | £3,945 |
+| Accommodation | £3,987 |
 | Transportation | £3,664 |
-| **Trip Total** | **£7,609** |
+| **Trip Total** | **£7,651** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -408,9 +408,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,609  
+**Core Costs (Accommodation + Transportation):** £7,651  
 **Additional Expenses:** £6,330 total  
-**Total Trip Budget:** £13,939
+**Total Trip Budget:** £13,981
 
 ---
 
@@ -420,7 +420,7 @@
 |---------|-----------|---------------------|
 | Malaysia | 90 Days | Must submit the [MDAC (Digital Arrival Card)](https://imigresen-online.imi.gov.my/mdac/main) 3 days before arrival. |
 | Cambodia | 30 Days (e-Visa) | [e-Visa](https://www.evisa.gov.kh/) required (approx. £30). Also must complete [e-Arrival Card](https://arrival.gov.kh/) within 7 days before arrival (free). |
-| Vietnam | 45 Days | New for 2026: UK citizens are now visa-free for up to 45 days. |
+| Vietnam | 45 Days | UK citizens are visa-free for up to 45 days (in place since August 2023), including entry by land/river border. Check the departure date stamped in your passport on arrival is 45 days later - it can't be corrected afterwards. |
 | Taiwan | 90 Days | Must complete an [Online Arrival Card](https://twac.immigration.gov.tw/) within 72 hours before arrival. |
 | Philippines | 30 Days | Must register on the [eTravel platform](https://etravel.gov.ph/) within 72 hours before arrival. |
 | Japan | 90 Days | Standard entry; may be asked for proof of onward travel. |
