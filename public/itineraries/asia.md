@@ -147,7 +147,7 @@
 
 ### Chugoku Region
 - **Okayama:** 2 nights *Arrive: Sat 20 Mar 2027*
-  - ***Booked hotel:*** [Hotel Excel Okayama](https://www.booking.com/hotel/jp/hotel-excel-okayama.html) - £68/night
+  - ***Booked hotel:*** [Okayama Koraku Hotel](https://www.booking.com/hotel/jp/kooraku-okayama.html) - £64/night
   - Korakuen Garden (one of Japan's top 3 gardens)
   - Okayama Castle (Crow Castle)
   - Day trip to Kurashiki historic district with Edo-era canals
@@ -377,10 +377,10 @@
 | Southeast Asia | 25 | £40 | £1,007 |
 | Taiwan | 5 | £64 | £320 |
 | Philippines | 6 | £31 | £186 |
-| Japan | 15 | £51 | £771 |
+| Japan | 15 | £51 | £763 |
 | South Korea | 4 | £73 | £292 |
 | Greater China | 17 | £71 | £1,202 |
-| **Total Accommodation** | **74** | **£54** | **£3,970** |
+| **Total Accommodation** | **74** | **£54** | **£3,962** |
 
 ### Transportation
 | Category | Approximate Cost |
@@ -394,9 +394,9 @@
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|--------:|
-| Accommodation | £3,970 |
+| Accommodation | £3,962 |
 | Transportation | £3,664 |
-| **Trip Total** | **£7,634** |
+| **Trip Total** | **£7,626** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -408,9 +408,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,634  
+**Core Costs (Accommodation + Transportation):** £7,626  
 **Additional Expenses:** £6,330 total  
-**Total Trip Budget:** £13,964
+**Total Trip Budget:** £13,956
 
 ---
 
