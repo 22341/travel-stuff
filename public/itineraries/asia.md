@@ -125,7 +125,7 @@
 
 ### Cebu
 - **Cebu City:** 3 nights *Arrive: Sun 14 Mar 2027*
-  - ***Booked hotel:*** [Red Planet Cebu](https://www.booking.com/hotel/ph/red-planet-cebu.en-gb.html) - £26/night
+  - ***Booked hotel:*** [Quest Hotel & Conference Center Cebu](https://www.booking.com/hotel/ph/quest.en-gb.html) - £45/night
   - Magellan's Cross and Basilica del Santo Niño
   - Fort San Pedro and Cebu Heritage Monument
   - Tops Lookout for panoramic city views
@@ -376,11 +376,11 @@
 | London | 2 | £96 | £192 |
 | Southeast Asia | 25 | £40 | £1,007 |
 | Taiwan | 5 | £64 | £320 |
-| Philippines | 6 | £31 | £186 |
+| Philippines | 6 | £41 | £243 |
 | Japan | 15 | £51 | £763 |
 | South Korea | 4 | £73 | £292 |
 | Greater China | 17 | £71 | £1,202 |
-| **Total Accommodation** | **74** | **£54** | **£3,962** |
+| **Total Accommodation** | **74** | **£54** | **£4,019** |
 
 ### Transportation
 | Category | Approximate Cost |
@@ -394,9 +394,9 @@
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|--------:|
-| Accommodation | £3,962 |
+| Accommodation | £4,019 |
 | Transportation | £3,664 |
-| **Trip Total** | **£7,626** |
+| **Trip Total** | **£7,683** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -408,9 +408,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,626  
+**Core Costs (Accommodation + Transportation):** £7,683  
 **Additional Expenses:** £6,330 total  
-**Total Trip Budget:** £13,956
+**Total Trip Budget:** £14,013
 
 ---
 
@@ -442,7 +442,7 @@
 - **Malaysia:** Wise Scan to Pay works with **DuitNow QR** (available to all Wise customers, not just Alipay+ markets) - covers hawker stalls, markets and small vendors. Wise card tap-and-pay for malls, chains and hotels.
 - **Cambodia:** Wise scans **KHQR** directly - one code standard across Bakong, ABA, ACLEDA and Wing, so it covers tuk-tuks, markets and restaurants. Wise card for hotels and larger venues.
 - **Vietnam:** The one real gap - Wise supports no Vietnamese QR network. Use **Moreta Pay**, which connects to the VietQR/NAPAS network (2m+ merchants) rather than VNPAY's smaller proprietary network (~200k). Fund by UK Faster Payments in GBP, not by card (card top-ups add 2.5%). Costs ~2.1% all-in (1.5% fee + ~0.6% FX). Wise card for anything with a terminal.
-- **Taiwan:** No Wise QR support, but not a problem - tap the physical Wise card for in-store purchases and MRT fare gates. (Foreign cards can't be added to Apple/Google Pay for in-store NFC in Taiwan, so use the physical card, not the phone.) An **EasyCard** is worth getting for convenience stores and small transit top-ups.
+- **Taiwan:** No Wise QR support, but not a problem - tap the physical Wise card for in-store purchases and MRT fare gates. (Foreign cards can't be added to Apple/Google Pay for in-store NFC in Taiwan, so use the physical card, not the phone.) Get an **EasyCard** (NT$100, cash top-up only) mainly for city buses, which don't accept bank cards, and local TRA trains (e.g. to Ruifang/Jiufen and Shifen, 10% off short journeys). Buy at Taoyuan Airport MRT and load ~NT$500. Night markets and street food are cash-only.
 - **Philippines:** Wise scans both **QR Ph** and **GCash QR** - no separate GCash account needed. Wise card for card-accepting venues.
 - **South Korea:** Wise scans **KakaoPay QR**, which closes the awkward gap where foreign Visa cards get rejected at small merchants. Still get a **WOWPASS** card at the airport for transit and terminals that read it as a domestic card. Avoid relying on Google Wallet here.
 - **Hong Kong:** Wise scans **AlipayHK QR** for small vendors and market stalls; Wise card tap-and-pay works nearly everywhere else. Get a physical tourist **Octopus** card for transport and minibuses (Octopus can't be added to Google Wallet without a HK phone number).
