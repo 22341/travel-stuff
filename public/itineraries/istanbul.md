@@ -6,7 +6,8 @@
 **Dates:** Sat 28 Aug 2027 – Sat 2 Oct 2027
 **Countries:** UK, France, Germany, Austria, Croatia, Serbia, Bulgaria, Türkiye, Romania, Hungary, Poland, Netherlands (12)
 **Travel Style:** Solo, slow-paced rail loop with two overnight sleepers; Istanbul the turning point at 4 nights. Walkable central hotels, free-cancellation basis, craft beer where it fits.
-**Rail Pass:** Interrail Global Pass — 2-month continuous, 2nd class (trip exceeds one month)
+**Rail Pass:** **BOOKED** — Interrail Global Pass, 2-month continuous, 2nd class; £359 sale price from the official site ✓
+**Hotels:** 9 of 19 stays booked (14 of 33 nights), all on free cancellation ✓
 
 ---
 
@@ -15,41 +16,41 @@
 ### Phase 1: Outbound — France, Germany & Austria
 
 - **London:** 1 night (by train) _Arrive: Sat 28 Aug 2027_
-  - **Recommended hotel:** [St Athans Hotel](https://www.booking.com/hotel/gb/athans.html) — ~£104/night
-  - Overnight by King's Cross/St Pancras ahead of the morning Eurostar
+  - **Hotel:** ✓ **BOOKED** — Premier Inn hub Spitalfields — £135 (free cancellation)
+  - Overnight ahead of the morning Eurostar from St Pancras (a short Tube ride from Spitalfields)
 
 - **Paris:** 2 nights (by train) _Arrive: Sun 29 Aug 2027_
-  - **Recommended hotel:** [Hotel Paris Louis Blanc](https://www.booking.com/hotel/fr/paris-louis-blanc.html) — ~£116/night
+  - **Hotel:** ✓ **BOOKED** — Hotel Paris Louis Blanc — £187 for 2 nights (~£94/night, free cancellation)
   - Louvre or Musée d'Orsay; Seine walk past Notre-Dame; Montmartre & Sacré-Cœur; Eiffel Tower after dark
 
 - **Strasbourg:** 1 night (by train) _Arrive: Tue 31 Aug 2027_
-  - **Recommended hotel:** [Le Grand Hotel by Stay Collection](https://www.booking.com/hotel/fr/legrandhotel.html) — ~£95/night
+  - **Hotel:** ✓ **BOOKED** — Hotel Graffalgar — £70 (free cancellation)
   - Cathedral & astronomical clock; wander La Petite France canals
 
 - **Munich:** 2 nights (by train) _Arrive: Wed 1 Sep 2027_
-  - **Recommended hotel:** [Hotel Blauer Bock](https://www.booking.com/hotel/de/blauer-bock-ma1-4nchen.html) — ~£116/night
+  - **Hotel:** ✓ **BOOKED** — Hotel Metropol by Maier — £206 for 2 nights (~£103/night, free cancellation)
   - Marienplatz & the Glockenspiel; the English Garden; the Residenz; a beer hall (Hofbräuhaus)
 
 - **Salzburg:** 1 night (by train) _Arrive: Fri 3 Sep 2027_
-  - **Recommended hotel:** [Boutique Hotel Vier Jahreszeiten](https://www.booking.com/hotel/at/hotelvierjahreszeitensalzburg.html) — ~£113/night
+  - **Hotel:** ✓ **BOOKED** — Boutique Hotel Vier Jahreszeiten — £106 (free cancellation)
   - Hohensalzburg Fortress by funicular; Mozart's birthplace on Getreidegasse
 
 - **Graz:** 2 nights (by train) _Arrive: Sat 4 Sep 2027_
-  - **Recommended hotel:** [NH Graz City](https://www.booking.com/hotel/at/nh-graz-city.html) — ~£92/night
+  - **Hotel:** ✓ **BOOKED** — Radisson — £148 for 2 nights (~£74/night, free cancellation)
   - Schlossberg clock tower; the Kunsthaus; Eggenberg Palace on the edge of town
 
 ### Phase 2: The Balkans & Istanbul
 
 - **Zagreb:** 2 nights (by train) _Arrive: Mon 6 Sep 2027_
-  - **Recommended hotel:** [Zonar Zagreb by Maistra](https://www.booking.com/hotel/hr/fourpointszagreb.html) — ~£118/night
+  - **Hotel:** ✓ **BOOKED** — Avenue 21 — £155 for 2 nights (~£78/night, free cancellation) — _most likely to change_
   - Upper Town & St Mark's Church; Dolac market; Museum of Broken Relationships
 
 - **Belgrade:** 2 nights (by bus) _Arrive: Wed 8 Sep 2027_
-  - **Recommended hotel:** [Iva Old Town](https://www.booking.com/hotel/rs/iva-old-town.html) — ~£117/night
+  - **Hotel:** ✓ **BOOKED** — Fera — £83 for 2 nights (~£42/night, free cancellation)
   - Kalemegdan Fortress; dinner in the Skadarlija quarter; Nikola Tesla Museum
 
 - **Sofia:** 1 night (by bus) _Arrive: Fri 10 Sep 2027_
-  - **Recommended hotel:** [Aurora Sofia Hotel](https://www.booking.com/hotel/bg/aurora-sofia.html) — ~£77/night
+  - **Hotel:** ✓ **BOOKED** — B1 Downtown — £86 (free cancellation)
   - Alexander Nevsky Cathedral; the Roman ruins of Serdica
 
 - **Istanbul:** 4 nights (by overnight train) _Arrive: Sun 12 Sep 2027_
@@ -135,35 +136,38 @@ _"incl." = covered by the Interrail pass with no compulsory reservation. Balkan 
 
 | Item | Cost |
 | ---- | ---- |
-| Interrail Global Pass (2-month continuous, 2nd class) | £660 |
+| Interrail Global Pass (2-month continuous, 2nd class) — **booked** ✓ | £359 |
 | Seat/sleeper reservations & high-speed supplements | £268 |
 | Balkan buses (Zagreb→Belgrade, Belgrade→Sofia) | £40 |
 | Leeds ↔ London domestic rail | £120 |
-| **Transport subtotal** | **£1,088** |
+| **Transport subtotal** | **£787** |
 
 ### Accommodation
 
-| Stop | Nights | £/night | Total |
-| ---- | ------ | ------- | ----- |
-| London (×2 stays) | 2 | £104 | £208 |
-| Paris | 2 | £116 | £232 |
-| Strasbourg | 1 | £95 | £95 |
-| Munich | 2 | £116 | £232 |
-| Salzburg | 1 | £113 | £113 |
-| Graz | 2 | £92 | £184 |
-| Zagreb | 2 | £118 | £236 |
-| Belgrade | 2 | £117 | £234 |
-| Sofia | 1 | £77 | £77 |
-| Istanbul | 4 | £75 | £300 |
-| Bucharest | 2 | £68 | £136 |
-| Brașov | 1 | £65 | £65 |
-| Cluj-Napoca | 1 | £79 | £79 |
-| Budapest | 2 | £80 | £160 |
-| Wrocław | 2 | £88 | £176 |
-| Berlin | 2 | £110 | £220 |
-| Cologne | 2 | £87 | £174 |
-| Amsterdam | 2 | £136 | £272 |
-| **Accommodation subtotal** | **33** | | **£3,193** |
+_Booked hotels show the actual price paid; multi-night prices are stay totals with the per-night figure derived. Unbooked stops are estimates from live Booking.com searches._
+
+| Stop | Nights | £/night | Total | Status |
+| ---- | ------ | ------- | ----- | ------ |
+| London (28 Aug) — Premier Inn hub Spitalfields | 1 | £135 | £135 | ✓ Booked |
+| Paris — Hotel Paris Louis Blanc | 2 | £94 | £187 | ✓ Booked |
+| Strasbourg — Hotel Graffalgar | 1 | £70 | £70 | ✓ Booked |
+| Munich — Hotel Metropol by Maier | 2 | £103 | £206 | ✓ Booked |
+| Salzburg — Boutique Hotel Vier Jahreszeiten | 1 | £106 | £106 | ✓ Booked |
+| Graz — Radisson | 2 | £74 | £148 | ✓ Booked |
+| Zagreb — Avenue 21 | 2 | £78 | £155 | ✓ Booked _(may change)_ |
+| Belgrade — Fera | 2 | £42 | £83 | ✓ Booked |
+| Sofia — B1 Downtown | 1 | £86 | £86 | ✓ Booked |
+| Istanbul | 4 | £75 | £300 | Estimate |
+| Bucharest | 2 | £68 | £136 | Estimate |
+| Brașov | 1 | £65 | £65 | Estimate |
+| Cluj-Napoca | 1 | £79 | £79 | Estimate |
+| Budapest | 2 | £80 | £160 | Estimate |
+| Wrocław | 2 | £88 | £176 | Estimate |
+| Berlin | 2 | £110 | £220 | Estimate |
+| Cologne | 2 | £87 | £174 | Estimate |
+| Amsterdam | 2 | £136 | £272 | Estimate |
+| London (1 Oct) | 1 | £104 | £104 | Estimate |
+| **Accommodation subtotal** | **33** | | **£2,862** | £1,176 booked + £1,686 estimated |
 
 ---
 
@@ -182,11 +186,11 @@ _"incl." = covered by the Interrail pass with no compulsory reservation. Balkan 
 
 | Category | Cost |
 | -------- | ---- |
-| Transport | £1,088 |
-| Accommodation | £3,193 |
+| Transport | £787 |
+| Accommodation | £2,862 |
 | Daily spend | £2,960 |
-| **Grand total** | **≈ £7,241** |
-| With ~10% contingency | **≈ £7,965** |
+| **Grand total** | **≈ £6,609** |
+| With ~10% contingency | **≈ £7,270** |
 
 _Meals & drinks use the standard Western-Europe rate (~£85/day) scaled down for cheaper regions — dial this down if you eat more modestly._
 
@@ -204,7 +208,7 @@ _Meals & drinks use the standard Western-Europe rate (~£85/day) scaled down for
 
 ## Travel Notes
 
-**Pass strategy:** A 2-month continuous Interrail Global Pass covers the trip's length (over a month). Reserve Eurostar (both ways), TGV and the two sleepers as early as the booking window opens — pass-holder quotas are limited. The two Balkan buses are bought separately (FlixBus/Arriva) and aren't on the pass.
+**Pass strategy:** Your 2-month continuous Interrail Global Pass is already booked (£359 sale price), which covers the trip's length. Reserve Eurostar (both ways), TGV and the two sleepers as early as the booking window opens — pass-holder quotas are limited. The two Balkan buses are bought separately (FlixBus/Arriva) and aren't on the pass.
 
 **Overnight sleepers:** Sofia→Istanbul (~11h) and Istanbul→Bucharest (~18h) each save a hotel night. Book a proper berth, not a seat, for the long Bucharest run. Passport checks happen mid-journey, often in the small hours — keep it accessible.
 
