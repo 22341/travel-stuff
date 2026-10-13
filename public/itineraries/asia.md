@@ -462,6 +462,32 @@
 
 ---
 
+## Laundry Stops
+
+- Ho Chi Minh City
+- Hanoi
+- Taipei (in hotel)
+- Okayama (in hotel)
+- Seoul (in hotel)
+- Chengdu (in hotel)
+
+**Hotels with confirmed self-service laundry:**
+
+| Stop | Hotel | Details |
+|------|-------|---------|
+| Taipei | Wow Happy Daan (玩行旅 大安分館) | Paid self-service laundry (dryer not confirmed) |
+| Tokyo (both stays) | APA Hotel Yamanote Otsuka Ekimae Tower | Laundromat on 20F: wash ¥500, dryer ¥100/30 min, cash only |
+| Okayama | Okayama Koraku Hotel | Coin laundry on 7F |
+| Fukuoka | APA Hotel Fukuoka Tenjin Nishi | Wash ¥300, dryer ¥100/30 min |
+| Himeji | APA Hotel Himeji Ekikita | Wash ¥500, dryer ¥100/30 min |
+| Kobe | APA Hotel Kobe Sannomiya Ekimae | Paid laundromat on 1F |
+| Kanazawa | APA Hotel Kanazawa Chuo | Paid laundromat (floor/price not listed) |
+| Seoul | Grid Inn Hotel | Free washer and dryer in basement, detergent provided |
+| Chengdu | CYBO Station SSAW Hotel | Free laundry room on 6F (2 washers, 2 dryers), detergent provided |
+| Beijing | Happy Dragon Alley Hotel | Free washing machines; dryer unclear (3F drying balcony available) |
+
+---
+
 ## Travel Notes
 
 ### Transportation
