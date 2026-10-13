@@ -87,13 +87,13 @@ A self-drive day, following the order the park itself recommends: the castle in 
 
 ## Day 5: Friday 6th November 2026
 
-### Lake Bled by Train
+### Lake Bled by Bus
 
-Take the train from Ljubljana to Lesce-Bled (hourly, around 55 minutes). Lesce-Bled station is about 4km from the lake, so take the local bus (frequent, under 10 minutes) or a taxi into Bled.
+The Ljubljana–Lesce-Bled railway is closed for engineering work on 2–6 November, so take the direct Arriva bus instead. It leaves from Ljubljana bus station, right outside the main train station, about every 30 minutes on weekdays, and takes 1h to 1h 20m (around €7 each way). Get off at Bled Union (5 minutes' walk to the lake) or stay on to Bled bus station by the lakeshore.
 
 Lake Bled is Slovenia's most famous destination: an alpine lake with a church on a small island, reached by traditional wooden pletna boats. Bled Castle, perched on cliffs above the lake, has spectacular views across to the Julian Alps. Walk the 6km path around the lake, and try the famous Bled cream cake (kremšnita) at one of the lakeside cafés.
 
-**Good to know:** Some pletna boats may run a reduced schedule in November, depending on weather. Check train times back before you head out, as later evening services thin out.
+**Good to know:** Some pletna boats may run a reduced schedule in November, depending on weather. The pletna boatmen typically only accept payment in cash, so bring euros. Sunset is around 16:45, so a bus back around 16:00–17:00 makes the most of the daylight; check evening bus times if you plan to stay later.
 
 ---
 
@@ -101,7 +101,7 @@ Lake Bled is Slovenia's most famous destination: an alpine lake with a church on
 
 ### Ljubljana to Manchester to Leeds
 
-Your final morning in Ljubljana: a last stroll through the Old Town or a coffee by the river before heading to the airport. Your 10:25am flight departs for Manchester (£58), arriving back in the UK around 11:10am local time after approximately 2 hours 45 minutes in the air. From Manchester, take the train back to Leeds (£20, 1 hour 30 minutes), arriving home in the afternoon.
+Your 10:25am flight departs for Manchester (£58), arriving back in the UK around 11:10am local time after approximately 2 hours 45 minutes in the air. From Manchester, take the train back to Leeds (£20, 1 hour 30 minutes), arriving home in the afternoon.
 
 ---
 
@@ -138,22 +138,22 @@ Your final morning in Ljubljana: a last stroll through the Old Town or a coffee 
 
 ### Additional Estimated Costs
 - **Meals & Drinks:** £80/day × 5 days = £400
-- **Day Trips & Activities:** \~£167
+- **Day Trips & Activities:** \~£176
   - Wed – Kamnik return train: \~€5 = \~£4
   - Thu – Postojna Cave + Predjama Castle combined ticket: £42
   - Thu – EV hire (1 day, £17) + charging (\~€10 = \~£9): \~£26
-  - Fri – Lesce-Bled return train + local bus: \~€15 = \~£13
+  - Fri – Ljubljana–Bled return bus: 2 × \~€7 = \~€14 = \~£12
   - Fri – Bled Castle entrance & pletna boat: \~£32
+  - Fri – Bled Island entrance (church, bell tower & museum): €12 = \~£10
   - Ljubljana Castle entrance & funicular: \~£15
   - Canal boat tour: \~£15
   - Other attractions: \~£20
-  - Workings: £4 + £42 + £26 + £13 + £32 + £15 + £15 + £20 = £167
 - **Local Transport (within Ljubljana):** Included in daily budget
 
 ### Complete Trip Budget
 - **Core Costs:** £441.00
-- **Additional Expenses:** £400 + £167 = £567.00
-- **Total Trip Budget: £441 + £567 = £1,008.00**
+- **Additional Expenses:** £400 + £176 = £576.00
+- **Total Trip Budget: £441 + £576 = £1,017.00**
 
 *Note: Slovenia uses the Euro; exchange rate of 0.8725 used for conversions. Car hire assumes an EV with the vignette included; add €16.50 if it isn't. Bled Castle and pletna prices are estimates. November is autumn season with cooler weather but fewer tourists and good value for money.*
 
@@ -173,7 +173,7 @@ Your final morning in Ljubljana: a last stroll through the Old Town or a coffee 
 
 **Time Zone:** Slovenia is on Central European Time (CET), 1 hour ahead of UK time.
 
-**Getting Around:** Ljubljana's compact city centre is easily walkable. Kamnik and Lake Bled are both straightforward by train from Ljubljana's main station. For Predjama and Postojna, a hire car gives you full control over the timings; city-centre pick-up is available from several rental firms.
+**Getting Around:** Ljubljana's compact city centre is easily walkable. Kamnik is straightforward by train from Ljubljana's main station; Lake Bled is by direct bus from the bus station next door (the Bled railway line is closed 2–6 Nov). For Predjama and Postojna, a hire car gives you full control over the timings; city-centre pick-up is available from several rental firms.
 
 **Advance Bookings:** Book the Postojna Cave + Predjama Castle ticket (15:00 tour, Thu 5 Nov) and the hire car ahead of time.
 
