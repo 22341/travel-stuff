@@ -11,7 +11,7 @@
 
 ### Leeds to Manchester
 
-Your Slovenian adventure begins with an early afternoon train journey from Leeds to Manchester Piccadilly, departing around 2pm and taking approximately 1 hour 30 minutes (£20). Arriving in Manchester by mid-afternoon, you'll have plenty of time to check into your hotel and spend the evening exploring the vibrant city centre and the trendy Northern Quarter, known for its independent restaurants, bars, and lively atmosphere. Enjoy dinner and drinks before getting an early night ahead of tomorrow's flight.
+Your Slovenian adventure begins with a lift from Leeds to Manchester. Once there, check into your hotel and spend the evening exploring the vibrant city centre and the trendy Northern Quarter, known for its independent restaurants, bars, and lively atmosphere. Enjoy dinner and drinks before getting an early night ahead of tomorrow's flight.
 
 **Overnight:** [Motel One Manchester-Piccadilly](https://www.booking.com/hotel/gb/motel-one-manchester-piccadilly.en-gb.html) - £61
 
@@ -107,15 +107,17 @@ Your 10:25am flight departs for Manchester (£58), arriving back in the UK aroun
 
 ## Transportation Summary
 
+**Lift:**
+- Monday 2 Nov: Leeds → Manchester - £0
+
 **Trains:**
-- Monday 2 Nov: Leeds → Manchester (1h 30m) - £20
 - Saturday 7 Nov: Manchester → Leeds (1h 30m) - £20
 
 **Flights:**
 - Tuesday 3 Nov: Manchester → Ljubljana (2h 30m) - £58
 - Saturday 7 Nov: Ljubljana → Manchester (2h 45m) - £58
 
-**Total Transportation Cost:** £20 + £20 + £58 + £58 = £156
+**Total Transportation Cost:** £20 + £58 + £58 = £136
 
 *Local trains and car hire in Slovenia are costed under Day Trips & Activities below.*
 
@@ -129,12 +131,12 @@ Your 10:25am flight departs for Manchester (£58), arriving back in the UK aroun
 - **Total Accommodation: £285.00**
 
 ### Transportation
-- Trains: £40.00
+- Trains: £20.00
 - Flights: £116.00
-- **Total Transportation: £156.00**
+- **Total Transportation: £136.00**
 
 ### Core Trip Costs
-**Accommodation + Transportation: £285 + £156 = £441.00**
+**Accommodation + Transportation: £285 + £136 = £421.00**
 
 ### Additional Estimated Costs
 - **Meals & Drinks:** £80/day × 5 days = £400
@@ -151,9 +153,9 @@ Your 10:25am flight departs for Manchester (£58), arriving back in the UK aroun
 - **Local Transport (within Ljubljana):** Included in daily budget
 
 ### Complete Trip Budget
-- **Core Costs:** £441.00
+- **Core Costs:** £421.00
 - **Additional Expenses:** £400 + £176 = £576.00
-- **Total Trip Budget: £441 + £576 = £1,017.00**
+- **Total Trip Budget: £421 + £576 = £997.00**
 
 *Note: Slovenia uses the Euro; exchange rate of 0.8725 used for conversions. Car hire assumes an EV with the vignette included; add €16.50 if it isn't. Bled Castle and pletna prices are estimates. November is autumn season with cooler weather but fewer tourists and good value for money.*
 
