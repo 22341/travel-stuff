@@ -65,7 +65,10 @@
 **Arrive:** Fri 15 Jan 2027  
 **Depart:** Mon 18 Jan 2027  
 * **Booked hotel:** Meriton Suites Herschel Street - £327 (3 nights total)
-* **Note:** Close to Roma Street station - handy for The Great Southern departure on 18 Jan
+* **Planned (tickets not yet bought):** Big Bash League - Brisbane Heat v Sydney Thunder, The Gabba, Sun 17 Jan 2027
+  * Start time to confirm: The Gabba's event page shows 18:15 (gates 16:45), but some listings show 19:15 - check on Ticketek before buying
+  * Ticketek is the only authorised ticket agent
+* **Note:** The Great Southern does not leave from Roma Street - see Phase 3 for the check-in location
 * South Bank Parklands and Streets Beach
 * Lone Pine Koala Sanctuary
 * Brisbane River cruise
@@ -82,9 +85,10 @@
 **Arrive:** Thu 21 Jan 2027 (morning)  
 * **Duration:** 3 days, 3 nights on board
 * **Booked:** Gold Single Cabin - £1,716.40 (Booking ref: JBR742033)
-* Travel through outback Queensland and New South Wales
+* **Check-in:** Past departures have checked in at Hanworth House, East Brisbane (opening around 7am), then transferred by coach to the train at Acacia Ridge - confirm this year's times on your booking documents
+* Route runs down the NSW coast via Coffs Harbour rather than through the outback; excursion stops vary by year, so check your booking documents
 * All meals included on train
-* Off-train experiences at Coffs Harbour and Hunter Valley wine region
+* Off Train Excursions included in the fare
 * Gold Service cabin with ensuite
 * Witness spectacular Australian landscapes
 
@@ -116,6 +120,7 @@
 * **Booked - Australian Open (Rod Laver Arena):**
   * Mon 25 Jan 2027 - £68.68
   * Wed 27 Jan 2027 - £144.85
+* **Note:** Free days are Tue 26 Jan (Australia Day public holiday) and Thu 28 Jan, so pick two of the day trips below
 * Federation Square and Melbourne's laneways
 * Queen Victoria Market
 * St Kilda Beach and Luna Park
@@ -148,7 +153,7 @@
 **Return Sydney:** Sun 7 Feb 2027  
 * **Duration:** 8 nights
 * **Booked:** Solo traveller cabin - £911 (£99 deposit paid)
-* **Recommended cruise line:** Princess Cruises or P&O Australia
+* **To add:** Cruise line and ship name from your booking confirmation, plus the final payment due date
 * Port stops likely include:
   * Hobart, Tasmania (explore Salamanca Market, MONA museum)
   * Port Arthur historic site
@@ -168,6 +173,7 @@
 **Arrive:** Mon 8 Feb 2027 at 16:00
 * **Booked:** Malaysia Airlines MH250 - £441.88
 * Flight time: approximately 8 hours
+* **To confirm:** Onward travel from Kuala Lumpur - no hotel or onward/home flight listed yet
 
 ---
 
@@ -212,9 +218,10 @@
 
 | Event | Venue | Date | Cost |
 |-------|-------|------|------|
+| Big Bash League: Brisbane Heat v Sydney Thunder | The Gabba, Brisbane | Sun 17 Jan 2027 | Not yet bought |
 | Australian Open | Rod Laver Arena, Melbourne | Mon 25 Jan 2027 | £68.68 |
 | Australian Open | Rod Laver Arena, Melbourne | Wed 27 Jan 2027 | £144.85 |
-| **Total Events** | | | **£213.53** |
+| **Total Events (booked)** | | | **£213.53** |
 
 ### Daily Spending Money Estimate
 
@@ -236,6 +243,8 @@
 | Events & Attractions | £214 |
 | Daily Spending Money | £1,980 |
 | **TOTAL** | **£8,667** |
+
+*Excludes the Big Bash ticket (not yet bought).*
 
 ---
 
