@@ -216,6 +216,7 @@
 ### Hong Kong
 - **Hong Kong:** 4 nights *Arrive: Mon 5 Apr 2027*
   - ***Booked hotel:*** [Ibis Hong Kong Central & Sheung Wan](https://www.booking.com/searchresults.html?ss=Ibis+Hong+Kong+Central+Sheung+Wan) - £138/night
+  - ***Booked hotel:*** [Y Hotel Hong Kong](https://www.booking.com/hotel/hk/y-hong-kong.html) - £125/night
   - Victoria Peak and Star Ferry
   - Dim sum culture and night markets
   - Temple Street and Symphony of Lights
