@@ -215,8 +215,7 @@
 
 ### Hong Kong
 - **Hong Kong:** 4 nights *Arrive: Mon 5 Apr 2027*
-  - ***Booked hotel:*** [Ibis Hong Kong Central & Sheung Wan](https://www.booking.com/searchresults.html?ss=Ibis+Hong+Kong+Central+Sheung+Wan) - £138/night
-  - ***Booked hotel:*** [Y Hotel Hong Kong](https://www.booking.com/hotel/hk/y-hong-kong.html) - £125/night
+  - ***Booked hotel:*** [Y Hotel Hong Kong](https://www.booking.com/hotel/hk/y-hong-kong.html) - £113/night
   - Victoria Peak and Star Ferry
   - Dim sum culture and night markets
   - Temple Street and Symphony of Lights
@@ -380,8 +379,8 @@
 | Philippines | 6 | £41 | £243 |
 | Japan | 15 | £51 | £763 |
 | South Korea | 4 | £73 | £292 |
-| Greater China | 17 | £71 | £1,202 |
-| **Total Accommodation** | **74** | **£54** | **£4,019** |
+| Greater China | 17 | £65 | £1,102 |
+| **Total Accommodation** | **74** | **£53** | **£3,919** |
 
 ### Transportation
 | Category | Approximate Cost |
@@ -395,9 +394,9 @@
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|--------:|
-| Accommodation | £4,019 |
+| Accommodation | £3,919 |
 | Transportation | £3,664 |
-| **Trip Total** | **£7,683** |
+| **Trip Total** | **£7,583** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -409,9 +408,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,683  
+**Core Costs (Accommodation + Transportation):** £7,583  
 **Additional Expenses:** £6,330 total  
-**Total Trip Budget:** £14,013
+**Total Trip Budget:** £13,913
 
 ---
 
