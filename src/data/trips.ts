@@ -53,7 +53,7 @@ export const trips: Trip[] = [
     slug: "istanbul",
     title: "Istanbul by train",
     year: 2027,
-    startDate: "2027-08-28",
+    startDate: "2027-08-16",
     tags: ["Europe", "Gold plated pension", "45 days"],
     description: "Paris · Strasbourg · Lausanne + more",
     accentColor: "#043f0e",
