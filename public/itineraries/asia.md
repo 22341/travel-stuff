@@ -216,6 +216,7 @@
 ### Hong Kong
 - **Hong Kong:** 4 nights *Arrive: Mon 5 Apr 2027*
   - ***Booked hotel:*** [Y Hotel Hong Kong](https://www.booking.com/hotel/hk/y-hong-kong.html) - £113/night
+  - ***Backup hotel:*** [the Figo](https://www.booking.com/hotel/hk/hotel-lbp-hongkong.html) - £115/night
   - Victoria Peak and Star Ferry
   - Dim sum culture and night markets
   - Temple Street and Symphony of Lights
