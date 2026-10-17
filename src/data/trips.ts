@@ -48,7 +48,7 @@ export const trips: Trip[] = [
     startDate: "2027-05-22",
     tags: ["City break", "Gold plated pension", "10 days"],
     description: "London · Paris · Brussels",
-    accentColor: "#114bc9",
+    accentColor: "#487cec",
   },
   {
     slug: "istanbul",
