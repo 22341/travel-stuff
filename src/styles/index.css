@@ -147,6 +147,10 @@ body {
   line-height: 1;
 }
 
+.trip-row__countdown--tentative {
+  opacity: 0.6;
+}
+
 .trip-row__countdown-label {
   font-size: 11px;
   color: #aaa;

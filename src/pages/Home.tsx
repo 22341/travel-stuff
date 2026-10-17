@@ -12,6 +12,25 @@ function daysUntil(isoDate?: string): number | null {
   return diff > 0 ? diff : null;
 }
 
+const MONTHS = [
+  "Jan",
+  "Feb",
+  "Mar",
+  "Apr",
+  "May",
+  "Jun",
+  "Jul",
+  "Aug",
+  "Sep",
+  "Oct",
+  "Nov",
+  "Dec",
+];
+
+function startMonth(isoDate: string): string {
+  return MONTHS[Number(isoDate.slice(5, 7)) - 1];
+}
+
 function Home() {
   const { tripsByYear, sortedYears } = useMemo(() => {
     const byYear = trips.reduce(
@@ -53,7 +72,7 @@ function Home() {
                     to={`/${trip.slug}`}
                     className="trip-row"
                     key={trip.slug}
-                    aria-label={`View itinerary for ${trip.title}`}
+                    aria-label={`View itinerary for ${trip.title}${trip.tentative ? " (dates tentative)" : ""}`}
                   >
                     <div
                       className="trip-row__accent"
@@ -77,7 +96,19 @@ function Home() {
                       )}
                     </div>
                     <div className="trip-row__right">
-                      {days && days !== 0 && (
+                      {days && trip.tentative && trip.startDate ? (
+                        <>
+                          <span
+                            className="trip-row__countdown trip-row__countdown--tentative"
+                            style={{ color: trip.accentColor ?? "#888" }}
+                          >
+                            {startMonth(trip.startDate)}
+                          </span>
+                          <span className="trip-row__countdown-label">
+                            tentative
+                          </span>
+                        </>
+                      ) : days ? (
                         <>
                           <span
                             className="trip-row__countdown"
@@ -89,7 +120,7 @@ function Home() {
                             {days == 1 ? "day" : "days"} away
                           </span>
                         </>
-                      )}
+                      ) : null}
                     </div>
                   </Link>
                 );

@@ -161,5 +161,43 @@ describe("Home", () => {
       expect(screen.queryByText("null")).not.toBeInTheDocument();
       expect(screen.queryByText("NaN")).not.toBeInTheDocument();
     });
+
+    it("shows start month instead of countdown for a tentative trip", () => {
+      vi.useFakeTimers();
+      vi.setSystemTime(new Date("2099-05-22"));
+
+      render(
+        <MemoryRouter>
+          <Home />
+        </MemoryRouter>,
+      );
+
+      const tentativeLink = screen.getByRole("link", {
+        name: /tentative trip \(dates tentative\)/i,
+      });
+      const countdown = tentativeLink.querySelector(".trip-row__countdown");
+      expect(countdown).toHaveTextContent("Sep");
+      expect(countdown).toHaveClass("trip-row__countdown--tentative");
+      expect(
+        tentativeLink.querySelector(".trip-row__countdown-label"),
+      ).toHaveTextContent("tentative");
+      expect(tentativeLink).not.toHaveTextContent("days away");
+    });
+
+    it("does not show start month for a tentative trip in the past", () => {
+      vi.useFakeTimers();
+      vi.setSystemTime(new Date("2099-10-01"));
+
+      render(
+        <MemoryRouter>
+          <Home />
+        </MemoryRouter>,
+      );
+
+      const tentativeLink = screen.getByRole("link", {
+        name: /tentative trip/i,
+      });
+      expect(tentativeLink.querySelector(".trip-row__countdown")).toBeNull();
+    });
   });
 });

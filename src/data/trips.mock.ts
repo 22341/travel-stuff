@@ -19,6 +19,16 @@ export const mockTrips: Trip[] = [
     accentColor: "#00ff00",
   },
   {
+    slug: "test-trip-tentative",
+    title: "Tentative Trip",
+    year: 2099,
+    startDate: "2099-09-15",
+    tentative: true,
+    tags: ["Test"],
+    description: "A test trip with tentative dates",
+    accentColor: "#ff00ff",
+  },
+  {
     slug: "test-trip-past",
     title: "Past Trip",
     year: 2020,

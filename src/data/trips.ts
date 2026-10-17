@@ -7,6 +7,7 @@ export interface Trip {
   title: string;
   year: number;
   startDate?: string; // ISO format: "YYYY-MM-DD"
+  tentative?: boolean; // Dates not confirmed - shows start month instead of countdown
   tags?: string[];
   description?: string;
   accentColor?: string;
@@ -66,5 +67,15 @@ export const trips: Trip[] = [
     tags: ["Self-drive", "Princess Kimberley", "15 days"],
     description: "Granada · Córdoba · Seville + more",
     accentColor: "#7a24a1",
+  },
+  {
+    slug: "italy-rail-trip-2028",
+    title: "Tour of Italy",
+    year: 2028,
+    startDate: "2028-06-10",
+    tentative: true,
+    tags: ["Rail journey", "North to South", "22 days"],
+    description: "Bergamo · Verona · Bologna + more",
+    accentColor: "#121ebb",
   },
 ];
