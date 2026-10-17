@@ -465,12 +465,12 @@
 
 ## Laundry Stops
 
-- Ho Chi Minh City
-- Hanoi
-- Taipei (in hotel)
-- Okayama (in hotel)
-- Seoul (in hotel)
-- Chengdu (in hotel)
+- Ho Chi Minh City (18 Feb)
+- Hanoi (2 Mar)
+- Taipei (10 Mar) (in hotel)
+- Okayama (21 Mar) (in hotel)
+- Seoul (2 Apr) (in hotel)
+- Chengdu (13 Apr) (in hotel)
 
 **Hotels with confirmed self-service laundry:**
 
