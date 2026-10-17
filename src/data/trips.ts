@@ -66,7 +66,7 @@ export const trips: Trip[] = [
     startDate: "2027-09-11",
     tags: ["Self-drive", "Princess Kimberley", "15 days"],
     description: "Granada · Córdoba · Seville + more",
-    accentColor: "#7a24a1",
+    accentColor: "#f54a4a",
   },
   {
     slug: "italy-rail-trip-2028",
