@@ -2,11 +2,11 @@
 
 ## Overview
 
-**Total Duration:** 21 nights / 22 days
-**Dates:** Sat 10 Jun 2028 – Sat 1 Jul 2028 _(tentative)_
-**Countries:** Italy
-**Travellers:** Multiple (separate rooms — all costs shown per person)
-**Travel Style:** Open-jaw flights from Manchester, then slow north-to-south rail travel with 2–4 night bases and short day trips
+**Total Duration:** 21 nights / 22 days\
+**Dates:** Sat 10 Jun 2028 – Sat 1 Jul 2028 _(tentative)_\
+**Countries:** Italy\
+**Travellers:** Multiple (separate rooms — all costs shown per person)\
+**Travel Style:** Open-jaw flights from Manchester, then slow north-to-south rail travel with 2–4 night bases and short day trips\
 **Rail Pass:** None — point-to-point tickets (see Travel Notes)
 
 ## Itinerary
@@ -48,19 +48,19 @@
 
 ## Transportation Schedule
 
-| Date   | Route                                               | Duration | Cost | Bkd |
-| ------ | --------------------------------------------------- | -------- | ---- | --- |
-| 10 Jun | Manchester → Bergamo (BGY), Ryanair                 | 2h 10m   | £70  |     |
-| 10 Jun | Bergamo Airport → Bergamo (bus)                     | 15m      | £3   |     |
-| 12 Jun | Bergamo → Verona (change Brescia)                   | 1h 45m   | £15  |     |
-| 15 Jun | Verona → Bologna                                    | 1h 00m   | £20  |     |
-| 18 Jun | Bologna → Siena (change Florence)                   | 2h 15m   | £25  |     |
-| 20 Jun | Siena → Florence                                    | 1h 30m   | £9   |     |
-| 24 Jun | Florence → Orvieto                                  | 1h 45m   | £15  |     |
-| 26 Jun | Orvieto → Salerno (change Rome)                     | 3h 15m   | £35  |     |
-| 28 Jun | Salerno → Naples                                    | 40m      | £10  |     |
-| 1 Jul  | Naples → Naples Airport (Alibus)                    | 20m      | £5   |     |
-| 1 Jul  | Naples (NAP) → Manchester, easyJet / Ryanair / Jet2 | 3h 05m   | £80  |     |
+| Date | Route | Duration | Cost | Bkd |
+| ---- | ----- | -------- | ---- | --- |
+| 10 Jun | Manchester → Bergamo (BGY), Ryanair | 2h 10m | £70 | |
+| 10 Jun | Bergamo Airport → Bergamo (bus) | 15m | £3 | |
+| 12 Jun | Bergamo → Verona (change Brescia) | 1h 45m | £15 | |
+| 15 Jun | Verona → Bologna | 1h 00m | £20 | |
+| 18 Jun | Bologna → Siena (change Florence) | 2h 15m | £25 | |
+| 20 Jun | Siena → Florence | 1h 30m | £9 | |
+| 24 Jun | Florence → Orvieto | 1h 45m | £15 | |
+| 26 Jun | Orvieto → Salerno (change Rome) | 3h 15m | £35 | |
+| 28 Jun | Salerno → Naples | 40m | £10 | |
+| 1 Jul | Naples → Naples Airport (Alibus) | 20m | £5 | |
+| 1 Jul | Naples (NAP) → Manchester, easyJet / Ryanair / Jet2 | 3h 05m | £80 | |
 
 _All costs are early estimates per person; flight costs assume one cabin bag._
 
@@ -68,54 +68,54 @@ _All costs are early estimates per person; flight costs assume one cabin bag._
 
 ### Transport
 
-| Item                                          | Cost     |
-| --------------------------------------------- | -------- |
-| Flights (£70 + £80)                           | £150     |
-| Rail (£15 + £20 + £25 + £9 + £15 + £35 + £10) | £129     |
-| Airport transfers (£3 + £5)                   | £8       |
-| **Transport total**                           | **£287** |
+| Item | Cost |
+| ---- | ---- |
+| Flights (£70 + £80) | £150 |
+| Rail (£15 + £20 + £25 + £9 + £15 + £35 + £10) | £129 |
+| Airport transfers (£3 + £5) | £8 |
+| **Transport total** | **£287** |
 
 ### Accommodation
 
-| Stop      | Nights | Per night | Total      |
-| --------- | ------ | --------- | ---------- |
-| Bergamo   | 2      | £90       | £180       |
-| Verona    | 3      | £110      | £330       |
-| Bologna   | 3      | £100      | £300       |
-| Siena     | 2      | £100      | £200       |
-| Florence  | 4      | £130      | £520       |
-| Orvieto   | 2      | £90       | £180       |
-| Salerno   | 2      | £90       | £180       |
-| Naples    | 3      | £100      | £300       |
-| **Total** | **21** |           | **£2,190** |
+| Stop | Nights | Per night | Total |
+| ---- | ------ | --------- | ----- |
+| Bergamo | 2 | £90 | £180 |
+| Verona | 3 | £110 | £330 |
+| Bologna | 3 | £100 | £300 |
+| Siena | 2 | £100 | £200 |
+| Florence | 4 | £130 | £520 |
+| Orvieto | 2 | £90 | £180 |
+| Salerno | 2 | £90 | £180 |
+| Naples | 3 | £100 | £300 |
+| **Total** | **21** | | **£2,190** |
 
 ### Daily Spend
 
-| Item                         | Basis                                                 | Cost       |
-| ---------------------------- | ----------------------------------------------------- | ---------- |
-| Meals & drinks               | 22 days × £90                                         | £1,980     |
-| Activities & entry fees      | Uffizi, Pompeii, Herculaneum, Vesuvius, tastings etc. | £300       |
-| Day-trip transport & ferries | Regional trains, buses, Amalfi ferries                | £180       |
-| City tourist tax             | 21 nights × ~€4.50                                    | £80        |
-| Miscellaneous                |                                                       | £100       |
-| **Daily spend total**        |                                                       | **£2,640** |
+| Item | Basis | Cost |
+| ---- | ----- | ---- |
+| Meals & drinks | 22 days × £90 | £1,980 |
+| Activities & entry fees | Uffizi, Pompeii, Herculaneum, Vesuvius, tastings etc. | £300 |
+| Day-trip transport & ferries | Regional trains, buses, Amalfi ferries | £180 |
+| City tourist tax | 21 nights × ~€4.50 | £80 |
+| Miscellaneous | | £100 |
+| **Daily spend total** | | **£2,640** |
 
 ### Total Estimated Trip Cost
 
-| Category             | Cost       |
-| -------------------- | ---------- |
-| Transport            | £287       |
-| Accommodation        | £2,190     |
-| Daily spend          | £2,640     |
+| Category | Cost |
+| -------- | ---- |
+| Transport | £287 |
+| Accommodation | £2,190 |
+| Daily spend | £2,640 |
 | **Total per person** | **£5,117** |
 
 ## Complete Trip Budget
 
-| Category                               | Cost       |
-| -------------------------------------- | ---------- |
-| Core costs (transport + accommodation) | £2,477     |
-| Additional expenses (daily spend)      | £2,640     |
-| **Total per person**                   | **£5,117** |
+| Category | Cost |
+| -------- | ---- |
+| Core costs (transport + accommodation) | £2,477 |
+| Additional expenses (daily spend) | £2,640 |
+| **Total per person** | **£5,117** |
 
 ## Visa Requirements
 
