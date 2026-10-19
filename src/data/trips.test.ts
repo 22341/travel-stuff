@@ -23,6 +23,12 @@ describe("trips data", () => {
     expect(unique.size).toBe(slugs.length);
   });
 
+  it("slugs do not clash with other page routes", () => {
+    trips.forEach((trip) => {
+      expect(trip.slug).not.toBe("maps");
+    });
+  });
+
   it("slugs are URL-friendly (lowercase, no spaces)", () => {
     trips.forEach((trip) => {
       expect(trip.slug).toMatch(/^[a-z0-9-]+$/);

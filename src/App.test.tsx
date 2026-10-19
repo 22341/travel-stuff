@@ -43,6 +43,13 @@ describe("App", () => {
     ).toBeInTheDocument();
   });
 
+  it("renders Maps at /maps", () => {
+    renderWithRouter(["/maps"]);
+    expect(
+      screen.getByRole("heading", { name: /trip maps/i }),
+    ).toBeInTheDocument();
+  });
+
   it("renders Itinerary at /:slug", async () => {
     vi.stubGlobal(
       "fetch",

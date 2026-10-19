@@ -30,12 +30,46 @@ body {
 
 .home-heading {
   text-align: center;
+  margin-bottom: 2.5rem;
 }
 
 .home-page h1 {
   color: #2a1f6e;
   font-size: 3rem;
-  margin-bottom: 2.5rem;
+  margin-bottom: 0.9rem;
+}
+
+.maps-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  background: white;
+  color: #2a1f6e;
+  font-size: 0.95rem;
+  font-weight: 500;
+  text-decoration: none;
+  padding: 0.5rem 1.1rem;
+  border: 1px solid #d8d0ee;
+  border-radius: 100px;
+  box-shadow: 0 1px 3px rgba(42, 31, 110, 0.08);
+  transition:
+    border-color 0.15s ease,
+    box-shadow 0.15s ease,
+    transform 0.15s ease;
+}
+
+.maps-link:hover,
+.maps-link:focus-visible {
+  border-color: #7c6fcd;
+  box-shadow: 0 4px 12px rgba(42, 31, 110, 0.15);
+  transform: translateY(-1px);
+  outline: none;
+}
+
+.maps-link__icon {
+  width: 1.1em;
+  height: 1.1em;
+  color: #7c6fcd;
 }
 
 .year-heading {
@@ -157,8 +191,9 @@ body {
   white-space: nowrap;
 }
 
-/* Itinerary Page Styles */
-.itinerary-page {
+/* Itinerary and Maps Page Styles */
+.itinerary-page,
+.maps-page {
   background: #f0eef8;
   min-height: 100vh;
   padding-bottom: 2rem;
@@ -285,6 +320,40 @@ body {
   margin: 2rem 0;
 }
 
+.maps-content {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+}
+
+.maps-content h1 {
+  color: #2a1f6e;
+  font-size: 1.7rem;
+  margin-bottom: 1rem;
+  border-bottom: 3px solid #2f0d68;
+  padding-bottom: 0.5rem;
+}
+
+.maps-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.maps-list a {
+  font-size: 1.05rem;
+  color: #312c85;
+  text-decoration: none;
+  border-bottom: 1px solid #312c85;
+}
+
+.maps-list a:hover {
+  color: #2f0d68;
+  border-bottom-color: #2f0d68;
+}
+
 /* Mobile Responsive */
 @media (max-width: 768px) {
   @media (max-width: 768px) {
@@ -298,7 +367,11 @@ body {
 
     .home-page h1 {
       font-size: 1.8rem;
-      margin-bottom: 1rem;
+      margin-bottom: 0.6rem;
+    }
+
+    .home-heading {
+      margin-bottom: 1.5rem;
     }
 
     .year-heading {
@@ -325,6 +398,14 @@ body {
     .itinerary-content {
       font-size: 0.9rem;
       padding: 1rem;
+    }
+
+    .maps-content {
+      padding: 1rem;
+    }
+
+    .maps-content h1 {
+      font-size: 1.4rem;
     }
 
     .itinerary-content ul,

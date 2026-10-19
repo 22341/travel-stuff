@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { trips, Trip } from "../data/trips";
 import { useMemo } from "react";
-import { Globe2 } from "lucide-react";
+import { Globe2, MapIcon } from "lucide-react";
 
 function daysUntil(isoDate?: string): number | null {
   if (!isoDate) return null;
@@ -55,6 +55,10 @@ function Home() {
             <Globe2 className="heading-icon" strokeWidth={1.5} /> Travel
             Itineraries
           </h1>
+          <Link to="/maps" className="maps-link">
+            <MapIcon className="maps-link__icon" aria-hidden="true" /> Trip
+            maps
+          </Link>
         </header>
 
         {sortedYears.map((year, i) => (

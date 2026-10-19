@@ -26,6 +26,18 @@ describe("Home", () => {
     ).toBeInTheDocument();
   });
 
+  it("renders a Trip maps link to /maps", () => {
+    render(
+      <MemoryRouter>
+        <Home />
+      </MemoryRouter>,
+    );
+    expect(screen.getByRole("link", { name: /trip maps/i })).toHaveAttribute(
+      "href",
+      "/maps",
+    );
+  });
+
   it("groups trips by year and shows year headings", () => {
     render(
       <MemoryRouter>
