@@ -34,22 +34,21 @@ npm run preview
 travel-stuff/
 ├── public/
 │   ├── favicon.ico
-│   └── itineraries/        # Markdown files for each trip
-│       ├── asia.md
-│       ├── australia.md
-│       ├── estonia.md
-│       ├── porto.md
-│       └── slovenia.md
+│   └── itineraries/        # Markdown file for each trip ({slug}.md)
 ├── src/
 │   ├── data/
-│   │   └── trips.ts        # Trip configuration
+│   │   ├── trips.ts        # Trip configuration
+│   │   ├── maps.ts         # Custom Google map links, grouped
+│   │   └── *.mock.ts       # Test data
 │   ├── pages/
-│   │   ├── Home.tsx        # Homepage with trip grid
-│   │   └── Itinerary.tsx   # Individual trip page
+│   │   ├── Home.tsx        # Homepage with trips grouped by year
+│   │   ├── Itinerary.tsx   # Individual trip page (/:slug)
+│   │   └── Maps.tsx        # Trip maps page (/maps)
 │   ├── styles/
 │   │   └── index.css       # Main styles
 │   ├── App.tsx             # Router setup
 │   └── main.tsx            # Entry point
+├── CLAUDE.md               # Notes for Claude Code sessions
 ├── index.html
 ├── package.json
 ├── eslint.config.ts
@@ -70,11 +69,30 @@ travel-stuff/
   title: 'Trip Title',      // Card title
   year: 2026,               // Year of the trip (used for grouping)
   startDate: "2026-05-29",  // Start date of the trip
+  tentative: true,          // Optional: dates not confirmed, shows start month instead of countdown
   tags: ["Rail", "2 days"], // Optional info pills
-  description: "Paris"      // Trip description
-  accentColor: "#87048b"  // Accent colour to use
+  description: "Paris",     // Trip description
+  accentColor: "#87048b"    // Accent colour to use
 }
 ```
+
+The slug `maps` is reserved for the Trip Maps page.
+
+## Adding a Map
+
+Maps are listed on the `/maps` page (linked from Home as "Trip maps"). Add them to `src/data/maps.ts`, under an existing group or a new one:
+
+```ts
+{
+  heading: "Southeast Asia",   // Group sub-heading
+  maps: [
+    { title: "Hanoi", url: "https://www.google.com/maps/d/edit?mid=..." },
+    { title: "Hue", url: "" }, // No map yet: shows as a disabled pill
+  ],
+}
+```
+
+Groups and maps appear in the order listed. Each map opens in a new tab.
 
 ## Deployment to Vercel
 

@@ -44,26 +44,41 @@ describe("Maps", () => {
     );
   });
 
-  it("renders each group's maps as pill links under its heading", () => {
+  it("renders each group's maps with a URL as pill links under its heading", () => {
     renderMaps();
     mockMapGroups.forEach((group) => {
       const section = screen
         .getByRole("heading", { level: 2, name: group.heading })
         .closest("section")!;
-      const links = within(section).getAllByRole("link");
-      expect(links).toHaveLength(group.maps.length);
-      group.maps.forEach((map) => {
+      const mapsWithUrl = group.maps.filter((m) => m.url);
+      expect(within(section).getAllByRole("link")).toHaveLength(
+        mapsWithUrl.length,
+      );
+      mapsWithUrl.forEach((map) => {
         const link = within(section).getByRole("link", { name: map.title });
         expect(link).toHaveAttribute("href", map.url);
-        expect(link).toHaveClass("maps-link");
+        expect(link).toHaveClass("maps-link", "maps-link--solid");
       });
     });
+  });
+
+  it("renders maps without a URL as non-clickable 'coming soon' pills", () => {
+    renderMaps();
+    const pill = screen.getByText("Future Place");
+    expect(pill.tagName).toBe("SPAN");
+    expect(pill).toHaveClass("maps-link--soon");
+    expect(pill).toHaveTextContent(/^\s*Future Place$/);
+    expect(pill.closest("a")).toBeNull();
+    expect(
+      screen.queryByRole("link", { name: /future place/i }),
+    ).not.toBeInTheDocument();
   });
 
   it("opens map links in a new tab", () => {
     renderMaps();
     mockMapGroups
       .flatMap((g) => g.maps)
+      .filter((m) => m.url)
       .forEach((map) => {
         const link = screen.getByRole("link", { name: map.title });
         expect(link).toHaveAttribute("target", "_blank");

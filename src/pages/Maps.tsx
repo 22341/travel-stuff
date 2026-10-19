@@ -26,18 +26,25 @@ function Maps() {
             <section className="maps-group" key={group.heading}>
               <h2 className="maps-group__heading">{group.heading}</h2>
               <div className="maps-group__links">
-                {group.maps.map((map) => (
-                  <a
-                    href={map.url}
-                    className="maps-link"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    key={map.title}
-                  >
-                    <MapIcon className="maps-link__icon" aria-hidden="true" />{" "}
-                    {map.title}
-                  </a>
-                ))}
+                {group.maps.map((map) =>
+                  map.url ? (
+                    <a
+                      href={map.url}
+                      className="maps-link maps-link--solid"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      key={map.title}
+                    >
+                      <MapIcon className="maps-link__icon" aria-hidden="true" />{" "}
+                      {map.title}
+                    </a>
+                  ) : (
+                    <span className="maps-link maps-link--soon" key={map.title}>
+                      <MapIcon className="maps-link__icon" aria-hidden="true" />{" "}
+                      {map.title}
+                    </span>
+                  ),
+                )}
               </div>
             </section>
           ))}

@@ -56,8 +56,7 @@ function Home() {
             Itineraries
           </h1>
           <Link to="/maps" className="maps-link">
-            <MapIcon className="maps-link__icon" aria-hidden="true" /> Trip
-            maps
+            <MapIcon className="maps-link__icon" aria-hidden="true" /> Trip maps
           </Link>
         </header>
 

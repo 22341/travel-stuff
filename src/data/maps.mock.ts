@@ -12,6 +12,10 @@ export const mockMapGroups: MapGroup[] = [
         title: "Another Place",
         url: "https://www.google.com/maps/d/viewer?mid=another-place",
       },
+      {
+        title: "Future Place",
+        url: "",
+      },
     ],
   },
   {

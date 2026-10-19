@@ -48,7 +48,7 @@ body {
   font-size: 0.95rem;
   font-weight: 500;
   text-decoration: none;
-  padding: 0.5rem 0.9rem;
+  padding: 0.4rem 0.8rem;
   border: 1px solid #d8d0ee;
   border-radius: 100px;
   box-shadow: 0 1px 3px rgba(42, 31, 110, 0.08);
@@ -356,87 +356,120 @@ body {
   gap: 0.6rem;
 }
 
+.maps-link--solid {
+  background: #6a5cc4;
+  border-color: #6a5cc4;
+  color: white;
+}
+
+.maps-link--solid .maps-link__icon {
+  color: white;
+}
+
+.maps-link--solid:hover,
+.maps-link--solid:focus-visible {
+  background: #4e4199;
+  border-color: #4e4199;
+}
+
+.maps-link--solid:focus-visible {
+  outline: 2px solid #2a1f6e;
+  outline-offset: 2px;
+}
+
+.maps-link--soon,
+.maps-link--soon:hover {
+  background: #f0eef8;
+  border: 1px dashed #c9c0e6;
+  color: #625d80;
+  box-shadow: none;
+  transform: none;
+  cursor: default;
+}
+
+.maps-link--soon .maps-link__icon {
+  color: #a39bd0;
+}
+
 /* Mobile Responsive */
 @media (max-width: 768px) {
-  @media (max-width: 768px) {
-    .home-page {
-      padding: 1.5rem 0;
-    }
+  .home-page {
+    padding: 1.5rem 0;
+  }
 
-    .container {
-      padding: 0 12px;
-    }
+  .container {
+    padding: 0 12px;
+  }
 
-    .home-page h1 {
-      font-size: 1.8rem;
-      margin-bottom: 0.6rem;
-    }
+  .home-page h1 {
+    font-size: 1.8rem;
+    margin-bottom: 0.6rem;
+  }
 
-    .home-heading {
-      margin-bottom: 1.3rem;
-    }
+  .home-heading {
+    margin-bottom: 1.3rem;
+  }
 
-    .year-heading {
-      font-size: 0.8rem;
-    }
+  .year-heading {
+    font-size: 0.8rem;
+  }
 
-    .trip-row__title {
-      font-size: 1.2rem;
-    }
+  .trip-row__title {
+    font-size: 1.2rem;
+  }
 
-    .trip-row__countdown {
-      font-size: 1.4rem;
-    }
+  .trip-row__countdown {
+    font-size: 1.4rem;
+  }
 
-    .trip-row__right {
-      padding: 12px 14px;
-    }
+  .trip-row__right {
+    padding: 12px 14px;
+  }
 
-    /* Itinerary page mobile — unchanged from before */
-    .back-button {
-      margin: 1rem 0;
-    }
+  /* Itinerary page mobile — unchanged from before */
+  .back-button {
+    margin: 1rem 0;
+  }
 
-    .itinerary-content {
-      font-size: 0.9rem;
-      padding: 1rem;
-    }
+  .itinerary-content {
+    font-size: 0.9rem;
+    padding: 1rem;
+  }
 
-    .maps-content {
-      padding: 1rem;
-    }
+  .maps-content {
+    padding: 1rem;
+  }
 
-    .maps-content h1 {
-      font-size: 1.4rem;
-    }
+  .maps-content h1 {
+    font-size: 1.4rem;
+  }
 
-    .maps-group__heading {
-      font-size: 0.8rem;
-    }
+  .maps-group__heading {
+    font-size: 0.8rem;
+  }
 
-    .itinerary-content ul,
-    .itinerary-content ol {
-      margin-left: 1.2rem;
-      margin-bottom: 0.9rem;
-    }
+  .itinerary-content ul,
+  .itinerary-content ol {
+    margin-left: 1.2rem;
+    margin-bottom: 0.9rem;
+  }
 
-    .itinerary-content h1 {
-      font-size: 1.4rem;
-    }
-    .itinerary-content h2 {
-      font-size: 1.2rem;
-    }
-    .itinerary-content h3 {
-      font-size: 1rem;
-    }
+  .itinerary-content h1 {
+    font-size: 1.4rem;
+  }
+  .itinerary-content h2 {
+    font-size: 1.2rem;
+  }
+  .itinerary-content h3 {
+    font-size: 1rem;
+  }
 
-    .itinerary-content table {
-      font-size: 0.8rem;
-    }
+  .itinerary-content table {
+    font-size: 0.8rem;
+  }
 
-    .itinerary-content th,
-    .itinerary-content td {
-      padding: 0.5rem;
-    }
+  .itinerary-content th,
+  .itinerary-content td {
+    padding: 0.5rem;
   }
 }

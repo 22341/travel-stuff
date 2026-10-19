@@ -19,12 +19,14 @@ describe("maps data", () => {
     expect(new Set(headings).size).toBe(headings.length);
   });
 
-  it("each map has a title and a Google Maps URL", () => {
+  it("each map has a title and either a Google Maps URL or none yet", () => {
     mapGroups.forEach((group) => {
       group.maps.forEach((map) => {
         expect(typeof map.title).toBe("string");
         expect(map.title.length).toBeGreaterThan(0);
-        expect(map.url).toMatch(/^https:\/\/www\.google\.com\/maps\//);
+        if (map.url) {
+          expect(map.url).toMatch(/^https:\/\/www\.google\.com\/maps\//);
+        }
       });
     });
   });
