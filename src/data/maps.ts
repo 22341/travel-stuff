@@ -105,11 +105,11 @@ export const mapGroups: MapGroup[] = [
     maps: [
       {
         title: "Manila",
-        url: "",
+        url: "https://www.google.com/maps/d/edit?mid=1E2ljzvT9iN24pAJOyE2mf0iBuiFxSZU&usp=sharing",
       },
       {
         title: "Cebu City",
-        url: "",
+        url: "https://www.google.com/maps/d/edit?mid=1CQ56Oc1vjxd3_zndeEhKjqt0560p9JE&usp=sharing",
       },
       {
         title: "Tokyo",
