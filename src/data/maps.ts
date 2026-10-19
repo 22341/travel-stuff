@@ -26,4 +26,17 @@ export const mapGroups: MapGroup[] = [
       },
     ],
   },
+  {
+    heading: "Southeast Asia",
+    maps: [
+      {
+        title: "Kuala Lumpur",
+        url: "https://www.google.com/maps/d/edit?mid=1NRSq2mAoaq1jhtI4lGbVVEwuDpnYyPY&usp=sharing",
+      },
+      {
+        title: "Phnom Penh",
+        url: "https://www.google.com/maps/d/edit?mid=1Z-sqQguMlX4b26h3OX8okwjheHg207M&usp=sharing",
+      },
+    ],
+  },
 ];
