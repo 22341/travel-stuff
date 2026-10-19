@@ -33,7 +33,7 @@ Personal travel site (React 19 + Vite + React Router 7, TypeScript), deployed on
 - Vitest + Testing Library, one `*.test.tsx` next to each page/data file. Page tests mock the data modules with `vi.mock("../data/trips")` / `vi.mock("../data/maps")` using `trips.mock.ts` / `maps.mock.ts`.
 - Husky: pre-commit runs `npm test`, pre-push runs `npm run test:coverage`. Failing tests block commits.
 - Before finishing: `npm test`, `npm run type-check`, `npm run lint`.
-- Files are checked out with CRLF line endings on Windows, so plain `npx prettier --check src` flags almost everything. Use `npx prettier --check src --end-of-line auto` to see real formatting issues.
+- `.gitattributes` forces LF line endings (overriding Windows `core.autocrlf`), so `npx prettier --check src` should pass cleanly.
 
 ## Working with the owner
 
