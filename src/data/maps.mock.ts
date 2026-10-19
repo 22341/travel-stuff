@@ -1,12 +1,26 @@
-import { TripMap } from "./maps";
+import { MapGroup } from "./maps";
 
-export const mockMaps: TripMap[] = [
+export const mockMapGroups: MapGroup[] = [
   {
-    title: "Test City",
-    url: "https://www.google.com/maps/d/viewer?mid=test-city",
+    heading: "Test Country",
+    maps: [
+      {
+        title: "Test City",
+        url: "https://www.google.com/maps/d/viewer?mid=test-city",
+      },
+      {
+        title: "Another Place",
+        url: "https://www.google.com/maps/d/viewer?mid=another-place",
+      },
+    ],
   },
   {
-    title: "Another Place",
-    url: "https://www.google.com/maps/d/viewer?mid=another-place",
+    heading: "Second Group",
+    maps: [
+      {
+        title: "Lone Map",
+        url: "https://www.google.com/maps/d/viewer?mid=lone-map",
+      },
+    ],
   },
 ];

@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import { Link } from "react-router-dom";
-import { tripMaps } from "../data/maps";
+import { MapIcon } from "lucide-react";
+import { mapGroups } from "../data/maps";
 
 function Maps() {
   // Update document title
@@ -21,15 +22,25 @@ function Maps() {
         </nav>
         <div className="maps-content">
           <h1>Trip Maps</h1>
-          <ul className="maps-list">
-            {tripMaps.map((map) => (
-              <li key={map.title}>
-                <a href={map.url} target="_blank" rel="noopener noreferrer">
-                  {map.title}
-                </a>
-              </li>
-            ))}
-          </ul>
+          {mapGroups.map((group) => (
+            <section className="maps-group" key={group.heading}>
+              <h2 className="maps-group__heading">{group.heading}</h2>
+              <div className="maps-group__links">
+                {group.maps.map((map) => (
+                  <a
+                    href={map.url}
+                    className="maps-link"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    key={map.title}
+                  >
+                    <MapIcon className="maps-link__icon" aria-hidden="true" />{" "}
+                    {map.title}
+                  </a>
+                ))}
+              </div>
+            </section>
+          ))}
         </div>
       </div>
     </main>

@@ -335,23 +335,25 @@ body {
   padding-bottom: 0.5rem;
 }
 
-.maps-list {
-  list-style: none;
+.maps-group + .maps-group {
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #d8d0ee;
+}
+
+.maps-group__heading {
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #2a1f6e;
+  margin-bottom: 0.75rem;
+}
+
+.maps-group__links {
   display: flex;
-  flex-direction: column;
-  gap: 0.75rem;
-}
-
-.maps-list a {
-  font-size: 1.05rem;
-  color: #312c85;
-  text-decoration: none;
-  border-bottom: 1px solid #312c85;
-}
-
-.maps-list a:hover {
-  color: #2f0d68;
-  border-bottom-color: #2f0d68;
+  flex-wrap: wrap;
+  gap: 0.6rem;
 }
 
 /* Mobile Responsive */
@@ -406,6 +408,10 @@ body {
 
     .maps-content h1 {
       font-size: 1.4rem;
+    }
+
+    .maps-group__heading {
+      font-size: 0.8rem;
     }
 
     .itinerary-content ul,
