@@ -25,13 +25,13 @@
 
 ### Phase 2: Tuscany & Umbria
 
-- **Siena:** 2 nights (by train) _Arrive: Sun 18 Jun 2028_
+- **Florence:** 4 nights (by train) _Arrive: Sun 18 Jun 2028_
+  - **Recommended hotel:** _TBC_ — ~£130/night (estimate)
+  - Duomo & Brunelleschi's dome, Uffizi (book ahead, closed Mon), Oltrarno & Piazzale Michelangelo, Mercato Centrale
+  - Day trips: Lucca (cycle the walls), Fiesole, Greve in Chianti
+- **Siena:** 2 nights (by train) _Arrive: Thu 22 Jun 2028_
   - **Recommended hotel:** _TBC_ — ~£100/night (estimate)
   - Piazza del Campo & Torre del Mangia, Duomo & Piccolomini Library, day trip to Montalcino by local bus (Brunello tastings, Fortezza)
-- **Florence:** 4 nights (by train) _Arrive: Tue 20 Jun 2028_
-  - **Recommended hotel:** _TBC_ — ~£130/night (estimate)
-  - Duomo & Brunelleschi's dome, Uffizi (book ahead), Oltrarno & Piazzale Michelangelo, Mercato Centrale
-  - Day trips: Lucca (cycle the walls), Fiesole, Greve in Chianti
 - **Orvieto:** 2 nights (by train) _Arrive: Sat 24 Jun 2028_
   - **Recommended hotel:** _TBC_ — ~£90/night (estimate)
   - Duomo, Pozzo di San Patrizio & underground city tour, Orvieto Classico wine, day trip to Civita di Bagnoregio
@@ -54,9 +54,9 @@
 | 10 Jun | Bergamo Airport → Bergamo (bus) | 15m | £3 | |
 | 12 Jun | Bergamo → Verona (change Brescia) | 1h 45m | £15 | |
 | 15 Jun | Verona → Bologna | 1h 00m | £20 | |
-| 18 Jun | Bologna → Siena (change Florence) | 2h 15m | £25 | |
-| 20 Jun | Siena → Florence | 1h 30m | £9 | |
-| 24 Jun | Florence → Orvieto | 1h 45m | £15 | |
+| 18 Jun | Bologna → Florence | 40m | £15 | |
+| 22 Jun | Florence → Siena | 1h 30m | £9 | |
+| 24 Jun | Siena → Orvieto (change Chiusi) | 2h 15m | £12 | |
 | 26 Jun | Orvieto → Salerno (change Rome) | 3h 15m | £35 | |
 | 28 Jun | Salerno → Naples | 40m | £10 | |
 | 1 Jul | Naples → Naples Airport (Alibus) | 20m | £5 | |
@@ -71,9 +71,9 @@ _All costs are early estimates per person; flight costs assume one cabin bag._
 | Item | Cost |
 | ---- | ---- |
 | Flights (£70 + £80) | £150 |
-| Rail (£15 + £20 + £25 + £9 + £15 + £35 + £10) | £129 |
+| Rail (£15 + £20 + £15 + £9 + £12 + £35 + £10) | £116 |
 | Airport transfers (£3 + £5) | £8 |
-| **Transport total** | **£287** |
+| **Transport total** | **£274** |
 
 ### Accommodation
 
@@ -82,8 +82,8 @@ _All costs are early estimates per person; flight costs assume one cabin bag._
 | Bergamo | 2 | £90 | £180 |
 | Verona | 3 | £110 | £330 |
 | Bologna | 3 | £100 | £300 |
-| Siena | 2 | £100 | £200 |
 | Florence | 4 | £130 | £520 |
+| Siena | 2 | £100 | £200 |
 | Orvieto | 2 | £90 | £180 |
 | Salerno | 2 | £90 | £180 |
 | Naples | 3 | £100 | £300 |
@@ -104,18 +104,18 @@ _All costs are early estimates per person; flight costs assume one cabin bag._
 
 | Category | Cost |
 | -------- | ---- |
-| Transport | £287 |
+| Transport | £274 |
 | Accommodation | £2,190 |
 | Daily spend | £2,640 |
-| **Total per person** | **£5,117** |
+| **Total per person** | **£5,104** |
 
 ## Complete Trip Budget
 
 | Category | Cost |
 | -------- | ---- |
-| Core costs (transport + accommodation) | £2,477 |
+| Core costs (transport + accommodation) | £2,464 |
 | Additional expenses (daily spend) | £2,640 |
-| **Total per person** | **£5,117** |
+| **Total per person** | **£5,104** |
 
 ## Visa Requirements
 
