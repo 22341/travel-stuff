@@ -1,5 +1,5 @@
 import { render, screen, within } from "@testing-library/react";
-import { MemoryRouter } from "react-router-dom";
+import { MemoryRouter } from "react-router";
 import { vi } from "vitest";
 import Maps from "./Maps";
 import { mockMapGroups } from "../data/maps.mock";

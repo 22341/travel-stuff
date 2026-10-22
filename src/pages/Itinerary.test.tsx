@@ -1,5 +1,5 @@
 import { render, screen, waitFor, fireEvent } from "@testing-library/react";
-import { MemoryRouter } from "react-router-dom";
+import { MemoryRouter } from "react-router";
 import { vi } from "vitest";
 import Itinerary from "./Itinerary";
 
@@ -26,8 +26,8 @@ vi.mock("../data/trips", async () => {
 let mockSlug: string | undefined = "test-trip-future";
 const mockNavigate = vi.fn();
 
-vi.mock("react-router-dom", async () => ({
-  ...(await vi.importActual("react-router-dom")),
+vi.mock("react-router", async () => ({
+  ...(await vi.importActual("react-router")),
   useParams: () => ({ slug: mockSlug }),
   useNavigate: () => mockNavigate,
 }));

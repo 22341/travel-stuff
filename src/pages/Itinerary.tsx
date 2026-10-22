@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { useParams, Link, useNavigate } from "react-router-dom";
+import { useParams, Link, useNavigate } from "react-router";
 import { marked } from "marked";
 import DOMPurify from "dompurify";
 import { trips } from "../data/trips";

@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import { Link } from "react-router";
 import { trips, Trip } from "../data/trips";
 import { useMemo } from "react";
 import { Globe2, MapIcon } from "lucide-react";

@@ -1,6 +1,6 @@
 # Travel Itineraries – notes for Claude
 
-Personal travel site (React 19 + Vite + React Router 7, TypeScript), deployed on Vercel. See README.md for setup, structure and how to add a trip.
+Personal travel site (React 19 + Vite + React Router 8, TypeScript 6), deployed on Vercel (Node 24; `engines` requires >=22.22). See README.md for setup, structure and how to add a trip.
 
 ## How it fits together
 
