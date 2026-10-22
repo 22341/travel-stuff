@@ -50,7 +50,8 @@
 
 | Date | Route | Duration | Cost | Bkd |
 | ---- | ----- | -------- | ---- | --- |
-| 10 Jun | Manchester → Bergamo (BGY), Ryanair | 2h 10m | £70 | |
+| 10 Jun | Leeds → Manchester Airport (train) | 1h 20m | £20 | |
+| 10 Jun | Manchester → Bergamo (BGY), Ryanair | 2h 10m | £120 | |
 | 10 Jun | Bergamo Airport → Bergamo (bus) | 15m | £3 | |
 | 12 Jun | Bergamo → Verona (change Brescia) | 1h 45m | £15 | |
 | 15 Jun | Verona → Bologna | 1h 00m | £20 | |
@@ -60,9 +61,10 @@
 | 26 Jun | Orvieto → Salerno (change Rome) | 3h 15m | £35 | |
 | 28 Jun | Salerno → Naples | 40m | £10 | |
 | 1 Jul | Naples → Naples Airport (Alibus) | 20m | £5 | |
-| 1 Jul | Naples (NAP) → Manchester, easyJet / Ryanair / Jet2 | 3h 05m | £80 | |
+| 1 Jul | Naples (NAP) → Manchester, easyJet / Ryanair / Jet2 | 3h 05m | £130 | |
+| 1 Jul | Manchester Airport → Leeds (train) | 1h 20m | £20 | |
 
-_All costs are early estimates per person; flight costs assume one cabin bag._
+_All costs are early estimates per person; flight costs include one cabin bag and one hold bag (~£50 per flight)._
 
 ## Total Trip Cost Estimate
 
@@ -70,10 +72,11 @@ _All costs are early estimates per person; flight costs assume one cabin bag._
 
 | Item | Cost |
 | ---- | ---- |
-| Flights (£70 + £80) | £150 |
+| Flights (£120 + £130) | £250 |
 | Rail (£15 + £20 + £15 + £9 + £12 + £35 + £10) | £116 |
 | Airport transfers (£3 + £5) | £8 |
-| **Transport total** | **£274** |
+| UK trains, Leeds ↔ Manchester Airport (£20 + £20) | £40 |
+| **Transport total** | **£414** |
 
 ### Accommodation
 
@@ -104,18 +107,18 @@ _All costs are early estimates per person; flight costs assume one cabin bag._
 
 | Category | Cost |
 | -------- | ---- |
-| Transport | £274 |
+| Transport | £414 |
 | Accommodation | £2,178 |
 | Daily spend | £2,640 |
-| **Total per person** | **£5,092** |
+| **Total per person** | **£5,232** |
 
 ## Complete Trip Budget
 
 | Category | Cost |
 | -------- | ---- |
-| Core costs (transport + accommodation) | £2,452 |
+| Core costs (transport + accommodation) | £2,592 |
 | Additional expenses (daily spend) | £2,640 |
-| **Total per person** | **£5,092** |
+| **Total per person** | **£5,232** |
 
 ## Visa Requirements
 
