@@ -14,35 +14,35 @@
 ### Phase 1: Northern Italy
 
 - **Bergamo:** 2 nights (by flight) _Arrive: Sat 10 Jun 2028_
-  - **Recommended hotel:** _TBC_ — ~£90/night (estimate)
+  - **Recommended hotel:** [Residenza del Borgo](https://www.booking.com/hotel/it/borgo-santa-caterina-bergamo.html) — ~£93/night
   - Città Alta via the funicular, Piazza Vecchia & Cappella Colleoni, Venetian walls (UNESCO), San Vigilio funicular for views
 - **Verona:** 3 nights (by train) _Arrive: Mon 12 Jun 2028_
-  - **Recommended hotel:** _TBC_ — ~£110/night (estimate)
+  - **Recommended hotel:** [Hotel Marco Polo](https://www.booking.com/hotel/it/marco-polo-verona.html) — ~£114/night
   - Arena (summer opera festival season), Piazza delle Erbe & Castelvecchio, day trip to Sirmione on Lake Garda, day trip to Vicenza or Padua
 - **Bologna:** 3 nights (by train) _Arrive: Thu 15 Jun 2028_
-  - **Recommended hotel:** _TBC_ — ~£100/night (estimate)
+  - **Recommended hotel:** [Hotel Centrale](https://www.booking.com/hotel/it/hotelparadisebologna.html) — ~£122/night
   - Piazza Maggiore & the Two Towers, Quadrilatero food market, day trips to Modena and Parma (balsamic, Parmigiano, prosciutto), Ferrara optional
 
 ### Phase 2: Tuscany & Umbria
 
 - **Florence:** 4 nights (by train) _Arrive: Sun 18 Jun 2028_
-  - **Recommended hotel:** _TBC_ — ~£130/night (estimate)
+  - **Recommended hotel:** [Hotel Boccaccio](https://www.booking.com/hotel/it/boccaccio.html) — ~£117/night
   - Duomo & Brunelleschi's dome, Uffizi (book ahead, closed Mon), Oltrarno & Piazzale Michelangelo, Mercato Centrale
   - Day trips: Lucca (cycle the walls), Fiesole, Greve in Chianti
 - **Siena:** 2 nights (by train) _Arrive: Thu 22 Jun 2028_
-  - **Recommended hotel:** _TBC_ — ~£100/night (estimate)
+  - **Recommended hotel:** [Hotel Duomo](https://www.booking.com/hotel/it/duomo-siena.html) — ~£84/night
   - Piazza del Campo & Torre del Mangia, Duomo & Piccolomini Library, day trip to Montalcino by local bus (Brunello tastings, Fortezza)
 - **Orvieto:** 2 nights (by train) _Arrive: Sat 24 Jun 2028_
-  - **Recommended hotel:** _TBC_ — ~£90/night (estimate)
+  - **Recommended hotel:** [Hotel Corso](https://www.booking.com/hotel/it/corso-orvieto.html) — ~£105/night
   - Duomo, Pozzo di San Patrizio & underground city tour, Orvieto Classico wine, day trip to Civita di Bagnoregio
 
 ### Phase 3: Campania
 
 - **Salerno:** 2 nights (by train) _Arrive: Mon 26 Jun 2028_
-  - **Recommended hotel:** _TBC_ — ~£90/night (estimate)
+  - **Recommended hotel:** [Hotel Plaza](https://www.booking.com/hotel/it/plaza-salerno.html) — ~£84/night
   - Lungomare & old town, ferry to Amalfi & Positano, Paestum Greek temples, Pompeii
 - **Naples:** 3 nights (by train) _Arrive: Wed 28 Jun 2028_
-  - **Recommended hotel:** _TBC_ — ~£100/night (estimate)
+  - **Recommended hotel:** [Museo Suite](https://www.booking.com/hotel/it/museo-suite.html) — ~£90/night
   - Centro Storico & Spaccanapoli, National Archaeological Museum, Neapolitan pizza, day trips to Herculaneum and Vesuvius
 - **Home:** Naples → Manchester (by flight) _Sat 1 Jul 2028_
 
@@ -79,15 +79,15 @@ _All costs are early estimates per person; flight costs assume one cabin bag._
 
 | Stop | Nights | Per night | Total |
 | ---- | ------ | --------- | ----- |
-| Bergamo | 2 | £90 | £180 |
-| Verona | 3 | £110 | £330 |
-| Bologna | 3 | £100 | £300 |
-| Florence | 4 | £130 | £520 |
-| Siena | 2 | £100 | £200 |
-| Orvieto | 2 | £90 | £180 |
-| Salerno | 2 | £90 | £180 |
-| Naples | 3 | £100 | £300 |
-| **Total** | **21** | | **£2,190** |
+| Bergamo | 2 | £93 | £186 |
+| Verona | 3 | £114 | £342 |
+| Bologna | 3 | £122 | £366 |
+| Florence | 4 | £117 | £468 |
+| Siena | 2 | £84 | £168 |
+| Orvieto | 2 | £105 | £210 |
+| Salerno | 2 | £84 | £168 |
+| Naples | 3 | £90 | £270 |
+| **Total** | **21** | | **£2,178** |
 
 ### Daily Spend
 
@@ -105,17 +105,17 @@ _All costs are early estimates per person; flight costs assume one cabin bag._
 | Category | Cost |
 | -------- | ---- |
 | Transport | £274 |
-| Accommodation | £2,190 |
+| Accommodation | £2,178 |
 | Daily spend | £2,640 |
-| **Total per person** | **£5,104** |
+| **Total per person** | **£5,092** |
 
 ## Complete Trip Budget
 
 | Category | Cost |
 | -------- | ---- |
-| Core costs (transport + accommodation) | £2,464 |
+| Core costs (transport + accommodation) | £2,452 |
 | Additional expenses (daily spend) | £2,640 |
-| **Total per person** | **£5,104** |
+| **Total per person** | **£5,092** |
 
 ## Visa Requirements
 
