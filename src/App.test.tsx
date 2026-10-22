@@ -12,12 +12,6 @@ vi.mock("marked", () => ({
   },
 }));
 
-vi.mock("dompurify", () => ({
-  default: {
-    sanitize: (html: string) => html,
-  },
-}));
-
 vi.mock("./data/trips", async () => {
   const data = await import("./data/trips.mock");
   return { trips: data.mockTrips };

@@ -4,6 +4,18 @@ import { marked } from "marked";
 import DOMPurify from "dompurify";
 import { trips } from "../data/trips";
 
+// Open external links in a new tab. DOMPurify hooks are global, so register once.
+DOMPurify.addHook("afterSanitizeAttributes", (node) => {
+  if (
+    node instanceof HTMLAnchorElement &&
+    /^https?:$/.test(node.protocol) &&
+    node.host !== window.location.host
+  ) {
+    node.setAttribute("target", "_blank");
+    node.setAttribute("rel", "noopener noreferrer");
+  }
+});
+
 type ItineraryState =
   | { status: "loading" }
   | { status: "error"; message: string }
@@ -61,20 +73,19 @@ function Itinerary() {
     };
   }, [trip]);
 
-  // Handle external links - open in new tab
+  // Route plain clicks on same-site links through the router (no page reload).
+  // External links, modifier clicks and in-page anchors use browser defaults.
   const handleContentClick = (e: React.MouseEvent<HTMLDivElement>) => {
-    const link = (e.target as HTMLElement).closest("a");
-    const href = link?.href;
-
-    if (!href || href.startsWith("#")) return;
-
-    const isExternal = new URL(href).hostname !== window.location.hostname;
-    e.preventDefault();
-    if (isExternal) {
-      window.open(href, "_blank", "noopener,noreferrer");
-    } else {
-      navigate(href!);
+    if (e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) {
+      return;
     }
+
+    const link = (e.target as HTMLElement).closest("a");
+    if (!link || link.target || link.origin !== window.location.origin) return;
+    if (link.pathname === window.location.pathname && link.hash) return;
+
+    e.preventDefault();
+    navigate(link.pathname + link.search + link.hash);
   };
 
   if (!trip) {

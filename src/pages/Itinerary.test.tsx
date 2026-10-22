@@ -12,12 +12,6 @@ vi.mock("marked", () => ({
   },
 }));
 
-vi.mock("dompurify", () => ({
-  default: {
-    sanitize: (html: string) => html,
-  },
-}));
-
 vi.mock("../data/trips", async () => {
   const data = await import("../data/trips.mock");
   return { trips: data.mockTrips };
@@ -168,26 +162,26 @@ describe("Itinerary", () => {
     });
   });
 
-  describe("external link click handler", () => {
+  describe("links in itinerary content", () => {
+    // Stops jsdom attempting (unimplemented) navigation for clicks we don't intercept
+    const blockNavigation = (e: MouseEvent) => e.preventDefault();
+
     beforeEach(() => {
-      vi.stubGlobal("open", vi.fn());
+      document.addEventListener("click", blockNavigation);
     });
 
     afterEach(() => {
-      vi.unstubAllGlobals();
+      document.removeEventListener("click", blockNavigation);
     });
 
-    it("opens external links in new tab and prevents default", async () => {
+    async function renderWithMarkdown(markdown: string, linkName: RegExp) {
       mockSlug = "test-trip-future";
       vi.stubGlobal(
         "fetch",
         vi.fn(() =>
           Promise.resolve({
             ok: true,
-            text: () =>
-              Promise.resolve(
-                "# Porto\n\n[External site](https://example.com)",
-              ),
+            text: () => Promise.resolve(markdown),
           }),
         ),
       );
@@ -198,81 +192,55 @@ describe("Itinerary", () => {
         </MemoryRouter>,
       );
 
-      await waitFor(() => {
-        expect(
-          screen.getByRole("link", { name: /external site/i }),
-        ).toBeInTheDocument();
-      });
+      return screen.findByRole("link", { name: linkName });
+    }
 
-      const externalLink = screen.getByRole("link", { name: /external site/i });
-      fireEvent.click(externalLink);
-
-      expect(window.open).toHaveBeenCalledWith(
-        expect.stringContaining("example.com"),
-        "_blank",
-        "noopener,noreferrer",
+    it("opens external links in a new tab", async () => {
+      const link = await renderWithMarkdown(
+        "[External site](https://example.com)",
+        /external site/i,
       );
+
+      expect(link).toHaveAttribute("target", "_blank");
+      expect(link).toHaveAttribute("rel", "noopener noreferrer");
+
+      fireEvent.click(link);
+      expect(mockNavigate).not.toHaveBeenCalled();
     });
 
-    it("does not open internal links in new tab", async () => {
-      mockSlug = "test-trip-future";
-      vi.stubGlobal(
-        "fetch",
-        vi.fn(() =>
-          Promise.resolve({
-            ok: true,
-            text: () => Promise.resolve("# Porto\n\n[Internal](/other-page)"),
-          }),
-        ),
+    it("routes same-site links through the router", async () => {
+      const link = await renderWithMarkdown(
+        "[Other trip](/other-page?x=1#day-2)",
+        /other trip/i,
       );
 
-      render(
-        <MemoryRouter>
-          <Itinerary />
-        </MemoryRouter>,
-      );
+      expect(link).not.toHaveAttribute("target");
 
-      await waitFor(() => {
-        expect(
-          screen.getByRole("link", { name: /internal/i }),
-        ).toBeInTheDocument();
-      });
-
-      const internalLink = screen.getByRole("link", { name: /internal/i });
-      fireEvent.click(internalLink);
-
-      expect(window.open).not.toHaveBeenCalled();
+      fireEvent.click(link);
+      expect(mockNavigate).toHaveBeenCalledWith("/other-page?x=1#day-2");
     });
 
-    it("does not open anchor links in new tab", async () => {
-      mockSlug = "test-trip-future";
-      vi.stubGlobal(
-        "fetch",
-        vi.fn(() =>
-          Promise.resolve({
-            ok: true,
-            text: () =>
-              Promise.resolve("# Porto\n\n[Jump to section](#section)"),
-          }),
-        ),
+    it("leaves modifier clicks on same-site links to the browser", async () => {
+      const link = await renderWithMarkdown(
+        "[Other trip](/other-page)",
+        /other trip/i,
       );
 
-      render(
-        <MemoryRouter>
-          <Itinerary />
-        </MemoryRouter>,
+      fireEvent.click(link, { ctrlKey: true });
+      fireEvent.click(link, { metaKey: true });
+      expect(mockNavigate).not.toHaveBeenCalled();
+    });
+
+    it("leaves in-page anchor links to the browser", async () => {
+      const link = await renderWithMarkdown(
+        "[Jump to section](#section)",
+        /jump to section/i,
       );
 
-      await waitFor(() => {
-        expect(
-          screen.getByRole("link", { name: /jump to section/i }),
-        ).toBeInTheDocument();
-      });
+      expect(link).not.toHaveAttribute("target");
 
-      const anchorLink = screen.getByRole("link", { name: /jump to section/i });
-      fireEvent.click(anchorLink);
-
-      expect(window.open).not.toHaveBeenCalled();
+      fireEvent.click(link);
+      expect(mockNavigate).not.toHaveBeenCalled();
     });
   });
 });
