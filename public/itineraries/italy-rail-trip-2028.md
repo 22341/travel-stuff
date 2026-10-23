@@ -40,10 +40,10 @@
 
 - **Salerno:** 2 nights (by train) _Arrive: Mon 26 Jun 2028_
   - **Recommended hotel:** [Hotel Plaza](https://www.booking.com/hotel/it/plaza-salerno.html) — ~£84/night
-  - Lungomare & old town, ferry to Amalfi & Positano, Paestum Greek temples, Pompeii
+  - Lungomare & old town, ferry to Amalfi & Positano, Paestum Greek temples
 - **Naples:** 3 nights (by train) _Arrive: Wed 28 Jun 2028_
   - **Recommended hotel:** [Museo Suite](https://www.booking.com/hotel/it/museo-suite.html) — ~£90/night
-  - Centro Storico & Spaccanapoli, National Archaeological Museum, Neapolitan pizza, day trips to Herculaneum and Vesuvius
+  - Centro Storico & Spaccanapoli, National Archaeological Museum, Neapolitan pizza, day trips to Pompeii, Herculaneum and Vesuvius
 - **Home:** Naples → Manchester (by flight) _Sat 1 Jul 2028_
 
 ## Transportation Schedule
