@@ -39,7 +39,7 @@ export const mapGroups: MapGroup[] = [
       },
       {
         title: "Sydney",
-        url: "",
+        url: "https://www.google.com/maps/d/viewer?mid=1PlwinaOc2o2fOTpsCDfpXywWQFcN8U0&ll=-33.87324530000001%2C151.20713289999998&z=17",
       },
       {
         title: "Brisbane",
