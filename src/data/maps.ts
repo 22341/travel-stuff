@@ -137,7 +137,7 @@ export const mapGroups: MapGroup[] = [
       },
       {
         title: "Seoul",
-        url: "",
+        url: "https://www.google.com/maps/d/edit?hl=en&mid=1VjNbYkQcdU5625e1YEGq8tZx3a4YmXI&ll=37.57254183861811%2C126.98388408861763&z=15",
       },
     ],
   },
