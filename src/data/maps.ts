@@ -135,6 +135,10 @@ export const mapGroups: MapGroup[] = [
         title: "Kanazawa",
         url: "https://www.google.com/maps/d/edit?mid=1CTt2TYTa6UbV6pfuDxR_IvrUepZ80Ec&usp=sharing",
       },
+      {
+        title: "Seoul",
+        url: "",
+      },
     ],
   },
   {
