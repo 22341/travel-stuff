@@ -177,6 +177,10 @@ export const mapGroups: MapGroup[] = [
         title: "Paris",
         url: "https://www.google.com/maps/d/edit?mid=1eIuv88qYB2z1o_XAkRgbBTaqDOJ_87w&usp=sharing",
       },
+      {
+        title: "Brussels",
+        url: "",
+      },
     ],
   },
 ];
