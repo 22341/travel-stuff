@@ -4,7 +4,7 @@ Markdown · Leeds-Istanbul-Rail-Loop-2027.md
 
 ## Overview
 
-**Total Duration:** 42 nights / 43 days **Dates:** Tue 17 Aug 2027 – Tue 28 Sep 2027 **Countries:** UK, France, Switzerland, Belgium, Germany, Austria, Croatia, Serbia, Bulgaria, Türkiye, Romania, Hungary, Poland, Netherlands (14) **Travel Style:** Solo, slow-paced rail loop with two overnight sleepers; built around four Diamond League athletics nights, with Istanbul the turning point at 4 nights. Walkable central hotels, craft beer where it fits. **Rail Pass:** **BOOKED** — Interrail Global Pass, 2-month continuous, 2nd class; £359 sale price ✓. Two months from a 17 Aug start runs to mid-October, comfortably past 28 Sep. **Check the pass start date is 17 Aug** (change it before activating if it's set to 16 Aug or another date). **Hotels:** 13 of 21 stays have bookings (25 of 40 nights), all on the right dates (Paris, Lausanne, Brussels, Strasbourg, Colmar, Freiburg, Zurich, Munich, Graz, Zagreb, Belgrade, Sofia, Istanbul). Five earlier bookings (London 28 Aug, Paris Louis Blanc, Graffalgar, Salzburg, Munich Metropol) are cancelled — see "Bookings Cancelled". The other 8 stays are recommendations only; nothing else new is booked.
+**Total Duration:** 42 nights / 43 days **Dates:** Tue 17 Aug 2027 – Tue 28 Sep 2027 **Countries:** UK, France, Switzerland, Belgium, Germany, Austria, Croatia, Serbia, Bulgaria, Türkiye, Romania, Hungary, Poland, Netherlands (14) **Travel Style:** Solo, slow-paced rail loop with two overnight sleepers; built around four Diamond League athletics nights, with Istanbul the turning point at 4 nights. Walkable central hotels, craft beer where it fits. **Rail Pass:** **BOOKED** — Interrail Global Pass, 2-month continuous, 2nd class; £359 sale price ✓. Two months from a 17 Aug start runs to mid-October, comfortably past 28 Sep. **Check the pass start date is 17 Aug** (change it before activating if it's set to 16 Aug or another date). **Hotels:** 17 of 21 stays have bookings (33 of 40 nights), all on the right dates (Paris, Lausanne, Brussels, Strasbourg, Colmar, Freiburg, Zurich, Munich, Graz, Zagreb, Belgrade, Sofia, Bucharest, Cluj-Napoca, Budapest, Wrocław, Istanbul). Five earlier bookings (London 28 Aug, Paris Louis Blanc, Graffalgar, Salzburg, Munich Metropol) are cancelled — see "Bookings Cancelled". The other 4 stays (Berlin, Cologne, Amsterdam, London) are recommendations only; nothing else new is booked.
 
 ### Athletics anchors (fixed dates)
 
@@ -25,16 +25,16 @@ Markdown · Leeds-Istanbul-Rail-Loop-2027.md
   - ✓ **BOOKED** — [Hotel Terminus Lyon](https://www.booking.com/hotel/fr/hotelterminuslyon.html) — £82/night — a couple of minutes' walk from Gare de Lyon for the morning Lausanne train; Gare du Nord is a short RER D hop away
   - Early LNER from Leeds, then an afternoon Eurostar from St Pancras; evening stroll along the Canal Saint-Martin
 - **Lausanne:** 1 night (by direct TGV Lyria from Paris Gare de Lyon) *Arrive: Wed 18 Aug 2027* — **Diamond League**
-  - ✓ **BOOKED** — [Hôtel des Voyageurs Boutique](https://www.booking.com/hotel/ch/voyageurs.html) — £146/night — free cancellation; between the old town and Flon
+  - ✓ **BOOKED** — [Hôtel des Voyageurs Boutique](https://www.booking.com/hotel/ch/voyageurs.html) — £146/night; between the old town and Flon
   - Olympic Museum and the Ouchy lakefront in the afternoon; the old town and cathedral; the meeting in the evening
 - **Brussels:** 2 nights (by TGV Lyria + Eurostar via Paris) *Arrive: Thu 19 Aug 2027* — **Diamond League on Fri 20 Aug**
-  - ✓ **BOOKED** — [Bedford Hotel Brussels](https://www.booking.com/hotel/be/bedford.html) — £97/night — free cancellation; near Anneessens premetro and walkable to Grand Place and Brussels-Midi
+  - ✓ **BOOKED** — [Bedford Hotel Brussels](https://www.booking.com/hotel/be/bedford.html) — £97/night; near Anneessens premetro and walkable to Grand Place and Brussels-Midi
   - Grand Place, Manneken Pis and the Royal Galleries; Cantillon brewery (lambic); a day trip to Bruges or Ghent (about 1h by train) on the 20th before the evening meeting
 - **Strasbourg:** 1 night (by direct TGV from Brussels-Midi) *Arrive: Sat 21 Aug 2027*
   - ✓ **BOOKED** — [ibis Styles Strasbourg Centre Petite France](https://www.booking.com/hotel/fr/choicehotelscomfortinncenter.html) — £81/night — a short walk from the station
   - Cathedral & astronomical clock; La Petite France canals; a winstub dinner
 - **Colmar:** 2 nights (by TER regional train, \~30 min) *Arrive: Sun 22 Aug 2027*
-  - ✓ **BOOKED** — [PAUL & PIA by Stay Collection](https://www.booking.com/hotel/fr/kyriad-colmar-gare.html) — £93/night — free cancellation; by the station
+  - ✓ **BOOKED** — [PAUL & PIA by Stay Collection](https://www.booking.com/hotel/fr/kyriad-colmar-gare.html) — £93/night; by the station
   - Little Venice and the half-timbered Old Town; Unterlinden Museum; Alsace wine and beer
   - With the extra day: the Alsace Wine Route villages (Eguisheim, Riquewihr, Kaysersberg) by local bus
 - **Freiburg im Breisgau:** 2 nights (by train, change at Mulhouse) *Arrive: Tue 24 Aug 2027*
@@ -42,7 +42,7 @@ Markdown · Leeds-Istanbul-Rail-Loop-2027.md
   - The Münster and the Münsterplatz market; the Bächle (street-side water channels); Schlossberg viewpoint
   - A Black Forest day trip on the 25th — the Höllentalbahn to Titisee is about 40 min on a regional train; beer gardens and a university-town evening
 - **Zurich:** 2 nights (by train, change at Basel) *Arrive: Thu 26 Aug 2027* — **Diamond League, 26 & 27 Aug**
-  - ✓ **BOOKED** — [Marktgasse Hotel](https://www.booking.com/hotel/ch/marktgasse.html) — £153/night — free cancellation; in the old town
+  - ✓ **BOOKED** — [Marktgasse Hotel](https://www.booking.com/hotel/ch/marktgasse.html) — £153/night; in the old town
   - Old town (Niederdorf) and Lake Zurich; Uetliberg for the city view; the two evening meetings
 
 ### Phase 2: Munich & Graz (28–31 Aug)
@@ -68,36 +68,36 @@ Markdown · Leeds-Istanbul-Rail-Loop-2027.md
   - With the extra day: a Rila Monastery day trip, or Boyana Church and Vitosha mountain on the edge of the city
   - The Istanbul sleeper leaves in the evening on Tue 7 Sep, so you'll have a day after checkout — use left luggage at the station
 - **Istanbul:** 4 nights (by overnight train) *Arrive: Wed 8 Sep 2027*
-  - ✓ **BOOKED** — [Hotel Nena Sultanahmet](https://www.booking.com/hotel/tr/nena.html) — £108/night — free cancellation and a room upgrade
+  - ✓ **BOOKED** — [Hotel Nena Sultanahmet](https://www.booking.com/hotel/tr/nena.html) — £108/night — room upgrade included
   - Hagia Sophia & the Blue Mosque; Topkapı Palace; Grand & Spice Bazaars; Basilica Cistern
   - Bosphorus ferry cruise; ferry to Kadıköy on the Asian side; Galata Tower & Karaköy; a traditional hammam
 
 ### Phase 4: Return — Romania, Central Europe & the Low Countries (12–27 Sep)
 
 - **Bucharest:** 2 nights (by overnight train, leaving Istanbul Sun 12 Sep) *Arrive: Mon 13 Sep 2027*
-  - **Recommended hotel:** [Vilacrosse Boutique Inn](https://www.booking.com/hotel/ro/vilacrosse-boutique-inn.html) (3★, Booking.com 9.2, Calea Victoriei) — £65/night, £130 for 2 nights, free cancellation
+  - ✓ **BOOKED** — [Vilacrosse Boutique Inn](https://www.booking.com/hotel/ro/vilacrosse-boutique-inn.html) — £56/night, £111 for 2 nights; Calea Victoriei
   - Palace of Parliament (book a tour); the Old Town (Lipscani); the open-air Village Museum
 - **Cluj-Napoca:** 2 nights (by direct InterRegio train via Brașov and the Carpathians, \~9–10h) *Arrive: Wed 15 Sep 2027*
-  - **Recommended hotel:** [Vila Siago](https://www.booking.com/hotel/ro/siago.html) (3★, Booking.com 8.9, Str. Republicii, city centre) — £51/night, £101 for 2 nights, free cancellation *(alt: [Palazzo Bellariva Dimora](https://www.booking.com/hotel/ro/palazzo-bellariva-dimora.html), 3★, 8.7, Piața Ștefan cel Mare, £55/night. Bloom Downtown Suites is an aparthotel, so dropped.)*
+  - ✓ **BOOKED** — [Vila Siago](https://www.booking.com/hotel/ro/siago.html) — £51/night, £101 for 2 nights; Str. Republicii, city centre
   - Union Square & St Michael's Church; the Botanical Garden
   - With the extra day: Turda Salt Mine (about 45 min by bus), or the old town cafés and bars after the long train day
 - **Budapest:** 2 nights (by train) *Arrive: Fri 17 Sep 2027*
-  - **Recommended hotel:** [Star Hotel by Mellow Mood Hotels](https://www.booking.com/hotel/hu/star.html) (3★, Booking.com 8.3, István utca, Erzsébetváros) — £100/night, £199 for 2 nights, free cancellation *(Budapest Museum Central has no availability for these dates)*
+  - ✓ **BOOKED** — [Star Hotel by Mellow Mood Hotels](https://www.booking.com/hotel/hu/star.html) — £86/night, £172 for 2 nights; István utca, Erzsébetváros
   - Buda Castle & Fisherman's Bastion; the Parliament from the river; Széchenyi thermal baths; the ruin bars
 - **Wrocław:** 2 nights (by train) *Arrive: Sun 19 Sep 2027*
-  - **Recommended hotel:** [Europeum Hotel](https://www.booking.com/hotel/pl/europeumwroclaw.html) (3★, Booking.com 9.0, central) — £70/night, £141 for 2 nights, free cancellation *(cheaper options seen: Entre Hotel by Zdrojowa, 4★, 9.5, £56/night; B&B Hotel Wrocław Centrum, 8.6, £55/night)*
+  - ✓ **BOOKED** — [Europeum Hotel](https://www.booking.com/hotel/pl/europeumwroclaw.html) — £70/night, £140 for 2 nights; central
   - The Rynek & hunting the bronze dwarves; Cathedral Island (Ostrów Tumski); Panorama Racławicka
 - **Berlin:** 2 nights (by train) *Arrive: Tue 21 Sep 2027*
-  - **Recommended hotel:** [Hotel Ludwig van Beethoven](https://www.booking.com/hotel/de/ludwig-van-beethoven.html) (3★, Booking.com 8.4, Hasenheide, Kreuzberg) — £125/night, £249 for 2 nights, free cancellation. Over the \~£100 target: Berlin is pricey for these dates *(cheaper: Gästehaus Lazarus, Bernauer Str., 8.2, \~£97/night)*
+  - **Recommended hotel:** [Hotel Ludwig van Beethoven](https://www.booking.com/hotel/de/ludwig-van-beethoven.html) (3★, Booking.com 8.4, Hasenheide, Kreuzberg) — £125/night, £249 for 2 nights. Over the \~£100 target: Berlin is pricey for these dates *(cheaper: Gästehaus Lazarus, Bernauer Str., 8.2, \~£97/night)*
   - Brandenburg Gate & the Reichstag dome (book ahead); Museum Island; the East Side Gallery
 - **Cologne:** 2 nights (by train) *Arrive: Thu 23 Sep 2027*
-  - **Recommended hotel:** [Premier Inn Köln City Mediapark](https://www.booking.com/hotel/de/acom-koln.html) (3★, Booking.com 8.3, Hansaring, Neustadt Nord) — £99/night, £198 for 2 nights, free cancellation *(alt: [Hotel Casa Colonia](https://www.booking.com/hotel/de/casa-colonia.html), 3★, 8.9, Altstadt-Nord, £109/night. Eden Hotel Früh am Dom has no availability.)*
+  - **Recommended hotel:** [Premier Inn Köln City Mediapark](https://www.booking.com/hotel/de/acom-koln.html) (3★, Booking.com 8.3, Hansaring, Neustadt Nord) — £99/night, £198 for 2 nights *(alt: [Hotel Casa Colonia](https://www.booking.com/hotel/de/casa-colonia.html), 3★, 8.9, Altstadt-Nord, £109/night. Eden Hotel Früh am Dom has no availability.)*
   - The cathedral (climb the tower); the Rhine promenade; a Kölsch in the Früh brauhaus
 - **Amsterdam:** 2 nights (by train) *Arrive: Sat 25 Sep 2027*
-  - **Recommended hotel:** [Hotel Fine Harmony](https://www.booking.com/hotel/nl/fine-harmony.html) (3★, Booking.com 8.0, Prins Hendrikkade, near Centraal) — £143/night, £286 for 2 nights, free cancellation. Well over the \~£100 target: Amsterdam is expensive for these dates *(WestCord Art Hotel, 8.9, is £171/night)*
+  - **Recommended hotel:** [Hotel Fine Harmony](https://www.booking.com/hotel/nl/fine-harmony.html) (3★, Booking.com 8.0, Prins Hendrikkade, near Centraal) — £143/night, £286 for 2 nights. Well over the \~£100 target: Amsterdam is expensive for these dates *(WestCord Art Hotel, 8.9, is £171/night)*
   - Rijksmuseum & Van Gogh Museum; Anne Frank House (book weeks ahead); a canal cruise; the Jordaan
 - **London:** 1 night (by train) *Arrive: Mon 27 Sep 2027*
-  - **Recommended hotel:** [St Athans Hotel](https://www.booking.com/hotel/gb/athans.html) (2★, Booking.com 8.0, Tavistock Place, Bloomsbury) — £104/night, 1 night, free cancellation *(3★ options start around £165)*
+  - **Recommended hotel:** [St Athans Hotel](https://www.booking.com/hotel/gb/athans.html) (2★, Booking.com 8.0, Tavistock Place, Bloomsbury) — £104/night, 1 night *(3★ options start around £165)*
   - Decompress by King's Cross before the train home
 - **Leeds:** return home (by train) *Arrive: Tue 28 Sep 2027*
   - Journey complete — 42 nights, 14 countries
@@ -170,27 +170,27 @@ Markdown · Leeds-Istanbul-Rail-Loop-2027.md
 | Stop | Nights | £/night | Total | Status |
 | --- | --- | --- | --- | --- |
 | Paris — Hotel Terminus Lyon | 1 | £82 | £82 | ✓ Booked |
-| Lausanne — Hôtel des Voyageurs Boutique | 1 | £146 | £146 | ✓ Booked — free cancellation |
-| Brussels — Bedford Hotel | 2 | £97 | £193 | ✓ Booked — free cancellation |
+| Lausanne — Hôtel des Voyageurs Boutique | 1 | £146 | £146 | ✓ Booked |
+| Brussels — Bedford Hotel | 2 | £97 | £193 | ✓ Booked |
 | Strasbourg — ibis Styles Centre Petite France | 1 | £81 | £81 | ✓ Booked |
-| Colmar — PAUL & PIA | 2 | £93 | £186 | ✓ Booked — free cancellation |
+| Colmar — PAUL & PIA | 2 | £93 | £186 | ✓ Booked |
 | Freiburg — Hotel Schwarzwälder Hof | 2 | £94 | £187 | ✓ Booked |
-| Zurich — Marktgasse Hotel | 2 | £153 | £306 | ✓ Booked — free cancellation |
+| Zurich — Marktgasse Hotel | 2 | £153 | £306 | ✓ Booked |
 | Munich — Cloud One München Hauptbahnhof | 2 | £113 | £226 | ✓ Booked |
 | Graz — Radisson | 2 | £89 | £177 | ✓ Booked |
 | Zagreb — Avenue 21 | 2 | £84 | £167 | ✓ Booked |
 | Belgrade — Fera | 2 | £40 | £80 | ✓ Booked |
 | Sofia — B1 Downtown | 2 | £73 | £145 | ✓ Booked |
-| Istanbul — Hotel Nena Sultanahmet | 4 | £108 | £431 | ✓ Booked — free cancellation, room upgrade |
-| Bucharest | 2 | £65 | £130 | Recommended |
-| Cluj-Napoca | 2 | £51 | £101 | Recommended |
-| Budapest | 2 | £100 | £199 | Recommended |
-| Wrocław | 2 | £70 | £141 | Recommended |
+| Istanbul — Hotel Nena Sultanahmet | 4 | £108 | £431 | ✓ Booked — room upgrade |
+| Bucharest — Vilacrosse Boutique Inn | 2 | £56 | £111 | ✓ Booked |
+| Cluj-Napoca — Vila Siago | 2 | £51 | £101 | ✓ Booked |
+| Budapest — Star Hotel | 2 | £86 | £172 | ✓ Booked |
+| Wrocław — Europeum Hotel | 2 | £70 | £140 | ✓ Booked |
 | Berlin | 2 | £125 | £249 | Recommended |
 | Cologne | 2 | £99 | £198 | Recommended |
 | Amsterdam | 2 | £143 | £286 | Recommended |
 | London (27 Sep) | 1 | £104 | £104 | Recommended |
-| **Accommodation subtotal** | **40** |  | **£3,815** | £2,407 booked + £1,408 recommended (Bucharest onwards, not yet booked) |
+| **Accommodation subtotal** | **40** |  | **£3,768** | £2,931 booked + £837 recommended (Berlin onwards, not yet booked) |
 
 *The five cancelled bookings (£704) are excluded.*
 
@@ -211,10 +211,10 @@ Markdown · Leeds-Istanbul-Rail-Loop-2027.md
 | Category | Cost |
 | --- | --- |
 | Transport | £854 |
-| Accommodation | £3,815 |
+| Accommodation | £3,768 |
 | Daily spend | £3,951 |
-| **Grand total** | **≈ £8,620** |
-| With \~10% contingency | **≈ £9,480** |
+| **Grand total** | **≈ £8,570** |
+| With \~10% contingency | **≈ £9,430** |
 
 *Rough figures: unbooked hotel prices are today's quotes for dates ten months out and may move, and daily spend for the 11 August days is a blended estimate. **Athletics tickets are not included.** Switzerland is the main upward pressure on both hotels and food.*
 
