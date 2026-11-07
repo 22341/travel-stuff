@@ -14,25 +14,25 @@ export interface MapGroup {
 
 export const mapGroups: MapGroup[] = [
   {
-    heading: "Ljubljana",
+    heading: "Pinned UK maps",
     maps: [
+      {
+        title: "London",
+        url: "https://www.google.com/maps/d/edit?mid=1WW1xk-Wkepg_h1T7tqXrwiX5yTA3lQI&usp=sharing",
+      },
       {
         title: "Manchester",
         url: "https://www.google.com/maps/d/edit?mid=1aPXyf8315CLIM7HSZtbcjXY7Vtc&usp=sharing",
       },
       {
-        title: "Ljubljana",
-        url: "https://www.google.com/maps/d/edit?mid=1LYIMX_B-P3A4moJraHFrAQb1QHfsKyc&usp=sharing",
+        title: "York",
+        url: "https://www.google.com/maps/d/edit?mid=1dLi2Rxvc0oJWNspqRXmNOUEO4PGcqwA&usp=sharing",
       },
     ],
   },
   {
     heading: "Colin in Australia",
     maps: [
-      {
-        title: "London",
-        url: "https://www.google.com/maps/d/edit?mid=1WW1xk-Wkepg_h1T7tqXrwiX5yTA3lQI&usp=sharing",
-      },
       {
         title: "Singapore",
         url: "",
@@ -58,10 +58,6 @@ export const mapGroups: MapGroup[] = [
   {
     heading: "Southeast Asia Phase 1 (Jon)",
     maps: [
-      {
-        title: "London",
-        url: "https://www.google.com/maps/d/edit?mid=1WW1xk-Wkepg_h1T7tqXrwiX5yTA3lQI&usp=sharing",
-      },
       {
         title: "Kuala Lumpur",
         url: "https://www.google.com/maps/d/edit?mid=1NRSq2mAoaq1jhtI4lGbVVEwuDpnYyPY&usp=sharing",
@@ -169,10 +165,6 @@ export const mapGroups: MapGroup[] = [
   {
     heading: "Colin in Paris",
     maps: [
-      {
-        title: "London",
-        url: "https://www.google.com/maps/d/edit?mid=1WW1xk-Wkepg_h1T7tqXrwiX5yTA3lQI&usp=sharing",
-      },
       {
         title: "Paris",
         url: "https://www.google.com/maps/d/edit?mid=1eIuv88qYB2z1o_XAkRgbBTaqDOJ_87w&usp=sharing",
