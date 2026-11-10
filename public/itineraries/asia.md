@@ -332,7 +332,7 @@
 ### Trains
 | Date | Route | Travel Time | Cost | Bkd |
 |------|-------|-------------|----------:|:---:|
-| Sat 6 Feb | Leeds → London | 2.5 hours | £30 | |
+| Sat 6 Feb | Leeds → London | 2.5 hours | £22 | |
 | Sun 28 Feb | Hue → Hanoi (overnight) | 20:35, 14-15 hours | £245 | ✅ |
 | Sat 20 Mar | Tokyo → Okayama | 3.5 hours | £119 | |
 | Mon 22 Mar | Okayama → Fukuoka | 2 hours | £96 | |
@@ -345,7 +345,7 @@
 | Fri 16 Apr | Chengdu → Xi'an | 4 hours | £35 | |
 | Sun 18 Apr | Xi'an → Beijing | 4.5 hours | £60 | |
 | Fri 23 Apr | London → Leeds | 2.5 hours | £30 | |
-| **Total** | | | **£1,072** | |
+| **Total** | | | **£1,064** | |
 
 ### Private Cars
 | Date | Route | Travel Time | Cost | Bkd |
@@ -387,17 +387,17 @@
 | Category | Approximate Cost |
 |----------|----------------:|
 | Flights | £2,171 |
-| Train Travel | £1,072 |
+| Train Travel | £1,064 |
 | Private Cars | £114 |
 | Boats | £307 |
-| **Total Transportation** | **£3,664** |
+| **Total Transportation** | **£3,656** |
 
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|--------:|
 | Accommodation | £3,879 |
-| Transportation | £3,664 |
-| **Trip Total** | **£7,543** |
+| Transportation | £3,656 |
+| **Trip Total** | **£7,535** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -409,9 +409,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £7,543  
+**Core Costs (Accommodation + Transportation):** £7,535  
 **Additional Expenses:** £6,330 total  
-**Total Trip Budget:** £13,873
+**Total Trip Budget:** £13,865
 
 ---
 
