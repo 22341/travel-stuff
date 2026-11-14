@@ -332,7 +332,7 @@
 ### Trains
 | Date | Route | Travel Time | Cost | Bkd |
 |------|-------|-------------|----------:|:---:|
-| Sat 6 Feb | Leeds → London | 2.5 hours | £22 | ✅ |
+| Sat 6 Feb | Leeds → London | 12:10, 2.5 hours | £22 | ✅ |
 | Sun 28 Feb | Hue → Hanoi (overnight) | 20:35, 14-15 hours | £245 | ✅ |
 | Sat 20 Mar | Tokyo → Okayama | 3.5 hours | £119 | |
 | Mon 22 Mar | Okayama → Fukuoka | 2 hours | £96 | |
@@ -344,7 +344,7 @@
 | Mon 12 Apr | Guilin → Chengdu | 5.5 hours | £50 | |
 | Fri 16 Apr | Chengdu → Xi'an | 4 hours | £35 | |
 | Sun 18 Apr | Xi'an → Beijing | 4.5 hours | £60 | |
-| Fri 23 Apr | London → Leeds | 2.5 hours | £29 | ✅ |
+| Fri 23 Apr | London → Leeds | 12:40, 2.5 hours | £29 | ✅ |
 | **Total** | | | **£1,063** | |
 
 ### Private Cars
