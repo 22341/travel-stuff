@@ -318,7 +318,7 @@
 | Date | Route | Travel Time | Cost | Bkd |
 |------|-------|-------------|----------:|:---:|
 | Sun 7 Feb | London → Kuala Lumpur | 10:25, 13 hrs | £556 | ✅ |
-| Thu 11 Feb | Kuala Lumpur → Phnom Penh | 09:00, 2 hrs | £57 | ✅ |
+| Thu 11 Feb | Kuala Lumpur → Phnom Penh | 09:10, 2 hrs | £57 | ✅ |
 | Sun 21 Feb | Ho Chi Minh City → Da Nang | 09:05, 1.5 hrs | £78 | ✅ |
 | Sat 6 Mar | Hanoi → Taipei | 07:35, 3 hrs | £159 | ✅ |
 | Thu 11 Mar | Taipei → Manila | 09:45, 2.5 hrs | £96 | ✅ |
