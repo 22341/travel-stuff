@@ -435,6 +435,7 @@
 - Complete all online arrival cards and registrations before travel
 - Visa requirements can change; verify all details closer to departure date
 - Download **Naver Map** before arriving in South Korea and **Amap (高德地图)** and **Dianping (大众点评)** before arriving in China for reliable navigation
+- Download **Railway 12306** before arriving in China to check live train times and delays - use **车站大屏** (station screen) for the live departure board with gate numbers, and **正晚点** (on-time/delay) to check a specific train; always confirm against the station boards
 
 ## Digital Payments
 
