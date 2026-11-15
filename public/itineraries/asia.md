@@ -399,15 +399,15 @@
 - **Activities & Attractions:** £15/day = £1,140 total
 - **Visas:** £36 total (Cambodia e-Visa + South Korea K-ETA)
 - **Travel Insurance:** £239 total (Holiday Extras)
-- **Airalo Asia eSIM:** £55 total
+- **Airalo Asia eSIM:** £40 total
 - **Shopping & Souvenirs:** £300 total
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
 
 **Core Costs (Accommodation + Transportation):** £7,534  
-**Additional Expenses:** £6,330 total  
-**Total Trip Budget:** £13,864
+**Additional Expenses:** £6,315 total  
+**Total Trip Budget:** £13,849
 
 ---
 
