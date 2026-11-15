@@ -227,42 +227,53 @@
 ## Key Highlights by Region
 
 ### Cultural Immersion
+- **Malaysia:** Malay, Chinese and Indian heritage, Chinese New Year festivities, Islamic arts
 - **Southeast Asia:** Buddhist temples, colonial history, street food culture, Mekong Delta life
-- **Taiwan:** Night markets, tea culture, hot springs, modern Asian fusion
-- **Philippines:** Spanish colonial heritage, island culture, marine biodiversity
-- **Japan:** Traditional crafts, gardens, castles, hospitality culture
-- **South Korea:** K-pop culture, palaces, DMZ history, Korean BBQ
-- **China:** Ancient dynasties, diverse regional cuisines, ethnic diversity
+- **Taiwan:** Night markets, temple culture, hot springs, sky lanterns
+- **Philippines:** Spanish colonial heritage, island culture
+- **Japan:** Traditional crafts, gardens, castles, yatai and regional food culture
+- **South Korea:** Street food markets, palaces and hanok villages, DMZ history, Korean BBQ
+- **Hong Kong:** Cantonese food and dim sum, temples, street markets, harbour life
+- **China:** Ancient dynasties, diverse regional cuisines, teahouses and Sichuan opera, giant pandas
 
 ### Natural Beauty
+- **Batu Caves:** Limestone cave temples (Kuala Lumpur)
 - **Mekong Delta:** Floating markets and river landscapes (Vietnam)
+- **Ninh Binh:** Tràng An karst landscapes and river caves (Vietnam)
 - **Ha Long Bay:** Limestone karsts and emerald waters (Vietnam)
 - **Jiufen & Shifen:** Mountain villages and waterfalls (Taiwan)
-- **Kawasan Falls:** Turquoise cascading waterfalls (Philippines)
-- **Philippine Islands:** Pristine beaches and coral reefs
+- **Taal Volcano:** Crater lake views from Tagaytay (Philippines)
+- **Cebu Islands:** Island hopping to Caohagan Island and Pandanon sandbar (Philippines)
 - **Korakuen Garden:** Historic Japanese landscape garden (Okayama)
 - **Kenroku-en:** Masterpiece Japanese garden (Kanazawa)
 - **Mt. Rokko:** Panoramic mountain views (Kobe)
 - **Namsan Park:** Seoul cityscape views (South Korea)
+- **Victoria Peak & Lantau Island:** Harbour views and mountain cable car (Hong Kong)
 - **Li River:** Karst landscapes and rural scenery (Guilin)
-- **Longji Rice Terraces:** Spectacular terraced hillsides (near Guilin)
+- **Yangshuo Countryside:** Yulong River bamboo rafting and Xianggong Hill viewpoint (near Guilin)
 
 ### Historical Significance
 - **Killing Fields & Tuol Sleng:** Cambodian genocide history (Phnom Penh)
+- **War Remnants Museum & Independence Palace:** Vietnam War history (Ho Chi Minh City)
+- **Hoi An Ancient Town & My Son Sanctuary:** UNESCO trading port and Cham temple ruins (Hoi An)
 - **Imperial City & Royal Tombs:** Vietnamese imperial heritage (Hue)
 - **DMZ & Vinh Moc Tunnels:** Vietnam War sites (Hue)
+- **Imperial Citadel & Temple of Literature:** Ancient Vietnamese capital (Hanoi)
 - **Chiang Kai-shek Memorial Hall:** Taiwanese political history (Taipei)
 - **Intramuros & Fort Santiago:** Spanish colonial Manila (Philippines)
 - **Magellan's Cross:** Spanish colonial heritage (Cebu)
+- **Imperial Palace:** Inner grounds of the Emperor's residence (Tokyo)
 - **Okayama Castle & Kurashiki:** Feudal Japan and Edo-era canals (Okayama)
+- **Dazaifu Tenmangu:** Historic shrine and Kyushu National Museum (Fukuoka)
 - **Himeji Castle:** UNESCO World Heritage samurai fortress (Himeji)
 - **Samurai & Geisha Districts:** Traditional Japanese culture (Kanazawa)
 - **Gyeongbokgung Palace:** Joseon Dynasty royal palace (Seoul)
 - **DMZ:** Korean War division (Seoul)
+- **Leshan Giant Buddha:** UNESCO cliff-carved Buddha (Chengdu)
 - **Terracotta Army:** Ancient Qin Dynasty warriors (Xi'an)
 - **Ancient City Wall:** Ming Dynasty fortifications (Xi'an)
 - **Great Wall of China:** Ancient defensive marvel (Beijing)
-- **Forbidden City:** Imperial palace complex (Beijing)
+- **Forbidden City & Temple of Heaven:** Ming and Qing imperial heritage (Beijing)
 
 ---
 
