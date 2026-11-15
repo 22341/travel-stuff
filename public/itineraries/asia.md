@@ -117,7 +117,7 @@
 ### Kanto Region
 - **Tokyo:** 3 nights *Arrive: Wed 17 Mar 2027*
   - ***Booked hotel:*** [APA Hotel Yamanote Otsuka Ekimae Tower](https://www.booking.com/hotel/jp/apa-yamanote-otsuka-eki-tower.html) - £58/night
-  - Kagurazaka traditional neighborhood and French quarter
+  - Imperial Palace inner grounds guided tour, Kagurazaka traditional neighborhood and French quarter
   - Nakameguro riverside cafes and craft beer bars
   - Denim shopping
 
