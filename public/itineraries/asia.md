@@ -22,18 +22,17 @@
 ### Malaysia
 - **Kuala Lumpur:** 3 nights *Arrive: Mon 8 Feb 2027*
   - ***Booked hotel:*** [Verdant Hill Hotel Kuala Lumpur](https://www.booking.com/hotel/my/verdant-hill-kuala-lumpur.en-gb.html) - £53/night
-  - Explore Petronas Towers, Batu Caves
-  - Street food tours in Chinatown and Little India
-  - Visit Islamic Arts Museum
+  - Petronas Towers Skybridge and KLCC Park, Uniqlo at Suria KLCC, Pavilion KL Chinese New Year decorations, Jalan Alor street food dinner
+  - Batu Caves, Little India (Brickfields)
+  - Islamic Arts Museum, Merdeka Square and Masjid Jamek, Chinatown (Petaling Street, Kwai Chai Hong)
+  - *Public holiday: Chinese New Year replacement holiday Mon 8 Feb (festive crowds, some Chinatown shops may be closed); Ramadan begins the same day*
 
 ### Cambodia
 - **Phnom Penh:** 4 nights *Arrive: Thu 11 Feb 2027*
   - ***Booked hotel:*** [ARISON Hotel](https://www.booking.com/hotel/kh/arison.html) - £41/night
-  - Royal Palace and Silver Pagoda
-  - Tuol Sleng Genocide Museum and Killing Fields
-  - Central Market and riverside promenade
-  - Wat Phnom temple
-  - BKK1 craft beer scene (Craft bar, Embargo, Botanico)
+  - Tuol Sleng Genocide Museum (S-21) and Choeung Ek Killing Fields
+  - Royal Palace and Silver Pagoda, National Museum of Cambodia, riverside promenade, sunset Mekong cruise and Night Market
+  - Central Market and Wat Phnom temple, Russian Market (Toul Tom Poung), Riel Brewing
 
 ### Vietnam Journey
 - **Chau Doc:** 1 night (by Hang Chau ferry from Phnom Penh) *Arrive: Mon 15 Feb 2027*
@@ -43,36 +42,27 @@
 - **Can Tho:** 1 night (by private car) *Arrive: Tue 16 Feb 2027*
   - ***Booked hotel:*** [LION 11 Can Tho Hotel](https://www.booking.com/hotel/vn/lion-11-can-tho.html) - £20/night
   - Cai Rang Floating Market morning boat trip
-  - Mekong Delta canals
 
 - **Ho Chi Minh City:** 4 nights (by private car) *Arrive: Wed 17 Feb 2027*
   - ***Booked hotel:*** [Ben Thanh Retreats Hotel](https://www.booking.com/hotel/vn/ben-thanh-retreats.html) - £40/night
-  - War Remnants Museum
-  - Ben Thanh Market and Saigon Central Post Office
-  - Rooftop bars and street food tours
-  - Notre-Dame Cathedral and Reunification Palace
-  - The Cafe Apartment
-  - Hầm Vũ Khí Bí Mật Secret Weapon Cellar
-  - Cholon (Binh Tay Market, Thien Hau Pagoda, Hao Sy Phuong)
+  - War Remnants Museum, Independence Palace, Saigon Commando Museum (secret weapon cellar) and Tan Dinh pink church
+  - Notre-Dame Cathedral and Central Post Office, Book Street, Nguyen Hue Walking Street and The Cafe Apartment, Ben Thanh Market
+  - Cholon Lantern Festival: Binh Tay Market, Thien Hau Temple, Hao Sy Phuong alley
 
 - **Hoi An:** 2 nights (by flight and private car) *Arrive: Sun 21 Feb 2027*
   - ***Booked hotel:*** [Little Town Villa](https://www.booking.com/hotel/vn/little-town-villa.html) - £32/night
   - Ancient Town UNESCO site
-  - Taste Vietnam morning cooking class
   - My Son Sanctuary half day trip
 
 - **Da Nang:** 3 nights (by private car) *Arrive: Tue 23 Feb 2027*
   - ***Booked hotel:*** [Estrella Boutique Hotel](https://www.booking.com/hotel/vn/estrella-boutique.html) - £50/night
-  - Marble Mountains and Buddhist caves
-  - Dragon Bridge and Han River waterfront
-  - My Khe Beach
-  - Golden Bridge at Ba Na Hills
+  - My Khe Beach, Lady Buddha and Linh Ung Pagoda on Son Tra Peninsula, Son Tra night market
+  - Golden Bridge and Sun World Ba Na Hills
+  - Marble Mountains and Non Nuoc stone-carving village, Museum of Cham Sculpture, Han Market, Dragon Bridge and Han River waterfront
 
 - **Hue:** 2 nights (by private car) *Arrive: Fri 26 Feb 2027*
   - ***Booked hotel:*** [Jade Scene Hotel](https://www.booking.com/hotel/vn/jade-scene.html) - £34/night
-  - Imperial City and royal tombs
-  - Perfume River boat trip
-  - Traditional imperial cuisine
+  - Imperial City and royal tombs, Perfume River boat trip
   - Day trip to DMZ and Vinh Moc Tunnels
 
 - **Overnight Train to Hanoi:** *Sun 28 Feb 2027*
@@ -83,13 +73,11 @@
 
 - **Hanoi:** 5 nights *Arrive: Mon 1 Mar 2027*
   - ***Booked hotel:*** [Centre Point Hanoi Hotel](https://www.booking.com/hotel/vn/centre-point-hanoi.html) - £42/night
+  - Old Quarter exploration, Hoan Kiem Lake and Ngoc Son Temple, Thang Long Water Puppet Theatre
+  - Ho Chi Minh Mausoleum and One Pillar Pagoda, Imperial Citadel of Thang Long, Temple of Literature
+  - Day trip to Ninh Binh (Tràng An Landscape Complex, Hoa Lu, Mua Cave)
   - *Ha Long Bay cruise: Dragon Pearl Junk*
-  - Old Quarter exploration
-  - Temple of Literature, Hoan Kiem Lake
-  - Street food evening walking tour
-  - Imperial Citadel of Thang Long
-  - Perfume Pagoda day trip
-  - Day trip to Ninh Binh (Tràng An Landscape Complex)
+  - Hoan Kiem walking street and weekend night market, street food evening walking tour
 
 ---
 
@@ -98,15 +86,11 @@
 ### Taipei
 - **Taipei:** 5 nights *Arrive: Sat 6 Mar 2027*
   - ***Booked hotel:*** [玩行旅大安分館 (Wow Travel Da'an)](https://www.booking.com/hotel/tw/wan-xing-lu-da-an-fen-guan.html) - £64/night
-  - Taipei 101 and observation deck
-  - National Palace Museum
-  - Shilin Night Market and street food culture
-  - Chiang Kai-shek Memorial Hall
-  - Longshan Temple and Ximending district
-  - Explore Dadaocheng historic district
-  - Visit Elephant Mountain for sunset views
-  - Day trip to Jiufen and Shifen
-  - Day trip to Tamsui Fisherman's Wharf
+  - Elephant Mountain sunset, Taipei 101 observatory by night
+  - Chiang Kai-shek Memorial Hall, Longshan Temple and Ximending, Dadaocheng and Dihua Street, Dadaocheng Wharf sunset
+  - Day trip to Shifen (Pingxi Line, sky lanterns, Shifen Waterfall) and Jiufen
+  - National Palace Museum, Shilin Night Market
+  - Beitou Thermal Valley, Tamsui Old Street, Fisherman's Wharf sunset
 
 ---
 
@@ -115,22 +99,16 @@
 ### Manila
 - **Manila:** 3 nights *Arrive: Thu 11 Mar 2027*
   - ***Booked hotel:*** [The Belamy House Managed by HII](https://www.booking.com/hotel/ph/the-belamy-house.html) - £36/night
-  - Intramuros historic walled city
-  - Rizal Park and Fort Santiago
-  - Manila Cathedral and San Agustin Church
-  - National Museum complex
-  - Manila Bay sunset views
-  - Makati district for modern dining and nightlife
-  - Day trip to Tagaytay and Taal Volcano
+  - Makati: Greenbelt and Poblacion for dining and nightlife
+  - Day trip to Tagaytay (Taal Volcano viewpoints at Picnic Grove and People's Park in the Sky)
+  - Intramuros (Fort Santiago, Manila Cathedral, San Agustin Church and Museum, Casa Manila), Rizal Park and National Museum complex, Manila Bay sunset at Baywalk or Harbour Square
 
 ### Cebu
 - **Cebu City:** 3 nights *Arrive: Sun 14 Mar 2027*
   - ***Booked hotel:*** [Quest Hotel & Conference Center Cebu](https://www.booking.com/hotel/ph/quest.en-gb.html) - £45/night
-  - Magellan's Cross and Basilica del Santo Niño
-  - Fort San Pedro and Cebu Heritage Monument
-  - Tops Lookout for panoramic city views
-  - Day trip to Oslob for whale shark watching
-  - Island hopping to Nalusuan and Hilutungan Islands
+  - Free afternoon & evening / chill out time
+  - Island hopping to Caohagan Island and Pandanon sandbar with lunch on Nalusuan, Temple of Leah and Tops Lookout at sunset
+  - Magellan's Cross and Basilica del Santo Niño, Fort San Pedro, Heritage of Cebu Monument and Casa Gorordo Museum
 
 ---
 
@@ -139,59 +117,45 @@
 ### Kanto Region
 - **Tokyo:** 3 nights *Arrive: Wed 17 Mar 2027*
   - ***Booked hotel:*** [APA Hotel Yamanote Otsuka Ekimae Tower](https://www.booking.com/hotel/jp/apa-yamanote-otsuka-eki-tower.html) - £58/night
-  - Explore Shimokitazawa vintage shopping district
   - Kagurazaka traditional neighborhood and French quarter
   - Nakameguro riverside cafes and craft beer bars
-  - Visit lesser-known museums (Nezu Museum, Mori Art Museum)
-  - Day trip to Kamakura or Enoshima
+  - Denim shopping
 
 ### Chugoku Region
 - **Okayama:** 2 nights *Arrive: Sat 20 Mar 2027*
   - ***Booked hotel:*** [Okayama Koraku Hotel](https://www.booking.com/hotel/jp/kooraku-okayama.html) - £64/night
-  - Korakuen Garden (one of Japan's top 3 gardens)
-  - Okayama Castle (Crow Castle)
-  - Day trip to Kurashiki historic district with Edo-era canals
-  - Bikan Historical Quarter
+  - Korakuen Garden and Okayama Castle (Crow Castle)
+  - Day trip to Kurashiki: Bikan Historical Quarter canals, Ohara Museum of Art, Kurashiki river boat
+  - *Public holiday weekend: Vernal Equinox Day Sun 21 Mar, substitute holiday Mon 22 Mar (expect crowds)*
 
 ### Kyushu Region
 - **Fukuoka:** 3 nights *Arrive: Mon 22 Mar 2027*
   - ***Booked hotel:*** [APA Hotel Fukuoka Tenjin Nishi](https://www.booking.com/hotel/jp/apa-hotel-fukuoka-tenjin-nishi.html) - £49/night
-  - Fukuoka Castle ruins and Ohori Park
-  - Hakata ramen and yatai street food stalls
-  - Dazaifu Tenmangu Shrine day trip
-  - Canal City shopping and entertainment complex
-  - Fukuoka Tower and seaside views
+  - Kushida Shrine, Hakata ramen, Nakasu riverside yatai street food stalls (6pm onwards)
+  - Fukuoka Castle ruins and Maizuru Park, Ohori Park, Momochi Seaside Park and Fukuoka Tower at sunset
+  - Day trip to Dazaifu: Dazaifu Tenmangu Shrine and Kyushu National Museum
 
 ### Kansai Region
 - **Himeji:** 2 nights *Arrive: Thu 25 Mar 2027*
   - ***Booked hotel:*** [APA Hotel Himeji Ekikita](https://www.booking.com/hotel/jp/apa-himeji-eki-kita.html) - £39/night
-  - Himeji Castle (UNESCO World Heritage Site)
-  - Kokoen Garden
-  - Mount Shosha and Engyoji Temple
+  - Otemae-dori castle approach, Himeji Castle illuminated at night
+  - Himeji Castle (UNESCO World Heritage Site) at opening and Kokoen Garden, Mount Shosha ropeway and Engyoji Temple
 
 - **Kobe:** 2 nights *Arrive: Sat 27 Mar 2027*
   - ***Booked hotel:*** [APA Hotel Kobe Sannomiya Ekimae](https://www.booking.com/hotel/jp/apa-hotel-kobe-sannomiya-ekimae.html) - £48/night
-  - Kobe Port and Harborland waterfront
-  - Nunobiki Herb Gardens and ropeway
-  - Famous Kobe beef dining experience
-  - Kitano-cho historic district with Western-style houses
-  - Mt. Rokko for panoramic city views
+  - Kitano-cho historic district with Western-style houses, Nunobiki Herb Gardens and ropeway, Kobe beef dinner
+  - Kobe Port Tower and Harborland waterfront, Nankinmachi Chinatown, Mt. Rokko for the night view
 
 ### Hokuriku Region
 - **Kanazawa:** 2 nights *Arrive: Mon 29 Mar 2027*
   - ***Booked hotel:*** [APA Hotel Kanazawa Chuo](https://www.booking.com/hotel/jp/apa-kanazawa-chuo.html) - £25/night
-  - Kenroku-en Garden (one of Japan's top 3)
-  - Higashi Chaya geisha district
-  - Kanazawa Castle and samurai district
-  - Traditional gold leaf crafts
-  - 21st Century Museum of Contemporary Art
-  - Omicho Market for fresh seafood
+  - Higashi Chaya geisha district and traditional gold leaf crafts, Nagamachi samurai district
+  - Omicho Market for fresh seafood, Kanazawa Castle and Kenroku-en Garden, 21st Century Museum of Contemporary Art
 
 ### Kanto Region
 - **Tokyo:** 1 night *Arrive: Wed 31 Mar 2027*
   - ***Booked hotel:*** [APA Hotel Yamanote Otsuka Ekimae Tower](https://www.booking.com/hotel/jp/apa-yamanote-otsuka-eki-tower.html) - £90/night
-  - Final shopping and exploration
-  - Last-minute sightseeing or revisit favorites
+  - Free time
 
 ---
 
@@ -200,14 +164,10 @@
 ### Seoul
 - **Seoul:** 4 nights *Arrive: Thu 1 Apr 2027*
   - ***Booked hotel:*** [Grid Inn Hotel](https://www.booking.com/hotel/kr/grid-inn.html) - £73/night
-  - Gyeongbokgung Palace and changing of the guard
-  - Bukchon Hanok Village traditional houses
-  - Myeongdong shopping district
-  - N Seoul Tower and Namsan Park
-  - Hongdae nightlife and street performances
-  - DMZ tour (optional)
-  - Korean BBQ and street food culture
-  - Gangnam district and COEX Mall
+  - Gwangjang Market street food, Korean BBQ
+  - Gyeongbokgung Palace and changing of the guard, Bukchon Hanok Village traditional houses, Myeongdong shopping district, N Seoul Tower and Namsan Park at sunset
+  - DMZ tour (Third Tunnel and Dora Observatory), Hongdae nightlife and street performances
+  - Gangnam district and COEX Mall, Seokchon Lake cherry blossoms
 
 ---
 
@@ -216,43 +176,37 @@
 ### Hong Kong
 - **Hong Kong:** 4 nights *Arrive: Mon 5 Apr 2027*
   - ***Booked hotel:*** [Y Hotel Hong Kong](https://www.booking.com/hotel/hk/y-hong-kong.html) - £103/night
-  - ***Backup hotel:*** [the Figo](https://www.booking.com/hotel/hk/hotel-lbp-hongkong.html) - £115/night
-  - Victoria Peak and Star Ferry
-  - Dim sum culture and night markets
-  - Temple Street and Symphony of Lights
-  - Day trip to Lantau Island
+  - Star Ferry to Tsim Sha Tsui, Symphony of Lights, Temple Street Night Market
+  - Victoria Peak by Peak Tram, Man Mo Temple and Sheung Wan, dim sum lunch
+  - Day trip to Lantau Island: Ngong Ping 360 cable car, Tian Tan Buddha and Po Lin Monastery, Tai O fishing village
+  - Mong Kok street markets (Ladies' Market, Goldfish Market, Flower Market Road), Sham Shui Po street food
+  - *Public holiday: Ching Ming Festival Mon 5 Apr (end of a 3-day weekend, expect crowds)*
 
 ### Mainland China
 - **Guilin:** 3 nights (by train) *Arrive: Fri 9 Apr 2027*
   - ***Booked hotel:*** [O-LIVE Social Hotel Downtown](https://www.booking.com/hotel/cn/gui-lin-di-zhong-hai-jiu-dian.en-gb.html) - £48/night
-  - Li River cruise to Yangshuo
-  - Reed Flute Cave and Elephant Trunk Hill
-  - Longji Rice Terraces day trip
-  - Cormorant fishing demonstrations
-  - West Street night market
+  - Reed Flute Cave and Elephant Trunk Hill, Two Rivers and Four Lakes night cruise with cormorant fishing show
+  - Li River cruise to Yangshuo, West Street night market
+  - Yangshuo countryside: Yulong River bamboo rafting, Xianggong Hill viewpoint, Xingping and the 20-yuan note view
 
 - **Chengdu:** 4 nights (by train) *Arrive: Mon 12 Apr 2027*
   - ***Booked hotel:*** [CYBO Station SSAW Hotel Chunxi Road Tianfu Square](https://www.booking.com/hotel/cn/cheng-du-tian-fu-yan-chang-chun-xi-lu-jun-ting-shang-pin-jiu-dian.en-gb.html) - £33/night
-  - Giant Panda Breeding Research Base
-  - Wuhou Shrine and Jinli Ancient Street
-  - Sichuan hot pot and spicy cuisine
+  - Chunxi Road and Taikoo Li, Sichuan hot pot dinner
+  - Giant Panda Breeding Research Base at opening, People's Park and Heming Teahouse, Wuhou Shrine and Jinli Ancient Street at dusk
   - Leshan Giant Buddha day trip
-  - Traditional teahouse culture
-  - Day trip to Chongqing (optional)
+  - Kuanzhai Alley, Wenshu Monastery and teahouse, Sichuan Opera face-changing show at Shufeng Yayun
 
 - **Xi'an:** 2 nights (by train) *Arrive: Fri 16 Apr 2027*
   - ***Booked hotel:*** [Xi'an Dajing Castle Hotel](https://www.booking.com/hotel/cn/grand-park-xian.html) - £55/night
-  - Terracotta Army day trip
-  - Ancient City Wall walk
-  - Muslim Quarter food tour
-  - Shaanxi History Museum
+  - Ancient City Wall walk from the South Gate at sunset, Muslim Quarter food tour
+  - Terracotta Army day trip, Shaanxi History Museum
 
 - **Beijing:** 4 nights (by train) *Arrive: Sun 18 Apr 2027*
   - ***Booked hotel:*** [Happy Dragon Alley Hotel Beijing Tian An Men Forbidden City](https://www.booking.com/hotel/cn/dragon-house.html) - £66/night
+  - Hutong walk (Nanluoguxiang and Shichahai), Peking duck dinner
   - Great Wall of China (Mutianyu section)
-  - Forbidden City and Tiananmen Square
-  - Temple of Heaven and hutong tours
-  - Summer Palace or Lama Temple
+  - Tiananmen Square, Forbidden City, Jingshan Park view over the palace roofs
+  - Temple of Heaven, Lama Temple
 
 ---
 
