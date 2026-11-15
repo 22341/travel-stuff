@@ -79,7 +79,7 @@ function Home() {
                   >
                     <div
                       className="trip-row__accent"
-                      style={{ backgroundColor: trip.accentColor ?? "#888" }}
+                      style={{ backgroundColor: trip.accentColor }}
                     />
                     <div className="trip-row__body">
                       {trip.tags && trip.tags.length > 0 && (
@@ -103,7 +103,7 @@ function Home() {
                         <>
                           <span
                             className="trip-row__countdown trip-row__countdown--tentative"
-                            style={{ color: trip.accentColor ?? "#888" }}
+                            style={{ color: trip.accentColor }}
                           >
                             {startMonth(trip.startDate)}
                           </span>
@@ -115,7 +115,7 @@ function Home() {
                         <>
                           <span
                             className="trip-row__countdown"
-                            style={{ color: trip.accentColor ?? "#888" }}
+                            style={{ color: trip.accentColor }}
                           >
                             {days}
                           </span>
