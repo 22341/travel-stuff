@@ -1,5 +1,3 @@
-Markdown · Leeds-Istanbul-Rail-Loop-2027.md
-
 # Leeds–Istanbul Grand Rail Loop 2027
 
 ## Overview
@@ -8,12 +6,12 @@ Markdown · Leeds-Istanbul-Rail-Loop-2027.md
 
 ### Athletics anchors (fixed dates)
 
-| Date | Meeting | Night in |
-| --- | --- | --- |
-| Wed 18 Aug | Diamond League — Lausanne | Lausanne |
-| Fri 20 Aug | Diamond League — Brussels | Brussels |
-| Thu 26 Aug | Diamond League — Zurich (day 1) | Zurich |
-| Fri 27 Aug | Diamond League — Zurich (day 2) | Zurich |
+| Date       | Meeting                         | Night in |
+| ---------- | ------------------------------- | -------- |
+| Wed 18 Aug | Diamond League — Lausanne       | Lausanne |
+| Fri 20 Aug | Diamond League — Brussels       | Brussels |
+| Thu 26 Aug | Diamond League — Zurich (day 1) | Zurich   |
+| Fri 27 Aug | Diamond League — Zurich (day 2) | Zurich   |
 
 ---
 
@@ -21,85 +19,85 @@ Markdown · Leeds-Istanbul-Rail-Loop-2027.md
 
 ### Phase 1: Opening Leg & the Diamond League Circuit (17–27 Aug)
 
-- **Paris:** 1 night (Leeds → London → Paris by train) *Arrive: Tue 17 Aug 2027*
+- **Paris:** 1 night (Leeds → London → Paris by train) _Arrive: Tue 17 Aug 2027_
   - ✓ **BOOKED** — [Hotel Terminus Lyon](https://www.booking.com/hotel/fr/hotelterminuslyon.html) — £82/night — a couple of minutes' walk from Gare de Lyon for the morning Lausanne train; Gare du Nord is a short RER D hop away
   - Early LNER from Leeds, then an afternoon Eurostar from St Pancras; evening stroll along the Canal Saint-Martin
-- **Lausanne:** 1 night (by direct TGV Lyria from Paris Gare de Lyon) *Arrive: Wed 18 Aug 2027* — **Diamond League**
+- **Lausanne:** 1 night (by direct TGV Lyria from Paris Gare de Lyon) _Arrive: Wed 18 Aug 2027_ — **Diamond League**
   - ✓ **BOOKED** — [Hôtel des Voyageurs Boutique](https://www.booking.com/hotel/ch/voyageurs.html) — £146/night; between the old town and Flon
   - Olympic Museum and the Ouchy lakefront in the afternoon; the old town and cathedral; the meeting in the evening
-- **Brussels:** 2 nights (by TGV Lyria + Eurostar via Paris) *Arrive: Thu 19 Aug 2027* — **Diamond League on Fri 20 Aug**
+- **Brussels:** 2 nights (by TGV Lyria + Eurostar via Paris) _Arrive: Thu 19 Aug 2027_ — **Diamond League on Fri 20 Aug**
   - ✓ **BOOKED** — [Bedford Hotel Brussels](https://www.booking.com/hotel/be/bedford.html) — £97/night; near Anneessens premetro and walkable to Grand Place and Brussels-Midi
   - Grand Place, Manneken Pis and the Royal Galleries; Cantillon brewery (lambic); a day trip to Bruges or Ghent (about 1h by train) on the 20th before the evening meeting
-- **Strasbourg:** 1 night (by direct TGV from Brussels-Midi) *Arrive: Sat 21 Aug 2027*
+- **Strasbourg:** 1 night (by direct TGV from Brussels-Midi) _Arrive: Sat 21 Aug 2027_
   - ✓ **BOOKED** — [ibis Styles Strasbourg Centre Petite France](https://www.booking.com/hotel/fr/choicehotelscomfortinncenter.html) — £81/night — a short walk from the station
   - Cathedral & astronomical clock; La Petite France canals; a winstub dinner
-- **Colmar:** 2 nights (by TER regional train, \~30 min) *Arrive: Sun 22 Aug 2027*
+- **Colmar:** 2 nights (by TER regional train, \~30 min) _Arrive: Sun 22 Aug 2027_
   - ✓ **BOOKED** — [PAUL & PIA by Stay Collection](https://www.booking.com/hotel/fr/kyriad-colmar-gare.html) — £93/night; by the station
   - Little Venice and the half-timbered Old Town; Unterlinden Museum; Alsace wine and beer
   - With the extra day: the Alsace Wine Route villages (Eguisheim, Riquewihr, Kaysersberg) by local bus
-- **Freiburg im Breisgau:** 2 nights (by train, change at Mulhouse) *Arrive: Tue 24 Aug 2027*
+- **Freiburg im Breisgau:** 2 nights (by train, change at Mulhouse) _Arrive: Tue 24 Aug 2027_
   - ✓ **BOOKED** — [Hotel Schwarzwälder Hof](https://www.booking.com/hotel/de/schwarzhoffreiburgherren.html) — £94/night — in the Altstadt
   - The Münster and the Münsterplatz market; the Bächle (street-side water channels); Schlossberg viewpoint
   - A Black Forest day trip on the 25th — the Höllentalbahn to Titisee is about 40 min on a regional train; beer gardens and a university-town evening
-- **Zurich:** 2 nights (by train, change at Basel) *Arrive: Thu 26 Aug 2027* — **Diamond League, 26 & 27 Aug**
+- **Zurich:** 2 nights (by train, change at Basel) _Arrive: Thu 26 Aug 2027_ — **Diamond League, 26 & 27 Aug**
   - ✓ **BOOKED** — [Marktgasse Hotel](https://www.booking.com/hotel/ch/marktgasse.html) — £153/night; in the old town
   - Old town (Niederdorf) and Lake Zurich; Uetliberg for the city view; the two evening meetings
 
 ### Phase 2: Munich & Graz (28–31 Aug)
 
-- **Munich:** 2 nights (by train from Zurich) *Arrive: Sat 28 Aug 2027*
+- **Munich:** 2 nights (by train from Zurich) _Arrive: Sat 28 Aug 2027_
   - ✓ **BOOKED** — Cloud One München Hauptbahnhof — £113/night — by the main station
   - Marienplatz & the Glockenspiel; the English Garden; the Residenz; a beer hall (Hofbräuhaus)
-- **Graz:** 2 nights (by direct train from Munich via Salzburg, \~5h30) *Arrive: Mon 30 Aug 2027*
+- **Graz:** 2 nights (by direct train from Munich via Salzburg, \~5h30) _Arrive: Mon 30 Aug 2027_
   - ✓ **BOOKED** — Radisson — £89/night
   - Schlossberg clock tower; the Kunsthaus; Eggenberg Palace on the edge of town
 
 ### Phase 3: The Balkans & Istanbul (1–11 Sep)
 
-- **Zagreb:** 2 nights (by train) *Arrive: Wed 1 Sep 2027*
+- **Zagreb:** 2 nights (by train) _Arrive: Wed 1 Sep 2027_
   - ✓ **BOOKED** — Avenue 21 — £84/night
   - Upper Town & St Mark's Church; Dolac market; Museum of Broken Relationships
-- **Belgrade:** 2 nights (by bus) *Arrive: Fri 3 Sep 2027*
+- **Belgrade:** 2 nights (by bus) _Arrive: Fri 3 Sep 2027_
   - ✓ **BOOKED** — Fera — £40/night
   - Kalemegdan Fortress; dinner in the Skadarlija quarter; Nikola Tesla Museum
-- **Sofia:** 2 nights (by bus) *Arrive: Sun 5 Sep 2027*
+- **Sofia:** 2 nights (by bus) _Arrive: Sun 5 Sep 2027_
   - ✓ **BOOKED** — B1 Downtown — £73/night
   - Alexander Nevsky Cathedral; the Roman ruins of Serdica
   - With the extra day: a Rila Monastery day trip, or Boyana Church and Vitosha mountain on the edge of the city
   - The Istanbul sleeper leaves in the evening on Tue 7 Sep, so you'll have a day after checkout — use left luggage at the station
-- **Istanbul:** 4 nights (by overnight train) *Arrive: Wed 8 Sep 2027*
+- **Istanbul:** 4 nights (by overnight train) _Arrive: Wed 8 Sep 2027_
   - ✓ **BOOKED** — [Hotel Nena Sultanahmet](https://www.booking.com/hotel/tr/nena.html) — £108/night — room upgrade included
   - Hagia Sophia & the Blue Mosque; Topkapı Palace; Grand & Spice Bazaars; Basilica Cistern
   - Bosphorus ferry cruise; ferry to Kadıköy on the Asian side; Galata Tower & Karaköy; a traditional hammam
 
 ### Phase 4: Return — Romania, Central Europe & the Low Countries (12–27 Sep)
 
-- **Bucharest:** 2 nights (by overnight train, leaving Istanbul Sun 12 Sep) *Arrive: Mon 13 Sep 2027*
+- **Bucharest:** 2 nights (by overnight train, leaving Istanbul Sun 12 Sep) _Arrive: Mon 13 Sep 2027_
   - ✓ **BOOKED** — [Vilacrosse Boutique Inn](https://www.booking.com/hotel/ro/vilacrosse-boutique-inn.html) — £56/night, £111 for 2 nights; Calea Victoriei
   - Palace of Parliament (book a tour); the Old Town (Lipscani); the open-air Village Museum
-- **Cluj-Napoca:** 2 nights (by direct InterRegio train via Brașov and the Carpathians, \~9–10h) *Arrive: Wed 15 Sep 2027*
+- **Cluj-Napoca:** 2 nights (by direct InterRegio train via Brașov and the Carpathians, \~9–10h) _Arrive: Wed 15 Sep 2027_
   - ✓ **BOOKED** — [Vila Siago](https://www.booking.com/hotel/ro/siago.html) — £51/night, £101 for 2 nights; Str. Republicii, city centre
   - Union Square & St Michael's Church; the Botanical Garden
   - With the extra day: Turda Salt Mine (about 45 min by bus), or the old town cafés and bars after the long train day
-- **Budapest:** 2 nights (by train) *Arrive: Fri 17 Sep 2027*
+- **Budapest:** 2 nights (by train) _Arrive: Fri 17 Sep 2027_
   - ✓ **BOOKED** — [Star Hotel by Mellow Mood Hotels](https://www.booking.com/hotel/hu/star.html) — £86/night, £172 for 2 nights; István utca, Erzsébetváros
   - Buda Castle & Fisherman's Bastion; the Parliament from the river; Széchenyi thermal baths; the ruin bars
-- **Wrocław:** 2 nights (by train) *Arrive: Sun 19 Sep 2027*
+- **Wrocław:** 2 nights (by train) _Arrive: Sun 19 Sep 2027_
   - ✓ **BOOKED** — [Europeum Hotel](https://www.booking.com/hotel/pl/europeumwroclaw.html) — £70/night, £140 for 2 nights; central
   - The Rynek & hunting the bronze dwarves; Cathedral Island (Ostrów Tumski); Panorama Racławicka
-- **Berlin:** 2 nights (by train) *Arrive: Tue 21 Sep 2027*
+- **Berlin:** 2 nights (by train) _Arrive: Tue 21 Sep 2027_
   - ✓ **BOOKED** — [Hotel Ludwig van Beethoven](https://www.booking.com/hotel/de/ludwig-van-beethoven.html) — £142/night, £283 for 2 nights; Hasenheide, Kreuzberg
   - Brandenburg Gate & the Reichstag dome (book ahead); Museum Island; the East Side Gallery
-- **Cologne:** 2 nights (by train) *Arrive: Thu 23 Sep 2027*
+- **Cologne:** 2 nights (by train) _Arrive: Thu 23 Sep 2027_
   - ✓ **BOOKED** — [Premier Inn Köln City Mediapark](https://www.booking.com/hotel/de/acom-koln.html) — £85/night, £169 for 2 nights; Hansaring, Neustadt Nord
   - The cathedral (climb the tower); the Rhine promenade; a Kölsch in the Früh brauhaus
-- **Amsterdam:** 2 nights (by train) *Arrive: Sat 25 Sep 2027*
+- **Amsterdam:** 2 nights (by train) _Arrive: Sat 25 Sep 2027_
   - ✓ **BOOKED** — [Hotel Fine Harmony](https://www.booking.com/hotel/nl/fine-harmony.html) — £175/night, £349 for 2 nights; Prins Hendrikkade, near Centraal
   - Rijksmuseum & Van Gogh Museum; Anne Frank House (book weeks ahead); a canal cruise; the Jordaan
-- **London:** 1 night (by train) *Arrive: Mon 27 Sep 2027*
+- **London:** 1 night (by train) _Arrive: Mon 27 Sep 2027_
   - ✓ **BOOKED** — hub by Premier Inn London King's Cross — £120/night, 1 night
   - Decompress by King's Cross before the train home
-- **Leeds:** return home (by train) *Arrive: Tue 28 Sep 2027*
+- **Leeds:** return home (by train) _Arrive: Tue 28 Sep 2027_
   - Journey complete — 42 nights, 14 countries
 
 ---
@@ -108,46 +106,46 @@ Markdown · Leeds-Istanbul-Rail-Loop-2027.md
 
 ### Cancelled ✓
 
-| Booking | Dates | Paid | Status |
-| --- | --- | --- | --- |
-| Premier Inn hub Spitalfields (London) | 28 Aug | £135 | Cancelled ✓ |
-| Hotel Paris Louis Blanc | 29–31 Aug (2 nights) | £187 | Cancelled ✓ |
-| Hotel Graffalgar (Strasbourg) | 31 Aug | £70 | Cancelled ✓ — rebooked as ibis Styles, 21 Aug, £81 |
-| Boutique Hotel Vier Jahreszeiten (Salzburg) | 3 Sep | £106 | Cancelled ✓ — Salzburg dropped |
-| Hotel Metropol by Maier (Munich) | 1–3 Sep | £206 | Cancelled ✓ — twice the price on the new dates; replaced by Cloud One |
-| **Total cancelled** |  | **£704** | All five done |
+| Booking                                     | Dates                | Paid     | Status                                                                |
+| ------------------------------------------- | -------------------- | -------- | --------------------------------------------------------------------- |
+| Premier Inn hub Spitalfields (London)       | 28 Aug               | £135     | Cancelled ✓                                                           |
+| Hotel Paris Louis Blanc                     | 29–31 Aug (2 nights) | £187     | Cancelled ✓                                                           |
+| Hotel Graffalgar (Strasbourg)               | 31 Aug               | £70      | Cancelled ✓ — rebooked as ibis Styles, 21 Aug, £81                    |
+| Boutique Hotel Vier Jahreszeiten (Salzburg) | 3 Sep                | £106     | Cancelled ✓ — Salzburg dropped                                        |
+| Hotel Metropol by Maier (Munich)            | 1–3 Sep              | £206     | Cancelled ✓ — twice the price on the new dates; replaced by Cloud One |
+| **Total cancelled**                         |                      | **£704** | All five done                                                         |
 
 ---
 
 ## Transportation Summary
 
-| Date | Route | Duration | Cost | Bkd |
-| --- | --- | --- | --- | --- |
-| 17 Aug | Leeds → London | 2h 15m | £60 |  |
-| 17 Aug | London → Paris (Eurostar) | 2h 20m | £40 |  |
-| 18 Aug | Paris Gare de Lyon → Lausanne (TGV Lyria, direct) | \~3h 45m | £30 |  |
-| 19 Aug | Lausanne → Paris (TGV Lyria) → Brussels (Eurostar) | \~6h | £60 |  |
-| 21 Aug | Brussels-Midi → Strasbourg (TGV, direct) | \~3h 40m | £20 |  |
-| 22 Aug | Strasbourg → Colmar (TER) | \~30m | incl. |  |
-| 24 Aug | Colmar → Freiburg (change at Mulhouse) | \~1h 20m | incl. |  |
-| 26 Aug | Freiburg → Zurich (change at Basel) | \~2h | incl. |  |
-| 28 Aug | Zurich → Munich (EuroCity) | \~3h 30m | incl. |  |
-| 30 Aug | Munich → Graz (direct, via Salzburg) | \~5h 30m | incl. |  |
-| 1 Sep | Graz → Zagreb | 4h 30m | £10 |  |
-| 3 Sep | Zagreb → Belgrade (bus) | 6h 00m | £20 |  |
-| 5 Sep | Belgrade → Sofia (bus) | 6h 30m | £20 |  |
-| 7 Sep | Sofia → Istanbul (sleeper) | \~11h | £35 |  |
-| 12 Sep | Istanbul → Bucharest (sleeper) | \~18h | £45 |  |
-| 15 Sep | Bucharest → Cluj-Napoca (InterRegio, direct via Brașov) | \~9h 30m | £8 |  |
-| 17 Sep | Cluj → Budapest | 6h 30m | £12 |  |
-| 19 Sep | Budapest → Wrocław | 8h 00m | £15 |  |
-| 21 Sep | Wrocław → Berlin | 4h 30m | incl. |  |
-| 23 Sep | Berlin → Cologne | 4h 15m | £10 |  |
-| 25 Sep | Cologne → Amsterdam | 2h 40m | £10 |  |
-| 27 Sep | Amsterdam → London | 4h 00m | £40 |  |
-| 28 Sep | London → Leeds | 2h 15m | £60 |  |
+| Date   | Route                                                   | Duration | Cost  | Bkd |
+| ------ | ------------------------------------------------------- | -------- | ----- | --- |
+| 17 Aug | Leeds → London                                          | 2h 15m   | £60   |     |
+| 17 Aug | London → Paris (Eurostar)                               | 2h 20m   | £40   |     |
+| 18 Aug | Paris Gare de Lyon → Lausanne (TGV Lyria, direct)       | \~3h 45m | £30   |     |
+| 19 Aug | Lausanne → Paris (TGV Lyria) → Brussels (Eurostar)      | \~6h     | £60   |     |
+| 21 Aug | Brussels-Midi → Strasbourg (TGV, direct)                | \~3h 40m | £20   |     |
+| 22 Aug | Strasbourg → Colmar (TER)                               | \~30m    | incl. |     |
+| 24 Aug | Colmar → Freiburg (change at Mulhouse)                  | \~1h 20m | incl. |     |
+| 26 Aug | Freiburg → Zurich (change at Basel)                     | \~2h     | incl. |     |
+| 28 Aug | Zurich → Munich (EuroCity)                              | \~3h 30m | incl. |     |
+| 30 Aug | Munich → Graz (direct, via Salzburg)                    | \~5h 30m | incl. |     |
+| 1 Sep  | Graz → Zagreb                                           | 4h 30m   | £10   |     |
+| 3 Sep  | Zagreb → Belgrade (bus)                                 | 6h 00m   | £20   |     |
+| 5 Sep  | Belgrade → Sofia (bus)                                  | 6h 30m   | £20   |     |
+| 7 Sep  | Sofia → Istanbul (sleeper)                              | \~11h    | £35   |     |
+| 12 Sep | Istanbul → Bucharest (sleeper)                          | \~18h    | £45   |     |
+| 15 Sep | Bucharest → Cluj-Napoca (InterRegio, direct via Brașov) | \~9h 30m | £8    |     |
+| 17 Sep | Cluj → Budapest                                         | 6h 30m   | £12   |     |
+| 19 Sep | Budapest → Wrocław                                      | 8h 00m   | £15   |     |
+| 21 Sep | Wrocław → Berlin                                        | 4h 30m   | incl. |     |
+| 23 Sep | Berlin → Cologne                                        | 4h 15m   | £10   |     |
+| 25 Sep | Cologne → Amsterdam                                     | 2h 40m   | £10   |     |
+| 27 Sep | Amsterdam → London                                      | 4h 00m   | £40   |     |
+| 28 Sep | London → Leeds                                          | 2h 15m   | £60   |     |
 
-*"incl." = covered by the Interrail pass with no compulsory reservation (some services accept optional seat reservations of a few pounds). Balkan buses are not covered by the pass. Durations are approximate — verify on seat61.com / the Interrail app nearer the date, as Balkan and Türkiye services change seasonally.*
+_"incl." = covered by the Interrail pass with no compulsory reservation (some services accept optional seat reservations of a few pounds). Balkan buses are not covered by the pass. Durations are approximate — verify on seat61.com / the Interrail app nearer the date, as Balkan and Türkiye services change seasonally._
 
 ---
 
@@ -155,44 +153,44 @@ Markdown · Leeds-Istanbul-Rail-Loop-2027.md
 
 ### Transport
 
-| Item | Cost |
-| --- | --- |
-| Interrail Global Pass (2-month continuous, 2nd class) — **booked** ✓ | £359 |
-| Seat/sleeper reservations & high-speed supplements (incl. both TGV Lyria legs, Paris–Brussels Eurostar and Brussels–Strasbourg TGV) — sum of the paid legs in the transport table | £335 |
-| Balkan buses (Zagreb→Belgrade, Belgrade→Sofia) | £40 |
-| Leeds ↔ London domestic rail | £120 |
-| **Transport subtotal** | **£854** |
+| Item                                                                                                                                                                              | Cost     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| Interrail Global Pass (2-month continuous, 2nd class) — **booked** ✓                                                                                                              | £359     |
+| Seat/sleeper reservations & high-speed supplements (incl. both TGV Lyria legs, Paris–Brussels Eurostar and Brussels–Strasbourg TGV) — sum of the paid legs in the transport table | £335     |
+| Balkan buses (Zagreb→Belgrade, Belgrade→Sofia)                                                                                                                                    | £40      |
+| Leeds ↔ London domestic rail                                                                                                                                                      | £120     |
+| **Transport subtotal**                                                                                                                                                            | **£854** |
 
 ### Accommodation
 
-*Booked hotels show the actual price paid (before moving dates); multi-night prices are stay totals with the per-night figure derived. Unbooked stops are estimates from live Booking.com free-cancellation searches (1 adult); the Paris–Zurich stops were searched in October 2026 for the exact dates. Recommendations not marked booked are not yet booked.*
+_Booked hotels show the actual price paid (before moving dates); multi-night prices are stay totals with the per-night figure derived. Unbooked stops are estimates from live Booking.com free-cancellation searches (1 adult); the Paris–Zurich stops were searched in October 2026 for the exact dates. Recommendations not marked booked are not yet booked._
 
-| Stop | Nights | £/night | Total | Status |
-| --- | --- | --- | --- | --- |
-| Paris — Hotel Terminus Lyon | 1 | £82 | £82 | ✓ Booked |
-| Lausanne — Hôtel des Voyageurs Boutique | 1 | £146 | £146 | ✓ Booked |
-| Brussels — Bedford Hotel | 2 | £97 | £193 | ✓ Booked |
-| Strasbourg — ibis Styles Centre Petite France | 1 | £81 | £81 | ✓ Booked |
-| Colmar — PAUL & PIA | 2 | £93 | £186 | ✓ Booked |
-| Freiburg — Hotel Schwarzwälder Hof | 2 | £94 | £187 | ✓ Booked |
-| Zurich — Marktgasse Hotel | 2 | £153 | £306 | ✓ Booked |
-| Munich — Cloud One München Hauptbahnhof | 2 | £113 | £226 | ✓ Booked |
-| Graz — Radisson | 2 | £89 | £177 | ✓ Booked |
-| Zagreb — Avenue 21 | 2 | £84 | £167 | ✓ Booked |
-| Belgrade — Fera | 2 | £40 | £80 | ✓ Booked |
-| Sofia — B1 Downtown | 2 | £73 | £145 | ✓ Booked |
-| Istanbul — Hotel Nena Sultanahmet | 4 | £108 | £431 | ✓ Booked — room upgrade |
-| Bucharest — Vilacrosse Boutique Inn | 2 | £56 | £111 | ✓ Booked |
-| Cluj-Napoca — Vila Siago | 2 | £51 | £101 | ✓ Booked |
-| Budapest — Star Hotel | 2 | £86 | £172 | ✓ Booked |
-| Wrocław — Europeum Hotel | 2 | £70 | £140 | ✓ Booked |
-| Berlin — Hotel Ludwig van Beethoven | 2 | £142 | £283 | ✓ Booked |
-| Cologne — Premier Inn Köln City Mediapark | 2 | £85 | £169 | ✓ Booked |
-| Amsterdam — Hotel Fine Harmony | 2 | £175 | £349 | ✓ Booked |
-| London (27 Sep) — hub by Premier Inn King's Cross | 1 | £120 | £120 | ✓ Booked |
-| **Accommodation subtotal** | **40** |  | **£3,852** | All 21 stays booked |
+| Stop                                              | Nights | £/night | Total      | Status                  |
+| ------------------------------------------------- | ------ | ------- | ---------- | ----------------------- |
+| Paris — Hotel Terminus Lyon                       | 1      | £82     | £82        | ✓ Booked                |
+| Lausanne — Hôtel des Voyageurs Boutique           | 1      | £146    | £146       | ✓ Booked                |
+| Brussels — Bedford Hotel                          | 2      | £97     | £193       | ✓ Booked                |
+| Strasbourg — ibis Styles Centre Petite France     | 1      | £81     | £81        | ✓ Booked                |
+| Colmar — PAUL & PIA                               | 2      | £93     | £186       | ✓ Booked                |
+| Freiburg — Hotel Schwarzwälder Hof                | 2      | £94     | £187       | ✓ Booked                |
+| Zurich — Marktgasse Hotel                         | 2      | £153    | £306       | ✓ Booked                |
+| Munich — Cloud One München Hauptbahnhof           | 2      | £113    | £226       | ✓ Booked                |
+| Graz — Radisson                                   | 2      | £89     | £177       | ✓ Booked                |
+| Zagreb — Avenue 21                                | 2      | £84     | £167       | ✓ Booked                |
+| Belgrade — Fera                                   | 2      | £40     | £80        | ✓ Booked                |
+| Sofia — B1 Downtown                               | 2      | £73     | £145       | ✓ Booked                |
+| Istanbul — Hotel Nena Sultanahmet                 | 4      | £108    | £431       | ✓ Booked — room upgrade |
+| Bucharest — Vilacrosse Boutique Inn               | 2      | £56     | £111       | ✓ Booked                |
+| Cluj-Napoca — Vila Siago                          | 2      | £51     | £101       | ✓ Booked                |
+| Budapest — Star Hotel                             | 2      | £86     | £172       | ✓ Booked                |
+| Wrocław — Europeum Hotel                          | 2      | £70     | £140       | ✓ Booked                |
+| Berlin — Hotel Ludwig van Beethoven               | 2      | £142    | £283       | ✓ Booked                |
+| Cologne — Premier Inn Köln City Mediapark         | 2      | £85     | £169       | ✓ Booked                |
+| Amsterdam — Hotel Fine Harmony                    | 2      | £175    | £349       | ✓ Booked                |
+| London (27 Sep) — hub by Premier Inn King's Cross | 1      | £120    | £120       | ✓ Booked                |
+| **Accommodation subtotal**                        | **40** |         | **£3,852** | All 21 stays booked     |
 
-*The five cancelled bookings (£704) are excluded.*
+_The five cancelled bookings (£704) are excluded._
 
 ---
 
@@ -200,23 +198,23 @@ Markdown · Leeds-Istanbul-Rail-Loop-2027.md
 
 ### Daily Spend
 
-| Item | Basis | Total |
-| --- | --- | --- |
-| 32 days (28 Aug–28 Sep) | \~£82/day, the original basis (£2,960 ÷ 36 days); × 32 | £2,631 |
-| 11 days (17–27 Aug) | \~£120/day all-in; Swiss prices lift this | £1,320 |
-| **Daily-spend subtotal (43 days)** |  | **£3,951** |
+| Item                               | Basis                                                  | Total      |
+| ---------------------------------- | ------------------------------------------------------ | ---------- |
+| 32 days (28 Aug–28 Sep)            | \~£82/day, the original basis (£2,960 ÷ 36 days); × 32 | £2,631     |
+| 11 days (17–27 Aug)                | \~£120/day all-in; Swiss prices lift this              | £1,320     |
+| **Daily-spend subtotal (43 days)** |                                                        | **£3,951** |
 
 ### Total Estimated Trip Cost
 
-| Category | Cost |
-| --- | --- |
-| Transport | £854 |
-| Accommodation | £3,852 |
-| Daily spend | £3,951 |
-| **Grand total** | **≈ £8,660** |
+| Category               | Cost         |
+| ---------------------- | ------------ |
+| Transport              | £854         |
+| Accommodation          | £3,852       |
+| Daily spend            | £3,951       |
+| **Grand total**        | **≈ £8,660** |
 | With \~10% contingency | **≈ £9,520** |
 
-*Rough figures: unbooked hotel prices are today's quotes for dates ten months out and may move, and daily spend for the 11 August days is a blended estimate. **Athletics tickets are not included.** Switzerland is the main upward pressure on both hotels and food.*
+_Rough figures: unbooked hotel prices are today's quotes for dates ten months out and may move, and daily spend for the 11 August days is a blended estimate. **Athletics tickets are not included.** Switzerland is the main upward pressure on both hotels and food._
 
 ---
 
@@ -226,7 +224,7 @@ Markdown · Leeds-Istanbul-Rail-Loop-2027.md
 - **Serbia:** visa-free, up to 90 days.
 - **Türkiye:** visa-free for short stays (as of early 2026) — **reconfirm before travel.**
 - **ETIAS:** the EU's online travel authorisation is expected to become mandatory for UK passport holders around April 2027, so it will very likely apply to this trip. Apply in advance via the official EU site (travel-europe.europa.eu/etias) only — beware fake sites. One approval covers all the Schengen countries on the route.
-- *Visa rules change — reconfirm close to departure.*
+- _Visa rules change — reconfirm close to departure._
 
 ---
 
