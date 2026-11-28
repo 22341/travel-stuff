@@ -38,5 +38,6 @@ Personal travel site (React 19 + Vite + React Router 8, TypeScript 6), deployed 
 ## Working with the owner
 
 - Commits go straight to `main` with short messages. Only commit when asked.
+- Versioning (`package.json` `version`, display-only): major = big rework/redesign, minor = new feature/page or a dependency upgrade batch, patch = small fixes/tidy. No bump for content-only changes (trips, itineraries, maps). When a change warrants a bump, suggest it; bump via `npm version x.y.z --no-git-tag-version`, then tag the commit `vx.y.z`.
 - For visual or design changes, show a mockup (HTML artifact using the site's real styles) and get a choice before writing code.
 - Ask clarifying questions before coding when a request leaves options open; offer a recommended default for each.
