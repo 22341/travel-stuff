@@ -17,6 +17,16 @@ describe("trips data", () => {
     });
   });
 
+  it("each trip has a valid start date, tags, description and accent colour", () => {
+    trips.forEach((trip) => {
+      expect(trip.startDate).toMatch(/^\d{4}-\d{2}-\d{2}$/);
+      expect(Number.isNaN(new Date(trip.startDate).getTime())).toBe(false);
+      expect(trip.tags.length).toBeGreaterThan(0);
+      expect(trip.description.trim()).not.toBe("");
+      expect(trip.accentColor).toMatch(/^#[0-9a-f]{6}$/i);
+    });
+  });
+
   it("slugs are unique", () => {
     const slugs = trips.map((t) => t.slug);
     const unique = new Set(slugs);

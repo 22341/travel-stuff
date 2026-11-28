@@ -6,11 +6,11 @@ export interface Trip {
   slug: string;
   title: string;
   year: number;
-  startDate?: string; // ISO format: "YYYY-MM-DD"
+  startDate: string; // ISO format: "YYYY-MM-DD"
   tentative?: boolean; // Dates not confirmed - shows start month instead of countdown
-  tags?: string[];
-  description?: string;
-  accentColor?: string;
+  tags: string[];
+  description: string;
+  accentColor: string;
 }
 
 export const trips: Trip[] = [

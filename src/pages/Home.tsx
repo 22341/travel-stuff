@@ -3,8 +3,7 @@ import { trips, Trip } from "../data/trips";
 import { useMemo } from "react";
 import { Globe2, MapIcon } from "lucide-react";
 
-function daysUntil(isoDate?: string): number | null {
-  if (!isoDate) return null;
+function daysUntil(isoDate: string): number | null {
   const today = new Date();
   today.setHours(0, 0, 0, 0);
   const target = new Date(isoDate);
@@ -82,7 +81,7 @@ function Home() {
                       style={{ backgroundColor: trip.accentColor }}
                     />
                     <div className="trip-row__body">
-                      {trip.tags && trip.tags.length > 0 && (
+                      {trip.tags.length > 0 && (
                         <div className="trip-row__chips">
                           {trip.tags.map((tag) => (
                             <span className="chip" key={tag}>
@@ -92,14 +91,12 @@ function Home() {
                         </div>
                       )}
                       <p className="trip-row__title">{trip.title}</p>
-                      {trip.description && (
-                        <p className="trip-row__description">
-                          {trip.description}
-                        </p>
-                      )}
+                      <p className="trip-row__description">
+                        {trip.description}
+                      </p>
                     </div>
                     <div className="trip-row__right">
-                      {days && trip.tentative && trip.startDate ? (
+                      {days && trip.tentative ? (
                         <>
                           <span
                             className="trip-row__countdown trip-row__countdown--tentative"

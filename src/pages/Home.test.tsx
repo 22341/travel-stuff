@@ -78,9 +78,7 @@ describe("Home", () => {
       </MemoryRouter>,
     );
     mockTrips.forEach((trip) => {
-      if (trip.description) {
-        expect(screen.getByText(trip.description)).toBeInTheDocument();
-      }
+      expect(screen.getByText(trip.description)).toBeInTheDocument();
     });
   });
 
@@ -144,20 +142,6 @@ describe("Home", () => {
       // Only the future trip countdown would show, past trip has none
       const pastTripLink = screen.getByRole("link", { name: /past trip/i });
       expect(pastTripLink.querySelector(".trip-row__countdown")).toBeNull();
-    });
-
-    it("does not show countdown for a trip with no start date", () => {
-      vi.useFakeTimers();
-      vi.setSystemTime(new Date("2099-05-22"));
-
-      render(
-        <MemoryRouter>
-          <Home />
-        </MemoryRouter>,
-      );
-
-      const noDateLink = screen.getByRole("link", { name: /no date trip/i });
-      expect(noDateLink.querySelector(".trip-row__countdown")).toBeNull();
     });
 
     it("never renders null or NaN as countdown text", () => {
