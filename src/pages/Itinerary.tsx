@@ -113,6 +113,7 @@ function Itinerary() {
         {state.status === "loaded" && (
           <div
             className="itinerary-content"
+            // eslint-disable-next-line @eslint-react/dom-no-dangerously-set-innerhtml -- html is DOMPurify-sanitised above
             dangerouslySetInnerHTML={{ __html: state.html }}
             onClick={handleContentClick}
           />

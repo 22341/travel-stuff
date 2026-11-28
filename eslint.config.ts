@@ -1,7 +1,6 @@
 import globals from "globals";
 import tseslint from "typescript-eslint";
 import eslintReact from "@eslint-react/eslint-plugin";
-import reactHooks from "eslint-plugin-react-hooks";
 
 export default tseslint.config([
   {
@@ -13,12 +12,14 @@ export default tseslint.config([
   },
   tseslint.configs.recommended,
   eslintReact.configs["recommended-typescript"],
-  reactHooks.configs.flat.recommended,
-  eslintReact.configs["disable-conflict-eslint-plugin-react-hooks"],
   {
     rules: {
-      // Not in "recommended"; kept for the map links that open in a new tab.
+      // Not in "recommended"; enabled to match what eslint-plugin-react(-hooks) covered.
       "@eslint-react/dom-no-unsafe-target-blank": "error",
+      "@eslint-react/refs": "error",
+      "@eslint-react/immutability": "error",
+      "@eslint-react/globals": "error",
+      "@eslint-react/unsupported-syntax": "warn",
     },
   },
 ]);
